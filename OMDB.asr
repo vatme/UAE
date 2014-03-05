@@ -1,0 +1,1039 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\OMAE\VATUAE_2.1.sct
+SECTORTITLE:VATUAE_2.1.sct
+Airports:OMAA:name
+Airports:OMAD:name
+Airports:OMAL:name
+Airports:OMDB:name
+Airports:OMDW:name
+Airports:OMFJ:name
+Airports:OMRK:name
+Airports:OMSJ:name
+ARTCC boundary:OBBB_CTR:
+ARTCC boundary:OIIX_CTR:
+ARTCC boundary:OMAE_CTR:
+ARTCC boundary:OOMM_CTR:
+ARTCC high boundary:OMDB TAXIWAYS:
+ARTCC low boundary:L:
+Fixes:AA411:name
+Fixes:AA411:symbol
+Fixes:AA412:name
+Fixes:AA412:symbol
+Fixes:AA431:name
+Fixes:AA431:symbol
+Fixes:AA432:name
+Fixes:AA432:symbol
+Fixes:AA441:name
+Fixes:AA441:symbol
+Fixes:AA442:name
+Fixes:AA442:symbol
+Fixes:AA443:name
+Fixes:AA443:symbol
+Fixes:AA444:name
+Fixes:AA444:symbol
+Fixes:AA446:name
+Fixes:AA446:symbol
+Fixes:AA447:name
+Fixes:AA447:symbol
+Fixes:AA451:name
+Fixes:AA451:symbol
+Fixes:AA452:name
+Fixes:AA452:symbol
+Fixes:AA501:name
+Fixes:AA501:symbol
+Fixes:AA504:name
+Fixes:AA504:symbol
+Fixes:AE401:name
+Fixes:AE401:symbol
+Fixes:AE402:name
+Fixes:AE402:symbol
+Fixes:ALNUM:name
+Fixes:ALNUM:symbol
+Fixes:ALPEK:name
+Fixes:ALPEK:symbol
+Fixes:ALTUT:name
+Fixes:ALTUT:symbol
+Fixes:ANVIX:name
+Fixes:ANVIX:symbol
+Fixes:ASKOP:name
+Fixes:ASKOP:symbol
+Fixes:ASLEV:name
+Fixes:ASLEV:symbol
+Fixes:ASLOL:name
+Fixes:ASLOL:symbol
+Fixes:ASPAM:name
+Fixes:ASPAM:symbol
+Fixes:ASTOG:name
+Fixes:ASTOG:symbol
+Fixes:ASVAD:name
+Fixes:ASVAD:symbol
+Fixes:ASVOR:name
+Fixes:ASVOR:symbol
+Fixes:ATBEX:name
+Fixes:ATBEX:symbol
+Fixes:ATBOR:name
+Fixes:ATBOR:symbol
+Fixes:ATUDO:name
+Fixes:ATUDO:symbol
+Fixes:AVAMI:name
+Fixes:AVAMI:symbol
+Fixes:BALUS:name
+Fixes:BALUS:symbol
+Fixes:BOMOS:name
+Fixes:BOMOS:symbol
+Fixes:BOPIT:name
+Fixes:BOPIT:symbol
+Fixes:BORAP:name
+Fixes:BORAP:symbol
+Fixes:BOSOV:name
+Fixes:BOSOV:symbol
+Fixes:BOVET:name
+Fixes:BOVET:symbol
+Fixes:BOXAK:name
+Fixes:BOXAK:symbol
+Fixes:BUBIN:name
+Fixes:BUBIN:symbol
+Fixes:BUBOK:name
+Fixes:BUBOK:symbol
+Fixes:BUNDU:name
+Fixes:BUNDU:symbol
+Fixes:BUNUN:name
+Fixes:BUNUN:symbol
+Fixes:DANOK:name
+Fixes:DANOK:symbol
+Fixes:DAPIN:name
+Fixes:DAPIN:symbol
+Fixes:DARAX:name
+Fixes:DARAX:symbol
+Fixes:DASLA:name
+Fixes:DASLA:symbol
+Fixes:DATIK:name
+Fixes:DATIK:symbol
+Fixes:DAXAR:name
+Fixes:DAXAR:symbol
+Fixes:DEBES:name
+Fixes:DEBES:symbol
+Fixes:DEDEV:name
+Fixes:DEDEV:symbol
+Fixes:DEKPU:name
+Fixes:DEKPU:symbol
+Fixes:DEMRA:name
+Fixes:DEMRA:symbol
+Fixes:DENBO:name
+Fixes:DENBO:symbol
+Fixes:DESDI:name
+Fixes:DESDI:symbol
+Fixes:DUMPI:name
+Fixes:DUMPI:symbol
+Fixes:DUVGA:name
+Fixes:DUVGA:symbol
+Fixes:DW401:name
+Fixes:DW401:symbol
+Fixes:DW402:name
+Fixes:DW402:symbol
+Fixes:DW501:name
+Fixes:DW501:symbol
+Fixes:DW502:name
+Fixes:DW502:symbol
+Fixes:DW601:name
+Fixes:DW601:symbol
+Fixes:DW701:name
+Fixes:DW701:symbol
+Fixes:DW702:name
+Fixes:DW702:symbol
+Fixes:DW703:name
+Fixes:DW703:symbol
+Fixes:EGTIS:name
+Fixes:EGTIS:symbol
+Fixes:EGVOS:name
+Fixes:EGVOS:symbol
+Fixes:ELESO:name
+Fixes:ELESO:symbol
+Fixes:ELIMA:name
+Fixes:ELIMA:symbol
+Fixes:ELUDA:name
+Fixes:ELUDA:symbol
+Fixes:EMATI:name
+Fixes:EMATI:symbol
+Fixes:EMERU:name
+Fixes:EMERU:symbol
+Fixes:EMOPI:name
+Fixes:EMOPI:symbol
+Fixes:EMORA:name
+Fixes:EMORA:symbol
+Fixes:ENASA:name
+Fixes:ENASA:symbol
+Fixes:ESROM:name
+Fixes:ESROM:symbol
+Fixes:ESVAD:name
+Fixes:ESVAD:symbol
+Fixes:GADVO:name
+Fixes:GADVO:symbol
+Fixes:GESIB:name
+Fixes:GESIB:symbol
+Fixes:GEVEG:name
+Fixes:GEVEG:symbol
+Fixes:GIDIS:name
+Fixes:GIDIS:symbol
+Fixes:GINRU:name
+Fixes:GINRU:symbol
+Fixes:GISMO:name
+Fixes:GISMO:symbol
+Fixes:GITEX:name
+Fixes:GITEX:symbol
+Fixes:GODKA:name
+Fixes:GODKA:symbol
+Fixes:GOGMI:name
+Fixes:GOGMI:symbol
+Fixes:GOLGU:name
+Fixes:GOLGU:symbol
+Fixes:GOMTA:name
+Fixes:GOMTA:symbol
+Fixes:GOMVA:name
+Fixes:GOMVA:symbol
+Fixes:GONLO:name
+Fixes:GONLO:symbol
+Fixes:IMTEN:name
+Fixes:IMTEN:symbol
+Fixes:IMVIM:name
+Fixes:IMVIM:symbol
+Fixes:ITITA:name
+Fixes:ITITA:symbol
+Fixes:ITNER:name
+Fixes:ITNER:symbol
+Fixes:ITPUT:name
+Fixes:ITPUT:symbol
+Fixes:ITRAX:name
+Fixes:ITRAX:symbol
+Fixes:IVALA:name
+Fixes:IVALA:symbol
+Fixes:IVIXO:name
+Fixes:IVIXO:symbol
+Fixes:IVOGO:name
+Fixes:IVOGO:symbol
+Fixes:IVUGA:name
+Fixes:IVUGA:symbol
+Fixes:KANIP:name
+Fixes:KANIP:symbol
+Fixes:KINOS:name
+Fixes:KINOS:symbol
+Fixes:KISAG:name
+Fixes:KISAG:symbol
+Fixes:KITAP:name
+Fixes:KITAP:symbol
+Fixes:KODIL:name
+Fixes:KODIL:symbol
+Fixes:KULGI:name
+Fixes:KULGI:symbol
+Fixes:KUMUN:name
+Fixes:KUMUN:symbol
+Fixes:KUNGU:name
+Fixes:KUNGU:symbol
+Fixes:KUPMA:name
+Fixes:KUPMA:symbol
+Fixes:KUPOX:name
+Fixes:KUPOX:symbol
+Fixes:KURVO:name
+Fixes:KURVO:symbol
+Fixes:KUSEN:name
+Fixes:KUSEN:symbol
+Fixes:KUVIP:name
+Fixes:KUVIP:symbol
+Fixes:KUVON:name
+Fixes:KUVON:symbol
+Fixes:LABRI:name
+Fixes:LABRI:symbol
+Fixes:LABTA:name
+Fixes:LABTA:symbol
+Fixes:LADGA:name
+Fixes:LADGA:symbol
+Fixes:LADVI:name
+Fixes:LADVI:symbol
+Fixes:LAKTU:name
+Fixes:LAKTU:symbol
+Fixes:LALDO:name
+Fixes:LALDO:symbol
+Fixes:LOPAX:name
+Fixes:LOPAX:symbol
+Fixes:LOPEG:name
+Fixes:LOPEG:symbol
+Fixes:LOPOM:name
+Fixes:LOPOM:symbol
+Fixes:LOROT:name
+Fixes:LOROT:symbol
+Fixes:LOVIM:name
+Fixes:LOVIM:symbol
+Fixes:LOVOL:name
+Fixes:LOVOL:symbol
+Fixes:LOXAT:name
+Fixes:LOXAT:symbol
+Fixes:LUDER:name
+Fixes:LUDER:symbol
+Fixes:LUDID:name
+Fixes:LUDID:symbol
+Fixes:MAXMO:name
+Fixes:MAXMO:symbol
+Fixes:MEKMA:name
+Fixes:MEKMA:symbol
+Fixes:MEMBI:name
+Fixes:MEMBI:symbol
+Fixes:MENSA:name
+Fixes:MENSA:symbol
+Fixes:MEVBO:name
+Fixes:MEVBO:symbol
+Fixes:MIADA:name
+Fixes:MIADA:symbol
+Fixes:MIPIL:name
+Fixes:MIPIL:symbol
+Fixes:MIRUN:name
+Fixes:MIRUN:symbol
+Fixes:MISOD:name
+Fixes:MISOD:symbol
+Fixes:MOBET:name
+Fixes:MOBET:symbol
+Fixes:MODUS:name
+Fixes:MODUS:symbol
+Fixes:MOGAV:name
+Fixes:MOGAV:symbol
+Fixes:MURAK:name
+Fixes:MURAK:symbol
+Fixes:MUSAP:name
+Fixes:MUSAP:symbol
+Fixes:MUSEN:name
+Fixes:MUSEN:symbol
+Fixes:MUTVI:name
+Fixes:MUTVI:symbol
+Fixes:MUVGI:name
+Fixes:MUVGI:symbol
+Fixes:MUXIT:name
+Fixes:MUXIT:symbol
+Fixes:NABOP:name
+Fixes:NABOP:symbol
+Fixes:NADAM:name
+Fixes:NADAM:symbol
+Fixes:NADNI:name
+Fixes:NADNI:symbol
+Fixes:NADUT:name
+Fixes:NADUT:symbol
+Fixes:NAKSO:name
+Fixes:NAKSO:symbol
+Fixes:NALTA:name
+Fixes:NALTA:symbol
+Fixes:NAMLA:name
+Fixes:NAMLA:symbol
+Fixes:NAMSI:name
+Fixes:NAMSI:symbol
+Fixes:NIBAX:name
+Fixes:NIBAX:symbol
+Fixes:NIGEL:name
+Fixes:NIGEL:symbol
+Fixes:NITVU:name
+Fixes:NITVU:symbol
+Fixes:NIVKA:name
+Fixes:NIVKA:symbol
+Fixes:NIVRO:name
+Fixes:NIVRO:symbol
+Fixes:NOBTO:name
+Fixes:NOBTO:symbol
+Fixes:NODVI:name
+Fixes:NODVI:symbol
+Fixes:NOLVA:name
+Fixes:NOLVA:symbol
+Fixes:NOMRU:name
+Fixes:NOMRU:symbol
+Fixes:NOSMO:name
+Fixes:NOSMO:symbol
+Fixes:NOTRU:name
+Fixes:NOTRU:symbol
+Fixes:NOVNA:name
+Fixes:NOVNA:symbol
+Fixes:OBRAN:name
+Fixes:OBRAN:symbol
+Fixes:OBROS:name
+Fixes:OBROS:symbol
+Fixes:ODBEV:name
+Fixes:ODBEV:symbol
+Fixes:ORGIK:name
+Fixes:ORGIK:symbol
+Fixes:ORKON:name
+Fixes:ORKON:symbol
+Fixes:ORLIK:name
+Fixes:ORLIK:symbol
+Fixes:ORLIP:name
+Fixes:ORLIP:symbol
+Fixes:ORMOB:name
+Fixes:ORMOB:symbol
+Fixes:ORPAT:name
+Fixes:ORPAT:symbol
+Fixes:ORSAR:name
+Fixes:ORSAR:symbol
+Fixes:OSTIN:name
+Fixes:OSTIN:symbol
+Fixes:OTOLO:name
+Fixes:OTOLO:symbol
+Fixes:OVUPO:name
+Fixes:OVUPO:symbol
+Fixes:OXAPO:name
+Fixes:OXAPO:symbol
+Fixes:PAPAR:name
+Fixes:PAPAR:symbol
+Fixes:PASEK:name
+Fixes:PASEK:symbol
+Fixes:PASOV:name
+Fixes:PASOV:symbol
+Fixes:PAXES:name
+Fixes:PAXES:symbol
+Fixes:PAXUG:name
+Fixes:PAXUG:symbol
+Fixes:PEBAT:name
+Fixes:PEBAT:symbol
+Fixes:PINGO:name
+Fixes:PINGO:symbol
+Fixes:PURBU:name
+Fixes:PURBU:symbol
+Fixes:PUSUN:name
+Fixes:PUSUN:symbol
+Fixes:PUTGA:name
+Fixes:PUTGA:symbol
+Fixes:PUVAL:name
+Fixes:PUVAL:symbol
+Fixes:RADSO:name
+Fixes:RADSO:symbol
+Fixes:RAGOL:name
+Fixes:RAGOL:symbol
+Fixes:RAGSO:name
+Fixes:RAGSO:symbol
+Fixes:RALDA:name
+Fixes:RALDA:symbol
+Fixes:RAMRO:name
+Fixes:RAMRO:symbol
+Fixes:RANBI:name
+Fixes:RANBI:symbol
+Fixes:RAPSA:name
+Fixes:RAPSA:symbol
+Fixes:RARMA:name
+Fixes:RARMA:symbol
+Fixes:REDOV:name
+Fixes:REDOV:symbol
+Fixes:RESID:name
+Fixes:RESID:symbol
+Fixes:RETAS:name
+Fixes:RETAS:symbol
+Fixes:REVUL:name
+Fixes:REVUL:symbol
+Fixes:REXOP:name
+Fixes:REXOP:symbol
+Fixes:RIKET:name
+Fixes:RIKET:symbol
+Fixes:ROVOS:name
+Fixes:ROVOS:symbol
+Fixes:RUGUN:name
+Fixes:RUGUN:symbol
+Fixes:RUKIX:name
+Fixes:RUKIX:symbol
+Fixes:SEDPO:name
+Fixes:SEDPO:symbol
+Fixes:SENBA:name
+Fixes:SENBA:symbol
+Fixes:SENSU:name
+Fixes:SENSU:symbol
+Fixes:SENTO:name
+Fixes:SENTO:symbol
+Fixes:SEPRA:name
+Fixes:SEPRA:symbol
+Fixes:SIBMA:name
+Fixes:SIBMA:symbol
+Fixes:SIGBO:name
+Fixes:SIGBO:symbol
+Fixes:SIKNU:name
+Fixes:SIKNU:symbol
+Fixes:SIMKO:name
+Fixes:SIMKO:symbol
+Fixes:SINBI:name
+Fixes:SINBI:symbol
+Fixes:SINGU:name
+Fixes:SINGU:symbol
+Fixes:SIVAX:name
+Fixes:SIVAX:symbol
+Fixes:SIXAN:name
+Fixes:SIXAN:symbol
+Fixes:SIXAV:name
+Fixes:SIXAV:symbol
+Fixes:SJ001:name
+Fixes:SJ001:symbol
+Fixes:SOBER:name
+Fixes:SOBER:symbol
+Fixes:SOBOB:name
+Fixes:SOBOB:symbol
+Fixes:SODAD:name
+Fixes:SODAD:symbol
+Fixes:SODAM:name
+Fixes:SODAM:symbol
+Fixes:SODEX:name
+Fixes:SODEX:symbol
+Fixes:SOLAG:name
+Fixes:SOLAG:symbol
+Fixes:SOLUD:name
+Fixes:SOLUD:symbol
+Fixes:SURVO:name
+Fixes:SURVO:symbol
+Fixes:SUTVA:name
+Fixes:SUTVA:symbol
+Fixes:SUVBA:name
+Fixes:SUVBA:symbol
+Fixes:TAMPU:name
+Fixes:TAMPU:symbol
+Fixes:TANGA:name
+Fixes:TANGA:symbol
+Fixes:TANSU:name
+Fixes:TANSU:symbol
+Fixes:TAPRA:name
+Fixes:TAPRA:symbol
+Fixes:TARDI:name
+Fixes:TARDI:symbol
+Fixes:TIMAX:name
+Fixes:TIMAX:symbol
+Fixes:TONVO:name
+Fixes:TONVO:symbol
+Fixes:TOPSI:name
+Fixes:TOPSI:symbol
+Fixes:TORSO:name
+Fixes:TORSO:symbol
+Fixes:TOSBO:name
+Fixes:TOSBO:symbol
+Fixes:TOSNA:name
+Fixes:TOSNA:symbol
+Fixes:TOXIG:name
+Fixes:TOXIG:symbol
+Fixes:TOXOD:name
+Fixes:TOXOD:symbol
+Fixes:TUBAT:name
+Fixes:TUBAT:symbol
+Fixes:TUBSI:name
+Fixes:TUBSI:symbol
+Fixes:TUDAX:name
+Fixes:TUDAX:symbol
+Fixes:TUDOP:name
+Fixes:TUDOP:symbol
+Fixes:TUKLA:name
+Fixes:TUKLA:symbol
+Fixes:UKIXA:name
+Fixes:UKIXA:symbol
+Fixes:UKNOM:name
+Fixes:UKNOM:symbol
+Fixes:UKRIM:name
+Fixes:UKRIM:symbol
+Fixes:UKSUL:name
+Fixes:UKSUL:symbol
+Fixes:ULERA:name
+Fixes:ULERA:symbol
+Fixes:ULUPO:name
+Fixes:ULUPO:symbol
+Fixes:UMALI:name
+Fixes:UMALI:symbol
+Fixes:UMATI:name
+Fixes:UMATI:symbol
+Fixes:UMINA:name
+Fixes:UMINA:symbol
+Fixes:VAVIL:name
+Fixes:VAVIL:symbol
+Fixes:VAXAS:name
+Fixes:VAXAS:symbol
+Fixes:VEBAT:name
+Fixes:VEBAT:symbol
+Fixes:VEDAG:name
+Fixes:VEDAG:symbol
+Fixes:VEDEX:name
+Fixes:VEDEX:symbol
+Fixes:VEMEN:name
+Fixes:VEMEN:symbol
+Fixes:VUXOR:name
+Fixes:VUXOR:symbol
+Fixes:XABNA:name
+Fixes:XABNA:symbol
+Fixes:XALMI:name
+Fixes:XALMI:symbol
+Free Text:DUBAI GROUND TEXT\A:freetext
+Free Text:DUBAI GROUND TEXT\AIRSHOW APRON:freetext
+Free Text:DUBAI GROUND TEXT\CARGO TERMINAL :freetext
+Free Text:DUBAI GROUND TEXT\J:freetext
+Free Text:DUBAI GROUND TEXT\J:freetext
+Free Text:DUBAI GROUND TEXT\J:freetext
+Free Text:DUBAI GROUND TEXT\J:freetext
+Free Text:DUBAI GROUND TEXT\J:freetext
+Free Text:DUBAI GROUND TEXT\J:freetext
+Free Text:DUBAI GROUND TEXT\J:freetext
+Free Text:DUBAI GROUND TEXT\J2:freetext
+Free Text:DUBAI GROUND TEXT\K:freetext
+Free Text:DUBAI GROUND TEXT\K:freetext
+Free Text:DUBAI GROUND TEXT\K:freetext
+Free Text:DUBAI GROUND TEXT\K:freetext
+Free Text:DUBAI GROUND TEXT\K:freetext
+Free Text:DUBAI GROUND TEXT\K:freetext
+Free Text:DUBAI GROUND TEXT\K2:freetext
+Free Text:DUBAI GROUND TEXT\K3:freetext
+Free Text:DUBAI GROUND TEXT\K4:freetext
+Free Text:DUBAI GROUND TEXT\K5:freetext
+Free Text:DUBAI GROUND TEXT\K6:freetext
+Free Text:DUBAI GROUND TEXT\K7:freetext
+Free Text:DUBAI GROUND TEXT\K8:freetext
+Free Text:DUBAI GROUND TEXT\L:freetext
+Free Text:DUBAI GROUND TEXT\L:freetext
+Free Text:DUBAI GROUND TEXT\M:freetext
+Free Text:DUBAI GROUND TEXT\M:freetext
+Free Text:DUBAI GROUND TEXT\M:freetext
+Free Text:DUBAI GROUND TEXT\M:freetext
+Free Text:DUBAI GROUND TEXT\M1:freetext
+Free Text:DUBAI GROUND TEXT\M10:freetext
+Free Text:DUBAI GROUND TEXT\M11:freetext
+Free Text:DUBAI GROUND TEXT\M2:freetext
+Free Text:DUBAI GROUND TEXT\M3:freetext
+Free Text:DUBAI GROUND TEXT\M3:freetext
+Free Text:DUBAI GROUND TEXT\M4:freetext
+Free Text:DUBAI GROUND TEXT\M5:freetext
+Free Text:DUBAI GROUND TEXT\M5:freetext
+Free Text:DUBAI GROUND TEXT\M6:freetext
+Free Text:DUBAI GROUND TEXT\M7:freetext
+Free Text:DUBAI GROUND TEXT\M8:freetext
+Free Text:DUBAI GROUND TEXT\M8:freetext
+Free Text:DUBAI GROUND TEXT\M9:freetext
+Free Text:DUBAI GROUND TEXT\N:freetext
+Free Text:DUBAI GROUND TEXT\N:freetext
+Free Text:DUBAI GROUND TEXT\N:freetext
+Free Text:DUBAI GROUND TEXT\N:freetext
+Free Text:DUBAI GROUND TEXT\N1:freetext
+Free Text:DUBAI GROUND TEXT\N2:freetext
+Free Text:DUBAI GROUND TEXT\N3:freetext
+Free Text:DUBAI GROUND TEXT\N4:freetext
+Free Text:DUBAI GROUND TEXT\N5:freetext
+Free Text:DUBAI GROUND TEXT\N6:freetext
+Free Text:DUBAI GROUND TEXT\N7:freetext
+Free Text:DUBAI GROUND TEXT\P1:freetext
+Free Text:DUBAI GROUND TEXT\P2:freetext
+Free Text:DUBAI GROUND TEXT\P3:freetext
+Free Text:DUBAI GROUND TEXT\P4:freetext
+Free Text:DUBAI GROUND TEXT\P5:freetext
+Free Text:DUBAI GROUND TEXT\P6:freetext
+Free Text:DUBAI GROUND TEXT\W:freetext
+Free Text:DUBAI GROUND TEXT\X:freetext
+Free Text:DUBAI GROUND TEXT\X:freetext
+Free Text:DUBAI GROUND TEXT\X:freetext
+Free Text:DUBAI GROUND TEXT\X:freetext
+Free Text:DUBAI GROUND TEXT\Y:freetext
+Free Text:DUBAI GROUND TEXT\Z:freetext
+Free Text:DUBAI GROUND TEXT\Z:freetext
+Free Text:DUBAI GROUND TEXT\Z:freetext
+Free Text:DUBAI MVA\1500:freetext
+Free Text:DUBAI MVA\1500:freetext
+Free Text:DUBAI MVA\1500:freetext
+Free Text:DUBAI MVA\2500:freetext
+Free Text:DUBAI MVA\4500:freetext
+Free Text:DUBAI MVA\6500:freetext
+Free Text:DUBAI VRPs\AB:freetext
+Free Text:DUBAI VRPs\AI:freetext
+Free Text:DUBAI VRPs\AM:freetext
+Free Text:DUBAI VRPs\CI:freetext
+Free Text:DUBAI VRPs\DD:freetext
+Free Text:DUBAI VRPs\EI:freetext
+Free Text:DUBAI VRPs\GB:freetext
+Free Text:DUBAI VRPs\HE:freetext
+Free Text:DUBAI VRPs\HV:freetext
+Free Text:DUBAI VRPs\PS:freetext
+Free Text:DUBAI VRPs\SC:freetext
+Free Text:DUBAI VRPs\SU:freetext
+Free Text:DUBAI VRPs\TC:freetext
+Free Text:Mountain\^2100^:freetext
+Free Text:Mountain\^2500^:freetext
+Free Text:Mountain\^3500^:freetext
+Free Text:Mountain\^5000^:freetext
+Free Text:PRHIMITED AREA\SFC-UNL:freetext
+Free Text:SHARJAH GROUND\10:freetext
+Free Text:SHARJAH GROUND\11:freetext
+Free Text:SHARJAH GROUND\13:freetext
+Free Text:SHARJAH GROUND\14:freetext
+Free Text:SHARJAH GROUND\15:freetext
+Free Text:SHARJAH GROUND\16:freetext
+Free Text:SHARJAH GROUND\17:freetext
+Free Text:SHARJAH GROUND\18:freetext
+Free Text:SHARJAH GROUND\1A:freetext
+Free Text:SHARJAH GROUND\1B:freetext
+Free Text:SHARJAH GROUND\1C:freetext
+Free Text:SHARJAH GROUND\2:freetext
+Free Text:SHARJAH GROUND\21:freetext
+Free Text:SHARJAH GROUND\22:freetext
+Free Text:SHARJAH GROUND\23:freetext
+Free Text:SHARJAH GROUND\24:freetext
+Free Text:SHARJAH GROUND\25:freetext
+Free Text:SHARJAH GROUND\26:freetext
+Free Text:SHARJAH GROUND\3:freetext
+Free Text:SHARJAH GROUND\4:freetext
+Free Text:SHARJAH GROUND\5:freetext
+Free Text:SHARJAH GROUND\50:freetext
+Free Text:SHARJAH GROUND\51:freetext
+Free Text:SHARJAH GROUND\52:freetext
+Free Text:SHARJAH GROUND\53:freetext
+Free Text:SHARJAH GROUND\54:freetext
+Free Text:SHARJAH GROUND\55:freetext
+Free Text:SHARJAH GROUND\56:freetext
+Free Text:SHARJAH GROUND\57:freetext
+Free Text:SHARJAH GROUND\58:freetext
+Free Text:SHARJAH GROUND\59:freetext
+Free Text:SHARJAH GROUND\6:freetext
+Free Text:SHARJAH GROUND\60:freetext
+Free Text:SHARJAH GROUND\61:freetext
+Free Text:SHARJAH GROUND\62:freetext
+Free Text:SHARJAH GROUND\7:freetext
+Free Text:SHARJAH GROUND\8:freetext
+Free Text:SHARJAH GROUND\80:freetext
+Free Text:SHARJAH GROUND\81:freetext
+Free Text:SHARJAH GROUND\82:freetext
+Free Text:SHARJAH GROUND\83:freetext
+Free Text:SHARJAH GROUND\84:freetext
+Free Text:SHARJAH GROUND\9:freetext
+Free Text:SHARJAH GROUND\A:freetext
+Free Text:SHARJAH GROUND\A:freetext
+Free Text:SHARJAH GROUND\A:freetext
+Free Text:SHARJAH GROUND\A:freetext
+Free Text:SHARJAH GROUND\B:freetext
+Free Text:SHARJAH GROUND\C:freetext
+Free Text:SHARJAH GROUND\CARGO T1:freetext
+Free Text:SHARJAH GROUND\CARGO T2, 4 & 5:freetext
+Free Text:SHARJAH GROUND\CARGO T3:freetext
+Free Text:SHARJAH GROUND\D:freetext
+Free Text:SHARJAH GROUND\E:freetext
+Free Text:SHARJAH GROUND\F:freetext
+Free Text:SHARJAH GROUND\G:freetext
+Free Text:SHARJAH GROUND\H:freetext
+Free Text:SHARJAH GROUND\HANGER:freetext
+Free Text:SHARJAH GROUND\J:freetext
+Free Text:SHARJAH GROUND\K:freetext
+Free Text:SHARJAH GROUND\L:freetext
+Free Text:SHARJAH GROUND\M:freetext
+Free Text:SHARJAH GROUND\MAINTENANCE APRON:freetext
+Free Text:SHARJAH GROUND\MAINTENANCE AREA:freetext
+Free Text:SHARJAH GROUND\PASSENGER APRON:freetext
+Free Text:SHARJAH GROUND\PASSENGER TERMINAL:freetext
+Free Text:SHARJAH GROUND\PRIVATE APRON:freetext
+Free Text:SHARJAH GROUND\SERVICE AREA:freetext
+Geo:Coastline North UAE:
+Geo:Coastsline South UAE:
+Geo:GEO:
+Geo:OMDB:
+Geo:OMSJ:
+Low airways:1:line
+Low airways:1:name
+Low airways:10:line
+Low airways:10:name
+Low airways:11:line
+Low airways:11:name
+Low airways:12:line
+Low airways:12:name
+Low airways:13:line
+Low airways:13:name
+Low airways:14:line
+Low airways:14:name
+Low airways:15:line
+Low airways:15:name
+Low airways:16:line
+Low airways:16:name
+Low airways:17:line
+Low airways:17:name
+Low airways:2:line
+Low airways:2:name
+Low airways:3:line
+Low airways:3:name
+Low airways:4:line
+Low airways:4:name
+Low airways:5:line
+Low airways:5:name
+Low airways:6:line
+Low airways:6:name
+Low airways:7:line
+Low airways:7:name
+Low airways:8:line
+Low airways:8:name
+Low airways:9:line
+Low airways:9:name
+Low airways:B1:line
+Low airways:B1:name
+Low airways:B10:line
+Low airways:B10:name
+Low airways:B11:line
+Low airways:B11:name
+Low airways:B12:line
+Low airways:B12:name
+Low airways:B13:line
+Low airways:B13:name
+Low airways:B14:line
+Low airways:B14:name
+Low airways:B15:line
+Low airways:B15:name
+Low airways:B16:line
+Low airways:B16:name
+Low airways:B17:line
+Low airways:B17:name
+Low airways:B18:line
+Low airways:B18:name
+Low airways:B19:line
+Low airways:B19:name
+Low airways:B2:line
+Low airways:B2:name
+Low airways:B20:line
+Low airways:B20:name
+Low airways:B21:line
+Low airways:B21:name
+Low airways:B22:line
+Low airways:B22:name
+Low airways:B23:line
+Low airways:B23:name
+Low airways:B24:line
+Low airways:B24:name
+Low airways:B25:line
+Low airways:B25:name
+Low airways:B26:line
+Low airways:B26:name
+Low airways:B27:line
+Low airways:B27:name
+Low airways:B28:line
+Low airways:B28:name
+Low airways:B29:line
+Low airways:B29:name
+Low airways:B3:line
+Low airways:B3:name
+Low airways:B30:line
+Low airways:B30:name
+Low airways:B31:line
+Low airways:B31:name
+Low airways:B32:line
+Low airways:B32:name
+Low airways:B33:line
+Low airways:B33:name
+Low airways:B34:line
+Low airways:B34:name
+Low airways:B4:line
+Low airways:B4:name
+Low airways:B5:line
+Low airways:B5:name
+Low airways:B6:line
+Low airways:B6:name
+Low airways:B7:line
+Low airways:B7:name
+Low airways:B8:line
+Low airways:B8:name
+Low airways:B9:line
+Low airways:B9:name
+Low airways:F1:line
+Low airways:F1:name
+Low airways:F10:line
+Low airways:F10:name
+Low airways:F11:line
+Low airways:F11:name
+Low airways:F12:line
+Low airways:F12:name
+Low airways:F13:line
+Low airways:F13:name
+Low airways:F14:line
+Low airways:F14:name
+Low airways:F15:line
+Low airways:F15:name
+Low airways:F16:line
+Low airways:F16:name
+Low airways:F17:line
+Low airways:F17:name
+Low airways:F18:line
+Low airways:F18:name
+Low airways:F19:line
+Low airways:F19:name
+Low airways:F2:line
+Low airways:F2:name
+Low airways:F20:line
+Low airways:F20:name
+Low airways:F21:line
+Low airways:F21:name
+Low airways:F22:line
+Low airways:F22:name
+Low airways:F23:line
+Low airways:F23:name
+Low airways:F24:line
+Low airways:F24:name
+Low airways:F25:line
+Low airways:F25:name
+Low airways:F26:line
+Low airways:F26:name
+Low airways:F27:line
+Low airways:F27:name
+Low airways:F28:line
+Low airways:F28:name
+Low airways:F29:line
+Low airways:F29:name
+Low airways:F3:line
+Low airways:F3:name
+Low airways:F30:line
+Low airways:F30:name
+Low airways:F31:line
+Low airways:F31:name
+Low airways:F32:line
+Low airways:F32:name
+Low airways:F33:line
+Low airways:F33:name
+Low airways:F34:line
+Low airways:F34:name
+Low airways:F35:line
+Low airways:F35:name
+Low airways:F4:line
+Low airways:F4:name
+Low airways:F5:line
+Low airways:F5:name
+Low airways:F6:line
+Low airways:F6:name
+Low airways:F7:line
+Low airways:F7:name
+Low airways:F8:line
+Low airways:F8:name
+Low airways:F9:line
+Low airways:F9:name
+Regions:Dubai_Ground_Radar:polygon
+Runways:OMDB Dubai International 12L-30R:centerline
+Runways:OMDB Dubai International 12L-30R:extended centerline 1
+Runways:OMDB Dubai International 12L-30R:extended centerline 1 left base
+Runways:OMDB Dubai International 12L-30R:extended centerline 1 left ticks
+Runways:OMDB Dubai International 12L-30R:extended centerline 1 left vectoring
+Runways:OMDB Dubai International 12L-30R:extended centerline 1 right base
+Runways:OMDB Dubai International 12L-30R:extended centerline 1 right ticks
+Runways:OMDB Dubai International 12L-30R:extended centerline 1 right vectoring
+Runways:OMDB Dubai International 12L-30R:extended centerline 2
+Runways:OMDB Dubai International 12L-30R:extended centerline 2 left base
+Runways:OMDB Dubai International 12L-30R:extended centerline 2 left ticks
+Runways:OMDB Dubai International 12L-30R:extended centerline 2 left vectoring
+Runways:OMDB Dubai International 12L-30R:extended centerline 2 right base
+Runways:OMDB Dubai International 12L-30R:extended centerline 2 right ticks
+Runways:OMDB Dubai International 12L-30R:extended centerline 2 right vectoring
+Runways:OMDB Dubai International 12L-30R:name
+Runways:OMDB Dubai International 12R-30L:centerline
+Runways:OMDB Dubai International 12R-30L:extended centerline 1
+Runways:OMDB Dubai International 12R-30L:extended centerline 1 left base
+Runways:OMDB Dubai International 12R-30L:extended centerline 1 left ticks
+Runways:OMDB Dubai International 12R-30L:extended centerline 1 left vectoring
+Runways:OMDB Dubai International 12R-30L:extended centerline 1 right base
+Runways:OMDB Dubai International 12R-30L:extended centerline 1 right ticks
+Runways:OMDB Dubai International 12R-30L:extended centerline 1 right vectoring
+Runways:OMDB Dubai International 12R-30L:extended centerline 2
+Runways:OMDB Dubai International 12R-30L:extended centerline 2 left base
+Runways:OMDB Dubai International 12R-30L:extended centerline 2 left ticks
+Runways:OMDB Dubai International 12R-30L:extended centerline 2 left vectoring
+Runways:OMDB Dubai International 12R-30L:extended centerline 2 right base
+Runways:OMDB Dubai International 12R-30L:extended centerline 2 right ticks
+Runways:OMDB Dubai International 12R-30L:extended centerline 2 right vectoring
+Runways:OMDB Dubai International 12R-30L:name
+Runways:OMDW Al Maktum 12-30:centerline
+Runways:OMDW Al Maktum 12-30:extended centerline 1
+Runways:OMDW Al Maktum 12-30:extended centerline 1 left base
+Runways:OMDW Al Maktum 12-30:extended centerline 1 left ticks
+Runways:OMDW Al Maktum 12-30:extended centerline 1 left vectoring
+Runways:OMDW Al Maktum 12-30:extended centerline 1 right base
+Runways:OMDW Al Maktum 12-30:extended centerline 1 right ticks
+Runways:OMDW Al Maktum 12-30:extended centerline 1 right vectoring
+Runways:OMDW Al Maktum 12-30:extended centerline 2
+Runways:OMDW Al Maktum 12-30:extended centerline 2 left base
+Runways:OMDW Al Maktum 12-30:extended centerline 2 left ticks
+Runways:OMDW Al Maktum 12-30:extended centerline 2 left vectoring
+Runways:OMDW Al Maktum 12-30:extended centerline 2 right base
+Runways:OMDW Al Maktum 12-30:extended centerline 2 right ticks
+Runways:OMDW Al Maktum 12-30:extended centerline 2 right vectoring
+Runways:OMDW Al Maktum 12-30:name
+Runways:OMFJ Fujairah 11-29:centerline
+Runways:OMFJ Fujairah 11-29:extended centerline 1
+Runways:OMFJ Fujairah 11-29:extended centerline 1 left base
+Runways:OMFJ Fujairah 11-29:extended centerline 1 left ticks
+Runways:OMFJ Fujairah 11-29:extended centerline 1 left vectoring
+Runways:OMFJ Fujairah 11-29:extended centerline 1 right base
+Runways:OMFJ Fujairah 11-29:extended centerline 1 right ticks
+Runways:OMFJ Fujairah 11-29:extended centerline 1 right vectoring
+Runways:OMFJ Fujairah 11-29:extended centerline 2
+Runways:OMFJ Fujairah 11-29:extended centerline 2 left base
+Runways:OMFJ Fujairah 11-29:extended centerline 2 left ticks
+Runways:OMFJ Fujairah 11-29:extended centerline 2 left vectoring
+Runways:OMFJ Fujairah 11-29:extended centerline 2 right base
+Runways:OMFJ Fujairah 11-29:extended centerline 2 right ticks
+Runways:OMFJ Fujairah 11-29:extended centerline 2 right vectoring
+Runways:OMFJ Fujairah 11-29:name
+Runways:OMRK Ras Al Khaimah 16-34:centerline
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 1
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 1 left base
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 1 left ticks
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 1 left vectoring
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 1 right base
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 1 right ticks
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 1 right vectoring
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 2
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 2 left base
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 2 left ticks
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 2 left vectoring
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 2 right base
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 2 right ticks
+Runways:OMRK Ras Al Khaimah 16-34:extended centerline 2 right vectoring
+Runways:OMRK Ras Al Khaimah 16-34:name
+Runways:OMSJ Sharjah International 12-30:centerline
+Runways:OMSJ Sharjah International 12-30:extended centerline 1
+Runways:OMSJ Sharjah International 12-30:extended centerline 1 left base
+Runways:OMSJ Sharjah International 12-30:extended centerline 1 left ticks
+Runways:OMSJ Sharjah International 12-30:extended centerline 1 left vectoring
+Runways:OMSJ Sharjah International 12-30:extended centerline 1 right base
+Runways:OMSJ Sharjah International 12-30:extended centerline 1 right ticks
+Runways:OMSJ Sharjah International 12-30:extended centerline 1 right vectoring
+Runways:OMSJ Sharjah International 12-30:extended centerline 2
+Runways:OMSJ Sharjah International 12-30:extended centerline 2 left base
+Runways:OMSJ Sharjah International 12-30:extended centerline 2 left ticks
+Runways:OMSJ Sharjah International 12-30:extended centerline 2 left vectoring
+Runways:OMSJ Sharjah International 12-30:extended centerline 2 right base
+Runways:OMSJ Sharjah International 12-30:extended centerline 2 right ticks
+Runways:OMSJ Sharjah International 12-30:extended centerline 2 right vectoring
+Runways:OMSJ Sharjah International 12-30:name
+VORs:ADV:frequency
+VORs:ADV:name
+VORs:ADV:symbol
+VORs:ALB:frequency
+VORs:ALB:name
+VORs:ALB:symbol
+VORs:ALN:frequency
+VORs:ALN:name
+VORs:ALN:symbol
+VORs:DOH:frequency
+VORs:DOH:name
+VORs:DOH:symbol
+VORs:DXB:frequency
+VORs:DXB:name
+VORs:DXB:symbol
+VORs:FJV:frequency
+VORs:FJV:name
+VORs:FJV:symbol
+VORs:JXB:frequency
+VORs:JXB:name
+VORs:JXB:symbol
+VORs:MA:frequency
+VORs:MA:name
+VORs:MA:symbol
+VORs:RAV:frequency
+VORs:RAV:name
+VORs:RAV:symbol
+VORs:SHJ:frequency
+VORs:SHJ:name
+VORs:SHJ:symbol
+VORs:SIR:frequency
+VORs:SIR:name
+VORs:SIR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:24.444850:53.858933:26.012412:57.307933
