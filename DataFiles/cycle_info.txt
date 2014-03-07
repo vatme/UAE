@@ -1,0 +1,12 @@
+AIRAC cycle    : 1402
+Version        : 2
+Valid (from/to): 06/FEB/2014 - 05/MAR/2014
+
+Forum          : http://forum.navigraph.com
+
+Data provided by Navigraph - www.navigraph.com
+This data is copyrighted and may not be used, recompiled, interpreted or distributed for any purpose without the written consent of Navigraph. The contents of this database is dated and must not be used for real world navigation as it is unlawful and unsafe to do so.
+
+
+Parser-Version : DFD v1.0 14.0129 (c) Richard Stefan
+Files parsed on: 29/01/2014

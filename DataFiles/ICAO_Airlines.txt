@@ -1,0 +1,5726 @@
+﻿AAA	Australia	ANSETT
+AAB	Belgium	ABG
+AAC	United Kingdom	ARMYAIR
+AAD	United Kingdom	AMBASSADOR
+AAE	United States of America	ARIZONA
+AAF	France	AIGLE AZUR
+AAG	United Kingdom	ATLANTIC
+AAH	United States of America	ALOHA
+AAI	United States of America	BOREALIS
+AAK	United States of America	ALASKA ISLAND
+AAL	United States of America	AMERICAN
+AAM	United States of America	AM CORP
+AAO	United States of America	ATLANTIS AIR
+AAQ	Finland	COPTERLINE
+AAR	Republic of Korea	ASIANA
+AAS	Pakistan	AL-AAS
+AAT	Kyrgyzstan	UNKNOWN
+AAU	Australia	AUSTASIA
+AAV	Virtual Airline	AAV
+AAW	Libyan Arab Jamahiriya	AFRIQIYAH
+AAX	Côte d'Ivoire	AFREX
+AAY	United States of America	ALLEGIANT
+AAZ	Canada	ANGUS
+ABA	Ukraine	ARTEM-AVIA
+ABB	Democratic Republic of the Congo	AFRICAN BUSINESS
+ABD	Iceland	ATLANTA
+ABE	Iran, Islamic Republic of	ABAN
+ABF	Finland	SKYWINGS
+ABG	Russian Federation	ABAKAN-AVIA
+ABH	Japan	UNKNOWN
+ABI	Spain	AIRALBACETE
+ABJ	Brazil	UNKNOWN
+ABK	Canada	ALBERTA CITYLINK
+ABL	Republic of Korea	AIR BUSAN
+ABM	Spain	ALBATROS ESPANA
+ABN	Senegal	UNKNOWN
+ABO	Colombia	AEROEXPRESO
+ABP	Czech Republic	BAIR
+ABQ	Pakistan	PAKBLUE
+ABR	Ireland	CONTRACT
+ABS	Ukraine	ALBATROS AVIA
+ABU	United States of America	UNKNOWN
+ABV	Ghana	ANTRAK
+ABW	Russian Federation	AIRBRIDGE CARGO
+ABX	United States of America	ABEX
+ABY	United Arab Emirates	ARABIA
+ACA	Canada	AIR CANADA
+ACB	Gabon	AIRCONTI
+ACC	United Kingdom	UNKNOWN
+ACD	Canada	AIR CANADIAN
+ACE	Ghana	UNKNOWN
+ACF	Spain	FORCAN
+ACG	United Kingdom	AIR PARTNER
+ACI	France	AIRCALIN
+ACJ	France	FLY BUSINESS
+ACK	United States of America	ACK AIR
+ACL	Italy	ITALI
+ACN	Nicaragua	AEROCENTRO
+ACO	Mexico	AERO COMONDU
+ACP	Kenya	ASTRAL CARGO
+ACQ	Peru	AERO CONTINENTE
+ACR	Spain	AEROCENTER
+ACS	Pakistan	AIRCRAFT SALES
+ACT	United States of America	AMERICAN CHECK
+ACU	Kenya	AFRISPIRIT
+ACV	United Kingdom	UNKNOWN
+ACW	United Kingdom	AIR CADET
+ACY	Morocco	ATLAS CARGOLINES
+ADA	Australia	AUSCAL
+ADB	Ukraine	ANTONOV BUREAU
+ADC	Dominican Republic	ATLAN-DOMINICAN
+ADD	Japan	UNKNOWN
+ADE	Albania	ADA AIR
+ADG	Spain	AEREA TRAINING
+ADH	Italy	HERON
+ADI	Spain	AUDELI
+ADJ	Côte d'Ivoire	ABICAR
+ADK	Nigeria	ADCO
+ADL	United Kingdom	COTSWOLD
+ADM	Dominican Republic	DOMINAIR
+ADN	Germany	AERODIENST
+ADO	Japan	AIR DO
+ADP	Mexico	AERODIPLOMATIC
+ADR	Slovenia	ADRIA
+ADS	Mexico	SONORAV
+ADV	Virtual Airline	ADV
+ADW	Thailand	AIR ANDAMAN
+ADX	United States of America	ANDAX
+ADY	United States of America	AERODYNE
+ADZ	Bulgaria	MIGRATOR
+AEA	Spain	EUROPA
+AEB	Benin	AEROBEN
+AEC	Colombia	AEROCESAR
+AED	Russian Federation	UNKNOWN
+AEE	Greece	AEGEAN
+AEF	Spain	UNKNOWN
+AEG	Chile	FUMIGACIONES SAM
+AEI	Poland	POLISH BIRD
+AEJ	United Republic of Tanzania	KHAKI EXPRESS
+AEK	Bolivia	AEROCON
+AEL	Italy	AIR EUROPE
+AEM	Spain	AEROMADRID
+AEN	Greece	AEROLAND
+AEO	Mexico	AERO OCCIDENTE
+AEP	Spain	AEROTEC
+AEQ	Sweden	LUNA
+AER	United States of America	ACE AIR
+AES	Paraguay	AEROPARAGUAY
+AET	Thailand	AEROTHAI
+AEU	United Kingdom	FLYSTAR
+AEV	Mexico	AEROVENTAS
+AEW	Ukraine	AEROSVIT
+AEX	United States of America	AVCO
+AEY	Italy	AIR ITALY
+AEZ	United States of America	AERIAL TRANZ
+AFA	Virtual Airline	AFA
+AFB	Argentina	AMERICAN FALCON
+AFC	Senegal	AFRICAN WEST
+AFD	United States of America	AIRFED
+AFE	Indonesia	AIRFAST
+AFF	Benin	AFRIWAYS
+AFG	Afghanistan	ARIANA
+AFI	Uganda	AFRICAWORLD
+AFJ	Uganda	JAMBO
+AFL	Russian Federation	AEROFLOT
+AFM	Italy	UNKNOWN
+AFO	Mexico	AERO EMPRESA
+AFP	Portugal	PORTUGUESE AIR FORCE
+AFQ	Italy	ALBA
+AFR	France	AIRFRANS
+AFS	United Kingdom	UNKNOWN
+AFU	Slovenia	AVIOFUN
+AFV	Côte d'Ivoire	AFRIQUE VACANCE
+AFW	Côte d'Ivoire	AFRAIR
+AFX	United Kingdom	UNKNOWN
+AFY	Nigeria	AFRICA CHARTERED
+AFZ	Zambia	AFREIGHT
+AGA	Georgia	AGAIR
+AGB	Gabon	UNKNOWN
+AGC	Egypt	AGRICO
+AGE	Mexico	AEROANGEL
+AGF	United States of America	ATLANTIC GULF
+AGH	France	ALTAGNA
+AGI	Mexico	ANGELES AMERICA
+AGL	Bangladesh	GALAXY CARGO
+AGM	United States of America	AIR GUAM
+AGN	Gabon	GOLF NOVEMBER
+AGO	Angola	ANGOLA CHARTER
+AGP	Ireland	AIR TARA
+AGQ	Chile	GALASERVICE
+AGR	United States of America	AGRICULTURE
+AGT	Spain	AMADEUS
+AGU	Russian Federation	SARMA
+AGV	Switzerland	AIR GLACIERS
+AGX	Serbia and Montenegro	GENEX
+AGY	Virtual Airline	AIR GERMANY
+AGZ	Slovak Republic	AGROLET
+AHA	Denmark	AIR ALPHA
+AHC	Republic of Azerbaijan	AZALAVIACARGO
+AHD	Czech Republic	AIRHANDLING
+AHE	Switzerland	AIRPORT HELICOPTER
+AHF	United States of America	ASPEN
+AHG	Dominican Republic	AEROCHAGO
+AHH	Ireland	AIRHOLD
+AHI	Mexico	AEROCHISA
+AHK	Hong Kong Special Administrative Region of China	AIR HONG KONG
+AHL	Mexico	HIDALGO
+AHM	Mexico	UNKNOWN
+AHO	Germany	AIR HAMBURG
+AHP	Mexico	AEROCHIAPAS
+AHR	Croatia	ADRIATIC
+AHS	Virtual Airline	AIRHISPANIA
+AHT	Portugal	HELIAPRA
+AHU	Hungary	ABC HUNGARY
+AHW	Ukraine	AEROMIST
+AHX	Japan	AMAKUSA AIR
+AHY	Republic of Azerbaijan	AZAL
+AIA	Estonia	AVIES
+AIB	France	AIRBUS INDUSTRIE
+AIC	India	AIRINDIA
+AID	Austria	CENTURY AIRBIRD
+AIE	Canada	AIR INUIT
+AIF	Spain	UNKNOWN
+AIG	Gabon	UNKNOWN
+AIH	Chile	ALPINE CHILE
+AIJ	Mexico	ABC AEROLINEAS
+AIK	Kenya	AFRICAN AIRLINES
+AIL	United States of America	AIR ILLINOIS
+AIM	Spain	PIJO
+AIN	South Africa	FLY CARGO
+AIO	United States of America	AIR CHIEF
+AIP	United States of America	ALPINE AIR
+AIQ	Thailand	THAI ASIA
+AIR	United States of America	AIRLIFT
+AIS	Spain	SURESTE
+AIT	Estonia	UNKNOWN
+AIU	Spain	ALIA
+AIX	Australia	CRUISER
+AIY	Australia	AIRCREW
+AIZ	Israel	ARKIA
+AJA	United Kingdom	AYJAY SERVICES
+AJB	Mexico	AERO JBR
+AJC	United States of America	BAR HARBOR
+AJE	Mexico	JET EXPRESS
+AJF	Austria	AVIACONSULT
+AJI	United States of America	AMERISTAR
+AJJ	United States of America	ATLANTIC JET
+AJK	Nigeria	BAMBI
+AJM	Jamaica	JAMAICA
+AJO	Mexico	AEROEXO
+AJP	Mexico	AEROJETS
+AJS	Colombia	AEROEJECUTIVOS
+AJT	United States of America	AMERIJET
+AJU	Portugal	AIRJETSUL
+AJV	Japan	AYJAY CARGO
+AJW	United States of America	ALPHAJET
+AJX	Japan	AIR JAPAN
+AJY	Cyprus	AYJET
+AKA	Republic of Korea	UNKNOWN
+AKB	Kazakhstan	KARAB
+AKG	United Kingdom	GRIFTER
+AKH	Turkmenistan	AKHAL
+AKI	Sudan	UNKNOWN
+AKK	Canada	AKLAK
+AKL	Russian Federation	UNKNOWN
+AKM	Kazakhstan	MAKAIR
+AKN	Canada	ALKAN AIR
+AKQ	Kenya	MOONLIGHT
+AKR	Mexico	AERO CLINKER
+AKS	Kazakhstan	AKSUNKAR
+AKT	Russian Federation	AVIAKARAT
+AKW	Cambodia	ANGKORWAYS
+AKX	Japan	ALFA WING
+AKY	Russian Federation	YAK-SERVICE
+AKZ	Kazakhstan	ABSOLUTE
+ALB	Mexico	ALBATROS
+ALC	United States of America	ACOM
+ALD	United Kingdom	ALBION
+ALE	Ghana	AIRLIFT GHANA
+ALF	Belgium	ACEFORCE
+ALG	United States of America	AIRLOG
+ALI	Spain	LUCAS
+ALJ	Austria	ALPIN HELI
+ALK	Sri Lanka	SRILANKAN
+ALL	Mexico	VALLARTA
+ALM	Netherlands	ANTILLEAN
+ALN	United States of America	CHICAGO LINCOLN
+ALO	United States of America	ALLEGHENY
+ALP	Virtual Airline	ALPIA
+ALQ	Canada	ALTAIR
+ALR	Virtual Airline	AIR LORR
+ALS	France	AERALP
+ALT	Virtual Airline	ALT
+ALU	Sao Tome and Principe	LUXORJET
+ALV	Bolivarian Republic of Venezuela	ALVEN
+ALW	Dominican Republic	ALNACIONAL
+ALX	Democratic Republic of the Congo	ALLCONGO
+ALY	United States of America	ALYESKA
+ALZ	Virtual Airline	ALANDALUS
+AMA	Kazakhstan	ADIK
+AMB	Germany	CIVIL AIR AMBULANCE
+AMC	Malta	AIR MALTA
+AME	Spain	AIRMIL
+AMF	United States of America	AMFLIGHT
+AMG	Brazil	AIR MINAS
+AMH	United Kingdom	MANN
+AMI	Maldives	AIR MALDIVES
+AMJ	Canada	AVIATION AMOS
+AMK	Austria	AMER AIR
+AML	Malawi	MALAWI
+AMM	Republic of Moldova	AEROM
+AMN	Serbia and Montenegro	MONTENEGRO
+AMO	Canada	AIR MONTREAL
+AMP	Peru	ATSA
+AMQ	United Kingdom	LIFELINE
+AMR	United States of America	AIR AM
+AMS	Canada	AIR MUSKOKA
+AMT	United States of America	AMTRAN
+AMU	Macao Special Administrative Region of China	AIR MACAO
+AMV	Egypt	UNKNOWN
+AMW	United States of America	AIR MIDWEST
+AMX	Mexico	AEROMEXICO
+AMY	Dominican Republic	AIR AMBAR
+AMZ	Nigeria	AMIYI AIR
+ANA	Japan	ALL NIPPON
+ANB	United Kingdom	AIR NAV
+ANC	United Kingdom	ANGLO
+AND	United States of America	AIR INDIANA
+ANE	Spain	NOSTRU AIR
+ANG	Papua New Guinea	NIUGINI
+ANH	Libyan Arab Jamahiriya	ALAJNIHAH
+ANI	Nigeria	NIGALANTIC
+ANK	Japan	ANK AIR
+ANL	Angola	AIR NACOIA
+ANO	Australia	TOPEND
+ANQ	Colombia	ANTIOQUIA
+ANS	Argentina	AEROANDES
+ANT	Canada	AIR NORTH
+ANV	United States of America	AIR NEVADA
+ANW	Mexico	AVINOR
+ANX	Mexico	SECRETARIA DEMARINA
+ANZ	New Zealand	NEW ZEALAND
+AOA	Mexico	ALCON
+AOB	Bolivarian Republic of Venezuela	CARIBE CORO
+AOD	Czech Republic	AERO CZECH
+AOE	Italy	UNKNOWN
+AOF	South Africa	ATAIR
+AOG	Argentina	AVIP
+AOH	United States of America	AIR OHIO
+AOJ	Austria	ASTERIX
+AOL	Cambodia	ANGKOR AIR
+AON	France	AERO ENTREPRISE
+AOO	Ukraine	COMPANY AS
+AOP	Portugal	AEROPILOTO
+AOR	Nigeria	INTER-AFRO
+AOS	Mexico	AEROSOL
+AOT	Philippines	ASIA OVERNIGHT
+AOU	Croatia	AIR TRACTOR
+AOV	France	AEROVISION
+AOW	Chad	UNKNOWN
+APA	Virtual Airline	PACIFICA
+APC	United States of America	AIRPAC
+APD	Australia	UNKNOWN
+APE	United States of America	AIR PARCEL
+APF	Sweden	AMAPOLA
+APG	Thailand	AIR PEOPLE
+APH	United States of America	AIRFLIGHT
+API	Angola	ASA PESADA
+APJ	Luxembourg	AIR PRINT
+APK	Kazakhstan	AEROPRAKT
+APL	United States of America	APPALACHIAN
+APM	United States of America	ALASKA PACIFIC
+APN	Thailand	THAI AIR PHOENIX
+APO	Canada	AEROPRO
+APP	Panama	AEROPERLAS
+APQ	United States of America	ASPEN BASE
+APS	Mexico	AEROPARADISE
+APT	Philippines	PILOT TRAINING
+APU	El Salvador	AEROPUMA
+APV	Democratic Republic of the Congo	AIR PLAN
+APW	United States of America	BIG A
+APX	United States of America	PARCEL EXPRESS
+APY	Dominican Republic	APA INTERNACIONAL
+AQA	Colombia	ATCO
+AQN	Australia	BUSHAIR
+AQO	United States of America	ALCOA SHUTTLE
+AQR	Italy	AQUA
+AQT	Mexico	AVIOQUINTANA
+AQU	South Africa	QUARIUS
+AQZ	United States of America	QUANZA
+ARA	Nigeria	ARIK AIR
+ARB	Aruba (Netherlands)	AVIAIR
+ARC	United States of America	UNKNOWN
+ARD	Portugal	AEROCONDOR
+ARE	Colombia	AIRES
+ARG	Argentina	ARGENTINA
+ARH	United States of America	ARROWHEAD
+ARI	Mexico	AEROVICS
+ARJ	Costa Rica	UNKNOWN
+ARK	Spain	LINK SERVICE
+ARL	Virtual Airline	ARABIAN
+ARM	Spain	AMEX
+ARO	Canada	ARROW
+ARP	Virtual Airline	AIRPRO
+ARR	Armenia	AIR ARMENIA
+ARS	Chile	METSERVICE
+ART	Kyrgyzstan	ARTIK AVIA
+ARU	Aruba (Netherlands)	ARUBA
+ARV	United Kingdom	ARAVCO
+ARX	United States of America	AIREX
+ARY	United States of America	GOSEY
+ARZ	United States of America	AIR RESORTS
+ASA	United States of America	ALASKA
+ASB	Canada	AIR SPRAY
+ASC	Bolivia	ALSUR
+ASD	Virtual Airline	SARDA
+ASE	Virtual Airline	SEAGULL
+ASF	Canada	SCHEFF
+ASG	South Africa	AFRICAN STAR
+ASH	United States of America	AIR SHUTTLE
+ASI	United States of America	AEROSUN
+ASJ	Canada	SATELLITE
+ASK	Bolivia	SUDAMERICANA
+ASL	United States of America	AIR SEATTLE
+ASM	South Africa	AWESOME
+ASN	Russian Federation	UNKNOWN
+ASO	Virtual Airline	AIRSOURCE
+ASP	Canada	AIRSPRINT
+ASQ	United States of America	ACEY
+ASR	United States of America	ALL STAR
+ASS	Mexico	AIR CLASS
+AST	Mexico	AEROESTE
+ASU	Uruguay	ASUR
+ASV	Virtual Airline	ATLANTICSUN
+ASW	Tajikistan	ASIAWAYS
+ASX	Czech Republic	AIRSPEC
+ASY	Australia	AUSSIE
+ASZ	Switzerland	ASTRON
+ATA	United States of America	UNKNOWN
+ATC	United Republic of Tanzania	TANZANIA
+ATD	Dominican Republic	AEROTOURS
+ATE	Mexico	UNKNOWN
+ATF	Spain	AEROTECNICAS
+ATG	Kazakhstan	BACHYT
+ATH	United States of America	AIR TRAVEL
+ATI	Australia	UNKNOWN
+ATJ	Germany	SNOOPY
+ATK	Colombia	AEROTACA
+ATL	Virtual Airline	ATLANTICA
+ATM	Australia	AIRTAS
+ATN	United States of America	AIR TRANSPORT
+ATP	Mexico	ALTIPLANO
+ATQ	Netherlands	MULTI
+ATR	United States of America	ATLAS-AIR
+ATS	Democratic Republic of the Congo	UNKNOWN
+ATT	Ireland	AERTURAS
+ATU	Hungary	ATLANT HUNGARY
+ATV	Germany	AVANTI AIR
+ATX	United Kingdom	AIRTAX
+AUA	Austria	AUSTRIAN
+AUB	Germany	AUGSBURG-AIR
+AUC	Australia	AUSCARGO
+AUD	United States of America	AUDI AIR
+AUF	Germany	AUGUSTA
+AUH	United Arab Emirates	SULTAN
+AUI	Ukraine	UKRAINE INTERNATIONAL
+AUJ	Austria	AUSTROJET
+AUL	Russian Federation	ARCHANGELSK AIR
+AUM	Uruguay	ATLAMUR
+AUN	Mexico	AVIONES UNIDOS
+AUO	Uruguay	UNIFORM OSCAR
+AUP	Russian Federation	UNKNOWN
+AUR	United Kingdom	AYLINE
+AUS	Australia	UNKNOWN
+AUT	Argentina	AUSTRAL
+AUU	United States of America	AURORA AIR
+AUV	Austria	AUSTRIAN AMBULANCE
+AUX	Uganda	UNKNOWN
+AUY	Uruguay	AUSA
+AUZ	Australia	AUSTRALIAN
+AVA	Colombia	AVIANCA
+AVB	United Kingdom	BEAUPAIR
+AVD	Spain	ALAMO
+AVF	Mexico	AVES FLIGHT
+AVG	Djibouti	DJIBOUTI FALCON
+AVH	United Kingdom	KENT HELI
+AVI	France	ELYSAIR
+AVJ	Kyrgyzstan	ATOMIC
+AVK	South Africa	AVIATE-COPTER
+AVM	Mexico	AVEMEX
+AVN	Vanuatu	AIR VAN
+AVO	South Africa	AVIATION WORK
+AVP	United Kingdom	AVCORP
+AVQ	Virtual Airline	AVGO
+AVR	United States of America	ACTIVE AERO
+AVS	Spain	AVIALSA
+AVT	Indonesia	ASIAVIA
+AVV	United States of America	AIRVANTAGE
+AVW	Greece	AVIATOR
+AVY	Cuba	AEROVARADERO
+AVZ	Spain	AIR VALENCIA
+AWA	Kazakhstan	ASIAWINGS
+AWB	United States of America	AIRNAT
+AWC	United Kingdom	ZAP
+AWD	Pakistan	UNKNOWN
+AWE	United States of America	CACTUS
+AWG	Georgia	WEST GEORGIA
+AWI	United States of America	AIR WISCONSIN
+AWJ	Niger	SAHEL AIRLINES
+AWK	New Zealand	AIRWORK
+AWL	Australia	AUSSIEWORLD
+AWN	Niger	AIR NIAMEY
+AWQ	Indonesia	WAGON AIR
+AWS	Jordan	ARAB WINGS
+AWU	Germany	SYLT-AIR
+AWW	United Kingdom	RED DRAGON
+AWX	United Kingdom	ALLWEATHER
+AWY	Spain	AEROWEE
+AWZ	Sudan	UNKNOWN
+AXA	Bulgaria	UNKNOWN
+AXB	Virtual Airline	AMERICAN BLUE
+AXC	Viet Nam	AIRSPUP
+AXD	Sudan	AIR SUDEX
+AXF	Australia	FREIGHTEXPRESS
+AXH	Mexico	AEROMEXHAGA
+AXI	United States of America	AIR FREIGHTER
+AXJ	United States of America	AJAX
+AXK	Kenya	EXPRESS JET
+AXL	Netherlands	EXEL COMMUTER
+AXM	Malaysia	ASIAN EXPRESS
+AXP	Spain	AEROMAX SPAIN
+AXQ	United States of America	ACTION AIR
+AXR	Mexico	RENTAXEL
+AXS	United States of America	ALTUS
+AXT	Mexico	AXTRANSPORTER
+AXV	France	AXAVIA
+AXX	The former Yugoslav Republic of Macedonia	IMPEX
+AXY	France	AXIS
+AYA	United States of America	ACADEMY AIR
+AYB	Belgium	BELGIAN ARMY
+AYD	Mexico	AIRLINES ALADIA
+AYK	Armenia	UNKNOWN
+AYM	Spain	AIRMAN
+AYN	Nicaragua	ATLANTIC NICARAGUA
+AYP	Bulgaria	AYRSHIRE TRANSPORT
+AYR	Spain	CYGNET
+AYS	Libyan Arab Jamahiriya	UNKNOWN
+AYT	Israel	AYEET
+AYU	Japan	UNKNOWN
+AYY	Germany	UNKNOWN
+AYZ	Russian Federation	ATLANT-SOYUZ
+AZA	Italy	ALITALIA
+AZB	Kazakhstan	TUMARA
+AZE	Germany	ARCUS AIR
+AZF	Switzerland	AIR ZERMATT
+AZG	Georgia	SAKSERVICE
+AZK	Republic of Azerbaijan	AZALHELICOPTER
+AZL	Zambia	SKY AFRICA
+AZM	Mexico	AEROCOZUMEL
+AZN	Bolivia	AMAZONAS
+AZO	Virtual Airline	ABRUZZAIR
+AZP	United States of America	ARIZONA PACIFIC
+AZQ	Republic of Azerbaijan	SILK LINE
+AZR	South Africa	ZENAIR
+AZS	Russian Federation	ZITOTRANS
+AZT	Virtual Airline	AZTEC
+AZV	Ukraine	AZOV AVIA
+AZW	Zimbabwe	AIR ZIMBABWE
+AZX	Gabon	AZIMA
+AZY	United States of America	ARIZAIR
+AZZ	Sudan	AZZA TRANSPORT
+BAA	Bulgaria	BALKAN AGRO
+BAB	Kingdom of Bahrain	BAHRAIN AIR
+BAC	Virtual Airline	BACCARA
+BAE	United Kingdom	FELIX
+BAF	Belgium	BELGIAN AIRFORCE
+BAG	Germany	SPEEDWAY
+BAH	Kingdom of Bahrain	BAHRAIN
+BAJ	United States of America	BAKER AVIATION
+BAK	United States of America	BLACKHAWK
+BAL	Virtual Airline	BERLIN AIRLINES
+BAN	United Kingdom	PENGUIN
+BAP	United States of America	BIG APPLE
+BAR	Canada	BRADLEY
+BAS	Barbados	AEROSERV
+BAT	Virtual Airline	BEACHAIR
+BAU	Guinea-Bissau	AIR BISSAU
+BAV	Bangladesh	BAY AIR
+BAW	United Kingdom	SPEEDBIRD
+BAX	Russian Federation	UNKNOWN
+BAY	Cambodia	BAYON
+BBA	Austria	BANAIR
+BBB	Sweden	BLACKBIRD
+BBC	Bangladesh	BANGLADESH
+BBD	Iceland	BLUE CARGO
+BBE	Sudan	BABEL AIR
+BBO	Switzerland	BABOO
+BBR	Bolivarian Republic of Venezuela	SANTA BARBARA
+BBS	Kazakhstan	BEIBARS
+BBT	Russian Federation	AGYDAL
+BBV	Spain	BRAVO EUROPA
+BBX	Denmark	BLUEBEL
+BBZ	Kenya	COBRA
+BCA	Virtual Airline	BRITANNIC
+BCB	Barbados	WAVEBIRD
+BCF	Austria	BACH
+BCH	United States of America	BEACHBALL
+BCI	United Kingdom	BLUE ISLAND
+BCK	United States of America	BANKCHECK
+BCL	United Kingdom	UNKNOWN
+BCN	Mauritania	BLUE OCEAN
+BCR	United Kingdom	BACKER
+BCS	Belgium	EUROTRANS
+BCT	United Kingdom	BOBCAT
+BCV	Ukraine	BUSINESS AVIATION
+BCY	Ireland	CITY-IRELAND
+BDA	India	BLUE DART
+BDF	Guinea-Bissau	BISSAU DISCOVERY
+BDG	United States of America	BULLDOG
+BDI	Denmark	BIRDIE
+BDM	Côte d'Ivoire	BANDAMA
+BDN	United Kingdom	GAUNTLET
+BDR	Sudan	BADR AIR
+BDS	Bangladesh	SOUTH ASIAN
+BEA	Bangladesh	BEST AIR
+BEC	Kazakhstan	UNKNOWN
+BEE	United Kingdom	JERSEY
+BEF	Spain	BALEAR EXPRESS
+BEK	Kazakhstan	BERKUT
+BEL	Belgium	BEELINE
+BER	Germany	AIR BERLIN
+BES	France	BIRD EXPRESS
+BET	Brazil	BETA CARGO
+BEU	South Africa	BATELEUR
+BEX	Austria	BEXJET
+BEY	Spain	BESTFLY
+BEZ	United States of America	SEA BREEZE
+BFA	Burkina Faso	UNKNOWN
+BFC	United States of America	BASLER
+BFD	Germany	MEDIA JET
+BFF	Canada	AIR BAFFIN
+BFG	Sweden	BEARFLIGHT
+BFL	Canada	BUFFALO
+BFM	China	FAN MAY
+BFN	Burkina Faso	UNKNOWN
+BFO	Canada	BOMBARDIER
+BFR	Burkina Faso	BURKLINES
+BFS	Sweden	BUSINESS FLIGHT
+BFW	Kingdom of Bahrain	SUMMAN
+BGA	France	BELOUGA
+BGB	United Kingdom	BRITISH GLOBAL
+BGD	Bangladesh	AIR BANGLA
+BGF	Bulgaria	BULGARIAN
+BGG	Mexico	AERO BG
+BGH	Bulgaria	BALKAN HOLIDAYS
+BGI	Sao Tome and Principe	BRITISH GULF
+BGL	Benin	BENIN GOLF
+BGM	Russian Federation	BUGAVIA
+BGR	Bangladesh	BUDGET AIR
+BGT	Virtual Airline	BUDGER
+BHA	Federal Democratic Republic of Nepal	BUDDHA AIR
+BHC	Mexico	BAHIA
+BHD	Thailand	BANGKOK DUSIT
+BHI	Afghanistan	SHARIF
+BHL	United Kingdom	BRISTOW
+BHN	Nigeria	BRISTOW HELICOPTERS
+BHO	Pakistan	BHOJA
+BHP	Switzerland	BELAIR
+BHR	United States of America	BIGHORN AIR
+BHS	Bahamas	BAHAMAS
+BHT	Netherlands	BRIGHTAIR
+BHY	Turkey	BOSPHORUS
+BIB	France	UNKNOWN
+BID	Germany	BINAIR
+BIE	France	MEDITERRANEE
+BIG	United States of America	BIG ISLE
+BIH	United Kingdom	BRINTEL
+BIK	Netherlands	BIKKAIR
+BIL	Denmark	BILAIR
+BIN	United States of America	BISON-AIR
+BIR	United States of America	BIRD AIR
+BIS	Kazakhstan	IRBIS
+BIT	United States of America	RUN BITTY
+BIV	Georgia	AVIASERVICE
+BIZ	United Kingdom	BIZZ
+BJA	Mexico	BAJA AIR
+BJC	Latvia	BALTIC JET
+BJK	United States of America	BLACKJACK
+BJS	United States of America	SOLUTION
+BJT	United States of America	BAY JET
+BKA	United States of America	BANKAIR
+BKB	United States of America	BLACK BEAR
+BKF	Finland	BAKERFLIGHT
+BKH	United Kingdom	UNKNOWN
+BKJ	United States of America	BARKEN JET
+BKL	Russian Federation	BARCOL
+BKN	United States of America	BILLIKEN
+BKO	Trinidad And Tobago	BRIKO
+BKP	Thailand	BANGKOK AIR
+BKR	United States of America	BOX KAR
+BKV	Ukraine	BUKOVYNA
+BLA	United Kingdom	ALL CHARTER
+BLB	Sudan	BLUEBIRD SUDAN
+BLC	Belarus	BELLESAVIA
+BLD	United Kingdom	BLACKADDER
+BLE	France	BLUE BERRY
+BLF	Finland	BLUEFIN
+BLG	Belgium	BELGAVIA
+BLH	United States of America	BLUE HORIZON
+BLI	Germany	BLUELINE
+BLJ	Spain	BLUEWAY
+BLK	Canada	BLUE FLAME
+BLL	Russian Federation	BALTIC AIRLINES
+BLM	Armenia	BLUE ARMENIA
+BLN	Indonesia	BIAR
+BLR	United States of America	BLUE RIDGE
+BLS	Canada	BEARSKIN
+BLT	United States of America	BALTAIR
+BLU	Canada	BLUENOSE
+BLV	Nigeria	BELLVIEW AIRLINES
+BLW	Sweden	BLUESTAR
+BLX	Sweden	BLUESCAN
+BLY	Ireland	BLARNEY
+BLZ	Mexico	AEROLOZ
+BMA	United Kingdom	MIDLAND
+BMD	United Kingdom	BRITISH MEDICAL
+BME	United Kingdom	BRIGGS
+BMH	Indonesia	MASAYU
+BMI	United Kingdom	BABY
+BMJ	United States of America	BEMIDJI
+BML	Bangladesh	BISMILLAH
+BMM	Morocco	ATLAS BLUE
+BMN	United States of America	BOWMAN
+BMR	United Kingdom	UNKNOWN
+BMW	Germany	BMW-FLIGHT
+BMX	Mexico	BANXICO
+BNB	Mexico	AEROBANOBRAS
+BNC	United States of America	BARNACLE AIR
+BND	United Kingdom	BOND
+BNE	Libyan Arab Jamahiriya	BENINA AIR
+BNG	United Kingdom	VECTIS
+BNL	Ethiopia	NILE TRADING
+BNS	United States of America	BANCSTAR
+BNT	Sudan	BENTIU AIR
+BNV	Mauritania	BENANE
+BNW	United Kingdom	BRITISH NORTH
+BNX	Bolivarian Republic of Venezuela	AIR BARINAS
+BNZ	Mexico	AERO BONANZA
+BOA	The former Yugoslav Republic of Macedonia	KUMANOVO
+BOC	Mexico	AEROBONA
+BOD	Uganda	UGABOND
+BOE	United States of America	BOEING
+BOI	Philippines	ABAIR
+BOL	Bolivia	BOL
+BON	Bosnia and Herzegovina	BH AIRLINES
+BOO	United Kingdom	BOOKAJET
+BOR	Uruguay	BOLIDORSA
+BOS	United Kingdom	MISTRAL
+BOT	Botswana	BOTSWANA
+BOU	Indonesia	BOURAQ
+BPA	Italy	BLUE PANORAMA
+BPK	Kazakhstan	VENERA
+BPO	Germany	PIROL
+BPS	Hungary	BASE
+BPT	United Kingdom	BONUS
+BPX	Colombia	UNKNOWN
+BRA	Belarus	BELRESCUE
+BRB	Brazil	BRA-TRANSPAEREOS
+BRD	Canada	BROCK AIR
+BRE	Ukraine	AVIABREEZE
+BRF	Uganda	AIR BRAVO
+BRG	United States of America	BERING AIR
+BRH	South Africa	BRIGHTSTAR
+BRM	Canada	BOOMERANG
+BRN	United States of America	BRANSON
+BRO	Netherlands	COASTRIDER
+BRP	Russian Federation	AEROBRA
+BRQ	Libyan Arab Jamahiriya	BURAQAIR
+BRR	United States of America	MOUNTAIN AIR
+BRS	Brazil	BRAZILIAN AIR FORCE
+BRT	United Kingdom	BRITISH
+BRU	Belarus	BELARUS AVIA
+BRV	Democratic Republic of the Congo	BRAVO AIRCONGO
+BRW	Virtual Airline	BAHINES
+BRX	United States of America	BUFF EXPRESS
+BRY	Kazakhstan	BURAIR
+BRZ	Russian Federation	BERYOZA
+BSA	Guinea-Bissau	BISSAU INTERNATIONAL
+BSB	Republic of Moldova	ARBAS
+BSC	Kyrgyzstan	BIG SHOT
+BSD	Mexico	AIRLINES STAR
+BSJ	United Kingdom	BLUE SWAN
+BSK	United States of America	BISCAYNE
+BSL	Brazil	AIRBRASIL
+BSM	Lebanon	UNKNOWN
+BSP	Democratic Republic of the Congo	UNKNOWN
+BSR	Guinea-Bissau	BISSAU AIRLINES
+BSS	Guinea-Bissau	BISSAU AIRSYSTEM
+BST	Turkey	BARBIE
+BSW	Czech Republic	SKY BLUE
+BSY	United States of America	BIG SKY
+BTA	United States of America	JET LINK
+BTB	United States of America	UNKNOWN
+BTC	Russian Federation	BASHKIRIAN
+BTE	Latvia	BALTIC EAST
+BTH	Latvia	BALTIJAS HELICOPTERS
+BTI	Latvia	AIRBALTIC
+BTK	Ukraine	BALTYKA
+BTL	United States of America	BALTIA FLIGHT
+BTO	Virtual Airline	AEROBOTECO
+BTR	Kyrgyzstan	BOTIR-AVIA
+BTS	Mexico	AEROLINEAS ALBATROS
+BTT	Ukraine	BEETEE-SLAVUTA
+BTU	United Kingdom	ROLLS
+BTV	Indonesia	BATAVIA
+BUC	Bulgaria	BULGARIAN CHARTER
+BUE	Sweden	BLUELIGHT
+BUG	United States of America	SPEEDBUGGY
+BUL	Democratic Republic of the Congo	BLUE AIRLINES
+BUN	Russian Federation	BURAL
+BUZ	United Kingdom	BUZZ
+BVA	Virtual Airline	SPEEDBIRD
+BVC	Bulgaria	BULGARIAN WINGS
+BVG	Mexico	BEEVEEGEE VIAJES
+BVN	United States of America	SHOW-ME
+BVR	Germany	BAVARIAN
+BVT	Malaysia	BERJAYA
+BVV	Russian Federation	SPARK
+BWA	Trinidad And Tobago	CARIBBEAN AIRLINES
+BWG	Germany	BLUE WINGS
+BWI	Suriname	BLUE TAIL
+BWL	United Kingdom	BRITWORLD
+BWY	United Kingdom	BROADWAY
+BXA	Kingdom of Bahrain	BEXAIR
+BXH	Canada	PALLISER
+BXR	United States of America	BOXER
+BYA	United States of America	BERRY
+BYC	China	BEIYA
+BYK	Kazakhstan	SUMKO
+BYL	Russian Federation	BYLINA
+BYR	Lebanon	UNKNOWN
+BYT	United Kingdom	BYTE
+BYU	Indonesia	BAYU
+BZA	Germany	BERLIN BEAR
+BZD	Canada	BLIZZARD
+BZF	United States of America	BIZFLEET
+BZH	France	BRITAIR
+BZS	Mexico	BINIZA
+BZZ	United Kingdom	BUZZARD
+CAA	United States of America	CANDLER
+CAB	United States of America	CHESAPEAKE AIR
+CAC	United States of America	CONQUEST AIR
+CAE	Central African Republic	EXPRESS CENTRAF
+CAG	China	CHINA NATIONAL
+CAH	South Africa	CHARLAN
+CAI	Turkey	CORENDON
+CAJ	France	CAR LINE
+CAK	Bahamas	UNKNOWN
+CAL	Virtual Airline	DYNASTY
+CAM	United States of America	AIR CAMAI
+CAN	United Kingdom	CREST
+CAO	China	AIRCHINA FREIGHT
+CAP	Virtual Airline	CADP
+CAQ	United Kingdom	AIR CHESTER
+CAR	Central African Republic	QUEBEC ROMEO
+CAS	United States of America	CHRISTMAN
+CAT	Virtual Airline	CATALONIAN
+CAU	Spain	CANARIAS LINK
+CAV	Canada	CALM AIR
+CAW	South Africa	COMMERCIAL
+CAX	Democratic Republic of the Congo	CENTRAL EXPRESS
+CAY	United Kingdom	CAYMAN
+CAZ	Switzerland	EUROCAT
+CBA	Czech Republic	CALIBRA
+CBB	Belgium	CARGO-BEE
+CBC	Dominican Republic	CARIBAIR
+CBD	United States of America	CATBIRD
+CBE	Mexico	AEROCARIBE
+CBF	China	CHINA NORTHERN
+CBI	Ukraine	CABI
+CBL	United States of America	CUMBERLAND
+CBM	United States of America	BLUE MAX
+CBN	Sweden	CALIBRATION
+CBO	Mexico	TAXI CABO
+CBR	United Kingdom	CABAIR
+CBS	Ukraine	AIR COLUMBUS
+CBT	United States of America	CATALINA AIR
+CBV	Mexico	CABOAEREO
+CBY	United Kingdom	TYPHOON
+CCA	China	AIR CHINA
+CCE	Egypt	UNKNOWN
+CCF	Germany	TOMCAT
+CCG	Czech Republic	UNKNOWN
+CCH	Mexico	CHILCHOTA
+CCI	United States of America	CAPPY
+CCK	United States of America	CABLE CHECK
+CCM	France	CORSICA
+CCP	United States of America	CHAMPION AIR
+CCQ	United States of America	CAP CITY
+CCU	Ecuador	AIRECU
+CCV	Mexico	HELICORPORATIVO
+CCW	Sudan	COPTRADE AIR
+CCX	United States of America	UNKNOWN
+CCY	United States of America	CHERRY
+CDA	Chile	CARDAL
+CDE	United Kingdom	COMEX
+CDF	Mexico	SERVICIO AEREO
+CDG	China	SHANDONG
+CDI	Philippines	CARDS
+CDL	United States of America	CAROLINA
+CDM	Dominican Republic	CARGA AEREA
+CDN	Canada	CANADIAN
+CDP	Virtual Airline	CDP
+CDS	South Africa	SPECDAS
+CDT	Spain	AEROREUS
+CDU	Russian Federation	UNKNOWN
+CDV	Russian Federation	SKOL
+CDY	United Kingdom	CADDY
+CEA	Virtual Airline	CENTRAL EUROPEAN
+CEB	Philippines	CEBU AIR
+CEC	United Kingdom	CELTAIR
+CED	Ecuador	CEDTA
+CEE	Mexico	CENTRA AEREOS
+CEF	Czech Republic	CZECH AIR FORCE
+CEG	United Kingdom	CEGA
+CEH	Japan	UNKNOWN
+CEL	Equatorial Guinea	CEIBA LINE
+CEM	Mongolia	CENTRAL MONGOLIA
+CEN	Canada	CENTRAL AIRWAYS
+CEP	United States of America	CHIPOLA
+CER	Democratic Republic of the Congo	CETRACA
+CES	China	CHINA EASTERN
+CET	Central African Republic	CENTRAFRICAIN
+CEV	France	CENTEV
+CEW	Central African Republic	TRYDONAIR
+CEX	United States of America	CAPITOL EXPRESS
+CEY	Dominican Republic	UNKNOWN
+CFA	China	FEILONG
+CFC	Canada	CANFORCE
+CFD	United Kingdom	AERONAUT
+CFE	United Kingdom	FLYER
+CFF	Spain	AEROFAN
+CFG	Germany	CONDOR
+CFH	Australia	CARE FLIGHT
+CFI	China	CHINA JET
+CFJ	China	FUJIAN
+CFK	Central African Republic	UNKNOWN
+CFL	Sweden	SWEDISH
+CFM	Portugal	ACEF
+CFN	United Kingdom	CHURCH FENTON
+CFR	Democratic Republic of the Congo	UNKNOWN
+CFS	United States of America	EMPIRE AIR
+CFT	United States of America	CASPER FREIGHT
+CFU	United Kingdom	MINAIR
+CFV	Mexico	CALAFIA
+CFZ	China	ZHONGFEI
+CGA	United States of America	CONGRESSIONAL
+CGC	Sao Tome and Principe	CAL-GULF
+CGD	United States of America	UNKNOWN
+CGE	New Zealand	COLLEGE
+CGG	United States of America	CHARGE
+CGH	China	GUIZHOU
+CGI	Russian Federation	CGI-RUSAIR
+CGK	Kyrgyzstan	CLICK AIR
+CGL	Slovak Republic	SEAGLE
+CGM	Oman	HOTEL CHARLIE
+CGN	China	CHANGAN
+CGO	United States of America	WILD ONION
+CGP	Belgium	CAPGROUP
+CGR	Italy	COMPRIP
+CGS	Virtual Airline	STARSHIP
+CGU	Mauritania	CHINGUETTI
+CGV	Portugal	CLUBE ALGARVE
+CGW	China	CHANGCHENG
+CGX	United States of America	COASTGUARD AUXAIR
+CGY	Paraguay	UNKNOWN
+CHA	United States of America	CHARTER CENTRAL
+CHB	China	WEST CHINA
+CHC	China	CHINA HELICOPTER
+CHD	Russian Federation	CHKALOVSK-AVIA
+CHE	Virtual Airline	CHEESE AIR
+CHG	Ukraine	SKY CHALLENGER
+CHH	China	HAINAN
+CHI	Canada	COUGAR
+CHJ	Ukraine	AIR CHAIKA
+CHK	United States of America	CHALKS
+CHL	United States of America	COHLMIA
+CHM	Pakistan	UNKNOWN
+CHN	United States of America	CHANNEL
+CHO	Nigeria	CHROME AIR
+CHP	Mexico	AVIACSA
+CHQ	United States of America	CHAUTAUQUA
+CHR	Virtual Airline	CHRISTOPH
+CHS	Australia	CHALLENGE AVIATION
+CHU	United States of America	CHURCHAIR
+CHV	United States of America	CHARTAIR
+CHW	Austria	CHARTER WIEN
+CHX	Germany	CHRISTOPH
+CHY	China	CHINA CARGO
+CHZ	Russian Federation	CHERL
+CIA	Slovak Republic	CALIMERA
+CIB	Germany	CONDOR BERLIN
+CIC	Canada	AIR TRADER
+CID	Kazakhstan	ACID
+CIE	Czech Republic	CZECHIA
+CIG	Russian Federation	SIRIUS AERO
+CII	Italy	CITYFLY
+CIL	United Kingdom	CECIL
+CIM	Denmark	CIMBER
+CIO	Italy	CIOCCO
+CIR	United States of America	AIR ARCTIC
+CIS	Bahamas	CAT ISLAND
+CIU	Peru	CIELOS
+CIV	New Zealand	CIVAIR
+CIX	Burundi	CONNEXION
+CJA	Canada	CANJET
+CJC	United States of America	COLGAN
+CJG	China	ZHEJIANG
+CJI	United States of America	SEA JET
+CJM	United Kingdom	UNKNOWN
+CJR	Nigeria	CAVERTON AIR
+CJS	United States of America	COMMONWEALTH
+CJT	Canada	CARGOJET
+CKA	United States of America	COOK-AIR
+CKC	United States of America	UNKNOWN
+CKE	United States of America	CHECKMATE
+CKK	China	CARGO KING
+CKL	United States of America	CIRCLE CITY
+CKM	Spain	RIVAFLECHA
+CKR	United States of America	CROWN AIR
+CKS	United States of America	CONNIE
+CKT	Virtual Airline	BEECAL
+CKW	Armenia	INTERCLICK
+CLA	Switzerland	COMLUX
+CLB	United Kingdom	CALIBRATOR
+CLC	South Africa	MOTHERSHIP
+CLD	United Kingdom	CLOWES
+CLE	United States of America	COLEMILL
+CLF	United Kingdom	CLIFTON
+CLG	France	CHALLAIR
+CLH	Germany	HANSALINE
+CLI	Spain	CLICKJET
+CLJ	Russian Federation	UNKNOWN
+CLK	United States of America	CLARKAIR
+CLL	Mexico	AEROCASTILLO
+CLM	Barbados	CARGO LINK
+CLN	United Kingdom	SEELINE
+CLP	Portugal	CLUB PORTUGAL
+CLR	United States of America	CLINTON AIRWAYS
+CLS	Germany	AIRISTO
+CLU	Germany	CAROLUS
+CLV	Czech Republic	AEROTRAINING
+CLW	Poland	CENTRALWINGS
+CLX	Luxembourg	CARGOLUX
+CLY	United States of America	CLAY-LACY
+CLZ	South Africa	CLOUDLINE
+CMA	Czech Republic	EUROCENTRAL
+CME	Canada	COMET
+CMF	United States of America	COMPASSION
+CMG	Nigeria	SUNSPY
+CMH	United Kingdom	COMMODORE
+CMI	United States of America	AIR MIKE
+CMJ	China	MUDANJIANG
+CML	United Republic of Tanzania	COMMUNITY
+CMM	Mali	CAMALI
+CMN	United States of America	CIMMARON AIRE
+CMO	South Africa	CAMELOT
+CMP	Panama	COPA
+CMR	United Kingdom	CAMEO
+CMS	Canada	ACCESS
+CMT	United States of America	CASEMENT
+CMU	Thailand	LANNA AIR
+CMV	Spain	CALIMA
+CMX	Mexico	EL CAMINANTE
+CMY	United States of America	CAPE SMYTHE AIR
+CMZ	Mauritania	CEE-EM STAIRS
+CNA	Serbia and Montenegro	CENTAVIA
+CNB	Hungary	CITYHUN
+CNC	Mexico	CENCOR
+CND	Dominican Republic	CONDOMINICANA
+CNE	Russian Federation	UNKNOWN
+CNG	United States of America	SID-AIR
+CNH	United States of America	CHENANGO
+CNI	Cuba	SERAER
+CNJ	China	NINGHANG
+CNK	Canada	CHINOOK
+CNL	United States of America	WYO-AIR
+CNO	Norway	SCANOR
+CNR	United States of America	CONAERO
+CNS	Virtual Airline	CONESUL
+CNT	France	KNET
+CNU	Spain	AIR CONSUL
+CNW	China	CHINA NORTHWEST
+CNX	Canada	CANEX
+COA	United States of America	CONTINENTAL
+COB	Benin	COTAIR BENIN
+COD	Ukraine	CONCORDAVIA
+COE	Austria	COMTEL-AIR
+COF	Germany	COMFORT AIR
+COL	Croatia	COLUMBA AIR
+COM	United States of America	COMAIR
+CON	United States of America	CONOCO
+COO	Canada	CORPORATE
+COP	United States of America	COPPER STATE
+COS	Spain	YOCO
+COT	United Kingdom	COTT
+COV	United Kingdom	HELICENTRE
+COW	Denmark	COWI
+COY	United Kingdom	COYNE AIR
+COZ	Federal Democratic Republic of Nepal	COSMIC AIR
+CPA	Hong Kong Special Administrative Region of China	CATHAY
+CPB	Canada	PENTA
+CPC	Virtual Airline	EMPRESS
+CPD	Kenya	CAPITAL DELTA
+CPF	United States of America	CAP-FLIGHT
+CPG	Mexico	CORPORANG
+CPI	Italy	AIRCAI
+CPJ	United States of America	CORPJET
+CPL	United States of America	CHAPARRAL
+CPM	Mauritania	UNKNOWN
+CPN	Iran, Islamic Republic of	CASPIAN
+CPO	United States of America	MOKAN
+CPR	United States of America	CORPAIR
+CPS	United Kingdom	COMPASS
+CPT	United States of America	AIR SPUR
+CPV	Italy	AIRCORPORATE
+CPW	United States of America	CHIPPEWA-AIR
+CPX	United States of America	CAPAIR
+CPZ	United States of America	COMPASS ROSE
+CQC	Australia	UNKNOWN
+CQH	China	AIR SPRING
+CQN	China	CHONG QING
+CRA	Equatorial Guinea	CRONOS
+CRC	Canada	CONAIR-CANADA
+CRD	Mozambique	AIR CORRIDOR
+CRF	Japan	AIR CENTRAL
+CRG	Italy	WHITE PELICAN
+CRH	Mexico	HELI-MEX
+CRI	Australia	UNKNOWN
+CRJ	Angola	AIR CRUZAL
+CRK	Hong Kong Special Administrative Region of China	BAUHINIA
+CRL	France	CORSAIR
+CRM	Mexico	COMMANDERMEX
+CRN	Cuba	AEROCARIBBEAN
+CRO	United States of America	CROWN AIRWAYS
+CRP	Mexico	AEROTRANSCORP
+CRQ	Canada	CREE
+CRR	Chile	CARRANZA
+CRS	Mexico	COMERCIAL AEREA
+CRT	Haiti	CARIBINTAIR
+CRV	Côte d'Ivoire	CARGIV
+CRW	Honduras	CENTRAL AMERICAN
+CRX	United Kingdom	CROSSAIR
+CRY	United Kingdom	CARRIERS
+CSA	Czech Republic	CSA-LINES
+CSB	Virtual Airline	CASSUBIAN
+CSC	China	SI CHUAN
+CSD	United States of America	DELIVERY
+CSE	United Kingdom	OXFORD
+CSF	United Kingdom	CALEDONIAN
+CSH	China	SHANGHAI AIR
+CSI	United States of America	SKYPORT
+CSJ	United States of America	CASTLE
+CSK	United States of America	CASCADE
+CSL	United States of America	CALIFORNIA SHUTTLE
+CSM	Kazakhstan	LORRY
+CSN	China	CHINA SOUTHERN
+CSO	United States of America	CASAIR
+CSP	United States of America	CASPER AIR
+CSQ	United States of America	CHASQUI
+CSR	Costa Rica	WEST CARIBBEAN
+CST	Norway	COAST CENTER
+CSU	Chad	CHARI SERVICE
+CSV	United Republic of Tanzania	COASTAL TRAVEL
+CSW	Canada	CHARTER SYSTEMS
+CSY	China	SHUANGYANG
+CSZ	China	SHENZHEN AIR
+CTA	United States of America	CHAR-TRAN
+CTC	Mexico	UNKNOWN
+CTE	China	TENGLONG
+CTG	Canada	CANADIAN COAST GUARD
+CTH	China	TONGHANG
+CTK	United Kingdom	COSTOCK
+CTL	United States of America	CENTRAL COMMUTER
+CTM	France	COTAM
+CTN	Croatia	CROATIA
+CTO	Australia	UNKNOWN
+CTP	Uzbekistan	CORTAS
+CTQ	Ghana	CITYLINK
+CTR	Mexico	CENTAURO
+CTS	Russian Federation	CENTER-SOUTH
+CTT	United States of America	CATT
+CTV	Spain	ARE AVIACION
+CTW	Panama	THIRD CARGO
+CTY	United States of America	CENTURY
+CTZ	Argentina	CATA
+CUA	China	LIANHANG
+CUB	Cuba	CUBANA
+CUI	Mexico	CUN-AIR
+CUK	United Kingdom	CHUKKA
+CUO	Mexico	CUAHONTE
+CUS	Australia	CUSTOM
+CUT	South Africa	COURT AIR
+CVA	Virtual Airline	CANADIAN
+CVC	Virtual Airline	CANADA CHARTERS
+CVE	Cape Verde	KABEX
+CVF	United States of America	CLOVERLEAF
+CVG	United Kingdom	CARILL
+CVJ	Mexico	COMEREJECUTIVA
+CVO	Spain	CENTERVOL
+CVR	United States of America	CHEVRON
+CVT	Kazakhstan	CVETA
+CVU	United States of America	CANYON VIEW
+CVV	Bolivarian Republic of Venezuela	COMERAVIA
+CWA	Virtual Airline	CELTIC
+CWC	United States of America	CHALLENGE CARGO
+CWE	United Kingdom	CELTIC
+CWH	Canada	WARPLANE HERITAGE
+CWK	Union of the Comoros	CONTICOM
+CWL	United Kingdom	CRANWELL
+CWM	Marshall Islands	AIR MARSHALLS
+CWN	United Kingdom	CAMBRIAN
+CWP	Australia	COASTWATCH
+CWT	United States of America	TEXAS AIRWAYS
+CWU	China	WUHAN AIR
+CWV	Virtual Airline	BLUE BIRD
+CWX	United States of America	CROW EXPRESS
+CWY	United Kingdom	CAUSEWAY
+CWZ	United States of America	CAPWINGS
+CXA	Virtual Airline	CANADIAN XPRESS
+CXH	China	XINHUA
+CXI	China	SHANXI
+CXJ	China	XINJIANG
+CXN	China	CHINA SOUTHWEST
+CXO	United States of America	CONROE AIR
+CXP	United States of America	RUBY MOUNTAIN
+CXS	United States of America	CLIPPER CONNECTION
+CXT	United States of America	COASTAL
+CYA	United States of America	CHEYENNE AIR
+CYB	Virtual Airline	CYBER AIR
+CYC	Cyprus	CYPRAIR
+CYD	United States of America	CYCLONE
+CYE	Mexico	AEROCHEYENNE
+CYF	Denmark	COMPANY FLIGHT
+CYG	Cambodia	VICAIR
+CYH	China	YUNNAN
+CYL	Italy	CITYLINER
+CYN	China	ZHONGYUAN
+CYO	United States of America	COYOTE
+CYP	Cyprus	CYPRUS
+CYT	United States of America	CRYSTAL-AIR
+CYZ	China	CHINA POST
+DAA	United States of America	DECUR
+DAB	France	UNKNOWN
+DAC	United States of America	DACO
+DAD	Dominican Republic	DORADO AIR
+DAE	Panama	YELLOW
+DAF	Denmark	DANISH AIRFORCE
+DAG	Russian Federation	DAGAL
+DAH	Algeria	AIR ALGERIE
+DAL	United States of America	DELTA
+DAM	Kyrgyzstan	FLIGHT RESCUE
+DAN	Nigeria	DANACO
+DAO	Djibouti	DALO AIRLINES
+DAP	Chile	DAP
+DAR	Denmark	DANISH ARMY
+DAT	Belgium	BEE-LINE
+DAU	Germany	DAUAIR
+DAV	Nigeria	DANA AIR
+DAX	United Kingdom	UNKNOWN
+DAY	Sri Lanka	DAYA
+DBA	United States of America	DOUBLE-A
+DBD	Canada	AIR NIAGARA
+DBH	China	DONGBEI AIR
+DBJ	United Kingdom	DUCHESS
+DBK	Croatia	SEAGULL
+DBR	Netherlands	DUTCHBIRD
+DCA	United Kingdom	DREAM CATCHER
+DCC	Barbados	CARICARGO
+DCD	Angola	DUCARD
+DCE	Netherlands Antilles	DUTCH CARIBBEAN
+DCL	Chile	DON CARLOS
+DCM	United States of America	DOT COM
+DCN	Germany	DIPLOMATIC CLEARANCE
+DCO	United Kingdom	UNKNOWN
+DCP	Kenya	NILECAT
+DCR	Ukraine	DISCO
+DCS	Germany	TWIN STAR
+DCT	United Kingdom	UNKNOWN
+DCV	United States of America	DISCOVER
+DCX	United States of America	DAIMLER
+DDA	United States of America	DUSTY
+DDF	Virtual Airline	KADAIR
+DEA	Italy	JET SERVICE
+DEE	United States of America	TACAIR
+DEF	France	TIRPA
+DEG	Netherlands	DEGGER
+DEI	Algeria	UNKNOWN
+DEJ	United Arab Emirates	UNKNOWN
+DEL	Antigua and Barbuda	RED TAIL
+DER	China	DEER JET
+DET	Kazakhstan	SAMAL
+DEV	United Kingdom	RED DEVILS
+DEX	United States of America	DULLES EXPRESS
+DFA	United States of America	AERO COACH
+DFL	Sweden	MEDIFLIGHT
+DFS	United States of America	DWYAIR
+DGF	Virtual Airline	DRAGONFLIGHT
+DGO	Mexico	DGO JET
+DGT	United States of America	DIGITAL
+DGV	Virtual Airline	DUTCH GLOBAL
+DGX	Switzerland	DASNA
+DHA	Democratic Republic of the Congo	UNKNOWN
+DHC	Canada	DEHAVILLAND
+DHE	Chile	HELIDAP
+DHI	Indonesia	ADAM SKY
+DHK	United Kingdom	WORLD EXPRESS
+DHL	United States of America	DAHL
+DHM	United Kingdom	ARCHER
+DHV	South Africa	WORLDSTAR
+DHX	Kingdom of Bahrain	DILMUN
+DIA	Virtual Airline	INTERAIR
+DIC	Mexico	AEROMEDICA
+DIN	Mexico	AERODIN
+DIP	United Kingdom	DIPFREIGHT
+DIR	Indonesia	DIRGANTARA
+DIS	Serbia and Montenegro	DI AIR
+DJA	Algeria	ANTINEA
+DJB	Djibouti	DJIBOUTI AIR
+DJC	Austria	DYNAMICJET CHARTER
+DJE	Mexico	DURANGO JET
+DJS	United States of America	DAYJET
+DJT	United States of America	DENVER JET
+DJU	Djibouti	AIR DJIB
+DKE	United Kingdom	DUKE
+DKH	China	AIR JUNEYAO
+DKN	India	DECCAN
+DKT	United States of America	DAKOTA
+DKY	Spain	DAKOY
+DLA	Italy	DOLOMITI
+DLH	Germany	LUFTHANSA
+DLK	Sri Lanka	DEKKANLANKA
+DLR	Nigeria	DALA AIR
+DLS	Mexico	AEROMODELO
+DLU	Chile	BLUECOMET
+DLY	Germany	DAILY
+DMC	Mexico	DINAMICAMONT
+DMI	Mexico	AERODINAMICO
+DML	Mexico	UNKNOWN
+DMO	Russian Federation	DOMODEDOVO
+DNA	El Salvador	AERODESPACHOS
+DNC	Spain	FLYINGOLIVE
+DND	Sudan	DINDER
+DNE	Bulgaria	VENID
+DNI	Mexico	AERO DENIM
+DNJ	United States of America	DYNAJET
+DNK	United States of America	DIRECT JET
+DNL	Netherlands Antilles	DUTCH ANTILLES
+DNM	Netherlands	DENIM
+DNU	Lithuania	DANU
+DNV	Russian Federation	DONAVIA
+DNY	Denmark	DANISH NAVY
+DOA	Dominican Republic	DOMINICANA
+DOC	Norway	HELIDOC
+DOD	United States of America	UNKNOWN
+DOI	United States of America	INTERIOR
+DOJ	United States of America	JUSTICE
+DOL	United States of America	DOLLAR SIGN
+DOM	Dominican Republic	DOS MUNDOS
+DON	United Kingdom	DONAIR
+DOP	Denmark	DANCOPTER
+DOR	Germany	DORNIER
+DOT	United Kingdom	DOT TEL
+DPL	Canada	DOME
+DPS	United States of America	BLUE-GRAY
+DQA	Maldives	ISLAND AVIATION
+DRB	Chile	DIDIER
+DRD	Spain	ALADA AIR
+DRE	United States of America	MICHIGAN
+DRK	Bhutan	ROYAL BHUTAN
+DRM	United Kingdom	DARTMOOR
+DRN	Mexico	DISCOS REYNOSA
+DRO	Mexico	AERONORESTE
+DRT	France	DARTA
+DRU	Russian Federation	MIRNY
+DRX	Mauritania	UNKNOWN
+DRY	Indonesia	DERAYA
+DRZ	Indonesia	DERAZONA
+DSA	United States of America	DANBURY AIRWAYS
+DSC	Ethiopia	ADDIS CARGO
+DSH	United States of America	DASH CHARTER
+DSK	Portugal	SKYBANNER
+DSL	United Kingdom	DIESEL
+DSM	Argentina	LAN AR
+DSN	Ukraine	DESNA
+DSO	France	DASSAULT
+DSQ	Nigeria	DASAB AIR
+DSR	Uganda	DAIRAIR
+DST	United States of America	DESERT
+DSU	United States of America	DELTA STATE
+DSX	Virtual Airline	DREAMSTAR
+DTA	Angola	DTA
+DTH	Algeria	TASSILI AIR
+DTN	Sudan	DATA AIR
+DTR	Denmark	DANISH
+DTV	United States of America	DUTCH VALLEY
+DUB	United Arab Emirates	DUBAI
+DUG	Bolivarian Republic of Venezuela	ATSAVEN
+DUK	Luxembourg	LION KING
+DUN	Mauritania	DUNAIR
+DUO	United Kingdom	FLY DUO
+DVA	Virtual Airline	DELTA
+DVB	Kazakhstan	DONSEBAI
+DVI	Mexico	AERO DAVINCI
+DVR	Netherlands Antilles	DIVI AIR
+DWI	Denmark	DANWING
+DWN	United States of America	DAWN AIR
+DWR	United States of America	DELAWARE
+DWT	Switzerland	DARWIN
+DWW	United States of America	DON JUAN
+DXH	China	EAST STAR
+DXP	United States of America	DALLAS EXPRESS
+DXT	Russian Federation	DEXTER
+DYE	Netherlands	DYNAMIC
+DYL	Bahamas	DYLAND AIR
+DYN	United States of America	AERO DYNAMIC
+EAA	Kyrgyzstan	EASTOK
+EAB	Switzerland	SWISS EAGLE
+EAC	United States of America	EXECAIR
+EAD	Portugal	AERO-ESCOLA
+EAE	Ecuador	AECA
+EAF	United Kingdom	EUROCHARTER
+EAG	United Kingdom	UNKNOWN
+EAH	United States of America	EASTERN
+EAI	Togo	ELAIR
+EAK	Kazakhstan	EAKAZ
+EAL	Germany	STAR WING
+EAM	Nigeria	EMBASSY AIR
+EAN	Nigeria	NIGERIA EXPRESS
+EAP	France	AERO-PYRENEES
+EAQ	Australia	UNKNOWN
+EAR	Mexico	EJECUTIVO-AEREO
+EAS	Virtual Airline	EA
+EAT	Slovak Republic	TRANS EUROPE
+EAX	United Kingdom	EASTEX
+EAY	Estonia	REVAL
+EAZ	Zambia	EASAIR
+EBA	Virtual Airline	EBA
+EBC	Mexico	CALIEXET
+EBE	Thailand	MINEBEA
+EBF	Germany	SKYRUNNER
+EBG	Bulgaria	EUROSENSE
+EBJ	United Kingdom	SKY ELITE
+EBS	United States of America	UNKNOWN
+ECA	Cyprus	EUROCYPRIA
+ECB	Croatia	COASTAL CLIPPER
+ECD	Mexico	ECOTOUR
+ECF	France	EUROCOPTER
+ECG	Mexico	EJECUTIVOS RCG
+ECI	United States of America	EASTERN CAROLINA
+ECJ	United States of America	EASTCOAST JET
+ECL	Spain	AERO CASTELLANA
+ECM	Mexico	AERO COMERCIALES
+ECN	Spain	EURO CONTINENTAL
+ECQ	Nigeria	SKYBRIDGE
+ECS	Ireland	ECHO
+ECT	South Africa	EASTWAY
+ECU	Ecuador	ECUAVIA
+ECV	Russian Federation	UNKNOWN
+ECX	Angola	AIR ECOMEX
+ECY	United Kingdom	ECHELON
+EDA	Ecuador	ANDES
+EDC	United Kingdom	SALTIRE
+EDD	Mexico	LINEAS DURANGO
+EDJ	United States of America	EDWARDS
+EDL	Germany	POLICE EDELWEISS
+EDO	Italy	ELIDOLOMITI
+EDS	Switzerland	UNKNOWN
+EDW	Switzerland	EDELWEISS
+EEA	Ecuador	ECUATORIANA
+EEM	Mexico	EJEAERMEX
+EEP	Virtual Airline	EUROPEAN
+EES	Malta	SKY KNIGHTS
+EET	Spain	AESTE
+EEU	Italy	EUROFLY
+EEZ	Italy	E-FLY
+EFA	Australia	EXPRESS FREIGHT
+EFC	France	FLIGHT TAXI
+EFD	Germany	EVER FLIGHT
+EFF	Ireland	EMERALD
+EFG	Italy	ELIFRIULIA
+EFL	United Republic of Tanzania	FLYING EAGLE
+EFP	Virtual Airline	EUROFLY
+EFS	Virtual Airline	EXECFLEET
+EFT	United States of America	EMBASSY FREIGHT
+EFV	Virtual Airline	EUFLY
+EFY	Colombia	UNKNOWN
+EGA	Pakistan	AIR EAGLE
+EGB	Kazakhstan	ZHANNA
+EGF	United States of America	EAGLE FLIGHT
+EGJ	United States of America	EAGLE JET
+EGL	United Kingdom	PRESTIGE
+EGM	Equatorial Guinea	EGAMS
+EGN	France	FRENCH EAGLE
+EGO	South Africa	GAUTENG
+EGU	Uganda	AFRICAN EAGLE
+EGV	Chile	GLEISNER
+EGX	Thailand	THAI EAGLE
+EGY	Egypt	UNKNOWN
+EHA	United States of America	AIRE HAMPTON
+EHD	United States of America	PLATINUM AIR
+EHM	Virtual Airline	EUROHARMONY
+EHR	Iceland	ROTOR
+EHY	Virtual Airline	EFES
+EIA	United States of America	EVERGREEN
+EIC	Sao Tome and Principe	EXCARGO
+EIJ	Indonesia	EFATA
+EIN	Ireland	SHAMROCK
+EIR	Ireland	EIRJET
+EIS	Germany	COOL
+EIX	Ireland	AIR EXPORTS
+EJA	United States of America	EXECJET
+EJC	Mexico	GRUPOEJECUTIVA
+EJD	United Arab Emirates	ELITE DUBAI
+EJM	United States of America	JET SPEED
+EJO	United Arab Emirates	MIDJET
+EJP	Mexico	EJECORPORATIVOS
+EJS	Czech Republic	EEJAY SERVICE
+EJT	United States of America	ECLIPSE JET
+EJV	Mexico	EJECUTIVA
+EJX	Egypt	UNKNOWN
+EKA	Congo	EQUAFLIGHT
+EKC	United States of America	BLUE GOOSE
+ELA	Australia	UNKNOWN
+ELB	Italy	ELILOMBARDIA
+ELE	Spain	EUROLINE
+ELG	Italy	ALPI EAGLES
+ELH	Italy	LARIO
+ELI	Italy	PELLISSIER
+ELJ	United States of America	ELITE JET
+ELL	Estonia	ESTONIAN
+ELM	Mexico	CRELAM
+ELO	Poland	EUROLOT
+ELR	Israel	UNKNOWN
+ELS	El Salvador	EL SAL
+ELT	United States of America	ELLIOTT
+ELV	Peru	AEREOS SELVA
+ELW	Kenya	YELLOW WINGS
+ELX	United States of America	ELAN
+ELY	Israel	ELAL
+EMA	Egypt	UNKNOWN
+EMB	Brazil	EMBRAER
+EMD	Virtual Airline	EMERALD
+EME	United States of America	EMAIR
+EMI	Nigeria	BLUE SHUTTLE
+EMJ	United States of America	LIGHT HOUSE
+EML	Portugal	EMALUSA
+EMN	United Kingdom	AGENCY
+EMP	United States of America	EMPIRE
+EMR	Mauritania	ZEMMOUR
+EMS	Mexico	SERVIEMPRESARIAL
+EMT	Ecuador	EMETEBE
+EMU	Macao Special Administrative Region of China	UNKNOWN
+EMX	Austria	EUROMANX
+ENA	Spain	ENA
+ENC	Ecuador	ENDECOTS
+END	Mexico	ARRENDADORA
+ENG	Virtual Airline	ENGINEERING
+ENI	Estonia	ENIMEX
+ENR	Namibia	UNKNOWN
+ENS	United States of America	ENTERGY SHUTTLE
+ENV	United Kingdom	ENDEAVOUR
+ENW	Spain	AERONOR
+EOA	Italy	LOMBARDA
+EOL	France	EOLE
+EOM	Mexico	AERO ERMES
+EOS	Italy	ELIOSSOLA
+EPA	China	DONGHAI AIR
+EPC	Democratic Republic of the Congo	ESPACE
+EPE	Mexico	AEROEMPRESARIAL
+EPJ	Spain	ESPEJO
+EPL	Mexico	EMPRESARIALES
+EPS	United States of America	EPPS AIR
+EPU	Mexico	ELITACAPULCO
+EQL	Sao Tome and Principe	EQUATORIAL
+EQZ	Zambia	ZAMBIA CARGO
+ERC	Canada	ESSO
+ERE	United States of America	AIR ERIE
+ERF	Portugal	ERFOTO
+ERG	Russian Federation	AVIAENERGO
+ERH	United States of America	ERAH
+ERI	Mexico	ASERGIO
+ERJ	Italy	JET ITALIA
+ERK	Chile	AEROSEC
+ERM	Mexico	EOMAAN
+ERO	Israel	ECHO ROMEO
+ERT	Eritrea	ERITREAN
+ERX	Nigeria	EARTH AIR
+ESA	Virtual Airline	EUROSTAR
+ESB	Mexico	AEREOSABA
+ESC	Bolivarian Republic of Venezuela	SOLAMERICA
+ESD	Kyrgyzstan	ESEN AIR
+ESE	Mexico	ENSENADA ESPECIAL
+ESF	Mexico	ESTAFETA
+ESG	Estonia	UNKNOWN
+ESH	Ecuador	AEROSHELL
+ESI	Italy	ELISERVIZI
+ESJ	United Arab Emirates	EASTERN SKYJETS
+ESK	Slovak Republic	RELAX
+ESL	Virtual Airline	EASTLINE
+ESM	Lebanon	EXEC AIRCRAFT
+ESN	Turkey	EURO SUN
+ESO	United Kingdom	UNKNOWN
+ESS	United States of America	NEW DAWN
+EST	Mexico	CARGAINTER
+ESU	Mexico	ALESUR
+ESW	Republic of Azerbaijan	W-BUSINESS
+ESX	United Kingdom	CATFISH
+ESZ	Mexico	ESPERANZA
+ETA	Mexico	ESTRELLAS
+ETC	Sudan	TRANATTICO
+ETD	United Arab Emirates	ETIHAD
+ETE	Mexico	AEROSIETE
+ETH	Ethiopia	ETHIOPIAN
+ETI	Sweden	UNKNOWN
+ETJ	Tajikistan	EAST TAJIK
+ETL	United States of America	ENTEL
+ETM	Angola	ETRAM
+ETN	Israel	CHIMNIR
+ETP	United Kingdom	TESTER
+ETR	Virtual Airline	ECCENTRIC
+ETS	Sweden	EXTRANS
+ETV	United Kingdom	EURO EXEC
+ETW	Philippines	EAGLE TRANS
+EUA	Virtual Airline	EUROPEAN
+EUC	Belgium	UNKNOWN
+EUD	Egypt	UNKNOWN
+EUG	Equatorial Guinea	EUROGUINEA
+EUJ	Ireland	UNION JET
+EUP	Virtual Airline	EUROPE
+EUT	Virtual Airline	GOFREE
+EUU	Uruguay	EUROAMERICAN
+EUV	Virtual Airline	EUROPA
+EUX	Virtual Airline	EUROPEAN
+EUY	Ireland	EUROAIRWAYS
+EVJ	Guyana	EVERJET
+EVM	United Kingdom	SCIENCE
+EVN	Italy	EURAVIATION
+EVR	Portugal	DIANA
+EVS	Virtual Airline	ELVIS
+EVY	Australia	UNKNOWN
+EWA	Australia	EASTWEST
+EWC	Virtual Airline	EUROWINGS CARGO
+EWG	Germany	EUROWINGS
+EWS	Democratic Republic of the Congo	WORLD ENTERPRISE
+EWW	United States of America	EMERY
+EWZ	Kazakhstan	E-WING
+EXA	Canada	CANADIAN EXECAIRE
+EXB	Brazil	BRAZILIAN ARMY
+EXC	Sweden	ECHO EXPRESS
+EXE	United States of America	EXEC
+EXF	Mexico	EXIMFLIGHT
+EXG	United States of America	EXCHANGE
+EXH	Switzerland	BATMAN
+EXJ	United Kingdom	UNKNOWN
+EXK	United States of America	EXECUTIVE EAGLE
+EXL	Australia	UNKNOWN
+EXM	United Kingdom	EXAM
+EXN	Poland	EXIN
+EXP	Canada	EXPRESS AIR
+EXR	Mexico	EXPERTOS ENCARGA
+EXS	United Kingdom	CHANNEX
+EXT	Germany	EXECUTIVE
+EXU	Spain	SACIR
+EXV	Sri Lanka	EXPOAVIA
+EXX	United States of America	EXPRESS INTERNATIONAL
+EXY	South Africa	EXPRESSWAYS
+EXZ	Kenya	TWIGA
+EYE	United States of America	SOCKEYE
+EZA	Mongolia	EZNIS
+EZB	Switzerland	EICHENBERGER
+EZE	United Kingdom	EASTFLIGHT
+EZS	Switzerland	TOPSWISS
+EZY	United Kingdom	EASY
+FAB	Canada	UNKNOWN
+FAC	Denmark	FAROECOPTER
+FAD	Canada	AIR FRONTIER
+FAE	United Kingdom	WILDGOOSE
+FAF	France	FRENCH AIR FORCE
+FAG	Argentina	FUAER
+FAH	Hungary	BLUE STRIP
+FAI	United States of America	MOTOR-CITY
+FAJ	Republic of the Fiji Islands	FIJIAIR
+FAK	United States of America	FACTS
+FAL	United States of America	FRIENDSHIP
+FAM	Spain	FAASA
+FAN	Angola	FANBIRD
+FAO	United States of America	PANTHER
+FAR	Slovenia	FALCAIR
+FAS	Cyprus	FREEDOM AIRWAYS
+FAT	Switzerland	FARNER
+FAU	Nigeria	FALCON AIRLINE
+FAV	South Africa	FAIRAVIA
+FAW	United States of America	FALWELL
+FAX	United States of America	FAIRFAX
+FAY	Nigeria	FAYBAN AIR
+FAZ	United States of America	FLINT AIR
+FBE	Mauritius	AFRIBEE
+FBF	United States of America	FINE AIR
+FBO	United Kingdom	UNKNOWN
+FBW	United States of America	UNKNOWN
+FCA	United Kingdom	JETSET
+FCC	Cambodia	FIRST CAMBODIA
+FCE	Spain	FLYCOLUMBIA
+FCI	United States of America	FAST CHECK
+FCK	Germany	NAV CHECKER
+FCL	United States of America	FLORIDA COASTAL
+FCM	Finland	FINNCOMM
+FCN	Sweden	FALCON
+FCO	Mexico	AEROFRISCO
+FCP	New Zealand	FLIGHTCORP
+FCR	Lebanon	FLYING CARPET
+FCS	Mexico	MEXFACTS
+FCT	United Kingdom	DEALER
+FCU	Mexico	UNKNOWN
+FCX	United Arab Emirates	FALCON CARGO
+FCY	Virtual Airline	CYBERAVIA
+FDA	Mali	AIR SANKORE
+FDD	Sudan	UNKNOWN
+FDF	Russian Federation	UNKNOWN
+FDL	United States of America	FARMINGDALE STATE
+FDM	United States of America	LIBERTY
+FDN	United Arab Emirates	FLYING DOLPHIN
+FDO	France	FRENCH CUSTOM
+FDP	Poland	UNKNOWN
+FDR	South Africa	FEDAIR
+FDS	Virtual Airline	FLIGHTDECK
+FDX	United States of America	FEDEX
+FEC	United States of America	FALCON EXPRESS
+FED	Argentina	FEDERALES
+FEE	Virtual Airline	FAIRY
+FEI	Iceland	ARCTIC EAGLE
+FEN	United Kingdom	FENESTRON
+FEO	Mexico	FERINCO
+FER	Spain	FERIA
+FES	Mexico	AERO ALFE
+FEX	Canada	FLIGHTEXEC
+FFA	Russian Federation	AVIALESOOKHRANA
+FFB	Senegal	FOXTROT FOXTROT
+FFC	United Kingdom	FAIROAKS
+FFD	Germany	FIRST FLIGHT
+FFF	Nigeria	INTER FREEDOM
+FFG	Germany	WITCHCRAFT
+FFH	Nigeria	PEACE AIR
+FFI	Spain	INFINIT
+FFL	United Kingdom	UNKNOWN
+FFM	Malaysia	FIREFLY
+FFP	Poland	FLYING FISH
+FFS	United States of America	FORESTRY
+FFT	United States of America	FRONTIER FLIGHT
+FFU	United Kingdom	FERRANTI
+FFV	Kenya	SWIFT TANGO
+FFX	Brazil	FLEX BRASIL
+FFY	Thailand	FUN FLYING
+FGA	Georgia	GEORGIA FED
+FGC	Spain	FORESTALES
+FGH	Afghanistan	AIR AFGHAN
+FGL	Ireland	APPLEWOOD
+FGN	France	FRANCE GENDARME
+FGP	Russian Federation	FLYING CENTER
+FGS	Italy	ELITELLINA
+FGT	Mexico	FREIAERO
+FGY	Australia	UNKNOWN
+FHA	Virtual Airline	FHA
+FHE	Switzerland	FLYHELLO
+FHL	United Kingdom	FINDON
+FHY	Turkey	FREE BIRD
+FIC	Mexico	AEROSAFIN
+FIF	Finland	AIR FINLAND
+FII	Germany	FLIGHT CHECKER
+FIL	Spain	FLYLINE
+FIN	Finland	FINNAIR
+FIR	Virtual Airline	FIREBIRD
+FIV	United States of America	FIVE STAR
+FIX	Finland	AIRFIX
+FJA	Republic of the Fiji Islands	PAC SUN
+FJC	United Kingdom	FALCONJET
+FJE	United Kingdom	ENVOY
+FJI	Republic of the Fiji Islands	PACIFIC
+FJK	Kazakhstan	UNKNOWN
+FJS	United States of America	FLORIDAJET
+FKI	Germany	KIEL AIR
+FKL	Canada	KELNER
+FKS	United States of America	FOCUS
+FKY	Virtual Airline	FREESKY
+FLA	United States of America	PALM
+FLC	United States of America	FLIGHT CHECK
+FLD	Pakistan	UNKNOWN
+FLE	Canada	FLAIR
+FLF	Uganda	FRIEND AIR
+FLG	United States of America	FLAGSHIP
+FLH	United States of America	MILE HIGH
+FLI	Denmark	FAROELINE
+FLK	Spain	FLYLINK
+FLL	Sudan	FEDERAL AIRLINES
+FLN	Kazakhstan	ILIAS
+FLO	Slovenia	FLYCOM
+FLP	Spain	AEROCLUB FLAPS
+FLR	South Africa	FLEETAIR
+FLS	Netherlands	FAIRLINE
+FLT	United Kingdom	FLIGHTLINE
+FLV	South Africa	SKY RED
+FLW	France	QUICKFLOW
+FLX	United States of America	FLIGHT EXPRESS
+FLZ	United States of America	AIR FLORIDA
+FMC	United Kingdom	CLAESSENS
+FMG	Germany	HUSKY
+FMR	United States of America	FLAMINGO AIR
+FMS	Sudan	HADI
+FMT	Virtual Airline	FMT
+FMY	France	FRENCH ARMY
+FNC	Congo	FINALAIR CONGO
+FNF	Finland	FINNFORCE
+FNG	Finland	FINNGUARD
+FNK	Kazakhstan	AURIKA
+FNL	Finland	FINN FLIGHT
+FNM	Italy	UNKNOWN
+FNO	Spain	RIAZOR
+FNS	United Kingdom	FINESSE
+FNT	United States of America	FLIGHT INTERNATIONAL
+FNV	Georgia	TRANSAVIASERVICE
+FNX	Portugal	AERO FENIX
+FNY	France	FRENCH NAVY
+FOC	Switzerland	FOCA
+FOI	United States of America	UNKNOWN
+FOM	New Zealand	FREE AIR
+FON	India	FLYINGTON
+FOP	Netherlands	UNKNOWN
+FOR	United Kingdom	FORMULA
+FOS	Russian Federation	UNKNOWN
+FOT	Spain	AVIFOTO
+FOW	United Arab Emirates	UNKNOWN
+FPA	Sweden	UNKNOWN
+FPG	Switzerland	TAG AVIATION
+FPL	Australia	FEDPOL
+FPO	France	FRENCH POST
+FPR	Peru	UNKNOWN
+FPS	United Kingdom	FLIGHTPASS
+FPY	Democratic Republic of the Congo	AFRICOMPANY
+FRA	United Kingdom	RUSHTON
+FRC	France	FRANCHE COMPTE
+FRD	United States of America	FORD
+FRE	United States of America	FREEDOM
+FRF	Hungary	FAIRFLEET
+FRG	United States of America	FREIGHT RUNNERS
+FRJ	Nigeria	AFRIJET
+FRK	Kenya	AFRIFAST
+FRL	United States of America	FREEDOM AIR
+FRM	United States of America	FEDARM
+FRN	Netherlands	FARNED
+FRQ	Cameroon	CHARTER AFRIQUE
+FRR	Nigeria	FRESH AIR
+FRS	Virtual Airline	FISCHER SKY
+FRT	Russian Federation	UNKNOWN
+FRW	United States of America	FARWEST
+FSA	Virtual Airline	FSA
+FSB	Germany	SEABIRD
+FSC	United States of America	FOUR STAR
+FSD	Germany	FLUGSERVICE
+FSH	Egypt	FLASH
+FSL	United Kingdom	FLIGHTSAFETY
+FSM	Virtual Airline	FLYINGSIM
+FSR	United States of America	FLIGHTSTAR
+FST	United Kingdom	FAST TRACK
+FSU	Sweden	UNKNOWN
+FSW	Burkina Faso	FASO
+FSX	United States of America	FLAG
+FTA	United States of America	FRONTIER-AIR
+FTC	Chad	AFFAIRES TCHAD
+FTE	Spain	FOTOGRAFIA
+FTL	Spain	FLIGHT-AVIA
+FTM	United Kingdom	FLYTEAM
+FTP	United States of America	FOOTPRINT
+FTR	France	FINISTAIR
+FTS	Mexico	FIRST SABRE
+FTT	Austria	FLIGHT TRAINING
+FTU	China	FLIGHT UNIVERSITY
+FTY	Austria	FLY TYROL
+FUA	Spain	FUTURA
+FUJ	United Arab Emirates	FUJAIRAH
+FUL	Uganda	ORANGE CRANE
+FUN	Democratic Republic of the Congo	FUNTSHI
+FUT	Mexico	AEREO FUTURO
+FVA	United States of America	AIR VIRGINIA
+FVS	United Arab Emirates	FALCON AVIATION
+FWA	Virtual Airline	FREEWORLD
+FWC	Netherlands	FREEWAY
+FWD	United States of America	FAIR WIND
+FWI	France	FRENCH WEST
+FWK	United States of America	FLIGHTWORKS
+FWL	United States of America	FLO WEST
+FWQ	Australia	UNKNOWN
+FWY	United States of America	FAIRWAYS
+FWZ	Austria	UNKNOWN
+FXA	United States of America	EFFEX
+FXC	Canada	AIR FUTURE
+FXF	United States of America	FOX FLIGHT
+FXI	Iceland	FAXI
+FXL	Sweden	FLY EXCELLENT
+FXP	Virtual Airline	FLIGHTXPRESS
+FXR	Italy	WILDFOX
+FXT	Denmark	UNKNOWN
+FXX	Yemen	UNKNOWN
+FXY	Netherlands	FLEXY
+FYA	Virtual Airline	JETSTREAM
+FYC	Sweden	FLIGHTCAB
+FYE	Nigeria	FLYME
+FYG	Belgium	FLYING GROUP
+FYS	Spain	AMERICAN FLYERS
+GAA	United States of America	BIZEX
+GAD	United Kingdom	SOUTHCOAST
+GAE	Virtual Airline	EXPRESS
+GAF	Germany	GERMAN AIR FORCE
+GAG	Union of the Comoros	GLOBAL AIRGROUP
+GAH	France	GAMHELICO
+GAI	Virtual Airline	GAI
+GAK	Libyan Arab Jamahiriya	AVIAGROUP
+GAL	Virtual Airline	GERMAN AIRLINES
+GAM	Germany	GERMAN ARMY
+GAO	Sweden	GOLDEN
+GAP	Philippines	ORIENT PACIFIC
+GAR	Australia	UNKNOWN
+GAS	United States of America	GALENA AIR SERVICE
+GAT	United States of America	GULF TRANS
+GAU	Uruguay	AEROGAUCHO
+GAV	Spain	GRANAVI
+GAX	United States of America	GRAND AIRE
+GBA	Kingdom of Bahrain	GULF BAHRAIN
+GBB	South Africa	GLOBE
+GBC	Gabon	GABON CARGO
+GBE	Gabon	GABEX
+GBH	Virtual Airline	GLOBAL HELICO
+GBJ	Germany	GLOBAL JET
+GBK	Gabon	GABON AIRLINES
+GBL	United Kingdom	GEEBEE AIRWAYS
+GBM	Russian Federation	BERIEV COMPANY
+GBN	Gabon	ATLANTIC GABON
+GBO	Gabon	UNKNOWN
+GBP	Virtual Airline	BUTTERFLY
+GBR	United States of America	GREENBRIER AIR
+GBS	Nigeria	GLOBAL SERVE
+GBT	Virtual Airline	BROESELTOURS
+GBX	United States of America	ISLAND TIGER
+GCA	Virtual Airline	GRAND CARGO
+GCB	Congo	LINACONGO
+GCC	Ireland	GECAS
+GCF	Spain	AEROCARTO
+GCK	Ghana	AEROGEM
+GCN	United States of America	GULF CENTRAL
+GCO	United States of America	GEMINI
+GCR	China	CHINA DRAGON
+GCS	United States of America	GALION
+GDB	Belgium	BELGIAN GENDARMERIE
+GDC	China	GRAND CHINA
+GDD	United States of America	GOLDEN AIRLINES
+GDE	Mexico	GADEL
+GDG	United States of America	GOLDEN GATE
+GDH	Turkey	RISING SUN
+GDJ	Virtual Airline	GOLDEN
+GDK	Austria	GOLDECK FLUG
+GDN	Pakistan	UNKNOWN
+GDQ	United States of America	UNKNOWN
+GDR	Spain	GADAIR LINES
+GDY	Australia	GUARDIAN
+GEA	Equatorial Guinea	GEASA
+GEC	Germany	LUFTHANSA CARGO
+GEN	Brazil	GENSA-BRASIL
+GES	Spain	GESTAIR
+GET	Equatorial Guinea	GETRA
+GEW	Virtual Airline	BLUEFLIGHT
+GFA	Kingdom of Bahrain	GULF AIR
+GFC	United States of America	GAIL FORCE
+GFD	Germany	KITE
+GFE	United States of America	GREENLEAF
+GFF	Cyprus	GRIFFIN AIR
+GFG	Georgia	NATIONAL
+GFI	Virtual Airline	GROUP FLIGHT
+GFN	United Kingdom	GRIFFON
+GFO	Mexico	AEROVIAS GOLFO
+GFS	Virtual Airline	GROUP FLIGHT
+GFT	Virtual Airline	GROUP FLIGHT
+GFW	Australia	UNKNOWN
+GGA	United States of America	JAWJA
+GGC	United States of America	LONG-HAUL
+GGE	Equatorial Guinea	ECUATO GUINEA
+GGF	Senegal	GEORGIAN AFRICA
+GGG	Georgia	CAUCASUS
+GGL	Angola	GIRA GLOBO
+GGN	Canada	GEORGIAN
+GGS	Mexico	GATSA
+GGV	Austria	GREGG AIR
+GHA	Ghana	GHANA
+GHB	Ghana	GHANA AIRLINES
+GHM	Bolivia	UNKNOWN
+GHN	Ghana	AIR GHANA
+GHP	United States of America	GRASSHOPPER EX
+GHS	Indonesia	GATARI
+GHT	Libyan Arab Jamahiriya	UNKNOWN
+GHV	Mexico	GROUND HANDLING
+GHY	Germany	GERMAN SKY
+GIA	Indonesia	INDONESIA
+GIB	Guinea	GRAVIA
+GIC	Guinea	CEBEGE
+GIG	Mexico	GACELA AIR
+GIH	Guinea	TRANSPORT AFRICAIN
+GIK	Guinea	SEBA
+GIL	Guinea	AFRICAN TRANSPORT
+GIP	Guinea	FUTURE EXPRESS
+GIQ	Guinea	GUIPAR
+GIS	Guinea	GUINEE SOUTHRIVERS
+GIT	Guinea	UNKNOWN
+GIU	Guinea	MANO GUINEE
+GIY	Guinea	PROBIZ
+GIZ	Guinea	AFRILENS
+GJA	Lebanon	UNKNOWN
+GJB	United States of America	SKY TRUCK
+GJH	Guinea	GUINEE AIR
+GJS	United States of America	LINDBERGH
+GJT	Spain	BANJET
+GKA	United States of America	GOLDEN KNIGHTS
+GLA	United States of America	LAKES AIR
+GLB	United States of America	GLO-AIR
+GLC	Kingdom of Bahrain	UNKNOWN
+GLD	Sudan	GOLDEN STAR
+GLE	Sao Tome and Principe	GOLIAF AIR
+GLF	United States of America	GULFSTREAM TEST
+GLG	Ecuador	AEROGAL
+GLJ	Austria	GLOBAL AUSTRIA
+GLK	Kazakhstan	KAZAK
+GLL	Angola	TWINS
+GLO	Brazil	GOL TRANSPORTE
+GLP	Russian Federation	GLOBUS
+GLQ	Sudan	QUILADA
+GLR	Canada	GLACIER
+GLS	Virtual Airline	GLOBAL
+GLT	United States of America	GASLIGHT
+GLU	Uganda	LAKES CARGO
+GLW	Japan	UNKNOWN
+GLX	United Kingdom	GLOBAL EXEC
+GLY	Pakistan	GALAXY AVIATION
+GMA	Virtual Airline	GREEN MOUNTAIN
+GMC	United States of America	GENERAL MOTORS
+GMG	Latvia	GEE-EM HELICOPTERS
+GMH	United States of America	HUGHES EXPRESS
+GMI	Germany	GERMANIA
+GMJ	Spain	GAMISA
+GML	South Africa	GEEANDEL
+GMM	Mexico	AEROGUAMUCHIL
+GMS	Mexico	SERVICIOS GAMA
+GMT	Mexico	GRUPOMONTERREY
+GMX	Mexico	GOLDEN MEXICO
+GNA	Mexico	SERVIGANA
+GNC	Equatorial Guinea	GUINEA CARGO
+GND	United States of America	GRAND VEGAS
+GNJ	Greece	HERCULES JET
+GNL	United States of America	GENERAL
+GNR	Gambia	GAMBIA INTERNATIONAL
+GNX	Belarus	AEROGENEX
+GNY	Germany	GERMAN NAVY
+GNZ	Poland	GONZO
+GOA	Canada	ALBERTA
+GOB	United Kingdom	PILGRIM
+GOF	Mexico	GOF-AIR
+GOJ	United Kingdom	GOJET
+GOL	Namibia	CARGOLAAR
+GOM	Belarus	GOMEL
+GOR	Ukraine	GORLITSA
+GOS	Australia	UNKNOWN
+GOT	Sweden	GOTHIC
+GOW	India	GOAIR
+GPA	United States of America	GOLD PAC
+GPC	Libyan Arab Jamahiriya	AIR GULFPEARL
+GPD	United States of America	GOODSPEED
+GPE	United States of America	REGIONAL EXPRESS
+GPL	Spain	GESPLANE
+GPM	Spain	GRUPOMED
+GPO	United Kingdom	GOOSEPOOL
+GPR	Mexico	GPM AEROSERVICIO
+GRA	United States of America	GREAT AMERICAN
+GRC	United States of America	GRACE FLIGHT
+GRD	United Kingdom	GRID
+GRI	Sao Tome and Principe	UNKNOWN
+GRL	Denmark	GREENLAND
+GRN	United States of America	GRANDE
+GRO	Mexico	ALLEGRO
+GRP	Virtual Airline	GROUP FLIGHT
+GRR	Portugal	AGROAR
+GRS	Kyrgyzstan	GOLDEN RULE
+GRT	Gabon	UNKNOWN
+GRV	Greece	NIGHT RIDER
+GRX	Belarus	GRODNO
+GRY	United States of America	GRAY RIDER
+GRZ	Zambia	COM FLIGHT
+GSA	United States of America	GARDEN STATE
+GSB	Malaysia	GADING SARI
+GSC	China	GRANDSTAR CARGO
+GSG	Gambia	UNKNOWN
+GSJ	Czech Republic	GROSSJET
+GSK	United States of America	GLOBAL SKY
+GSL	Canada	SURVEY-CANADA
+GSM	United Kingdom	GLOBESPAN
+GSP	United States of America	GREEN SPEED
+GSS	United Kingdom	JET LIFT
+GSW	Greece	ARROW JET
+GSY	Norway	GUARD AIR
+GTC	Turkey	GOLDEN WINGS
+GTH	United States of America	GOTHAM
+GTI	United States of America	GIANT
+GTP	Mexico	GRUPOTAMPICO
+GTR	Chile	STAR GESTAR
+GTV	Cuba	GAVIOTA
+GTX	United States of America	BIG-DEE
+GTY	Egypt	UNKNOWN
+GUA	Mexico	AGUASCALIENTES
+GUG	Guatemala	AVIATECA
+GUJ	India	GUJARATAIR
+GUL	United States of America	GULL-AIR
+GUM	Suriname	GUM AIR
+GUN	United States of America	HOOT
+GUS	Mexico	GUJA
+GUY	France	GREEN BIRD
+GVA	Virtual Airline	GERMAN AIRFORCE
+GVG	Sweden	BLUECRAFT
+GVI	Georgia	IRINA
+GVN	Spain	GAVINA
+GWA	United States of America	G-W AIR
+GWG	Virtual Airline	GERMAN AIRWINGS
+GWI	Germany	GERMAN WINGS
+GWK	Equatorial Guinea	UNKNOWN
+GWL	China	GREAT WALL
+GWS	South Africa	GENAIR
+GWX	France	GWAD'EX
+GWY	United States of America	GETAWAY
+GXA	Republic of Moldova	GRIXONA
+GXL	Germany	STARDUST
+GXY	Japan	GALAX
+GYP	United Kingdom	GYPSY
+GYT	Guyana	TRAVELSPAN
+GZD	Russian Federation	GRIZODUBOVA AIR
+GZP	Russian Federation	GAZPROM
+HAA	Chile	AGROFORESTAL
+HAC	Australia	UNKNOWN
+HAD	Haiti	HAITI AVIA
+HAF	Greece	HELLENIC AIR FORCE
+HAG	United States of America	HAGELAND
+HAH	Union of the Comoros	AIR COMORES
+HAJ	Pakistan	HAJVAIRY
+HAK	Norway	HELIFALCON
+HAL	United States of America	HAWAIIAN
+HAM	Haiti	UNKNOWN
+HAN	Republic of Korea	HANSUNG AIR
+HAP	Mexico	HELIPERSONAL
+HAR	United States of America	HARBOR
+HAS	Honduras	HONDURAS AIR
+HAT	France	TAXI BIRD
+HAU	South Africa	SKYHAUL
+HAV	Nigeria	HAVILAH
+HAW	Thailand	THAI HAWK
+HAX	Norway	SCOOP
+HBA	United States of America	HARBOR AIR
+HBC	Haiti	HALISA
+HBI	Denmark	HELIBIRD
+HBL	Denmark	HELIBLUE
+HBT	Germany	HABICHT
+HBU	Ukraine	KHARKIV UNIVERSAL
+HCA	United States of America	HAVASU
+HCB	Barbados	HELEN
+HCH	Bolivarian Republic of Venezuela	HELICA
+HCL	Saint Lucia	HELENCORP
+HCN	Guinea-Bissau	HALCYON
+HCO	Congo	CONGO LIFT
+HCP	Czech Republic	HELI CZECH
+HCS	United Kingdom	HELIWALES
+HCT	Spain	ROTORCAT
+HCV	Cape Verde	CREOLE
+HCW	Lithuania	HERMIS CAPITAL
+HDA	Hong Kong Special Administrative Region of China	DRAGON
+HDC	Spain	HELICATALUNA
+HDI	Mexico	DINAMICOS
+HDR	Norway	HELIDRIFT
+HEA	Portugal	HELIAVIA
+HEB	Switzerland	HELIBERNINA
+HEC	Mexico	HELICAMPECHE
+HED	United Kingdom	FLAPJACK
+HEI	Chile	AEROHEIN
+HEJ	Greece	HELLAS JET
+HEL	Colombia	HELICOL
+HEM	Australia	HEMS
+HEN	Mexico	HELINAC
+HER	Virtual Airline	HELI RECIF
+HES	Malta	UNKNOWN
+HET	Spain	HELITAF
+HEX	Solomon Islands	HONIARA CARGO
+HFL	Germany	HANSEFLUG
+HFR	France	HELIFRANCE
+HFY	Portugal	SKY FLYER
+HGA	United States of America	HOGAN AIR
+HGD	Mongolia	HANGARD
+HGK	Uganda	SALAAMA
+HGR	United Kingdom	HANG
+HHA	Honduras	ATLANTIC HONDURAS
+HHE	Netherlands	HELI HOLLAND
+HHH	Spain	HELICSA
+HHI	Germany	HAMBURG JET
+HHN	Germany	ROOSTER
+HHO	United States of America	HOUSTON HELI
+HHP	Denmark	HELENIA
+HHS	Suriname	HIJET
+HIB	Portugal	HELIBRAVO
+HID	Mexico	EJECUTIVA HIDALGO
+HIF	Spain	HIFSA
+HIN	Mexico	HOLDING GROUP
+HIP	Mexico	STARSA
+HIS	Dominican Republic	HISPANIOLA
+HIT	Italy	HELITALIA
+HJA	Haiti	AIRHAITI
+HJE	Mexico	GOSA
+HJL	United Kingdom	BIZJET
+HJT	United Arab Emirates	AL-RAIS CARGO
+HKA	United States of America	SPEND AIR
+HKB	United States of America	CLASSIC
+HKE	Hong Kong Special Administrative Region of China	HONGKONG SHUTTLE
+HKG	Hong Kong Special Administrative Region of China	HONGKONG GOVERNMENT
+HKH	Hungary	HAWKHUNGARY
+HKI	United States of America	HAWKEYE
+HKL	Nigeria	HAK AIRLINE
+HKN	United States of America	HANKINS
+HKR	Argentina	AIR HAW
+HKS	Norway	HELIBUS
+HLA	United Kingdom	HEAVYLIFT
+HLC	France	HELICAP
+HLD	United Kingdom	GRANITE
+HLE	United Kingdom	HELIMED
+HLF	Germany	HAPAG LLOYD
+HLH	Sudan	HALA AIR
+HLI	France	HELI SAINT-TROPEZ
+HLK	Switzerland	HELI-LINK
+HLL	Thailand	THAI HOLIDAY
+HLM	Mexico	HELIMIDWEST
+HLO	Canada	HALO
+HLP	Spain	HELIPISTAS
+HLR	Bulgaria	HELI BULGARIA
+HLS	Haiti	UNKNOWN
+HLT	Mexico	HELITAFE
+HLU	France	HELI UNION
+HLW	Chile	HELIWORKS
+HLX	Germany	YELLOW CAB
+HMA	United States of America	TAHOMA
+HMB	Canada	HUMMINGBIRD
+HMC	Mexico	HELIAMERICA
+HMD	United States of America	HAMMOND
+HMF	Sweden	LIFEGUARD SWEDEN
+HMM	United Arab Emirates	HAMRA
+HMP	Haiti	PAPAIR TERMINAL
+HMR	Canada	HAMMER
+HMS	Bulgaria	HEMUS AIR
+HMT	United Kingdom	HAMILTON
+HMV	Luxembourg	HOMAC
+HMX	Mexico	HAWK MEXICO
+HMY	Canada	HARMONY
+HNA	Greece	HELLENIC NAVY
+HNL	Netherlands	MAPLELEAF
+HNR	Haiti	HANAIR
+HNS	Armenia	HIGHNESSES
+HNT	Mexico	HELICOP INTER
+HOA	Spain	HOLA
+HOL	United States of America	HOLIDAY
+HOM	Mexico	AERO HOMEX
+HOT	United Kingdom	HOT AIR
+HOZ	Mexico	HORIZONTES AEREOS
+HPA	Haiti	PEARL AIRWAYS
+HPJ	United States of America	HOPA-JET
+HPL	Portugal	HELIPORTUGAL
+HPN	United States of America	HARPOON
+HPO	Uganda	ALMIRON
+HPR	New Zealand	HELIPRO
+HPS	Bangladesh	HORIZON PLUS
+HQO	Norway	UNKNOWN
+HRA	Spain	ERICA
+HRB	Haiti	HAITI AIRLINE
+HRE	Germany	UNKNOWN
+HRF	United States of America	HERO-FLIGHT
+HRI	Lithuania	HELIRIM
+HRT	Canada	CHARTRIGHT
+HRZ	Croatia	CROATIAN AIRFORCE
+HSA	Kenya	DUMA
+HSE	Spain	HELISURESTE
+HSF	Republic of Korea	HAN-SEO FLIGHT
+HSG	Norway	SKY DOLPHIN
+HSI	Switzerland	HELISWISS
+HSK	Hungary	MATRA
+HSL	Italy	HELISIRIO
+HSM	Libyan Arab Jamahiriya	ALOFUKAIR
+HSN	Thailand	UNKNOWN
+HSO	Spain	HELIASTURIAS
+HSP	United States of America	HOSPITAL
+HSR	United States of America	HOOSIER
+HSS	Spain	TAS HELICOPTEROS
+HSU	Portugal	HELIS
+HSV	Sweden	HIGHSWEDE
+HSW	Spain	HELIBERICA
+HSY	Spain	HELISKY
+HTA	Norway	SCANBIRD
+HTC	Haiti	HAITI TRANSAIR
+HTE	Mexico	HELICOPTERSMEXICO
+HTG	Austria	GROSSMANN
+HTI	Haiti	HAITI INTERNATIONAL
+HTL	United States of America	HEARTLAND
+HTM	Germany	HELITRAVEL
+HTN	Haiti	UNKNOWN
+HTP	Mexico	HELI TRIP
+HTR	Germany	HOLSTEN
+HTS	United States of America	HELITRANS
+HTT	Chad	HOTEL TANGO
+HUB	United States of America	HUB
+HUC	Mexico	LINEAS TEHUACAN
+HUD	United States of America	HUD
+HUF	Hungary	HUNGARIAN AIRFORCE
+HUR	United States of America	HURRICANE CHARTER
+HUS	United States of America	HEUSSLER
+HUT	Mexico	AEROHUITZILIN
+HUV	Hungary	SILVER EAGLE
+HUY	Mexico	AERO HUMAYA
+HVA	Virtual Airline	HOOTERS
+HVK	Turkey	TURKISH AIRFORCE
+HVL	United Arab Emirates	HEAVYLIFT INTERNATIONAL
+HVN	Viet Nam	VIET NAM AIRLINES
+HVY	Australia	HEAVY CARGO
+HWD	United Kingdom	FLITEWISE
+HWG	Austria	UNKNOWN
+HWL	Spain	DELFIN
+HWY	United Kingdom	HIWAY
+HXA	China	CHINA EXPRESS
+HYC	South Africa	HYDRO CARGO
+HYD	Canada	HYDRO
+HYR	Ireland	HIGHFLYER
+HZA	Australia	UNKNOWN
+HZL	Australia	HAZELTON
+HZT	Togo	HORIZON TOGO
+HZX	China	ZHONGXIN
+IAA	Indonesia	INDO LINES
+IAC	India	INDAIR
+IAD	Italy	FLYWEX
+IAE	Russian Federation	UNKNOWN
+IAF	Israel	UNKNOWN
+IAG	France	EPAG
+IAI	Israel	ISRAEL AIRCRAFT
+IAJ	United Kingdom	JARLAND
+IAK	Egypt	AIR CARGO EGYPT
+IAL	Kenya	IMATONG
+IAR	United States of America	ILIAMNA AIR
+IAS	United States of America	STARFLEET
+IAT	Virtual Airline	AIT
+IAV	United Kingdom	ISLAND FLYER
+IAW	Iraq	IRAQI
+IAX	Liberia	INTERAIR SERVICES
+IAY	Austria	IASON
+IBB	Spain	UNKNOWN
+IBC	Spain	IBICENCA
+IBE	Spain	IBERIA
+IBJ	Spain	IBERTAXI
+IBL	Mauritius	CATOVAIR
+IBR	Spain	IBERTOUR
+IBT	Spain	IBERTRANS
+IBU	United States of America	INDIGO BLUE
+IBX	Japan	IBEX
+IBY	United States of America	CENTRAL STAGE
+IBZ	Sweden	INTERBIZ
+ICA	Italy	ICARFLY
+ICB	Iceland	ICEBIRD
+ICC	Spain	CARTO
+ICD	Ecuador	ICARO
+ICE	Iceland	ICEAIR
+ICG	Iceland	ICELAND COAST
+ICH	Gambia	INTERCONTINENTAL
+ICJ	Iceland	ICEJET
+ICL	Israel	CAL
+ICM	Cameroon	INTER-CAMEROUN
+ICP	Spain	CHOPER
+ICR	United States of America	ICARUS FLIGHTS
+ICS	Mexico	INTERSERVI
+ICT	Colombia	CONTAVIA
+ICX	United States of America	INTEX
+ICY	Malaysia	INTERCITY
+IDA	Indonesia	INTRA
+IDC	Virtual Airline	INDICE
+IDE	United States of America	INDEPENDENCE AIR
+IDG	Czech Republic	INDIGO
+IDL	Mexico	ILDEFONSO
+IDP	Australia	INDEPENDENT
+IDR	Hungary	INDICATOR
+IDT	United States of America	IDOT
+IEP	Italy	ELIPIU
+IFA	Germany	RED ANGEL
+IFC	Virtual Airline	IFC
+IFF	Sudan	INTERFREIGHTER
+IFI	Greece	HELLAS LIFT
+IFL	United States of America	EIFEL
+IFR	United States of America	UNKNOWN
+IFS	Italy	RIVIERA
+IFT	United Kingdom	INTERFLIGHT
+IFX	United States of America	IFTA
+IGA	Poland	IGUANA
+IGN	Nigeria	DIVINE AIR
+IGO	India	IFLY
+IGS	United States of America	ISLA GRANDE
+IHE	Greece	INTERCOPTER
+IHS	Iceland	UNKNOWN
+IIG	Libyan Arab Jamahiriya	ALDAWLYH AIR
+IIL	India	INDIA INTER
+IJA	United States of America	I-JET
+IJE	Côte d'Ivoire	IVOIRE JET
+IJM	Austria	JET MANAGEMENT
+IJS	United States of America	UNKNOWN
+IJT	United Kingdom	UNKNOWN
+IKA	Kyrgyzstan	ITEK-AIR
+IKK	Japan	IKIAIR
+IKM	Ghana	EASY SHUTTLE
+IKN	Germany	EEKON
+IKR	Denmark	IKAROS
+IKY	Bulgaria	GENERAL SKY
+ILC	Japan	UNKNOWN
+ILE	Russian Federation	UNKNOWN
+ILF	United States of America	ISLAND FLIGHT
+ILK	Kazakhstan	ILEK
+ILL	Ukraine	ILYICHAVIA
+ILN	South Africa	INLINE
+ILP	Aruba (Netherlands)	UNKNOWN
+ILS	Mexico	SERVICIOS ILSA
+IMA	United States of America	INTER-MOUNTAIN
+IME	United Kingdom	AIRTIME
+IMG	Virtual Airline	IMAGINAIR
+IMI	Mexico	IMPERIALAEREO
+IMJ	Lebanon	UNKNOWN
+IML	Republic of the Fiji Islands	MAL AIR
+IMN	Mexico	TAXI CIMARRON
+IMP	Greece	IMPERIAL
+IMR	Portugal	IMAER
+IMS	United Kingdom	IMAGES
+IMT	Cambodia	IMTREC
+IMX	Switzerland	ZIMEX
+INA	Mexico	AERO-NACIONAL
+INC	Netherlands Antilles	INSELAIR
+IND	Ireland	IONA
+ING	Chile	AEROINGE
+INJ	Greece	INJET
+INK	Ukraine	SINCOM AVIA
+INL	Kyrgyzstan	INTAL AVIA
+INO	Mexico	INTENOR
+INP	Peru	UNKNOWN
+INR	Sweden	INTERAIR
+INS	United Kingdom	UNKNOWN
+INT	Spain	INTEGRA
+INU	Sweden	INSTRUCTOR
+INV	Latvia	INVER
+INX	Turkey	INTER-EURO
+IOA	United States of America	IOWA AIR
+IOM	United Kingdom	ISLE AVIA
+IOS	United Kingdom	SCILLONIA
+IPA	Australia	IPEC
+IPL	Spain	IPULL
+IPM	United Kingdom	SHIPEX
+IPN	Indonesia	NUSANTARA
+IPT	United States of America	INTERPORT
+IQP	Pakistan	IQRA PAKISTAN
+IQQ	Barbados	CARIBJET
+IRA	Iran, Islamic Republic of	IRANAIR
+IRB	Iran, Islamic Republic of	UNKNOWN
+IRC	Iran, Islamic Republic of	UNKNOWN
+IRD	Iran, Islamic Republic of	ARVAND
+IRE	Iran, Islamic Republic of	PARIZAIR
+IRF	Iran, Islamic Republic of	TA-AIR
+IRG	Iran, Islamic Republic of	NAFT
+IRH	Iran, Islamic Republic of	ATLAS AVIA
+IRI	Iran, Islamic Republic of	NAVID
+IRJ	Iran, Islamic Republic of	BONYAD AIR
+IRK	Iran, Islamic Republic of	KISHAIR
+IRL	Ireland	IRISH
+IRM	Iran, Islamic Republic of	MAHAN AIR
+IRO	United States of America	IRON AIR
+IRP	Iran, Islamic Republic of	PAYAMAIR
+IRQ	Iran, Islamic Republic of	QESHM AIR
+IRR	Iran, Islamic Republic of	TARAIR
+IRT	Uzbekistan	IRTYSH AIRLINES
+IRU	Iran, Islamic Republic of	CHABAHAR
+IRV	Iran, Islamic Republic of	SAFAT AIR
+IRW	Iran, Islamic Republic of	ARAM
+IRX	Iran, Islamic Republic of	ARIA
+IRY	Iran, Islamic Republic of	ERAM AIR
+IRZ	Iran, Islamic Republic of	SAHA
+ISA	United States of America	ISLAND
+ISD	Ukraine	ISDAVIA
+ISF	United Kingdom	UNKNOWN
+ISG	Italy	CLUBAIR
+ISI	Mexico	ISLANDMEX
+ISK	Austria	INTERSKY
+ISL	Iceland	ISLANDIA
+ISM	Russian Federation	STORK
+ISN	Philippines	TRI-BIRD
+ISO	Virtual Airline	ISOMBA
+ISR	Israel	ISRAIR
+ISS	Italy	MERAIR
+IST	Turkey	ISTANBUL
+ISV	Honduras	UNKNOWN
+ISW	Spain	PINTADERA
+ITA	United States of America	CAFEX
+ITC	Belgium	UNKNOWN
+ITE	Czech Republic	AEROTAXI
+ITF	Angola	AIR AVITA
+ITH	Nigeria	INTRANS NIGERIA
+ITK	South Africa	INTERLINK
+ITL	Italy	ITALFLY
+ITN	Spain	TITANLUX
+ITO	Mexico	AERO CITRO
+ITR	United States of America	OUT BACK
+ITS	United States of America	INTER-STATE
+ITU	Mexico	INTERLOS
+ITW	Bulgaria	INTER WINGS
+ITX	Republic of Azerbaijan	IMPROTEX
+IUS	Italy	ICARUS
+IVA	Canada	INNOTECH
+IVE	Spain	COMPANY EXEC
+IVJ	United States of America	INVADER JACK
+IVR	Kazakhstan	RURUN
+IVS	Côte d'Ivoire	IVOIRE AERO
+IVT	Ukraine	INTERAVIA
+IVW	Côte d'Ivoire	IVOIRAIRWAYS
+IWD	Spain	UNKNOWN
+IWS	Russian Federation	UNKNOWN
+IWY	Turks And Caicos Islands (U.K.)	ISLANDWAYS
+IXR	France	X-BIRD
+IXX	United States of America	ISLAND EXPRESS
+IYE	Yemen	YEMENI
+IZA	Russian Federation	IZHAVIA
+IZG	Iran, Islamic Republic of	ZAGROS
+IZM	Turkey	IZMIR
+JAB	Myanmar	AIR BAGAN
+JAC	Japan	COMMUTER
+JAD	Mexico	AEROJAL
+JAE	China	JADE CARGO
+JAF	Belgium	BEAUTY
+JAG	Austria	JETALLIANCE
+JAI	India	JET AIRWAYS
+JAL	Japan	JAPANAIR
+JAM	Kenya	SUNTRACK
+JAN	United Kingdom	JANES
+JAR	Austria	AIRLINK
+JAT	Serbia and Montenegro	JAT
+JAV	Jordan	JORDAN AVIATION
+JAW	Libyan Arab Jamahiriya	JAW
+JAX	Virtual Airline	JET AMERICA
+JAY	Gambia	AFRICA ALLIANCE
+JAZ	Japan	J-WAYS
+JBA	Canada	HELIJET
+JBL	United Kingdom	UNKNOWN
+JBR	Czech Republic	JOBAIR
+JBU	United States of America	JETBLUE
+JCB	United Kingdom	JAYSEEBEE
+JCC	Australia	JETCRAFT
+JCF	Spain	JET CENTER
+JCH	Mauritania	TRADING CARGO
+JCI	Jordan	UNKNOWN
+JCK	Canada	JACKSON
+JCM	United States of America	SECUREAIR
+JCR	Netherlands	ROTTERDAM JETCENTER
+JCS	Switzerland	JETCLUB
+JCT	United States of America	JET CHARTER
+JCX	Germany	JET CONNECT
+JDA	United Kingdom	JAY DEE
+JDC	United States of America	JOHN DEERE
+JDG	Lithuania	LADYBLUE
+JDI	Poland	JEDI
+JDP	France	RED PELICAN
+JEA	Poland	JETA
+JEC	Singapore	TAIPAN
+JED	United States of America	JET EAST
+JEE	Nigeria	AMBJEK AIR
+JEF	Finland	JETFLITE
+JEI	Germany	JET EXECUTIVE
+JEJ	Mexico	MEXJETS
+JEK	Israel	JET OPS
+JEL	Canada	JETEL
+JEM	United Kingdom	GEMSTONE
+JEP	Spain	JET PERSONALES
+JES	Mexico	JAY-ESS AVIATION
+JET	Italy	GHIBLI
+JEV	Spain	UNKNOWN
+JEX	Japan	JANEX
+JFC	United States of America	JET-FLEET
+JFL	Austria	BLUE DANUBE
+JFS	Indonesia	JAEMCO
+JFU	Morocco	ARGAN
+JFY	United Kingdom	YEOMAN
+JGD	Israel	JET GEE-AND-DEE
+JHB	Virtual Airline	DIAMOND
+JHM	Costa Rica	UNKNOWN
+JHN	United States of America	AIR JOHNSON
+JIA	United States of America	BLUE STREAK
+JIB	Djibouti	JIBAIRLINE
+JIC	Thailand	JIC-JET
+JIM	United Kingdom	SARK
+JJA	Republic of Korea	JEJU AIR
+JJM	Spain	GEODATA
+JKK	Spain	SPANAIR
+JKR	United States of America	JOKER
+JKY	United Kingdom	JOCKEY
+JKZ	Kazakhstan	JETAL
+JLA	Romania	SALLINE
+JLF	Germany	CAVALLO
+JLH	Netherlands	UNKNOWN
+JLL	India	LITE JET
+JLN	Malta	JET LINE
+JLS	Sao Tome and Principe	UNKNOWN
+JLX	Kenya	KEN JET
+JMB	Democratic Republic of the Congo	JAMBOAFRICA
+JMC	United Kingdom	JAYEMMSEE
+JMG	Ireland	JET MAGIC
+JMJ	United States of America	JOHNSTON
+JMM	Sudan	JOICOMAIR
+JMP	Germany	JUMP RUN
+JMT	Mexico	JOMARTAXI
+JMX	Jamaica	JAMAICA EXPRESS
+JNA	Republic of Korea	JIN AIR
+JNH	United States of America	JONAH
+JNL	Netherlands	JETNETHERLANDS
+JNR	Mexico	JET NORTE
+JNV	Spain	JETNOVA
+JNY	United States of America	JENAIR
+JOA	Australia	UNKNOWN
+JOB	Mexico	JOBENI
+JOL	Kazakhstan	EDIL
+JON	Ghana	JOHNSONSAIR
+JOR	Romania	BLUE TRANSPORT
+JOS	Guatemala	UNKNOWN
+JOY	China	JOY AIR
+JPA	United States of America	J-PAT
+JPI	Estonia	UNKNOWN
+JPN	United Kingdom	JETPLAN
+JPO	Mexico	JETPRO
+JPQ	Mexico	JETT PAQUETERIA
+JPR	United States of America	JASPER
+JRF	Japan	UNKNOWN
+JRI	United Kingdom	JETRIDER
+JRN	Mexico	JET RENT
+JSA	Singapore	UNKNOWN
+JSE	Mexico	SERVIJETS
+JSI	Russian Federation	SISTEMA
+JSJ	Pakistan	JS CHARTER
+JSL	United States of America	SELECTJET
+JSM	Republic of Moldova	JET STREAM
+JST	Australia	JETSTAR
+JSV	Japan	UNKNOWN
+JSW	United Kingdom	JIGSAW
+JTA	Japan	JAI OCEAN
+JTC	Ghana	JETRANS
+JTE	Australia	JETEX
+JTG	Denmark	JETTIME
+JTM	Ireland	SKYMAN
+JTN	United States of America	JETTRAIN
+JTR	United Kingdom	JESTER
+JTS	Mexico	AVIONESJETS
+JTT	Russian Federation	MOSCOW JET
+JTU	Kazakhstan	ZHETYSU
+JTX	United States of America	JET ASPEN
+JTY	Indonesia	JATAYU
+JUA	Mexico	JUAREZ
+JUB	Somali Republic	JUBBA
+JUC	Sudan	JUBA CARGO
+JUR	Switzerland	JUNKERS
+JUS	United States of America	JET USA
+JVK	Iceland	ICELANDIC
+JWY	United States of America	JETWAYS
+JXA	Lebanon	UNKNOWN
+JXT	United Kingdom	VANNIN
+JXX	Iceland	JETBIRD
+JYP	Mexico	UNKNOWN
+JZA	Canada	JAZZ
+JZR	Kuwait	JAZEERA
+KAA	Republic of Korea	AASCO
+KAC	Kuwait	KUWAITI
+KAE	Indonesia	KARTIKA
+KAI	United States of America	KAISER
+KAJ	Tunisia	KARTHAGO
+KAK	Libyan Arab Jamahiriya	AKRAVIA
+KAL	Republic of Korea	KOREANAIR
+KAM	Italy	ICO-AIR
+KAO	Russian Federation	KAZAVIA
+KAP	United States of America	CAIR
+KAT	Norway	KATO-AIR
+KAV	Libyan Arab Jamahiriya	AIRKUFRA
+KAW	Kazakhstan	KAZWEST
+KBA	Canada	BOREK AIR
+KBR	Egypt	KORAL BLUE
+KBV	Sweden	SWECOAST
+KCA	Ukraine	TRANS-KIEV
+KCE	Canada	KACEY
+KDA	Australia	KENDELL
+KDC	Canada	KAY DEE
+KDR	Uganda	DARLINES
+KDZ	United States of America	KUDZU
+KEA	Republic of Korea	KOREA EXPRESS
+KEE	Canada	KEYSTONE
+KEJ	Kazakhstan	KAZAIRJET
+KEK	Kazakhstan	ARKHABAY
+KEL	Kazakhstan	KELAIR
+KEN	United States of America	KENMORE
+KES	Libyan Arab Jamahiriya	KALLAT EL SKER
+KEY	United States of America	KEY AIR
+KFA	Canada	FLIGHTCRAFT
+KFC	Ukraine	KREMENCHUK
+KFK	Austria	KRIFKA AIR
+KFR	India	KINGFISHER
+KFS	United States of America	KALITTA
+KGA	Kyrgyzstan	KYRGYZ
+KGC	United Kingdom	GOLDCREST
+KGD	Bulgaria	CONCORDE AIR
+KGL	Russian Federation	KOGALYM
+KGT	Nigeria	KNIGHT-LINER
+KHA	United States of America	AIR KITTYHAWK
+KHB	Russian Federation	DALAVIA
+KHC	United States of America	CARGO HAWK
+KHE	Israel	KANFEY HAEMEK
+KHH	Egypt	UNKNOWN
+KHM	Cambodia	CAMBODIA AIRLINES
+KHO	Ukraine	AIRCOMPANY KHORS
+KHP	Iran, Islamic Republic of	PHOTROS AIR
+KHR	Turkmenistan	KHAZAR
+KHX	United States of America	RIZZ
+KHY	Afghanistan	KHYBER
+KIA	United States of America	KIWI AIR
+KIE	Germany	TWEETY
+KIL	Russian Federation	AIR KUBAN
+KIN	United Kingdom	KINLOSS
+KIP	Sweden	KINNARPS
+KIR	Thailand	KRABI AIRLINE
+KIS	Germany	CONTACTAIR
+KIW	New Zealand	KIWI
+KIZ	Israel	UNKNOWN
+KJC	Russian Federation	KRASNOJARSKY AIR
+KKA	Kazakhstan	KAKAIR
+KKB	United States of America	KHAKI BLUE
+KKK	Turkey	ATLASJET
+KKS	Kazakhstan	KOKSHE
+KLB	Mali	TRANS MALI
+KLC	Netherlands	CITY
+KLD	Lithuania	AIR KLAIPEDA
+KLE	Russian Federation	UNKNOWN
+KLG	Denmark	KARLOG
+KLH	Netherlands	KLM HELI
+KLM	Netherlands	KLM
+KLO	Canada	KLONDIKE
+KLR	United States of America	KAY-LER
+KLX	Nigeria	KELIX
+KLZ	Mexico	AEROKALUZ
+KMA	Russian Federation	KOMI AVIA
+KMB	United Kingdom	KEMBLEJET
+KMC	United Republic of Tanzania	KAHAMA
+KMF	Afghanistan	KAMGAR
+KMG	Serbia and Montenegro	KOSMAS CARGO
+KMI	Thailand	KAY-MILE AIR
+KMO	Union of the Comoros	UNKNOWN
+KMP	Cambodia	KAMPUCHEA
+KMR	United States of America	KOMSTAR
+KMS	Colombia	UNKNOWN
+KMV	Russian Federation	KOMINTER
+KNA	China	KUNMING AIR
+KNE	Saudi Arabia	NAS EXPRESS
+KNG	United Kingdom	KING
+KNI	Russian Federation	KALININGRAD AIR
+KNM	Russian Federation	KNAAPO
+KNS	Democratic Republic of the Congo	KINSHASA AIRWAYS
+KNT	Virtual Airline	KNIGHT
+KNX	Canada	KNIGHT FLIGHT
+KNZ	United States of America	KINZE
+KOA	Spain	KOANDA
+KOB	Hungary	AUTOFLEX
+KOE	United States of America	KOKEE
+KOK	United States of America	KOKO
+KOM	Netherlands	COMJET
+KOP	Chile	COPTERS
+KOR	Democratic People's Republic of Korea	AIR KORYO
+KOS	Serbia and Montenegro	KOSOVA
+KOV	Kazakhstan	ORLAN
+KOY	Kazakhstan	ALEKS
+KPA	China	KUN PENG
+KPH	Russian Federation	KAMA
+KPR	Namibia	SKIPPER
+KPT	United Kingdom	BALADO
+KQA	Kenya	KENYA
+KRA	Colombia	UNKNOWN
+KRB	United Republic of Tanzania	KARIBU AIR
+KRC	New Zealand	KIWI RESCUE
+KRE	Colombia	AEROSUCRE
+KRF	United Kingdom	KITTYHAWK
+KRG	Ukraine	AVIAMONTAG
+KRH	United Kingdom	SPARROWHAWK
+KRM	Ukraine	TRANS UNIVERSAL
+KRN	Kazakhstan	ANTOL
+KRO	Ukraine	KROONK
+KRP	Romania	CARPATAIR
+KRT	Kazakhstan	KOKTA
+KRV	Ukraine	KHORIV-AVIA
+KSA	Latvia	SKY CAMEL
+KSI	Angola	KISSARI
+KSJ	Greece	KAY-JETS
+KSM	Russian Federation	KOSMOS
+KSP	Colombia	SAEP
+KSS	United States of America	KANSAS
+KST	Germany	KING STAR
+KSU	United States of America	K-STATE
+KSZ	Virtual Airline	KSHERSHAIR
+KTA	Russian Federation	VYATKA-AVIA
+KTB	Lithuania	TRANSBALTIKA
+KTC	Kyrgyzstan	DINARA
+KTK	Russian Federation	KATEKAVIA
+KTL	South Africa	KNOTTSBERRY
+KTN	Ukraine	AERONAVIGACIYA
+KTR	Sweden	COPTER TRANS
+KTS	Russian Federation	KOTAIR
+KTV	Sudan	KATAVIA
+KUR	Indonesia	KAY-AVIATION
+KUS	South Africa	KUSWAG
+KUY	Kazakhstan	KAIGA
+KVA	Bolivarian Republic of Venezuela	UNKNOWN
+KVK	Kazakhstan	PONTA
+KVR	Kazakhstan	KAVAIR
+KWA	Kazakhstan	VOZAIR
+KWI	Lebanon	UNKNOWN
+KWN	South Africa	KWENA
+KYB	Italy	SKY AIROPS
+KYC	United States of America	DOLPHIN
+KYM	Ukraine	CRIMEA AIR
+KYR	Mexico	SKY AERONAUTICAL
+KYV	Turkey	AIRKIBRIS
+KZA	Russian Federation	UNKNOWN
+KZE	Kazakhstan	KAZEUR
+KZH	Kazakhstan	ULUTAU
+KZM	Zambia	CARZAM
+KZR	Kazakhstan	ASTANALINE
+KZS	Kazakhstan	SPAKAZ
+KZU	Turkey	KUZU CARGO
+KZW	Algeria	KHALIFA AIR
+LAA	Libyan Arab Jamahiriya	LIBAIR
+LAB	United States of America	LAB
+LAC	United States of America	LOCKHEED
+LAD	United States of America	LADCO-AIR
+LAF	Latvia	LATVIAN AIRFORCE
+LAG	Mexico	AEROLAGOS
+LAH	United States of America	STAR SHIP
+LAI	Indonesia	AIRLINUS
+LAJ	United Kingdom	BEE MED
+LAL	Canada	LAB AIR
+LAM	Mozambique	MOZAMBIQUE
+LAN	Chile	LAN CHILE
+LAO	Lao People's Democratic Republic	LAO
+LAP	Paraguay	PARAGUAYA
+LAQ	Lebanon	LAT
+LAR	United States of America	LAWRENCE
+LAS	Switzerland	LIONS HELICOPTER
+LAT	Lebanon	LEBANESE AIR
+LAU	Colombia	SURAMERICANO
+LAV	Austria	SHADOW
+LAW	Australia	UNKNOWN
+LAY	Malaysia	LAYANG
+LBA	Central African Republic	LOBAYE
+LBC	Albania	ALBANIAN
+LBH	United States of America	LAKER BAHAMAS
+LBI	Mexico	ALBISA
+LBQ	United States of America	LABQUEST
+LBR	Germany	MOTION
+LBT	Tunisia	NOUVELAIR
+LBW	Albania	ALBANWAYS
+LBY	Albania	ALBAN-BELLE
+LCA	United States of America	LECONTE
+LCB	Peru	BUSRE
+LCC	United States of America	LANCAIR
+LCD	Mexico	LINEAS AZTECA
+LCG	Democratic Republic of the Congo	CONGOLAISE
+LCH	United States of America	LYNCH AIR
+LCM	Mexico	LINEAS COMERCIALES
+LCN	Bolivia	CANEDO
+LCO	Chile	LAN CARGO
+LCR	Libyan Arab Jamahiriya	LIBAC
+LCS	United Kingdom	LEUCHARS
+LCT	Spain	STELLAIR
+LCY	United Kingdom	LONDON CITY
+LDA	Austria	LAUDA AIR
+LDE	Argentina	LADE
+LDG	Mexico	DURANGO
+LDI	Italy	LAUDA ITALY
+LDL	Russian Federation	UNKNOWN
+LDN	Nigeria	ALDONAS AIR
+LDR	Mexico	AEROLIDER
+LDS	Virtual Airline	ACID
+LEA	France	LEADAIR
+LEB	Turkmenistan	LEBAP
+LEC	Central African Republic	LECA
+LED	Norway	SWEEPER
+LEE	United Kingdom	JAVELIN
+LEG	United States of America	LEGACY
+LEJ	Germany	LEIPZIG FAIR
+LEL	Spain	LEONAVIA
+LEM	Egypt	UNKNOWN
+LEN	United States of America	LENTINI
+LEP	United States of America	LAUGHLIN EXPRESS
+LER	Bolivarian Republic of Venezuela	LASER
+LET	Mexico	MEXEJECUTIV
+LEU	Switzerland	LIONSAIR
+LEX	United States of America	LEX
+LFA	Turkey	UNKNOWN
+LFC	Canada	LIFE FLIGHT CANADA
+LFE	Luxembourg	LUX EXPRESS
+LFI	South Africa	AEROMED
+LFL	Zimbabwe	LIFE FLIGHT
+LFM	The former Yugoslav Republic of Macedonia	LIFT AIR
+LFO	Germany	LUFO
+LFP	Australia	ALFA-SPACE
+LFR	Sao Tome and Principe	LANFREIGHT
+LGA	Spain	LAGUN AIR
+LGD	United States of America	LEGENDARY
+LGI	Republic of Korea	ELL-GEE AIR
+LGL	Luxembourg	LUXAIR
+LGN	Mexico	AEROLAGUNA
+LGS	Poland	UNKNOWN
+LGT	United Kingdom	LONGTAIL
+LGU	Mexico	LAGUNA
+LGW	Germany	WALTER
+LHA	Virtual Airline	LEIPZIG AIR
+LHC	United Kingdom	MUSTANG
+LHM	United States of America	UNKNOWN
+LHN	United States of America	LONGHORN
+LHR	Egypt	AL AHRAM
+LHS	Ukraine	ENTERPRISE LUHANSK
+LHT	Germany	LUFTHANSA TECHNIK
+LIA	Antigua and Barbuda	LIAT
+LIB	Germany	LIBELLE
+LID	Italy	ALIDA
+LIE	Nigeria	AL-DAWOOD AIR
+LIF	United States of America	LIFECARE
+LIJ	Mexico	LINEAS JOSE
+LIL	Lithuania	LITHUANIAN
+LIN	Russian Federation	AEROLIMOUSINE
+LIQ	Sweden	UNKNOWN
+LIR	Belarus	LISLINE
+LIS	Kazakhstan	LARISA
+LIT	Virtual Airline	LITTORAL
+LIV	Estonia	LIVONIA
+LJA	Libyan Arab Jamahiriya	AIR JAMAHIRIYA
+LJY	United States of America	ELJAY
+LKA	Lao People's Democratic Republic	NAKLAO
+LKD	Chad	LATCHAD
+LKE	China	LUCKY AIR
+LKL	United States of America	LAKELAND
+LKP	United States of America	LAKE POWELL
+LKR	United States of America	LAKER
+LKS	Spain	AIRLIN
+LKV	Russian Federation	UNKNOWN
+LKW	Indonesia	TOPINTER
+LKX	Italy	MUTTLEY
+LKY	United States of America	LUCKY
+LLA	Mexico	LEO LOPEZ
+LLB	Bolivia	LLOYDAEREO
+LLL	Lao People's Democratic Republic	LAVIE
+LLM	Russian Federation	YAMAL
+LLO	Canada	APOLLO
+LLR	India	ALLIED
+LLS	Mexico	SERVIESTRELLA
+LMA	Mexico	AEROLIMA
+LMC	Mexico	LINEA DECARGA
+LME	Mauritania	LIMAIR EXPRESS
+LMG	South Africa	SOUTH AFRICAN
+LMJ	Portugal	MASTERJET
+LMK	United Kingdom	LANDMARK
+LML	Libyan Arab Jamahiriya	ALAMIA AIR
+LMN	Mexico	LINEAS MONARCA
+LMO	United States of America	SKY LIMO
+LMP	Argentina	AIR FLIGHT
+LMR	Sudan	LAMAIR
+LMS	United Kingdom	LOMAS
+LMT	Kazakhstan	ALMATY
+LMX	Mexico	LINEAS MEXICANAS
+LMY	Kazakhstan	AGLEB
+LMZ	Kazakhstan	ALUNK
+LNA	Spain	ELNAIR
+LNC	Dominican Republic	LANCANA
+LNE	Ecuador	LAN ECUADOR
+LNF	Virtual Airline	LENFLY
+LNG	United States of America	LIGHTNING
+LNI	Indonesia	LION INTER
+LNK	South Africa	LINK
+LNP	Chile	SAPSA
+LNS	Ecuador	LANSA
+LNT	Mexico	LINEAINT
+LNX	United Kingdom	LONEX
+LOC	United States of America	LOCAIR
+LOD	Sweden	LOGIC
+LOF	United States of America	WATERSKI
+LOG	United Kingdom	LOGAN
+LOK	Sudan	ALOK AIR
+LOP	United Kingdom	LINTON
+LOR	South Africa	LEO CHARTER
+LOS	United Kingdom	LOSSIE
+LOT	Poland	POLLOT
+LOU	Senegal	AIR SAINTLOUIS
+LOV	United Kingdom	LOVEAIR
+LOW	Virtual Airline	LOWLAND
+LPA	Mexico	LINEASPAL
+LPC	South Africa	NETSTAR
+LPD	United Kingdom	LEOPARD
+LPE	Peru	LANPERU
+LPL	United States of America	LEASE-A-PLANE
+LPN	Philippines	LAOAG AIR
+LPR	Argentina	LAPA
+LPV	Austria	ALPAV
+LRB	Czech Republic	LADY RACINE
+LRC	Costa Rica	LACSA
+LRD	United States of America	LAREDO AIR
+LRO	Russian Federation	ALROSA
+LRR	France	LORRAINE
+LRS	Costa Rica	UNKNOWN
+LRT	Australia	UNKNOWN
+LRW	Mauritania	AL RIDA
+LSA	Dominican Republic	INTERNACIONAL
+LSC	Chile	CEDROS
+LSE	Chile	UNKNOWN
+LSK	Lithuania	AURELA
+LSM	Russian Federation	UNKNOWN
+LSP	United Kingdom	AIR TONY
+LSR	France	ALSAIR
+LSS	United States of America	LONE STAR
+LSU	Croatia	LAUS AIR
+LSY	United States of America	LINDSAY AIR
+LTA	Canada	LANTRA
+LTC	Latvia	LATCHARTER
+LTE	Spain	FUN JET
+LTF	Czech Republic	LETS FLY
+LTI	Mexico	LATINO
+LTL	Benin	LITTORAL
+LTO	Austria	BILLA TRANSPORT
+LTR	Norway	LUFT TRANSPORT
+LTS	Russian Federation	SPECAIR
+LTU	Germany	LTU
+LTW	Netherlands	TWENTAIR
+LTZ	South Africa	LAMINAR
+LUA	Portugal	LUSITANIA
+LUC	Switzerland	ALBINATI
+LUK	Russian Federation	LUKOIL
+LUR	Armenia	UNKNOWN
+LUT	South Africa	LUGO
+LUV	Luxembourg	LUX RESCUE
+LUZ	Portugal	LISBON JET
+LVA	Virtual Airline	LIBERTY
+LVB	Nigeria	SILVERBIRD
+LVD	Austria	AIR SANTE
+LVG	Italy	LIVINGSTON
+LVN	Italy	ALIVEN
+LVR	Lithuania	AVIAVILSA
+LVT	Mexico	TAXIVALENCIANA
+LWA	Virtual Airline	LIVEWIRE
+LWD	United States of America	LEISURE WORLD
+LXA	Virtual Airline	LUNATICS
+LXF	United States of America	LYNX FLIGHT
+LXG	Guinea-Bissau	LUXOR GOLF
+LXJ	United States of America	FLEXJET
+LXO	Egypt	UNKNOWN
+LXP	Chile	LANEX
+LXR	Portugal	AIRLUXOR
+LXS	Mexico	LYNX SERVICIOS
+LYC	United States of America	LYNDEN
+LYD	United Kingdom	LYDDAIR
+LYF	Lithuania	LITHUANIAN AIRFORCE
+LYM	United States of America	KEY LIME
+LYN	Kyrgyzstan	ALTYN AVIA
+LYW	Libyan Arab Jamahiriya	LIBYAN AIRWAYS
+LYX	Pakistan	LYNX AIR
+LZA	Spain	AEROLANZA
+LZB	Bulgaria	FLYING BULGARIA
+LZP	Bulgaria	DOC AIR
+LZR	Bulgaria	LAZUR BEE-GEE
+LZT	Spain	BARAKA
+LZZ	Bulgaria	UNKNOWN
+MAA	Mexico	MAS CARGA
+MAC	Malta	MALTA CHARTER
+MAE	Austria	MALI AIREXPRESS
+MAF	Indonesia	MISSI
+MAH	Hungary	MALEV
+MAI	Kyrgyzstan	MAX AVIA
+MAJ	United States of America	MAGIC AIR
+MAK	The former Yugoslav Republic of Macedonia	MAKAVIO
+MAL	Canada	MORNINGSTAR
+MAM	Spain	AEROMAN
+MAN	United States of America	MANNION
+MAP	United States of America	MAPPING
+MAQ	Spain	MAC AVIATION
+MAR	United Kingdom	MARCH
+MAS	Malaysia	MALAYSIAN
+MAT	United States of America	MAINE-AV
+MAU	Mauritius	AIRMAURITIUS
+MAV	Mexico	SERVICIOS COLIMA
+MAW	Saint Vincent and the Grenadines	MUSTIQUE
+MAX	Virtual Airline	MAX
+MAY	Austria	MAJESTY
+MAZ	Zambia	MINES
+MBA	Austria	AVAG AIR
+MBB	Kyrgyzstan	AIR MANAS
+MBC	Angola	MABECO
+MBE	United Kingdom	MARTIN
+MBI	United States of America	MOUNTAIN BIRD
+MBL	United Kingdom	FIRST CITY
+MBN	Zambia	ZAMBIANA
+MBR	Brazil	BRAZILIAN NAVY
+MBS	Malawi	MBACHI AIR
+MCA	Virtual Airline	MIDCON
+MCC	South Africa	DISCOVERY
+MCD	United Kingdom	AIR MED
+MCE	United Kingdom	MARSHALL
+MCF	Spain	MAC FOTO
+MCG	Sweden	MEDICOPTER
+MCK	Australia	UNKNOWN
+MCL	United Kingdom	MEDIC
+MCM	Monaco	HELI AIR
+MCN	United States of America	MAC DAN
+MCO	Mexico	MARCOS
+MCP	Afghanistan	MARCOPOLO
+MCS	Greece	MACAIR
+MCT	Mexico	TRANS CORTES
+MCV	Mexico	MTC AVIACION
+MCW	Central African Republic	MACHINE WORKS
+MCX	Mauritania	MAURICARGO
+MCY	South Africa	MERCY
+MDB	United Kingdom	MONDEAIR CARGO
+MDC	United States of America	NIGHT SHIP
+MDE	Mauritania	MAURI-TRANS
+MDF	Greece	MED-FREIGHT
+MDG	Madagascar	AIR MADAGASCAR
+MDH	Libyan Arab Jamahiriya	MADINA AIR
+MDJ	Romania	JETRAN AIR
+MDL	Indonesia	MANDALA
+MDM	Malta	MEDAVIA
+MDN	Somali Republic	UNKNOWN
+MDR	Mexico	AEROPLANOS
+MDS	United States of America	MID-SOUTH
+MDT	Norway	MIDNIGHT
+MDV	Republic of Moldova	MOLDAVIAN
+MDW	United States of America	MIDWAY
+MDX	South Africa	MEDAIR
+MDY	Egypt	UNKNOWN
+MEA	Lebanon	CEDAR JET
+MEC	United States of America	MERCAIR
+MED	Canada	MEDICAL
+MEE	Italy	ELIMEDITERRANEA
+MEF	Nigeria	EMPENNAGE
+MEG	Armenia	MEGALINES
+MEI	United States of America	AVALON
+MEJ	United States of America	MEDJET
+MEK	United States of America	MED-TRANS
+MEL	Brazil	MEGA AIR
+MEM	Ukraine	MERIDIAN CHERRY
+MEP	United States of America	MIDEX
+MER	United States of America	METHOW
+MES	United States of America	MESABA
+MET	United Kingdom	METMAN
+MEV	Nigeria	MED-VIEW
+MEX	United States of America	EAGLE EXPRESS
+MEY	Sweden	MELODY
+MFA	United Kingdom	SEAHORSE
+MFC	Canada	EAST WIND
+MFL	Mexico	MCFLY
+MFP	United States of America	FOREST RANGER
+MFR	United States of America	MIDLINE FREIGHT
+MFS	United States of America	MILLER TIME
+MFT	United Kingdom	YORKAIR
+MFZ	Malaysia	MOFAZ AIR
+MGA	Spain	MAG AVIACION
+MGB	United Kingdom	MOCKINGBIRD
+MGE	United States of America	MAGELLAN
+MGG	Sudan	ELMAGAL
+MGH	Bangladesh	MGH GLOBAL
+MGI	Nigeria	MARGHI
+MGK	Kazakhstan	MEGLA
+MGL	Mongolia	MONGOL AIR
+MGM	Mexico	AERO EMM-GEE-EMM
+MGO	Spain	MANGO
+MGR	Austria	MAGNA AIR
+MGS	Mexico	AEROMAGAR
+MGX	Serbia and Montenegro	MONTAIR
+MHA	United States of America	MOUNTAIN HIGH
+MHC	Mexico	AERO JOMACHA
+MHD	Iran, Islamic Republic of	YAS AIR
+MHL	Nigeria	HASSIMAIR
+MHN	United Kingdom	MANHATTAN
+MHS	Egypt	AIR MEMPHIS
+MHU	Uganda	MEMPHIS UGANDA
+MIA	Mauritania	MAURIA
+MIE	Mexico	AEROPREMIER
+MIF	Kazakhstan	MIRAS
+MIG	Russian Federation	MIG AVIA
+MIM	Russian Federation	MIMINO
+MIN	Thailand	UNKNOWN
+MIR	Canada	MIRAMICHI
+MIS	United States of America	MIDSTATE
+MIT	United States of America	MATCO
+MIX	United Arab Emirates	MIDEXCARGO
+MIZ	Mexico	MILAZ
+MJA	Sudan	MAJARA
+MJB	Netherlands	MAGIC BLUE
+MJE	United Arab Emirates	EMJET
+MJF	Austria	EM-EXPRESS
+MJI	United States of America	MAJESTIC JET
+MJL	Republic of Moldova	MOLDJET
+MJM	Italy	ELCO ETI
+MJN	Oman	MAJAN
+MJR	United States of America	MAJOR
+MJS	Austria	MEDICAL JET
+MJT	Mexico	MEJETS
+MKA	Ghana	KRUGER-AIR
+MKE	Indonesia	MEGANTARA
+MKH	Morocco	AIR MARRAKECH
+MKK	Russian Federation	AEROKEY
+MKL	United States of America	MCCALL
+MKN	Cambodia	MEKONG AIRLINES
+MKO	United Kingdom	GOSHAWK
+MKU	United States of America	MOKU
+MKY	Mexico	MONKY
+MLA	United States of America	MILE-AIR
+MLB	Burundi	MANAF
+MLC	Democratic Republic of the Congo	MALILA
+MLD	Republic of Moldova	AIR MOLDOVA
+MLE	Republic of Moldova	MOLDAERO
+MLF	Djibouti	AMAL
+MLG	Madagascar	UNKNOWN
+MLH	United States of America	MAHALO
+MLI	Mali	AIR MALI
+MLK	Nigeria	NIGERJET
+MLL	Spain	MALLORCA
+MLO	Mexico	MILENIO
+MLR	Sri Lanka	MIHIN LANKA
+MLS	United States of America	MALL-AIRWAYS
+MLU	Croatia	MALI LOSINJ
+MLX	Malawi	MALAWI EXPRESS
+MMA	Myanmar	UNKNOWN
+MMC	Italy	AERMARCHE
+MMD	Denmark	MERMAID
+MME	South Africa	MAJESTIC AIR
+MMG	Guatemala	UNKNOWN
+MMM	Russian Federation	AVIAMERIDIAN
+MMP	United States of America	AMP-INC
+MMR	Libyan Arab Jamahiriya	MUSRATA AIR
+MMS	Cayman Is. (U.K.)	MUSAAD AIR
+MMX	Peru	PERUMAX
+MMZ	Portugal	EUROATLANTIC
+MNA	Indonesia	MERPATI
+MNB	Turkey	BLACK SEA
+MND	Spain	CUGAT
+MNE	Mexico	AEROAMANECER
+MNG	Mongolia	AERO MONGOLIA
+MNH	United States of America	MONARCH AIR
+MNI	Mexico	AEROMIL
+MNJ	Lebanon	MENAJET
+MNL	Italy	MINILINER
+MNO	South Africa	TULCA
+MNT	Montserrat I. (U.K.)	MONTSERRAT
+MNV	Mauritania	NAVALE
+MNX	United Kingdom	MANX
+MNY	United States of America	MOONEY FLIGHT
+MNZ	Russian Federation	MURMAN AIR
+MOC	Mexico	MONARCH CARGO
+MOD	Portugal	MONDEGO
+MOH	United Kingdom	MOTH
+MOK	Czech Republic	UNKNOWN
+MOL	Mexico	TAXI MOREL
+MON	United Kingdom	MONARCH
+MOP	Angola	PUBLICITARIA
+MOR	Mexico	AEROMORELIA
+MOS	Virtual Airline	MOSCOW
+MOV	Russian Federation	MOV AIR
+MOW	United States of America	MOHAWK AIR
+MOZ	Austria	MOZART
+MPA	United States of America	MID PAC
+MPD	Spain	RED COMET
+MPE	Canada	EMPRESS
+MPH	Netherlands	MARTINAIR
+MPI	Philippines	MOSPHIL
+MPJ	Austria	MAPJET
+MPL	United States of America	UNKNOWN
+MPO	Mexico	AMPARO
+MPR	Nigeria	UNKNOWN
+MPS	Netherlands	METRO REGIONAL
+MPT	Armenia	MIAPET
+MPX	Mexico	AEROMEXPRESS
+MQT	Virtual Airline	MUSKETEER
+MRA	United States of America	MARTEX
+MRB	Kazakhstan	TOMA
+MRD	United States of America	MERIDIAN
+MRE	Namibia	MED RESCUE
+MRF	Mauritania	MAUR-FRET
+MRG	France	MANAG'AIR
+MRH	United Kingdom	MARHAM
+MRI	Mexico	MORITANI
+MRK	United States of America	MARKAIR
+MRL	Mexico	AEROMORELOS
+MRM	Canada	MARITIME
+MRN	France	MARIANNE
+MRO	United States of America	MORRISON
+MRP	Czech Republic	ABAS
+MRR	United States of America	MARINER
+MRT	Mauritania	MIKE ROMEO
+MRW	Ukraine	AVIAMARS
+MRX	United States of America	SPEEDMARK
+MRZ	Zimbabwe	MARS
+MSA	Italy	AIRMERCI
+MSC	Egypt	UNKNOWN
+MSE	Egypt	EGYPTAIR EXPRESS
+MSF	El Salvador	MAXESA
+MSG	Mozambique	SAR-REGIONAL
+MSH	United States of America	MARSHALAIR
+MSI	Ukraine	MOTOR SICH
+MSK	Bulgaria	AIR SPORT
+MSL	Sudan	MARSLANDAIR
+MSM	Uruguay	AEROMAS EXPRESS
+MSN	Spain	MISIONAIR
+MSO	Mexico	MESO AMERICANAS
+MSP	Costa Rica	SEGURIDAD
+MSQ	Brazil	META
+MSR	Egypt	EGYPTAIR
+MSS	United States of America	WASATCH
+MST	Brazil	MASTER
+MSV	Russian Federation	AERAFKAM
+MSW	Serbia and Montenegro	MASTER AIRWAYS
+MSX	Egypt	EGYPTAIR CARGO
+MSY	New Zealand	MASSEY
+MTA	United States of America	GAK AVIATION
+MTB	Mexico	AEROMETROPOLIS
+MTD	Australia	UNKNOWN
+MTE	Chile	AEROMET
+MTF	Italy	INTERJET
+MTG	Mexico	UNKNOWN
+MTH	United States of America	RESEARCH
+MTI	Mexico	MONTERREY AIR
+MTJ	Hong Kong Special Administrative Region of China	METROJET
+MTK	Angola	AIRMETACK
+MTL	Latvia	MITAVIA
+MTM	United Kingdom	METEOR
+MTN	Virtual Airline	MOUNTAIN AIR
+MTO	Canada	MANITOULIN
+MTP	United States of America	METROCOPTER
+MTR	United States of America	METRO
+MTS	Indonesia	MANTRUST
+MTV	United States of America	MOUNTAIN VALLEY
+MTW	Mauritania	MAURITANIA AIRWAYS
+MTX	Mexico	MULTITAXI
+MTY	United Kingdom	MONTY
+MTZ	Mali	MALI AIRWAYS
+MUA	United States of America	MURRAY AIR
+MUI	United States of America	MAUI
+MUN	Mexico	AEROMUNDO
+MUR	Mexico	MURI
+MVA	United States of America	VALAIR
+MVD	Russian Federation	AIR MINVODY
+MVG	Republic of Moldova	MOLDOVA-STATE
+MVI	United Kingdom	UNKNOWN
+MVK	United Kingdom	MAVRIK
+MVM	United States of America	PEGASUS
+MVN	United Kingdom	MARVIN
+MVR	United States of America	MAV-AIR
+MVY	Russian Federation	UNKNOWN
+MWA	Egypt	UNKNOWN
+MWG	Malaysia	MASWINGS
+MWR	Egypt	RASLAN
+MWS	Malta	MALTA WINGS
+MWT	United States of America	MIDWEST
+MWY	Mauritania	MAURITANIENNE
+MXA	Mexico	MEXICANA
+MXB	Mexico	MEX BLUE
+MXC	Mexico	MEXICARGO
+MXE	Mozambique	MOZAMBIQUE EXPRESS
+MXJ	United States of America	MAX-JET
+MXL	Sweden	MAXAIR
+MXO	Mexico	MEXAERO
+MXP	United States of America	BEECHNUT
+MXQ	Mexico	MEXIQUENSES
+MXT	Mexico	TRANSMEX
+MXU	United Arab Emirates	CARGO MAX
+MXX	Nigeria	MERCHANT
+MYA	Iceland	MYFLUG
+MYD	Belize	MYLAND
+MYI	Mexico	MAYAIR
+MYO	Spain	MAYORAL
+MYS	Mexico	AERO YAQUI
+MYV	Mexico	LINEAS MAYAB
+MYW	Italy	FRANKY
+MZA	Kazakhstan	AZAMAT
+MZK	Japan	UNKNOWN
+MZL	Mexico	MONTES AZULES
+MZS	Gambia	MAHFOOZ
+MZT	China	ZHONG TAI
+NAA	United States of America	NOAA
+NAB	Egypt	UNKNOWN
+NAC	Virtual Airline	AIRCARGO
+NAD	Indonesia	SEULAWAH
+NAE	United States of America	NATIONS EXPRESS
+NAF	Netherlands	NETHERLANDS AIR FORCE
+NAI	Croatia	NORTH-ADRIA
+NAL	Canada	NORTHWAY
+NAM	Canada	MANITOBA
+NAN	United States of America	NATION AIR
+NAO	United States of America	NORTH AMERICAN
+NAP	United States of America	NAPIER
+NAR	United States of America	NIGHT AIR
+NAS	Eritrea	NASAIRWAYS
+NAT	United States of America	MASS AIR
+NAU	Ukraine	ANTANIK
+NAV	Czech Republic	NAV DISPATCH
+NAX	Norway	NOR SHUTTLE
+NAY	Spain	NAYSA
+NAZ	Mexico	NAZAS
+NBE	Russian Federation	NAKAIR
+NBK	Nigeria	AL-AIR
+NBL	Virtual Airline	NOBLE AIR
+NBN	United Kingdom	TEESSAIR
+NBR	United Kingdom	NORBROOK
+NBS	United Kingdom	NIMBUS
+NCA	Japan	NIPPON CARGO
+NCB	Canada	NORTH CARIBOU
+NCE	United States of America	TOP HAT
+NCF	United Kingdom	COUNTY
+NCG	Netherlands	NETHERLANDS COASTGUARD
+NCH	Nigeria	CHANCHANGI
+NCL	Angola	ANCARGO AIR
+NCM	Mali	AIR BANE
+NCN	Nigeria	NICON AIRWAYS
+NCO	Sao Tome and Principe	NATALCO
+NCP	Nigeria	CAPITAL SHUTTLE
+NCS	Canada	COMMUTER-CANADA
+NDA	United States of America	NORTHERN DAKOTA
+NDC	Sweden	NORDIC
+NDF	Namibia	NAMIBIAN AIRFORCE
+NDN	Peru	ANDINOS
+NDS	Australia	UNKNOWN
+NDU	United States of America	SIOUX
+NEA	United States of America	NEW ENGLAND
+NEB	United States of America	NEBRASKA
+NEC	Virtual Airline	NORTHEAST
+NEE	United States of America	NORTHEAST
+NEF	Sweden	NORDEX
+NEG	Chile	AGUAS NEGRAS
+NEL	Mexico	AEROLAREDO
+NEN	Nigeria	NORTHEAST SWAN
+NER	United States of America	NEWAIR
+NES	Brazil	NORDESTE
+NET	Nigeria	NETWORK
+NEX	United Kingdom	NEATAX
+NEZ	United States of America	ENGAIR
+NFA	Denmark	NORTH FLYING
+NFC	Norway	NORTH ATLANTIC
+NFF	Lebanon	UNKNOWN
+NFL	United States of America	GREAT LAKES
+NFS	Senegal	UNKNOWN
+NFT	Russian Federation	NEFTEAVIA
+NGA	Nigeria	NIGERIA
+NGC	Angola	ANGOSERVICE
+NGE	Thailand	ANGEL AIR
+NGF	United States of America	ANGEL FLIGHT
+NGK	Japan	ORIENTAL BRIDGE
+NGL	Nigeria	MANGAL AIR
+NGO	Angola	AIR ANGOL
+NGP	Nigeria	REGAL EAGLE
+NGR	Nigeria	NIGERIAN AIRFORCE
+NGV	Angola	ANGOAVIA
+NGX	Nigeria	AIR GLOBAL
+NHA	United States of America	SHUTTLEFLIGHT
+NHG	Brazil	HELGA
+NHK	United States of America	NIGHTHAWK
+NHL	United Kingdom	NORTHUMBRIA
+NHR	Mexico	NUEVO HORIZONTE
+NHT	South Africa	NEWHEIGHTS
+NHZ	Chad	NADA AIR
+NIA	Egypt	UNKNOWN
+NIC	United States of America	ILLINOIS COMMUTER
+NID	Mexico	AERONI
+NIE	Mexico	AERONIETO
+NIG	Nigeria	AEROLINE
+NIH	Japan	UNKNOWN
+NIN	Indonesia	NURVINDO
+NIR	Norway	NORSEMAN
+NIS	Nicaragua	NICA
+NIT	United States of America	NIGHTTRAIN
+NJC	United States of America	NASHVILLE JET
+NJE	Portugal	FRACTION
+NJF	Saudi Arabia	SUNJET
+NJS	Australia	NATIONAL JET
+NJT	United States of America	NETJET
+NKA	Egypt	ANKA CARGO
+NKF	Sweden	NORDFLIGHT
+NKL	United Arab Emirates	NAKHEEL
+NKS	United States of America	SPIRIT WINGS
+NKT	United States of America	NORTH COUNTRY
+NKV	Ukraine	AIR NIKOLAEV
+NKZ	Russian Federation	NOVOKUZNETSK
+NLC	South Africa	NELAIR
+NLF	Canada	NORTHERN LIFE
+NLG	Côte d'Ivoire	NELCARGO
+NLK	Russian Federation	ELAVIA
+NLL	Libyan Arab Jamahiriya	NORTHAFRICAN AIR
+NLM	Spain	UNKNOWN
+NLS	Netherlands	PANDER
+NLT	Canada	NALAIR
+NLW	Sudan	NILE WINGS
+NLY	Austria	FLYNIKI
+NMB	Namibia	NAMIBIA
+NMD	Namibia	NOMAD AIR
+NMH	Virtual Airline	METRO
+NMI	United States of America	TSUNAMI
+NML	Gambia	NEWMILL
+NMR	Namibia	E-MED
+NOC	Norway	UNKNOWN
+NOF	Norway	FONNA
+NOH	United Kingdom	NORTHOLT
+NOJ	Canada	NOVAJET
+NOK	Thailand	NOK AIR
+NOL	Egypt	NAT AIRLINE
+NON	Mexico	SERVICIO LATINO
+NOR	Norway	NORSKE
+NOS	Italy	MOONFLOWER
+NOT	Chile	COSTA NORTE
+NOV	Sudan	NOVANILE
+NOW	Norway	NORWEGIAN
+NOY	Israel	NOY AVIATION
+NPC	United States of America	NORPAC
+NPL	Federal Democratic Republic of Nepal	AIR NEPAL
+NPO	Russian Federation	NOVSIB
+NPR	New Zealand	UNKNOWN
+NPT	United Kingdom	NEPTUNE
+NPU	Thailand	UNKNOWN
+NPX	United States of America	NORTHEAST EXPRESS
+NRC	Netherlands	NORTH SEA
+NRD	Sweden	NORTH RIDER
+NRE	Mexico	AVIONES ARE
+NRK	South Africa	NATURELINK
+NRL	Canada	NOLINOR
+NRN	Netherlands	NETHERLANDS NAVY
+NRO	Russian Federation	AEROMASTER
+NRP	Republic of Moldova	AERONORD
+NRR	Costa Rica	NATUREAIR
+NRS	United States of America	NORTH SLOPE
+NRT	Spain	NORESTAIR
+NRV	Canada	NORVAN
+NRW	Germany	HUMMEL
+NRX	South Africa	NORSE AIR
+NRZ	Mexico	MONARREZ
+NSA	Sudan	NILE SAFARIS
+NSC	Mauritania	TRANS-SOCIETE
+NSE	Colombia	SATENA
+NSF	United Kingdom	NORTON
+NSH	United States of America	NORTH-SHORE
+NSI	United States of America	NORTHERN SKIES
+NSK	Greece	INTERSALONIKA
+NSL	United Kingdom	NERICAIR
+NSM	United States of America	THUNDERCLOUD
+NSO	Honduras	SOSA
+NSP	Russian Federation	NARPAIR
+NSR	Indonesia	NASAIR
+NSS	United States of America	NORTHSTAR
+NST	Pakistan	NISHAT
+NSW	Australia	UNKNOWN
+NSX	Japan	UNKNOWN
+NTA	Canada	THUNDERBIRD
+NTB	Mexico	SERVINORTE
+NTC	United States of America	NIGHT CHASE
+NTD	Mexico	UNKNOWN
+NTE	Mexico	INTERMEX
+NTG	Mexico	INTEGRALES
+NTH	Japan	NORTH AIR
+NTJ	Sweden	NEXTJET
+NTK	United States of America	NATCA
+NTL	Turkey	AIR ANATOLIA
+NTN	South Africa	NATCHAIR
+NTO	Djibouti	UNKNOWN
+NTR	United Kingdom	NITRO
+NTS	United States of America	NITE STAR
+NTV	Côte d'Ivoire	INTER-IVOIRE
+NTW	South Africa	NATIONWIDE
+NTX	United States of America	NORTAX
+NUL	Mexico	SERVICIOS NUEVOLEON
+NUN	Canada	NUNASI
+NUS	United States of America	ENJET
+NVA	Egypt	UNKNOWN
+NVC	Canada	NAV CAN
+NVD	Lithuania	NORDVIND
+NVI	Russian Federation	NEW AVIAL
+NVJ	Tunisia	NOUVINTER
+NVK	Russian Federation	VARTOVSKAVIA
+NVL	Armenia	NAVLINES
+NVM	Mexico	NAVIERA
+NVO	Spain	ENVUELO
+NVP	Portugal	UNKNOWN
+NVR	Sweden	NAVIGATOR
+NVS	Gabon	NOUVELLE AFFAIRES
+NVY	United Kingdom	NAVY
+NWA	United States of America	NORTHWEST
+NWD	United States of America	NEW WORLD
+NWE	United States of America	UNKNOWN
+NWG	Norway	NORWING
+NWL	Canada	NORTHWRIGHT
+NWO	United Kingdom	UNKNOWN
+NWR	Australia	UNKNOWN
+NWS	Russian Federation	NORDLAND
+NWT	Canada	TERRITORIAL
+NWW	Australia	HALANT
+NWZ	Zambia	ZAMNAT
+NXA	Virtual Airline	NORTH AIR
+NXF	United States of America	NEXTFLIGHT
+NXN	Mexico	NEXTON
+NXS	Nigeria	NEXUS AVIATION
+NXT	United States of America	NATIONAL FREIGHT
+NYA	Israel	NANYAH
+NYB	Belgium	BELGIAN NAVY
+NYH	United States of America	NEW YORK
+NYL	Sudan	NILE
+NYS	Malawi	NYASA
+NZA	Libyan Arab Jamahiriya	UNKNOWN
+NZM	New Zealand	MOUNTCOOK
+OAA	Virtual Airline	ORANGE
+OAC	Nigeria	ORIENTAL AIR
+OAD	Egypt	ORSCOM
+OAE	United States of America	OMNI-EXPRESS
+OAH	Virtual Airline	OLYMPIC
+OAL	Greece	OLYMPIC
+OAO	Russian Federation	DVINA
+OAP	Mexico	COAPA
+OAV	Virtual Airline	OLYMPIC
+OAW	Switzerland	HELVETIC
+OAX	Australia	UNKNOWN
+OBA	Mexico	AEROBANANA
+OBE	Italy	AIR BEE
+OBK	Nigeria	AMAKO AIR
+OBS	Portugal	ORBEST
+OBT	Virtual Airline	ORBIT
+OCA	Bolivarian Republic of Venezuela	AROSCA
+OCE	France	HELIOCEAN
+OCF	France	EXPLORER
+OCM	Australia	OCONNOR
+OCO	Belgium	AIR COLLEGE
+OCS	United Kingdom	OCEANSKY
+ODI	Iceland	ODINN
+ODM	Kenya	UNKNOWN
+ODS	Ukraine	ODESSA AIR
+OEA	Thailand	ORIENT THAI
+OEC	Austria	CHRISTOPHORUS
+OED	South Africa	ORION CHARTER
+OFA	Mexico	OFAVI
+OFF	United States of America	CHALLENGE AIR
+OGI	Mexico	AEROGISA
+OGJ	Nigeria	BAKO AIR
+OHC	United States of America	OHIO-CHARTER
+OHK	Hong Kong Special Administrative Region of China	OASIS
+OHY	Turkey	ONUR AIR
+OIC	Japan	UNKNOWN
+OIX	Russian Federation	ORIONIX
+OJY	United States of America	OHJAY
+OKA	China	OKAYJET
+OKJ	Nigeria	OKADA AIR
+OKL	United States of America	OKLAHOMA
+OKP	Democratic Republic of the Congo	OKAPI
+OKS	Gambia	SLOK GAMBIA
+OKT	Spain	SOKO AIR
+OLA	Nigeria	OVERLAND
+OLC	Bolivarian Republic of Venezuela	SOLARCARGO
+OLE	Mexico	OPERADORA
+OLO	United Kingdom	SOLO
+OLR	Ecuador	COLAEREOS
+OLS	Argentina	FLIGHT SOL
+OLT	Germany	OLTRA
+OLV	Mexico	OLVE
+OLY	Greece	OLAVIA
+OMA	Oman	OMAN AIR
+OMF	Mexico	OMNIFLYS
+OMG	United Kingdom	OMEGA
+OML	Angola	MAMBRA
+OMR	Central African Republic	ORMINE
+OMS	Russian Federation	OMSK
+ONA	Republic of Korea	YEONGNAM AIR
+ONE	Brazil	OCEANAIR
+ONG	Switzerland	SONNIG
+ONR	Libyan Arab Jamahiriya	EDER
+OOM	Canada	ZOOM
+OOT	South Africa	OOTBAS
+OPA	Australia	UNKNOWN
+OPC	United Kingdom	OPTIC
+OPN	United States of America	OPEN AIR
+OPS	United Arab Emirates	OPS-JET
+OPT	United States of America	OPTIONS
+OPV	Mexico	OPERADORA DE VUELOS
+ORA	United States of America	LONG ISLAND
+ORB	Russian Federation	ORENBURG
+ORE	Israel	ORANGE AVIATION
+ORF	Oman	OMAN
+ORI	Spain	RED GLOBE
+ORK	Egypt	ORCA TAXI
+ORM	Russian Federation	ORPRISE
+ORN	Pakistan	ORIENT LINER
+ORO	Spain	CAPRI
+ORR	Mexico	TURISTICA AURORA
+ORS	Italy	AVIATION SERVICE
+ORX	Turkey	OREX
+ORZ	Spain	ZOREX
+OSA	Lebanon	UNKNOWN
+OSB	Somali Republic	OSOB
+OSH	Kyrgyzstan	OSH AVIA
+OSL	Nigeria	SOSOLISO
+OSN	Mexico	AEROSAN
+OSO	Russian Federation	UNKNOWN
+OSS	Mexico	NOTICIOSOS
+OST	Russian Federation	ALANIA
+OSW	Swaziland	BEVO
+OSY	United States of America	OPEN SKIES
+OTA	Mexico	ORGANIZACION
+OTG	Thailand	THAI EXPRESS
+OTL	Ukraine	SOUTHLINE
+OTM	Zambia	ZEDTIME
+OTN	Sao Tome and Principe	LASTP
+OTP	Mexico	OPERADORA AEREO
+OTR	Sudan	ORIENTROC
+OUA	United States of America	CRIMSON
+OVA	Virtual Airline	OZARK
+OVC	Ecuador	UNKNOWN
+OVE	Mexico	AEROMOVER
+OVI	Mexico	VIAS EJECUTIVAS
+OWL	United States of America	NIGHT OWL
+OXM	Malta	ORION MALTA
+OXO	United States of America	MILL AIR
+OXS	Afghanistan	OXUS AIRWAYS
+OYE	Nigeria	KODA AIR
+OZJ	Australia	AUSJET
+OZR	United States of America	OZARK
+OZU	Kazakhstan	HOZAVI
+OZW	Australia	OZWEST
+PAA	United States of America	CLIPPER
+PAC	United States of America	POLAR
+PAD	United States of America	AIR PROFESSIONAL
+PAE	Spain	PAISAJES
+PAF	Italy	PALIO
+PAG	Canada	PERIMETER
+PAH	United States of America	LANI
+PAI	United States of America	SEA RAY
+PAJ	Italy	ALIPARMA
+PAK	United States of America	PACIFIC ALASKA
+PAL	Philippines	PHILIPPINE
+PAO	Samoa	POLYNESIAN
+PAP	United Kingdom	PROFLIGHT
+PAQ	Solomon Islands	SOLPAC
+PAR	Australia	PACRIM
+PAS	Indonesia	PELITA
+PAT	Virtual Airline	TEAM
+PAW	Virtual Airline	PREMIER
+PAX	United States of America	PANNEX
+PAY	Virtual Airline	PACIFIC
+PAZ	Niger	POINTAIR NIGER
+PBA	Thailand	PEEBEE AIR
+PBB	Germany	ADEBAR
+PBC	Mexico	PABA
+PBF	United States of America	PENN-FOREST
+PBL	Samoa	UNKNOWN
+PBN	New Zealand	BLUEBIRD
+PBT	Bangladesh	PARABAT
+PBU	Burundi	AIR-BURUNDI
+PBW	Germany	BUSSARD
+PBY	Uganda	PEARL SERVICES
+PCA	Spain	PENA DEL AIRE
+PCC	Mexico	PERFORADORA CENTRAL
+PCD	Virtual Airline	PACIFIC DIRECT
+PCE	United States of America	PACE
+PCF	United States of America	PACIFIC EXPRESS
+PCG	Mexico	POSTAL CARGO
+PCH	Switzerland	PILATUS WINGS
+PCJ	United States of America	PACIFIC JET
+PCK	Spain	AIRPACK EXPRESS
+PCL	United States of America	PINNACLE GROUP
+PCM	United States of America	PAC VALLEY
+PCN	United States of America	PRINCETON
+PCO	Canada	PASCO
+PCP	Chile	PRINCIPAL
+PCR	United States of America	PACAIR
+PCS	Virtual Airline	PUGET
+PCV	Australia	PACAV
+PCW	Philippines	PACIFIC ORIENT
+PCX	United States of America	UNKNOWN
+PDA	Ukraine	PODILIA
+PDC	United States of America	DISTRICT
+PDD	United States of America	PADA
+PDE	Virtual Airline	PERUANA
+PDF	South Africa	PELICAN AIRWAYS
+PDG	United Kingdom	OSPREY
+PDI	United States of America	PARADISE ISLAND
+PDQ	United States of America	DISPATCH
+PDR	Namibia	SPEEDSTER
+PDT	United States of America	PIEDMONT
+PDV	Italy	ELICAR
+PDY	United Kingdom	PENDLEY
+PEA	France	UNKNOWN
+PEB	Sweden	PALEMA
+PEC	Philippines	PAC-EAST CARGO
+PEI	Spain	PANAMEDIA
+PEJ	Ireland	PREMIER WINGS
+PEL	Australia	UNKNOWN
+PEN	United States of America	PENINSULA
+PER	Pakistan	UNKNOWN
+PET	Colombia	AEROPETRO
+PEV	Greece	PEGAVIATION
+PEX	United States of America	PELICAN EXPRESS
+PFA	Singapore	PACIFIC SING
+PFI	Mexico	PACIFICO CHIHUAHUA
+PFR	United States of America	PACIFIC WEST
+PFS	Canada	PRAIRIE
+PFT	United States of America	PROFREIGHT
+PFZ	Zambia	PROFLIGHT-ZAMBIA
+PGA	Portugal	PORTUGALIA
+PGC	Thailand	THAI FREIGHTER
+PGF	United Kingdom	UNKNOWN
+PGH	Russian Federation	UNKNOWN
+PGI	United States of America	PANAGRA
+PGL	United Kingdom	PREMIERE
+PGN	United States of America	PEREGRINE
+PGP	Russian Federation	PERM AIR
+PGS	New Zealand	UNKNOWN
+PGT	Turkey	SUNTURK
+PGX	United States of America	PARAGON EXPRESS
+PHA	United States of America	GRAY BIRD
+PHB	South Africa	PHOEBUS
+PHC	Colombia	HELICOPTERS
+PHD	United States of America	PANHANDLE
+PHE	India	PAWAN HANS
+PHH	Germany	IBIS
+PHI	Netherlands	PHILAIR
+PHL	United States of America	PHILLIPS
+PHM	United States of America	PETROLEUM
+PHN	Brazil	PHOENIX BRASIL
+PHO	Sweden	PHOTOFLIGHT
+PHR	Egypt	PHARAOH
+PHS	Germany	PASSAT
+PHT	Turkey	PANANK
+PHU	Hungary	PANNON
+PHV	France	NEW BIRD
+PHW	United Arab Emirates	PHOENIX SHARJAH
+PHY	Armenia	PHOENIX ARMENIA
+PIA	Pakistan	PAKISTAN
+PIC	Viet Nam	PACIFIC AIRLINES
+PIF	Mexico	AEROCALPA
+PIK	Germany	POLICE IKARUS
+PIL	Canada	PINNACLE
+PIM	Angola	PINFRAMAT
+PIN	United States of America	ROAD RUNNERS
+PIO	United States of America	PIONEER
+PIR	Afghanistan	PAMIR
+PIU	South Africa	PRIMA
+PIV	Russian Federation	AEROSOKOL
+PIX	United Kingdom	METROPIX
+PJA	United States of America	PRIVATE FLIGHT
+PJC	United States of America	PITTSBURGH JET
+PJE	United States of America	PEE JAY
+PJJ	United States of America	ADVANTAGE
+PJP	Pakistan	PRINCELY JETS
+PJS	Switzerland	JETAVIATION
+PJT	Canada	PARTNERJET
+PKA	Pakistan	PAKISTAN AIRWAY
+PKP	United States of America	PIKES PEAK
+PKR	Estonia	PAKKER AVIO
+PKW	United States of America	PLATINUM WEST
+PKZ	Kazakhstan	PRAVI
+PLA	United States of America	POLYAIR
+PLB	New Zealand	POLYBLUE
+PLC	United Kingdom	SPECIAL
+PLF	Poland	POLISH AIRFORCE
+PLJ	Brazil	PLATINUMJET
+PLK	Russian Federation	PULKOVO
+PLL	Spain	AIRPAL
+PLM	Virtual Airline	PALMA
+PLN	Angola	PLANAR
+PLR	Virtual Airline	POLAIR
+PLS	Russian Federation	AEROPLUS
+PLT	United States of America	PALMETTO
+PLU	Virtual Airline	PLUSAIR
+PLV	Bolivarian Republic of Venezuela	PERLA
+PLX	United Kingdom	POOLEX
+PLY	Brazil	PUMA BRASIL
+PLZ	United States of America	PLANET
+PMA	Malaysia	PAN MALAYSIA
+PMC	United States of America	PRIMAC
+PME	United Kingdom	ADUR
+PMO	Mexico	POLAR MEXICO
+PMR	Mexico	SERVICIOS PREMIER
+PMS	United States of America	PLANEMASTER
+PMT	Cambodia	MULTITRADE
+PMU	Germany	PREMIUM
+PMV	Germany	POLICE MERLIN
+PMW	India	PARAWAY
+PMX	Mexico	PEMEX
+PMY	Thailand	PHETCHABUN AIR
+PNA	United States of America	PACIFIC NORTHERN
+PNC	Mexico	PANAIRSA
+PND	United States of America	POND AIR
+PNE	Mexico	PENINTER
+PNF	Côte d'Ivoire	PANWAYS
+PNG	United States of America	UNKNOWN
+PNH	Russian Federation	KUBAN LIK
+PNL	Mexico	AEROPERSONAL
+PNM	Spain	PANORAMA
+PNP	Bahamas	PINEAPPLE AIR
+PNR	Spain	SKYJET
+PNS	Indonesia	PENAS
+PNT	South Africa	PORTNET
+PNU	Mexico	AERO PLATINUM
+PNV	Spain	PANAVIA
+PNW	Egypt	PALESTINIAN
+PNX	Virtual Airline	PHOENIX
+PNY	Poland	POLISH NAVY
+POA	Portugal	PORTUGUESE ARMY
+POB	Mexico	POBLANOS
+POC	United States of America	POCONO
+POE	Canada	PORTER AIR
+POF	France	AIRPOL
+POL	Virtual Airline	POLONAISE
+PON	Portugal	PORTUGUESE NAVY
+POR	Mexico	PORTEADORA
+POT	Russian Federation	POLET
+POV	Ukraine	AIR POLTAVA
+POW	United Kingdom	AIRNET
+POY	Mexico	APOYO AEREO
+PPA	United States of America	AIR PROP
+PPC	Palau	PALAU ASIAPAC
+PPG	United States of America	PAPAGO
+PPH	Germany	POLICE PHOENIX
+PPK	United States of America	PELICAN
+PPM	Philippines	PACIFIC PEARL
+PPQ	Mexico	PERSONASPAQ
+PPS	United States of America	PIPESTONE
+PPT	Finland	UNKNOWN
+PPW	Cambodia	PHNOM-PENH AIR
+PQA	United States of America	SAGE BRUSH
+PRA	Iran, Islamic Republic of	PARSAVIA
+PRC	United States of America	PACIFIC CHARTER
+PRD	United States of America	PRESIDENTIAL
+PRE	United States of America	PRECISION
+PRF	United Republic of Tanzania	PRECISION AIR
+PRG	Chile	ASPAR
+PRH	United States of America	PROHAWK
+PRJ	Spain	PRONAIR
+PRL	Pakistan	PEARL LINE
+PRM	United States of America	PRIME AIR
+PRN	Spain	PIRINAIR EXPRESS
+PRO	Canada	PROPAIR
+PRP	Spain	PRONTO
+PRT	United States of America	PATRIOT
+PRX	Latvia	PAREX
+PRY	United States of America	PRIORITY AIR
+PRZ	Indonesia	RADISAIR
+PSA	United States of America	PACIFIC ISLE
+PSC	Canada	PASCAN
+PSD	Cambodia	UNKNOWN
+PSE	Mexico	SIPSE
+PSF	United Kingdom	LIZARD
+PSG	Mexico	SERVIAVIONES
+PSH	United Kingdom	PASSION
+PSI	Suriname	PONT
+PSK	United States of America	SUPPORT
+PSL	Mexico	CORSAN
+PSN	Mexico	POTOSINA
+PSP	Mexico	PUBLISERVICIOS
+PSR	United Kingdom	POLESTAR
+PSS	Russian Federation	PROGRESS
+PST	Virtual Airline	PAULISTA
+PSV	Dominican Republic	PROSERVICIOS
+PSW	Russian Federation	PSKOVAVIA
+PSX	United States of America	SMILEY
+PSZ	United States of America	POP-AIR
+PTA	Canada	PTARMIGAN
+PTB	Brazil	PASSAREDO
+PTC	Argentina	PATRIA
+PTD	Mexico	PITY
+PTE	Mexico	UNKNOWN
+PTG	Germany	PRIVATJET
+PTH	France	PROTEUS
+PTI	Switzerland	PRIVATAIR
+PTJ	United States of America	PAT-JETS
+PTK	Russian Federation	PETROKAM
+PTL	United States of America	PLANTATION
+PTM	United States of America	POSTMAN
+PTN	Brazil	PANTANAL
+PTO	Virtual Airline	POTOMAC
+PTP	Palau	TRANS PACIFIC
+PTQ	United States of America	TOWNSEND
+PTR	Canada	PATROL
+PTT	Mexico	TOTOLAPA
+PTV	Djibouti	PUNTAVIA
+PTY	United States of America	PETTY
+PUA	Uruguay	PLUNA
+PUE	Chile	PUELCHE
+PUG	Virtual Airline	RALLYEAIR
+PUL	Virtual Airline	PULSE
+PUR	South Africa	SPURWING
+PUT	Serbia and Montenegro	UNKNOWN
+PUV	Portugal	PUBLIVOO
+PVA	Virtual Airline	PVA
+PVE	Mexico	PLAN AERONAVES
+PVG	Spain	PRIVILEGE
+PVI	Panama	UNKNOWN
+PVK	Kazakhstan	BORIS
+PVL	Italy	VOLARE
+PVO	United Kingdom	PROVOST
+PVU	Tonga	PEAU
+PWA	United States of America	PRIESTER
+PWC	Canada	PRATT
+PWD	Dominican Republic	UNKNOWN
+PWF	Germany	PRIVATE WINGS
+PXA	Republic of Moldova	PECOTOX
+PXP	United States of America	PAK EXPRESS
+PXX	United States of America	PINE STATE
+PYC	Mexico	AEROPYCSA
+PYN	United Kingdom	POYSTON
+PYR	Egypt	PYAIR
+PYZ	United States of America	PLAYERS AIR
+PZA	Mexico	AEREO PARAZA
+PZR	United States of America	PHAZER
+PZY	Russian Federation	ZAPOLOYAR
+QAC	Qatar	QATAR CARGO
+QAF	Qatar	AMIRI
+QAH	Netherlands	QUICK
+QAJ	Germany	DAGOBERT
+QAQ	Libyan Arab Jamahiriya	QURINEA AIR
+QAS	Haiti	QUISQUEYA
+QAT	Canada	AIR QUASAR
+QCC	United States of America	QWEST AIR
+QCL	Uruguay	ACLA
+QEA	Australia	UNKNOWN
+QFA	Australia	QANTAS
+QFZ	Iran, Islamic Republic of	FARS QESHM
+QGA	Germany	QUADRIGA
+QID	United States of America	QUID
+QJT	China	JIU TIAN
+QKC	United States of America	QUAKER CITY
+QMX	Mexico	QUEST MEXICANA
+QNA	Dominican Republic	QUEEN AIR
+QNK	Nigeria	KABO
+QNT	Uzbekistan	QANOT SHARQ
+QNZ	New Zealand	QANTAS JETCONNECT
+QRT	Thailand	QUARTET
+QSC	Kenya	ZEBRA
+QTR	Qatar	QATARI
+QTX	Canada	AIR QUANTEX
+QUE	Canada	QUEBEC
+QUI	Mexico	QUIMMCO
+QVR	Kyrgyzstan	PEGASO
+QWA	Australia	UNKNOWN
+QWL	South Africa	Q-CHARTER
+QXE	United States of America	HORIZON AIR
+RAA	United States of America	RYNES AVIATION
+RAB	Pakistan	UNKNOWN
+RAC	Bosnia and Herzegovina	TUZLA AIR
+RAD	Angola	AIR ALADA
+RAE	France	REGIONAL EUROPE
+RAF	Sudan	FARNAS
+RAG	Germany	GERMAN LINK
+RAH	Canada	REGENT
+RAI	Kazakhstan	DIASA
+RAJ	Pakistan	RAJI
+RAK	Latvia	SPORT CLUB
+RAL	United States of America	ROSWELL
+RAM	Morocco	ROYALAIR MAROC
+RAN	Republic of Moldova	RENAN
+RAP	United States of America	RAPTOR
+RAQ	Austria	RATH AVIATION
+RAR	Ethiopia	ROTATION AIR
+RAS	United States of America	SHANHIL
+RAT	South Africa	RIVERRAT
+RAU	Uganda	UGANDA ROYAL
+RAV	Honduras	ROLLINS
+RAW	Kenya	BLUERAY
+RAX	United States of America	AIR ROYAL
+RAY	Czech Republic	REAS
+RAZ	Netherlands	RIJNMOND
+RBA	Brunei Darussalam	BRUNEI
+RBB	Switzerland	RABBIT
+RBC	Mexico	REPUBLICAIR
+RBD	United States of America	RED BIRD
+RBE	Benin	RUM BENIN
+RBH	Bahamas	CALYPSO
+RBJ	Mexico	AEROBAJIO
+RBN	United States of America	RED BARON
+RBT	Dominican Republic	ROBIN
+RBU	France	CORVETTE
+RBW	China	CAI HONG
+RBY	United States of America	RUBY
+RCA	United States of America	RICHLAND
+RCB	Spain	BALEARES
+RCC	Netherlands	RACER
+RCD	Spain	AEROCLUB
+RCE	Mexico	AEROCER
+RCF	Russian Federation	AEROFLOT CARGO
+RCG	South Africa	ROYAL CARGO
+RCH	United States of America	REACH
+RCI	Angola	AIR CASSAI
+RCJ	United Kingdom	NEWPIN
+RCK	Denmark	ROCKROSE
+RCM	France	CANNES AZUR
+RCN	Nigeria	SPEED CARGO
+RCO	Mexico	AEROCOAHUILA
+RCP	Mexico	AEROCORPSA
+RCQ	Mexico	REGIONAL CARGO
+RCT	United States of America	ARCTIC TRANSPORT
+RCU	Spain	AIR COURIER
+RCX	Italy	SERVICE CENTER
+RCY	United States of America	RACE CITY
+RDD	Russian Federation	ADLINES
+RDE	United Kingdom	FLIGHT RED
+RDF	Germany	RED FOX
+RDK	Ireland	IRISH TRANS
+RDM	Mauritania	AIR ADA
+RDN	Argentina	AERO DINAR
+RDO	Dominican Republic	AIRDOM
+RDP	Romania	JET-ARROW
+RDR	United Kingdom	RED STAR
+RDS	United States of America	RHOADES EXPRESS
+RDV	Egypt	RED AVIATION
+RDW	Switzerland	ROADWATCH
+RDX	United States of America	RED SUN
+RDZ	Nigeria	RODZE AIR
+REA	Ireland	AER ARANN
+REB	Bulgaria	REBUS
+REC	Mauritania	TRANS-RECO
+RED	Switzerland	RED CROSS
+REE	Pakistan	REGENCY AVIATION
+REF	New Zealand	REEF AIR
+REG	United Republic of Tanzania	REGIONAL SERVICES
+REI	Israel	RAY AVIATION
+REJ	South Africa	REGIONAL LINK
+REL	United States of America	RELIANCE AIR
+REN	Mexico	AERORENT
+REO	United States of America	RIO
+REP	Paraguay	REGIOPAR
+RER	Ecuador	REGAIR
+RES	Australia	SEARCH
+REU	France	REUNION
+REW	Germany	REGIONAL WINGS
+REX	United States of America	RAM EXPRESS
+REY	Mexico	AEROREY
+REZ	United States of America	CAL AIR
+RFA	United States of America	RALEIGH SERVICE
+RFC	Swaziland	AERO AFRICA
+RFD	Mexico	RAFILHER
+RFF	Russian Federation	RUSSIAN AIRFORCE
+RFI	United Kingdom	SHERLOCK
+RFJ	Jordan	UNKNOWN
+RFL	Italy	INFLY
+RFR	United Kingdom	RAFAIR
+RFS	Australia	UNKNOWN
+RFT	Romania	ROMANIAN ACADEMY
+RFX	United States of America	REFLEX
+RFZ	Australia	RAFFLES
+RGA	Ghana	ROYAL GHANA
+RGB	Bahamas	REGIONAL BAHAMAS
+RGC	Mexico	REGIOMONTANO
+RGK	Spain	GRANCA
+RGL	Morocco	MAROC REGIONAL
+RGM	United Kingdom	RANGEMILE
+RGN	Spain	CYGNUS AIR
+RGO	Dominican Republic	ARGOS
+RGP	Nigeria	GARDEN CITY
+RGS	United States of America	RENOWN
+RGT	United Kingdom	AIRGOAT
+RGY	United States of America	REGENCY
+RHA	Austria	SHERWOOD
+RHC	United Kingdom	REDAIR
+RHD	United Kingdom	RED HEAD
+RHL	France	ARCHIPELS
+RHT	Virtual Airline	HEAT
+RIA	United States of America	RICHAIR
+RIC	United States of America	RICHARDSON
+RID	Kazakhstan	AKRID
+RIF	Russian Federation	INTERMIN AVIA
+RIL	Mauritania	UNKNOWN
+RIM	United States of America	RIMROCK
+RIS	Spain	AERIS
+RIT	Philippines	ASIAN SPIRIT
+RIU	Indonesia	RIAU AIR
+RJA	Jordan	JORDANIAN
+RJM	United Kingdom	MILLEN
+RJS	Mexico	ASERJET
+RJT	Mexico	RA JET
+RJZ	Jordan	JORDAN AIR FORCE
+RKA	Côte d'Ivoire	AIRAFRIC
+RKC	Democratic Republic of the Congo	DAS CONGO
+RKH	Cambodia	KHMER AIR
+RKM	United Arab Emirates	RAKAIR
+RKN	Kazakhstan	KANION
+RKT	United Kingdom	ROCKET
+RKW	United States of America	ROCKWELL
+RLA	Virtual Airline	RYNKO
+RLE	Brazil	RICO
+RLI	United States of America	RELIANT
+RLK	New Zealand	UNKNOWN
+RLM	United States of America	ROYAL AMERICAN
+RLN	Sri Lanka	AERO LANKA
+RLR	United States of America	RATTLER
+RLS	Russian Federation	S-AIRLINES
+RLU	Russian Federation	RUSLINE AIR
+RLV	Ghana	REAL
+RLX	Ukraine	AEROLUX
+RLY	France	LOYAUTE
+RLZ	France	ALIZE
+RMA	United States of America	ROCKY MOUNTAIN
+RMD	Mauritania	AIR AMDER
+RME	Armenia	ARMENIAN
+RMF	Malaysia	ANGKASA
+RMG	Nigeria	RUMUGU AIR
+RMI	Nigeria	POINT AIRLINE
+RMO	Armenia	ARM-AERO
+RMP	Mexico	SERAMSA
+RMS	United States of America	TASS AIR
+RMT	United States of America	RAM FLIGHT
+RMU	Mauritania	AIR-MAUR
+RMV	Romania	AEROMAVIA
+RMX	Bulgaria	AEROMAX
+RNA	Federal Democratic Republic of Nepal	ROYAL NEPAL
+RNB	Russian Federation	ROSBALT
+RND	United Kingdom	RUTLAND
+RNG	Netherlands	ORANGE
+RNM	Ecuador	AERONEM
+RNR	United States of America	RUNNER
+RNS	Mexico	RONSO
+RNV	Armenia	ARMAVIA
+RNX	South Africa	NEXTIME
+ROA	United States of America	RENO AIR
+ROC	Canada	UNKNOWN
+ROD	Mexico	AERODAN
+ROE	Bolivia	ESTE-BOLIVIA
+ROF	Romania	ROMAF
+ROG	Spain	REGO
+ROH	Mexico	AEROGEN
+ROI	Bolivarian Republic of Venezuela	AVIOR
+ROJ	United Arab Emirates	ROYALJET
+ROK	United States of America	RED ROCK
+ROL	Israel	AEROEL
+ROM	Dominican Republic	BRAVO QUEBEC
+RON	Nauru	AIR NAURU
+ROO	Italy	AEROITALIA
+ROP	Oman	UNKNOWN
+ROR	Guyana	RORAIMA
+ROS	Netherlands	CATCHER
+ROT	Romania	TAROM
+ROU	Chile	ROBINSON CRUSOE
+ROV	United States of America	ROVERAIR
+ROX	United States of America	ROBLEX
+RPA	United States of America	BRICKYARD
+RPB	Colombia	AEROREPUBLICA
+RPC	Ecuador	AEROPACSA
+RPH	Indonesia	PUBLIC EXPRESS
+RPK	Pakistan	ROYAL PAKISTAN
+RPS	United States of America	RESPONSE
+RPX	United Kingdom	RAPEX
+RRA	Rwanda	ROYAL RWANDA
+RRC	Mexico	AEROROCA
+RRE	Mexico	AERO TORREON
+RRF	United Kingdom	KITTY
+RRK	Kazakhstan	RUFA
+RRL	United Kingdom	MERLIN
+RRM	Romania	AIR ROMANIA
+RRR	United Kingdom	ASCOT
+RRS	United Kingdom	BLACKBOX
+RRT	Mexico	SIERRA ALTA
+RRU	Chile	HELICIRRUS
+RRV	Kenya	SKYROVER
+RRY	Bangladesh	ROYAL BENGAL
+RRZ	United Kingdom	ROLLRIGHT
+RSA	Sudan	ESRA
+RSB	Belarus	RUBYSTAR
+RSC	Mexico	TARASCAS
+RSE	Saudi Arabia	RED SEA
+RSF	Saudi Arabia	ARSAF
+RSH	India	SAHARA
+RSI	United States of America	AIR SUNSHINE
+RSJ	Russian Federation	RUSJET
+RSK	United States of America	REDSKIN
+RSL	Brazil	RIOSSUL
+RSM	Somali Republic	AIR SOMALIA
+RSN	Swaziland	SWAZI NATIONAL
+RSO	Pakistan	AERO ASIA
+RSQ	Namibia	SKYMEDIC
+RSR	Congo	CONGOSERV
+RSS	South Africa	ROSS CHARTER
+RST	United States of America	RESORT AIR
+RSU	Bolivia	AEROSUR
+RSV	Namibia	RED SKY
+RTE	Portugal	LUZAVIA
+RTM	Ecuador	AERO TRANSAM
+RTN	United States of America	RAYTHEON
+RTO	Kazakhstan	ARTOAIR
+RTR	Brazil	ROTATUR
+RTS	United Kingdom	RELIEF
+RTU	Mexico	AEROTUCAN
+RTV	Portugal	TIC-TAC
+RTZ	Romania	UNKNOWN
+RUA	Rwanda	UNKNOWN
+RUC	Bolivarian Republic of Venezuela	RUTACA
+RUD	Ukraine	ANASTASIA
+RUE	Virtual Airline	RUSSIAN EXPRESS
+RUH	Russian Federation	UNKNOWN
+RUN	Turkey	CARGO TURK
+RUR	Russian Federation	UNKNOWN
+RUS	Germany	CIRRUS AIR
+RUZ	Russian Federation	ROSTUERTOL
+RVA	United States of America	RAVEN AIR
+RVC	United States of America	RIVER CITY
+RVE	Belgium	AIRVENTURE
+RVI	Mexico	AERO SERVICIOS
+RVL	Italy	AIR VALLEE
+RVM	South Africa	RIVER
+RVN	United States of America	RAVEN U-S
+RVP	Portugal	AEROVIP
+RVR	United Kingdom	RAVEN
+RVV	United States of America	REEVE
+RWA	Rwanda	UNKNOWN
+RWB	Rwanda	UNKNOWN
+RWC	Ecuador	ARROWEC
+RWD	Rwanda	RWANDAIR
+RWE	United States of America	ROYAL WEST
+RWG	United States of America	RED WING
+RWL	Germany	RHEINTRAINER
+RWS	Australia	UNKNOWN
+RWY	United Kingdom	TYNWALD
+RWZ	Russian Federation	AIR RED
+RXA	Australia	UNKNOWN
+RXT	Mexico	AERO-EXTRA
+RYA	United States of America	RYAN AIR
+RYB	Kingdom of Bahrain	ROYAL BAHRAIN
+RYJ	Spain	RYJET
+RYN	United States of America	RYAN INTERNATIONAL
+RYR	Ireland	RYANAIR
+RYS	Thailand	ROYAL SKY
+RYT	Jordan	UNKNOWN
+RYW	Jordan	ROYAL WINGS
+RYZ	Russian Federation	RYAZAN AIR
+RZA	Australia	RAZOR
+RZJ	United Arab Emirates	RIZON JET
+RZL	Zambia	AERO ZAMBIA
+RZN	Mexico	ZANO
+RZO	Portugal	AIR AZORES
+RZR	United States of America	RECOVERY
+RZZ	United States of America	RED ZONE
+SAA	South Africa	SPRINGBOK
+SAB	Kyrgyzstan	SKY WORKER
+SAC	Virtual Airline	AIR CANADA
+SAD	Ukraine	INDASTRIA
+SAE	Indonesia	SAMPOERNA
+SAF	Singapore	SINGA
+SAG	Sweden	MEDICAL AIR
+SAH	Kazakhstan	SAYAKHAT
+SAI	Pakistan	SHAHEEN AIR
+SAK	United Kingdom	RED ARROWS
+SAL	Kyrgyzstan	ASIA ALPHA
+SAM	Colombia	SAM
+SAN	Ecuador	AEREOS
+SAO	Mali	SAVSER
+SAP	Kazakhstan	TOBOL
+SAR	Poland	SPRINTAIR CARGO
+SAS	Sweden	SCANDINAVIAN
+SAT	Portugal	SATA
+SAU	Spain	UNISERVE
+SAV	Virtual Airline	SEVERNAIR
+SAW	Syrian Arab Republic	SHAMWING
+SAX	Virtual Airline	SUNAIR EXPRESS
+SAY	United Kingdom	SUCKLING
+SAZ	Switzerland	SWISS AMBULANCE
+SBA	Mali	STA-MALI
+SBB	United States of America	SABER EXPRESS
+SBC	South Africa	SABIAN AIR
+SBD	Russian Federation	SIBIA
+SBE	United States of America	STARBASE
+SBF	United States of America	S-BAR
+SBG	United States of America	UNKNOWN
+SBH	Mexico	AEROSAAB
+SBI	Russian Federation	SIBERIAN AIRLINES
+SBJ	Nigeria	TRANS SAHARA
+SBK	Kenya	MAWINGU
+SBL	Ghana	SOBGHANA
+SBM	Bahamas	SKY BAHAMAS
+SBO	Zambia	STABAIR
+SBP	Iran, Islamic Republic of	UNKNOWN
+SBQ	United States of America	SKIBBLE
+SBR	United States of America	FREIGHTER
+SBS	United States of America	SEABORNE
+SBT	Iran, Islamic Republic of	TAFTAN
+SBU	France	BLACK FIN
+SBV	United Kingdom	RIPPLE
+SBX	United States of America	SKY BOX
+SBZ	Democratic Republic of the Congo	SCIBE AIRLIFT
+SCA	United States of America	SOUTH CENTRAL
+SCC	United States of America	SEA-COASTER
+SCD	Nigeria	ASSOCIATED
+SCE	United States of America	SCENIC
+SCF	Angola	SOCOFER
+SCG	Poland	UNKNOWN
+SCH	Netherlands	SCHREINER
+SCI	Mexico	SAN CRISTOBAL
+SCJ	Sweden	SCANJET
+SCK	France	SKYCAM
+SCL	Canada	SWIFTAIR
+SCM	United States of America	SCREAMER
+SCN	Peru	SOUTH AMERICAN
+SCO	Virtual Airline	SCOTAIR
+SCP	Egypt	SCORPIO
+SCS	South Africa	SOUTHERN CHARTERS
+SCT	Sweden	SAAB-CRAFT
+SCU	Bulgaria	SCORPIO UNIVERS
+SCV	Mexico	SACSA
+SCW	Sweden	SCANWING
+SCX	United States of America	SUN COUNTRY
+SDA	Tajikistan	UNKNOWN
+SDB	Russian Federation	SU-CRAFT
+SDC	United States of America	SUNDANCE
+SDD	United States of America	SKY DANCE
+SDF	United States of America	SUNDORPH
+SDH	Spain	ARCOS
+SDJ	United Kingdom	SPACEJET
+SDK	Colombia	SADELCA
+SDL	United Kingdom	SKYDRIFT
+SDM	Russian Federation	RUSSIA
+SDN	Sudan	BLUE NILE
+SDO	Dominican Republic	AERO DOMINGO
+SDP	Mexico	SUDPACIFICO
+SDR	Sweden	SWEDESTAR
+SDS	United Kingdom	STANDARDS
+SDV	Colombia	SELVA
+SDX	Mexico	SERVICIO TECNICO
+SDY	United States of America	SANDY ISLE
+SDZ	Sudan	SUDANA
+SEA	Virtual Airline	SKYEAST
+SEB	Mexico	SERVILUCE
+SEC	United States of America	SECUREX
+SED	United States of America	SEDONA AIR
+SEF	Mexico	SERVIPACIFICO
+SEG	Senegal	SEN-EAGLE
+SEH	Greece	AIR CRETE
+SEI	Mexico	TRANSPORTE SIERRA
+SEJ	India	SPICEJET
+SEK	Kazakhstan	SKALA
+SEL	United States of America	SENTEL
+SEM	United States of America	SEMO
+SEN	Tunisia	UNKNOWN
+SEO	Nigeria	SELCON AIR
+SEQ	Thailand	SKY EYES
+SER	Mexico	AEROCALIFORNIA
+SES	Mexico	SERVISAL
+SET	Ecuador	SAETA
+SEV	Spain	CARGOPRESS
+SEY	Seychelles	SEYCHELLES
+SFA	France	SEFA
+SFB	Bulgaria	AIR SOFIA
+SFC	Canada	SHUSWAP
+SFD	Spain	DRACO
+SFE	South Africa	SEFOFANE
+SFF	United States of America	SWIFTWING
+SFG	Thailand	AERO GOLF
+SFH	United States of America	STARFISH
+SFJ	Japan	STARFLYER
+SFL	New Zealand	SOUTHFLIGHT
+SFM	Nigeria	AIR SAFAR
+SFN	Iran, Islamic Republic of	SAFIRAN
+SFP	Pakistan	SAFE AIR
+SFR	South Africa	CARGO
+SFS	Switzerland	SWISS FLIGHTSERVICE
+SFT	United States of America	SKYFREIGHT
+SFU	United Kingdom	SAINTS
+SFV	Virtual Airline	SMILE
+SFW	Afghanistan	SAFI AIRWAYS
+SFX	United States of America	SWAMP FOX
+SFY	United States of America	SKY FLITE
+SGA	Viet Nam	AIR SAIGON
+SGB	United States of America	SONGBIRD
+SGC	South Africa	SOUTHERNRIGHT
+SGD	Kyrgyzstan	AIR BISHKEK
+SGF	Switzerland	STAC
+SGH	United Kingdom	SERVISAIR
+SGI	Chile	SERAGRI
+SGK	Canada	SKYWARD
+SGL	Kyrgyzstan	ESS-GROUP AVIATION
+SGM	Netherlands	SIGMA
+SGN	Thailand	SIAM
+SGP	Spain	SAGOLAIR
+SGR	United States of America	STINGER
+SGS	Canada	SASKATCHEWAN
+SGT	Netherlands	SKYGATE
+SGV	Nicaragua	SEGOVIA
+SGX	Turkey	UNKNOWN
+SGY	United States of America	SKAGWAY AIR
+SHB	Democratic Republic of the Congo	SHABAIR
+SHC	United States of America	SKY HARBOR CHEYENNE
+SHD	Algeria	UNKNOWN
+SHE	United Kingdom	SHELL
+SHF	United Kingdom	VORTEX
+SHG	United Kingdom	SHOP AIR
+SHH	United Kingdom	AIRSHARE
+SHI	Republic of Korea	SEOUL AIR
+SHJ	United Arab Emirates	SHARJAH
+SHK	Egypt	UNKNOWN
+SHL	United Kingdom	SAMSON
+SHM	South Africa	SHELTAM
+SHN	Pakistan	SUGAR ALFA
+SHO	Russian Federation	UNKNOWN
+SHP	France	SAF
+SHQ	China	SHANGHAI CARGO
+SHR	Austria	SYLHET
+SHS	Ethiopia	SHURA AIR
+SHT	United Kingdom	SHUTTLE
+SHU	Russian Federation	SATAIR
+SHV	United States of America	SHAVANO
+SHW	United States of America	SHAWNEE
+SHX	Nigeria	SLIM AIR
+SHY	Turkey	ANTALYA BIRD
+SHZ	United States of America	ELITE SHARES
+SIA	Singapore	SINGAPORE
+SIB	Russian Federation	SIBAVIA
+SIC	Thailand	SICHART
+SIE	United States of America	SEREX
+SIG	United Kingdom	UNKNOWN
+SIH	Ireland	BLUEJET
+SII	Mexico	ASEISA
+SIJ	Japan	UNKNOWN
+SIK	Argentina	SILVERSKY
+SIL	Mexico	SERVICIOS INTEGRALES
+SIM	Virtual Airline	SIMLINE
+SIO	Italy	SIRIO
+SIP	United States of America	AIR SPIRIT
+SIR	United States of America	SALAIR
+SIS	Egypt	UNKNOWN
+SIT	Belgium	UNKNOWN
+SIV	Slovenia	SLOVENIAN
+SIW	Italy	SIRIO EXECUTIVE
+SIY	Mexico	SIYUSA
+SIZ	Mexico	AEROSILZA
+SJA	Mexico	SERVICIOJAL
+SJC	Mexico	SERVIEJECUTIVO
+SJE	South Africa	SUNBIZ
+SJJ	United States of America	SPIRIT JET
+SJL	Mexico	SERVICIOS JALISCO
+SJN	United States of America	SAN JUAN
+SJT	Switzerland	SWISS JET
+SJU	Uganda	UNKNOWN
+SJY	Indonesia	SRIWIJAYA
+SKA	Brazil	RIO EXPRESS
+SKB	United States of America	SKYBUS
+SKC	Brazil	SKYMASTER AIR
+SKD	United States of America	SKY DAWG
+SKE	United States of America	SKYISLE
+SKF	United States of America	SKYCRAFT
+SKG	Gabon	SKY GABON
+SKH	United Kingdom	SKYNEWS
+SKI	United Kingdom	SKYKING
+SKJ	Slovak Republic	SLOVAK JET
+SKK	Canada	SKYLINK
+SKL	Canada	SKYCHARTER
+SKM	United States of America	SKYTEM
+SKN	United States of America	SKYLINER
+SKO	United Kingdom	SKYWORK
+SKP	Australia	SKYTRANS
+SKQ	United States of America	SKYLAB
+SKR	South Africa	SKYSCAPES
+SKS	Belgium	SKY SERVICE
+SKT	Thailand	SKY YOU
+SKU	Chile	AEROSKY
+SKW	United States of America	SKYWEST
+SKX	Sweden	SKY EXPRESS
+SKY	Japan	SKYMARK
+SKZ	United States of America	SKYWAY-INC
+SLB	Nigeria	SLOK AIR
+SLD	Czech Republic	SILVERLINE
+SLE	South Africa	SLIPSTREAM
+SLF	Italy	ELISTARFLY
+SLG	Canada	LIFEGUARD
+SLH	United States of America	SILVERHAWK
+SLI	Mexico	COSTERA
+SLJ	Italy	SLAMAIR
+SLK	Singapore	SILKAIR
+SLL	Slovak Republic	SLOV LINE
+SLM	Suriname	SURINAM
+SLN	United Kingdom	SLOANE
+SLO	United States of America	SLOW
+SLP	Sudan	SALPA
+SLR	United Kingdom	SILVERJET
+SLS	Mexico	SERVICIOS SLAINTE
+SLT	Sao Tome and Principe	STARLIGHT CARGO
+SLU	Serbia and Montenegro	AVIO SLUZBA
+SLV	Mauritania	AVISTELLA
+SLW	Nigeria	SALMA AIR
+SLX	Brazil	SETE
+SLY	Sudan	SKYCO
+SLZ	Angola	LUZA
+SMA	Nigeria	SESAME
+SMC	Indonesia	SAMER
+SMD	Mexico	SERVICIOS MARQUESA
+SME	Egypt	UNKNOWN
+SMF	Sweden	GORDON
+SMG	United Kingdom	UNKNOWN
+SMH	United States of America	SMITHAIR
+SMI	Mexico	SAMI
+SMJ	Zimbabwe	AVAVIA
+SMK	Kazakhstan	ERTIS
+SML	Canada	SMITH AIR
+SMM	United States of America	SUMMIT-AIR
+SMQ	Tajikistan	SAMAR AIR
+SMR	Tajikistan	SOMON AIR
+SMS	Sao Tome and Principe	SANTOMENSES
+SMT	Nigeria	SKYLIMIT
+SMV	France	SMART AVIATION
+SMX	Italy	ALIEXPRESS
+SMY	Saudi Arabia	NAJIM
+SMZ	United Kingdom	SCAMPTON
+SNA	Virtual Airline	SIMAIR
+SNB	Denmark	STERLING
+SNC	United States of America	NIGHT CARGO
+SNE	Nicaragua	SANSA
+SNF	Russian Federation	SHANS AIR
+SNG	Senegal	AIR SENEGAL
+SNH	Senegal	SENSERVICE
+SNI	Nigeria	SAVANAHLINE
+SNJ	Japan	NEWSKY
+SNK	United States of America	SUN KING
+SNL	United States of America	SOONAIR
+SNM	Italy	SERVIZI AEREI
+SNO	Canada	SNOWBALL
+SNP	United States of America	SUN PACIFIC
+SNQ	United States of America	EXECU-QUEST
+SNR	Sudan	SUN GROUP
+SNS	Central African Republic	UNKNOWN
+SNT	United States of America	SUNCOAST
+SNU	Israel	UNKNOWN
+SNV	Sudan	SUDANESE
+SNW	United States of America	SUN WEST
+SOA	Bahamas	SOUTH AIRCHARTER
+SOB	Zambia	STABO
+SOC	Russian Federation	UNKNOWN
+SOD	Mexico	ALSOL
+SOE	Mauritania	AIR SOLEIL
+SOF	Zimbabwe	SKY COMFORT
+SOG	Guinea-Bissau	AEROSOGA
+SOH	United States of America	SOUTHERN OHIO
+SOI	Zambia	SOAVAIR
+SOK	United States of America	SNOW SKI
+SOL	Solomon Islands	SOLOMON
+SOM	Somali Republic	SOMALAIR
+SON	United States of America	SUNSHINE TOURS
+SOO	United States of America	SOUTHERN AIR
+SOP	Slovenia	SOLINAIR
+SOQ	Cambodia	SOKHA
+SOR	Angola	SONAIR
+SOT	United States of America	SOUTH COURIER
+SOU	United States of America	SOUTHERN EXPRESS
+SOV	Russian Federation	SARATOV AIR
+SOW	Canada	SOWIND
+SOX	Netherlands	SOLIDAIR
+SOY	Philippines	SORIANO
+SOZ	Kazakhstan	SATCO
+SPA	United States of America	SIERRA PACIFIC
+SPB	South Africa	SPRING CLASSIC
+SPC	United States of America	PORT
+SPD	Canada	SPEEDLINE
+SPE	United States of America	SPRAGUE
+SPF	Nigeria	SPACE WORLD
+SPG	United States of America	SPRING AIR
+SPH	South Africa	SAPPHIRE-CHARTER
+SPI	United States of America	SOUTH PACIFIC
+SPJ	The former Yugoslav Republic of Macedonia	AIR SKOPJE
+SPK	United States of America	SPARKLE
+SPL	Mexico	CORPORATIVOS LAGUNA
+SPM	France	UNKNOWN
+SPN	Bulgaria	AIR SKORPIO
+SPO	Mexico	EJECUTIV PACIFICO
+SPP	United States of America	SAPPHIRE
+SPQ	Mexico	SERVICIOS PALENQUE
+SPR	Canada	SPEEDAIR
+SPS	Spain	SALDUERO
+SPT	Bangladesh	SPEED AVIATION
+SPU	United States of America	SPUTTER
+SPV	Mexico	SERVICIOS PRIVADOS
+SPW	Switzerland	SPEEDWING
+SPX	Germany	UNKNOWN
+SPY	Thailand	THAI SPACE
+SPZ	South Africa	SPEED SERVICE
+SQA	Slovak Republic	SLOVAK AEROCLUB
+SQC	Singapore	SINGCARGO
+SQF	Slovak Republic	SLOVAK AIRFORCE
+SQL	Mexico	ALQUILER
+SQR	Libyan Arab Jamahiriya	ALSAQER AVIATION
+SQU	United States of America	SEQUOIA
+SRC	Colombia	SEARCA
+SRD	Virtual Airline	SARDFLY
+SRE	South Africa	STREAMJET
+SRF	Chile	SAN RAFAEL
+SRG	United Kingdom	UNKNOWN
+SRH	Virtual Airline	SPECIAL
+SRI	New Zealand	AIRSAFARI
+SRK	Switzerland	SKYFOX
+SRL	Mexico	SERVICIOS PERSONAL
+SRN	Poland	SPRINTAIR
+SRO	Ecuador	SAEREO
+SRP	Germany	SPERBER
+SRQ	Philippines	SEAIR
+SRR	Denmark	WHITESTAR
+SRS	Canada	PHOTO CHARLIE
+SRT	Mexico	SURTEP
+SRU	Peru	STAR-UP
+SRV	Mexico	SERVICORP
+SRW	Sudan	SARIA
+SRX	United States of America	SIERRA EX
+SRZ	South Africa	STRATO
+SSA	Virtual Airline	SLIPSTREAM/SOUTHERN
+SSB	Canada	SASAIR
+SSC	United States of America	SOUTHERN SKIES
+SSD	France	STAR SERVICE
+SSE	Mexico	SUNSET
+SSF	Russian Federation	SEVERSTAL
+SSG	Slovak Republic	SLOVAK GOVERNMENT
+SSH	United States of America	SNOWSHOE
+SSI	Nigeria	SUPER JET
+SSK	United States of America	SKYSTAR
+SSN	South Africa	SUNSTREAM
+SSO	United Kingdom	DOPE
+SSP	United Kingdom	STARSPEED
+SSQ	Australia	SUNSTATE
+SSS	Spain	SAESA
+SST	Canada	SUNFLIGHT
+SSU	Bolivarian Republic of Venezuela	SASCA
+SSV	Canada	SKYTOUR
+SSX	United States of America	SHASTA
+SSZ	United Kingdom	SPECSAVERS
+STA	Virtual Airline	SUNSTAR
+STB	Ukraine	STATUS-ALPHA
+STC	United Kingdom	STADIUM
+STD	Mexico	AERO AGUASCALIENTES
+STE	United Kingdom	SEMITRANS
+STF	Sudan	UNKNOWN
+STG	United States of America	STAGE
+STH	Armenia	UNKNOWN
+STI	Canada	SONTAIR
+STJ	Netherlands	STELLAVIA
+STK	United States of America	SAT PAK
+STL	United Kingdom	STAPLEFORD
+STN	United Kingdom	SAINT ATHAN
+STO	Russian Federation	SLOPS
+STP	Sao Tome and Principe	SAOTOME AIRWAYS
+STQ	Indonesia	STERA
+STR	United Arab Emirates	STARLINE
+STS	Brazil	UNKNOWN
+STT	United States of America	PARADISE
+STU	Somali Republic	STARSOM
+STV	Virtual Airline	STEVENS
+STW	Philippines	SIERRA WHISKEY
+STX	South Africa	STARSAWAY
+STY	Austria	STYRIAN
+SUA	Czech Republic	AIR SILESIA
+SUB	United States of America	SUB AIR
+SUC	Thailand	SUKHOTHAI
+SUD	Sudan	SUDANAIR
+SUE	Mexico	AEROSURESTE
+SUF	Republic of the Fiji Islands	SUNFLOWER
+SUG	Senegal	SUNU AIR
+SUI	Switzerland	SWISS AIR FORCE
+SUK	Kenya	SKYCARGO
+SUM	Russian Federation	SUMES
+SUN	Dominican Republic	UNKNOWN
+SUO	Mexico	SERVICIO SANLUIS
+SUP	Mexico	AEROSUPER
+SUR	Egypt	UNKNOWN
+SUS	Denmark	SUNSCAN
+SUT	Mexico	SISTEMAS AERONAUTICOS
+SUU	United States of America	SUNSTAR
+SUV	Bolivarian Republic of Venezuela	DANCEAIR
+SUW	Russian Federation	ASTAIR
+SUY	New Zealand	SURVEY
+SVA	Saudi Arabia	SAUDIA
+SVD	Saint Vincent and the Grenadines	GRENADINES
+SVE	Mexico	AEROESPECIAL
+SVF	Sweden	SWEDEFORCE
+SVH	United Kingdom	SILVER
+SVI	Mexico	SETRA
+SVJ	Djibouti	UNKNOWN
+SVK	Slovak Republic	SLOVAKIA
+SVL	Ukraine	SEVAVIA
+SVM	Mexico	SERVIMONTE
+SVN	Angola	SAVANAIR
+SVO	Virtual Airline	SHEREMETYEVO
+SVR	Russian Federation	SVERDLOVSK AIR
+SVS	Virtual Airline	SAGUENAY
+SVW	Luxembourg	SILVER ARROWS
+SVX	United States of America	SECURITY AIR
+SVY	United Kingdom	SURVEYOR
+SVZ	Mexico	SERVICIOS VIZ
+SWA	United States of America	SOUTHWEST
+SWB	Switzerland	SWISSBOOGIE
+SWC	Canada	SAINT CLAIR
+SWD	Argentina	SOUTHERN WINDS
+SWE	Sweden	SWEDELINE
+SWF	United Kingdom	GALAIR
+SWG	Canada	SUNWING
+SWH	Canada	SHOCKWAVE
+SWI	United States of America	SUNWORLD
+SWJ	United States of America	STATES
+SWL	Virtual Airline	SWING
+SWN	Sweden	AIR SWEDEN
+SWO	Suriname	SIVA
+SWP	Italy	STAR WORK
+SWQ	United States of America	SWIFTFLIGHT
+SWR	Switzerland	SWISS
+SWS	United States of America	SUNNY WEST
+SWT	Spain	SWIFT
+SWU	Switzerland	EUROSWISS
+SWV	Sweden	FLYING SWEDE
+SWW	Ukraine	WAY AERO
+SWX	Swaziland	SWAZI EXPRESS
+SWY	Switzerland	SWISSLINK
+SWZ	Switzerland	SWISSBIRD
+SXA	United States of America	FERRY
+SXC	Nigeria	SKY EXEC
+SXE	United States of America	DOGWOOD EXPRESS
+SXI	Netherlands	SOUTHERN CROSS
+SXM	Mexico	SERVIMEX
+SXN	United Kingdom	SAXONAIR
+SXR	Russian Federation	SKYSTORM
+SXS	Turkey	UNKNOWN
+SXT	Mexico	SERTA
+SXX	United States of America	SATELLITE EXPRESS
+SXY	Kenya	SAFARI EXPRESS
+SXZ	United States of America	STAGECOACH
+SYA	Argentina	LINEAS CARDINAL
+SYC	United States of America	SYSTEC
+SYE	Yemen	UNKNOWN
+SYF	United States of America	SKY FIRST
+SYG	United Kingdom	SYNERGY
+SYI	United States of America	UNKNOWN
+SYJ	Canada	UNKNOWN
+SYK	United States of America	AEROCAB
+SYL	Russian Federation	AIR YAKUTIA
+SYM	Kazakhstan	SAYAT AIR
+SYN	Canada	SYNCRUDE
+SYR	Syrian Arab Republic	SYRIANAIR
+SYS	United Kingdom	SHAWBURY
+SYT	South Africa	SKYTRACK
+SYV	United States of America	SPECIAL SYSTEM
+SYW	Australia	SKY AIR
+SYX	United States of America	SKYWAY-EX
+SYY	South Africa	SKY COACH
+SZA	El Salvador	AESA
+SZB	Virtual Airline	SPRINGBOK
+SZL	Swaziland	SWAZILINK
+SZT	Mexico	AERO ZEE
+TAA	Mexico	AERO COSTA
+TAC	Senegal	TURBOT
+TAD	Dominican Republic	TRANS DOMINICAN
+TAE	Ecuador	TAME
+TAG	United States of America	TAG U-S
+TAH	France	AIR MOOREA
+TAI	El Salvador	TACA
+TAJ	Tunisia	TUNISAVIA
+TAK	Russian Federation	TATARSTAN
+TAL	Papua New Guinea	TALAIR
+TAM	Brazil	TAM
+TAN	United Republic of Tanzania	ZANAIR
+TAO	Mexico	TRANS-AEROMAR
+TAP	Portugal	AIR PORTUGAL
+TAR	Tunisia	TUNAIR
+TAS	Egypt	LOTUS FLOWER
+TAT	Costa Rica	TACA-COSTARICA
+TAU	Mexico	TRANSTAURO
+TAV	Spain	TAVISA
+TAX	Germany	TRAVELAIR
+TAY	Belgium	QUALITY
+TBA	Brazil	TRANSBRASIL
+TBC	United Kingdom	UNKNOWN
+TBE	Mexico	TAXI BAIE
+TBG	Haiti	UNKNOWN
+TBH	Bahamas	UNKNOWN
+TBI	United States of America	TAB INTERNATIONAL
+TBL	Mexico	AEROTREBOL
+TBM	Iran, Islamic Republic of	TABAN AIR
+TBO	Mexico	AERO CABOS
+TBR	Tunisia	TUBELAIR
+TBS	Mexico	TRIBASA
+TBX	Trinidad And Tobago	TABEX
+TCA	Virtual Airline	TRADEWIND
+TCC	Sudan	TRANSCAL
+TCD	Chad	TCHADLINES
+TCE	United States of America	TRANS-COLORADO
+TCF	United States of America	MERCURY
+TCG	Thailand	THAI CARGO
+TCH	Kingdom of Bahrain	TRANS GULF
+TCI	Turks And Caicos Islands (U.K.)	KERRMONT
+TCL	United States of America	TRANS COASTAL
+TCM	United States of America	TELEDYN
+TCN	United States of America	TRANSCON
+TCO	Colombia	TRANSCOLOMBIA
+TCP	United Kingdom	TRANSCORP
+TCR	Costa Rica	TICOS
+TCS	Ukraine	TECHSERVICE
+TCT	Uruguay	TRANS-CONT
+TCU	Philippines	TRANSGLOBAL
+TCV	Cape Verde	CABOVERDE
+TCW	Belgium	THOMAS COOK
+TCX	United Kingdom	KESTREL
+TCY	United States of America	TWIN CITY
+TDB	United States of America	THUNDER BAY
+TDC	Spain	TADAIR
+TDE	United States of America	TELLURIDE
+TDG	United States of America	TURBO DOG
+TDI	Mexico	TRANSIXTLAN
+TDM	Republic of Moldova	TANDEM
+TDO	Dominican Republic	TRADO
+TDR	Croatia	TRADEAIR
+TDT	United Kingdom	TRIDENT
+TDV	Mexico	TAXI EVORA
+TDX	United States of America	TRADEWINDS EXPRESS
+TDY	United States of America	AIR TODAY
+TEA	Virtual Airline	TRANSEUROPE
+TEB	Kyrgyzstan	TENIR AIR
+TEC	United States of America	TECHJET
+TED	Mexico	AEROAZTECA
+TEE	United Kingdom	TEEBIRD
+TEF	Spain	TECFOTO
+TEH	United States of America	TEMPELHOF
+TEL	United States of America	TELFORD
+TEM	Slovak Republic	TECHMONT
+TEN	United States of America	TENNESSEE
+TEP	Mexico	TRANSPORTES PIZA
+TER	United States of America	TERRI-AIRE
+TES	El Salvador	TAES
+TET	Republic of Moldova	TEPAVIA
+TEX	France	CATEX
+TFA	United States of America	TRANS FLORIDA
+TFB	Philippines	ROYAL TEE-AIR
+TFF	United States of America	TALON FLIGHT
+TFG	United Kingdom	TRAFALGAR
+TFH	Thailand	THAI HELICOPTER
+TFI	United States of America	UNKNOWN
+TFK	Sao Tome and Principe	UNKNOWN
+TFL	Netherlands	ARKEFLY
+TFN	Norway	SPIRIT
+TFO	Mexico	TRANSPORTES PACIFICO
+TFR	New Zealand	TOLL FREIGHT
+TFT	Thailand	THAI FLYING
+TFU	Russian Federation	UNKNOWN
+TFY	United Kingdom	TAYSIDE
+TGA	Virtual Airline	GLOBAL
+TGC	United Kingdom	THANET
+TGE	Spain	TASA
+TGI	Mexico	TRANSPORTE REGIONAL
+TGM	Spain	TAG ESPANA
+TGN	Indonesia	TRIGANA
+TGO	Canada	TRANSPORT
+TGT	Sweden	TARGET
+TGW	Singapore	GO CAT
+TGX	Gabon	TRANSGABON
+TGY	Guyana	TRANS GUYANA
+TGZ	Georgia	TAMAZI
+THA	Thailand	THAI
+THB	Thailand	THAI SABAI
+THC	United States of America	TARHEEL
+THD	Canada	DONUT
+THE	Chad	TOUMAI AIR
+THF	France	TOURAINE HELICO
+THG	Thailand	THAI GLOBAL
+THJ	Thailand	THAI JET
+THK	Turkey	HUR KUS
+THM	Kazakhstan	TAHMID
+THN	Canada	ATHENA
+THO	Honduras	LEMPIRA
+THR	Iran, Islamic Republic of	TEHRAN AIR
+THT	France	TAHITI AIRLINES
+THU	Canada	AIR THUNDER
+THY	Turkey	TURKAIR
+THZ	France	LYON HELIJET
+TIA	United States of America	TRANS INTERNATIONAL
+TIB	Brazil	TRIP
+TIC	Zambia	TRAVEL INTERNATIONAL
+TIE	Czech Republic	TIME AIR
+TIF	France	INTERCARAIBES
+TIH	Romania	TIRIAC AIR
+TIK	Australia	TICAIR
+TIL	Tajikistan	TIL
+TIM	Brazil	TEAM BRASIL
+TIN	Dominican Republic	TAINO
+TIP	United States of America	TRANSPAC
+TIR	Mexico	ANTAIR
+TIS	Russian Federation	TESIS
+TIW	Bolivarian Republic of Venezuela	TIACA
+TJK	Tajikistan	TAJIKAIR
+TJN	Kazakhstan	NERON
+TJS	Austria	TYROLJET
+TJT	France	TWINJET
+TJX	Virtual Airline	EXECUTIVE
+TKC	Virtual Airline	CARGOTURK
+TKM	United States of America	TACOMA
+TKR	Canada	TANKER
+TKW	Republic of Korea	TECHWIN
+TKX	Saint Kitts and Nevis	TROPEXPRESS
+TKY	Thailand	THAI SKY
+TLA	Ireland	TRANSLIFT
+TLB	France	TRIPLE-A
+TLC	United States of America	CARIB-X
+TLD	Mexico	AEREO AUTLAN
+TLE	Mexico	AEROUTIL
+TLG	Kazakhstan	TALGAT
+TLO	United States of America	TALON AIR
+TLP	Netherlands	TULIPAIR
+TLR	Libyan Arab Jamahiriya	AIR LIBYA
+TLS	United States of America	TEALSY
+TLT	Republic of the Fiji Islands	TURTLE
+TLU	Mexico	AEROTOLUCA
+TLV	Uruguay	PAJAROS
+TLX	United States of America	TELESIS
+TLY	Spain	TOPFLY
+TLZ	Sao Tome and Principe	TRANSLIZ
+TMA	Lebanon	TANGO LIMA
+TMD	Egypt	UNKNOWN
+TME	Mexico	TAXICENTRO
+TMG	Indonesia	TRILINES
+TMH	Mexico	TAXIMARAKAME
+TMI	Israel	TAMIRWAYS
+TMK	United States of America	TOMAHAWK
+TML	Madagascar	TAM AIRLINE
+TMM	United States of America	WILLOW RUN
+TMP	United States of America	TEMPE
+TMQ	Mauritania	TRAM AIR
+TMR	Canada	TIMBER
+TMS	United States of America	TEMSCO
+TMT	United States of America	TRANS MIDWEST
+TMW	Maldives	TRANS MALDIVIAN
+TMX	South Africa	TRAMON
+TMY	Mexico	MUNDO MAYA
+TMZ	Bolivarian Republic of Venezuela	TRANS AMAZON
+TNB	Benin	TRANS-BENIN
+TND	Mexico	TAXIS CESSNA
+TNE	Mexico	TAXINOROESTE
+TNF	Burkina Faso	TRANSFAS
+TNG	Virtual Airline	TRANSCARGO
+TNK	United States of America	TONKA AIR
+TNL	Mongolia	SKY HORSE
+TNM	Aruba (Netherlands)	TIARA
+TNO	Mexico	AEROUNION
+TNR	United States of America	TAN AIR
+TNT	Canada	TRANS NORTH
+TNV	United States of America	TRANSNORTHERN
+TNW	Ethiopia	TRANS-NATION
+TNX	Hungary	TRAINER
+TNY	United States of America	TWINCAL
+TOB	Libyan Arab Jamahiriya	TOBRUK AIR
+TOC	Mexico	TROPICMEX
+TOF	United Kingdom	TOPCLIFFE
+TOH	Serbia and Montenegro	TOMISKO CARGO
+TOJ	Tajikistan	TOJ AIRLINE
+TOK	Papua New Guinea	BALUS
+TOL	United States of America	TOL AIR
+TOM	United Kingdom	TOMSON
+TON	Mexico	AEROTONALA
+TOP	Turkey	AIR TOP
+TOR	Canada	TORONTAIR
+TOS	Belize	TROPISER
+TOT	Canada	UNKNOWN
+TOW	United States of America	TEE AIR
+TOX	Thailand	SKY KINGDOM
+TOY	Canada	TOYOTA
+TPA	Colombia	TAMPA
+TPB	Angola	AERO TROPICAL
+TPC	France	AIRCAL
+TPD	Austria	TOP SPEED
+TPF	Mexico	TAXIPACIFICO
+TPG	Mexico	TRANSPEGASO
+TPH	Cambodia	TAPROHM AIR
+TPK	Chad	TCHAD-HORIZON
+TPL	Mauritania	INTERPILOT
+TPM	Mexico	TRANSPAIS
+TPN	Mexico	AEREA DELNORTE
+TPO	Mexico	TAXI-POTOSI
+TPP	Australia	TRANS EXPRESS
+TPQ	France	TROPICWEST
+TPR	Mexico	TAXIS PARRAL
+TPS	Argentina	TAPSA
+TPT	Mexico	TASSA
+TPU	Peru	TRANS PERU
+TPV	Thailand	THAI PACIFIC
+TPX	Mexico	TRANSXALAPA
+TPY	Canada	TRANS PROVINCIAL
+TPZ	Mexico	TRANSPAZ
+TQF	United Kingdom	RAINBOW
+TQN	United States of America	TAQUAN
+TQR	Mexico	TRANSQUERETARO
+TQS	Mexico	AEROTURQUESA
+TQV	Virtual Airline	TRANS-QUEBEC
+TRA	Netherlands	TRANSAVIA
+TRB	Ukraine	KIROVTRANS
+TRC	United States of America	TRACKER
+TRD	Barbados	TRANS ISLAND
+TRE	Sao Tome and Principe	UNKNOWN
+TRF	France	TAXI JET
+TRG	Spain	UNKNOWN
+TRH	United States of America	TRANSTAR
+TRI	Canada	TRILLIUM
+TRJ	United Kingdom	HIGH TIDE
+TRK	Turkey	UNKNOWN
+TRL	South Africa	STARSTREAM
+TRM	Mauritania	SOTRANS
+TRN	Mexico	AEROTRON
+TRO	United States of America	MOLOKAI
+TRP	United States of America	TROOPER
+TRQ	Netherlands	HUNTER
+TRR	Sudan	TRAMSON
+TRS	United States of America	CITRUS
+TRT	Sudan	TRANS ARABIAN
+TRU	Uganda	TRI AIR
+TRV	Armenia	TARONAVIA
+TRW	United States of America	TRANS-WEST
+TRY	United States of America	TRISTAR AIR
+TRZ	United States of America	TRANS-MERIDIAN
+TSA	France	AIRTRAF
+TSC	Canada	AIR TRANSAT
+TSD	Brazil	TAFI
+TSE	Malaysia	TRANSMILE
+TSG	Congo	TRANS-CONGO
+TSH	Canada	TRANSCANADA
+TSI	France	TRANSPORTAIR
+TSJ	Kyrgyzstan	TRAST AERO
+TSK	Russian Federation	TOMSK AVIA
+TSL	Thailand	THAI AVIATION
+TSM	Lebanon	UNKNOWN
+TSN	Nigeria	AIR TRANS
+TSO	Russian Federation	TRANSOVIET
+TSP	Guatemala	TRANSPO-INTER
+TSQ	Japan	AIRTRA
+TSR	Democratic Republic of the Congo	TRANS SERVICE
+TSS	United States of America	TRI-STATE
+TST	Kazakhstan	TRAST
+TSU	United States of America	TRANSAUTO
+TSV	United Kingdom	TROPIC
+TSW	Switzerland	SWISSTRANS
+TSX	Thailand	THAI STAR
+TSY	Egypt	TRIPLE STAR
+TTA	Mozambique	KANIMANBO
+TTB	Mexico	AERO TURISTICAS
+TTC	Angola	TRANSTECO
+TTE	United States of America	TETON
+TTF	Russian Federation	CARGO UNIT
+TTH	Turkey	UNKNOWN
+TTL	Brazil	TOTAL
+TTM	Mauritania	TOUT-AIR
+TTO	Madagascar	TRANSPORT TRANSIT
+TTP	Nigeria	MIGHTY WING
+TTR	Mexico	TRANSPORTACIONES
+TTS	Mexico	TECNICO
+TTX	United States of America	TWISTER
+TUA	Turkmenistan	TURKMENISTAN
+TUC	Chile	TURICHILE
+TUD	United States of America	TUNDRA
+TUG	Kazakhstan	TURGAI AVIA
+TUK	United States of America	TUCKERNUCK
+TUL	Russian Federation	URSAL
+TUM	Russian Federation	UNKNOWN
+TUN	Kiribati	TUNGARU
+TUO	Mexico	TURISTICO
+TUP	Russian Federation	TUPOLEVAIR
+TUR	Ecuador	UNKNOWN
+TUS	Namibia	TRUSTCO
+TUT	Egypt	TUT AIRLINES
+TUX	Kazakhstan	TULPA
+TUY	Bolivarian Republic of Venezuela	AEREOTUY
+TUZ	Sweden	TUNA
+TVA	United States of America	TRANS-AMERICA
+TVF	France	FRANCE SOLEIL
+TVH	Spain	TRAVASA
+TVI	Republic of Moldova	TIRAMAVIA
+TVL	Hungary	TRAVEL SERVICE
+TVO	Italy	TRANS-BALLERIO
+TVR	Ukraine	TAVREY
+TVS	Czech Republic	SKYTRAVEL
+TWA	United States of America	TWA
+TWD	Nigeria	TRADEWINGS
+TWE	Sweden	TRANSWEDE
+TWF	United Kingdom	CLOUD RUNNER
+TWG	Germany	TWIN-GOOSE
+TWI	Virtual Airline	TAILWINDS
+TWJ	United Kingdom	UNKNOWN
+TWK	Chad	UNKNOWN
+TWL	Canada	TRADEWINDS CANADA
+TWM	Mozambique	UNKNOWN
+TWN	Uzbekistan	TWINARROW
+TWO	Netherlands	COLIBRI
+TWR	Jordan	TRANSWORLD
+TWW	Angola	WELWITCHIA
+TWY	United States of America	TWILIGHT
+TXA	United States of America	OKAY AIR
+TXB	Canada	TEXTRON
+TXC	Belarus	TRANSEXPORT
+TXD	Mexico	TAXI OESTE
+TXE	Romania	TRANSAIR EXPRESS
+TXF	Mexico	ALFE
+TXI	Mexico	AEREOTAXIS
+TXL	Mexico	TAXI COZATL
+TXM	Mexico	TAXIMEX
+TXN	United States of America	TEXAS NATIONAL
+TXO	Mexico	TAXIS SINALOA
+TXP	Tajikistan	TAJIK EXPRESS
+TXR	Mexico	TAXIREY
+TXS	United States of America	TEXAIR
+TXT	United States of America	TEXAS CHARTER
+TXU	Ecuador	ATESA
+TXV	Mexico	TAXIVALLARTA
+TXX	United States of America	COWBOY
+TXZ	United States of America	TEX STAR
+TYF	United Kingdom	TAYFLITE
+TYG	Sweden	TRYGG
+TYR	Austria	TYROLEAN
+TYW	Austria	TYROL AMBULANCE
+TZA	Mexico	AERO TOMZA
+TZE	Mexico	TRANSPORTE SAENZ
+TZK	Tajikistan	TAJIKISTAN
+TZR	Bolivarian Republic of Venezuela	RAIN-BEE
+TZT	Zimbabwe	ZAMBEZI
+TZU	Mexico	TAMAZULA
+UAA	United Kingdom	UNKNOWN
+UAB	Sudan	UNITED ARABIAN
+UAC	Zimbabwe	UNITAIR
+UAD	United Kingdom	UNKNOWN
+UAE	United Arab Emirates	EMIRATES
+UAF	United Arab Emirates	UNIFORCE
+UAG	Ghana	AFRALINE
+UAH	United Kingdom	UNKNOWN
+UAI	Côte d'Ivoire	UNAIR
+UAJ	United Kingdom	UNKNOWN
+UAK	Ukraine	AVIATION PLANT
+UAL	United States of America	UNITED
+UAM	United Kingdom	UNKNOWN
+UAO	United Kingdom	UNKNOWN
+UAQ	United Kingdom	UNKNOWN
+UAR	Ukraine	AEROSTAR
+UAS	Virtual Airline	UNIVERSAL
+UAU	United Kingdom	UNKNOWN
+UAV	United Kingdom	UNKNOWN
+UAW	United Kingdom	UNKNOWN
+UAX	United Kingdom	UNKNOWN
+UAY	United Kingdom	UNKNOWN
+UAZ	Ukraine	UNIVERSAL-AVIA
+UBA	Myanmar	UNIONAIR
+UBD	Bangladesh	UNITED BANGLADESH
+UCA	United States of America	COMMUTAIR
+UCC	Uganda	UGANDA CARGO
+UCH	United States of America	US CHARTER
+UCK	Kazakhstan	GALETA
+UCM	United States of America	MULE-FLIGHT
+UCO	Spain	UCOAVIACION
+UCR	Ukraine	CHARTER UKRAINE
+UCS	United States of America	UNITED CARRIERS
+UDA	Indonesia	UDARA
+UDC	Ukraine	DONBASS AERO
+UDN	Ukraine	DNIEPRO
+UEA	China	UNITED EAGLE
+UED	United States of America	AIR L-A
+UEJ	United States of America	JETCORP
+UES	Ukraine	AVIASYSTEM
+UFA	Ukraine	FLIGHT ACADEMY
+UFS	United States of America	FEEDER FLIGHT
+UGA	Uganda	UGANDA
+UGB	Uganda	UGAWINGS
+UGC	Spain	URGEMER
+UGL	United States of America	UGLY VAN
+UGN	Kazakhstan	PLUTON
+UGP	Russian Federation	SHARINK
+UGX	Uganda	CRANE
+UHC	Ukraine	HANDLING COMPANY
+UHL	Ukraine	UKRAINE COPTERS
+UHS	Russian Federation	PILOT AIR
+UIL	Serbia and Montenegro	UNITED LINER
+UJR	Mexico	UNIVERSAL JET
+UJS	Russian Federation	UNKNOWN
+UJT	United States of America	UNI-JET
+UKA	United Kingdom	UKAY
+UKC	Virtual Airline	SAMSON
+UKD	Virtual Airline	UNICORN
+UKI	United Kingdom	MAGENTA
+UKL	Ukraine	UKRAINE ALLIANCE
+UKM	Ukraine	UKRAINE MEDITERRANEE
+UKN	Ukraine	ENTERPRISE UKRAINE
+UKP	United Kingdom	POLICE
+UKR	Ukraine	AIR UKRAINE
+UKS	Virtual Airline	SUNJET
+UKU	Russian Federation	PYSHMA
+UKV	Virtual Airline	SKYWAYS
+UKW	Ukraine	UKRAINE WEST
+UKZ	United Kingdom	FLYZOOM
+ULS	United States of America	ULSTER
+ULT	United States of America	ULTRAIR
+UMA	Mexico	HUMAYA
+UMB	Italy	AIR UMBRIA
+UMK	Ukraine	YUZMASH
+UMS	Russian Federation	TOPAZ
+UNA	China	UNITED ASIA
+UNC	Denmark	UNICOPTER
+UND	Mexico	ATUNEROS UNIDOS
+UNF	United States of America	UNION FLIGHTS
+UNI	Virtual Airline	UNITED WINGS
+UNJ	Spain	PROJET
+UNR	Ukraine	RIVNE UNIVERSAL
+UNS	Turkey	UNSPED
+UNT	Mexico	UNIVERSITARIO
+UNU	Italy	UNIEURO
+UNY	Sweden	UNIVERSITY
+UPA	United Kingdom	FOYLE
+UPL	Ukraine	PILOT SCHOOL
+UPS	United States of America	UPS
+URA	Ukraine	ROSAVIA
+URG	Ukraine	URGA
+URJ	Pakistan	STARAV
+URN	Republic of Azerbaijan	TURAN
+URP	Ukraine	AIR-ARP
+URR	Slovenia	AIR AURORA
+URV	Russian Federation	URAI
+URY	Mexico	CENTURY AVIA
+USA	United States of America	U S AIR
+USB	Georgia	TUSHETI
+USC	United States of America	STAR CHECK
+USF	United States of America	AFRICA EXPRESS
+USH	United States of America	US-HELI
+USJ	United States of America	USJET
+USK	Ukraine	SKIF-AIR
+UST	Ecuador	AUSTRO AEREO
+USX	United States of America	AIR EXPRESS
+UTA	Russian Federation	UTAIR
+UTG	Equatorial Guinea	UTAGE
+UTM	Uzbekistan	AVIATAPS
+UTN	Mongolia	TRANS-ULGII
+UTP	China	UNI-TOP
+UTR	South Africa	AIRUT
+UTS	Ukraine	AIRRUH
+UTT	Uganda	ARABIAN TRANSPORT
+UTU	Armenia	UNKNOWN
+UTY	Australia	UNITY
+UVA	United States of America	UNIVERSAL
+UVC	Virtual Airline	UNITY
+UVG	Guyana	GUYANA JET
+UVM	Mexico	UVAVEMEX
+UVN	Kuwait	UNITED AVIATION
+UVT	Indonesia	AUVIA
+UWA	United States of America	GRUMPY
+UYC	Cameroon	CAM-AIR
+UZA	Ukraine	CONSTANTA
+UZB	Uzbekistan	UZBEK
+UZS	Uzbekistan	SOGDIANA
+VAA	Czech Republic	EUROVAN
+VAB	Russian Federation	UNKNOWN
+VAC	Virtual Airline	AIR CANADA
+VAD	Spain	VALLES
+VAE	Spain	AIR-EVANS
+VAI	Serbia and Montenegro	AIR AVALAIR
+VAL	Canada	VOYAGEUR
+VAM	Uruguay	AMERAVIA
+VAN	Mauritania	CAMEL
+VAP	Thailand	PHUKET AIR
+VAR	Virtual Airline	VIRTUALIROMA
+VAS	Russian Federation	ATRAN
+VAT	Ireland	VISIONAIR
+VAU	Australia	KANGA
+VAV	Cambodia	AIR ANGKOR
+VAW	Virtual Airline	AIRWEGO
+VBA	Virtual Airline	VEEBEE
+VBC	Bulgaria	AIR VICTOR
+VBG	Russian Federation	VYBORG AIR
+VBI	Australia	BLUEY
+VBP	Virtual Airline	VBP
+VBW	Burkina Faso	BURKINA
+VCA	Brazil	VICA
+VCH	Bolivarian Republic of Venezuela	CONSORCIO HELITEC
+VCI	Côte d'Ivoire	CI-TOURS
+VCM	United States of America	CARMEN
+VCN	Switzerland	AVCON
+VCR	Brazil	VOE CRUISER
+VCT	United States of America	VISCOUNT AIR
+VCV	Bolivarian Republic of Venezuela	CONVIASA
+VCX	Italy	OCEANCARGO
+VDA	Russian Federation	VOLGA-DNEPR
+VDO	Mexico	AVANDARO
+VDR	The former Yugoslav Republic of Macedonia	VARDAR
+VEA	Bulgaria	VEGA AIRLINES
+VEC	Bolivarian Republic of Venezuela	VECAR
+VEE	Spain	VICTOR ECHO
+VEG	Mexico	AEROVEGA
+VEI	Ireland	GREEN ISLE
+VEJ	Bolivarian Republic of Venezuela	VENEJECUTIV
+VEN	Bolivarian Republic of Venezuela	TRANSAVEN AIRLINE
+VER	Mexico	ALMAVER
+VES	United States of America	VIEQUES
+VEX	Belgium	VIRGIN EXPRESS
+VFA	Virtual Airline	FASTAIR
+VFC	Viet Nam	VASCO AIR
+VFI	Germany	VIP FLIGHT
+VFR	Virtual Airline	VIRTUAL V F R
+VFT	Mexico	ZETA FLIGHTS
+VGA	United States of America	AIR VEGAS
+VGC	Mexico	VANGUARDIA COLIMA
+VGD	United States of America	VANGUARD AIR
+VGF	United Arab Emirates	VISTA GULF
+VGN	Nigeria	VIRGIN NIGERIA
+VGS	Netherlands	SMART
+VGV	Russian Federation	VOLOGDA AIR
+VHA	Angola	AIR V-H
+VHM	Germany	EARLY BIRD
+VHT	United States of America	VEGAS HEAT
+VIA	Norway	SCANVIP
+VIB	Germany	VITUS
+VIC	Mexico	VIP-EJECUTIVO
+VID	Russian Federation	AVIAPRAD
+VIE	Mexico	VIP EMPRESARIAL
+VIF	Austria	VIENNA FLIGHT
+VIG	Sudan	VEGA AVIATION
+VIH	Republic of Moldova	VICHI
+VIK	Sweden	SWEDJET
+VIM	Bulgaria	UNKNOWN
+VIN	Portugal	VINAIR
+VIP	Virtual Airline	FREEWINGS
+VIR	United Kingdom	VIRGIN
+VIS	Pakistan	DREAM BIRD
+VIT	Virtual Airline	VATITA
+VIV	Mexico	AEROENLACES
+VIZ	Ukraine	AEROVIZ
+VJA	Austria	VIENNAJET
+VJC	Viet Nam	VIETJETAIR
+VJE	United Arab Emirates	UNKNOWN
+VJM	Mexico	VIAJES MEXICANOS
+VJS	Austria	VISTA JET
+VKG	Denmark	VIKING
+VKY	United States of America	VALKYRIE
+VLA	South Africa	NALAU
+VLE	Italy	VOLA
+VLF	United Kingdom	VOLANTE
+VLG	Spain	VUELING
+VLI	Mexico	AEROVOLAR
+VLJ	France	VALJET
+VLK	Russian Federation	VLADAIR
+VLL	United Kingdom	UNKNOWN
+VLM	Belgium	RUBENS
+VLN	Republic of Moldova	VALAN
+VLO	Brazil	VELOG
+VLR	Mexico	VILLAVERDE
+VLS	Mexico	VIREL
+VLT	Russian Federation	VERTICAL
+VLU	Singapore	VALUAIR
+VLV	Russian Federation	VLADLIFT
+VLX	United States of America	AVOLAR
+VMA	United States of America	VERO MONMOUTH
+VME	Mexico	AVIAMERICA
+VMM	Spain	VUELOS MED
+VMP	Denmark	VAMPIRE
+VMR	Portugal	AERO VILAMOURA
+VNA	Uruguay	EBBA
+VNC	Mexico	VUELOS NACIONALES
+VNE	Bolivarian Republic of Venezuela	VENEZOLANA
+VNG	Mexico	VANGUARDIA
+VNK	Russian Federation	UNKNOWN
+VNR	United States of America	AVANTAIR
+VNS	Mexico	AEROVENA
+VNT	Zambia	AVIENT
+VNZ	Georgia	TBILAVIA
+VOA	Bulgaria	VIAGGIO
+VOG	Bangladesh	VOYAGER AIR
+VOI	Mexico	VUELA AVIACION
+VOL	Sweden	BLUE SPEED
+VOS	South Africa	ROVOS
+VOZ	Australia	UNKNOWN
+VPA	Slovak Republic	VIP TAXI
+VPB	Ukraine	VETERAN
+VPP	United States of America	VINTAGE
+VPV	Georgia	VIP AVIA
+VRA	United Kingdom	VERITAIR
+VRB	Rwanda	SILVERBACK
+VRC	Mexico	VERACRUZ
+VRD	United States of America	REDWOOD
+VRE	Ukraine	UKRAINE VOLARE
+VRI	Mexico	VILLARICA
+VRL	Angola	VOAR LINHAS
+VRN	Brazil	VARIG
+VRO	Mexico	AEROVITRO
+VRS	Mexico	VAIRSA
+VRT	United States of America	AVERITT
+VRZ	Armenia	VERTIR
+VSA	South Africa	STARBIRD
+VSB	United Kingdom	VICKERS
+VSG	Spain	VISIG
+VSN	Canada	VISION
+VSO	Russian Federation	VASO
+VSP	Brazil	VASP
+VSR	Bulgaria	AVIOSTART
+VSS	United States of America	WATERBIRD
+VSV	Kazakhstan	VLASTA
+VTA	France	AIR TAHITI
+VTC	Mexico	VUELOS TOLLOCAN
+VTE	United States of America	VOLUNTEER
+VTG	Angola	ATACARGO
+VTH	Mexico	VUELOS TEHUACAN
+VTK	Russian Federation	VOSTOK
+VTL	Chile	VITALA
+VTM	Mexico	AERONAVES TSM
+VTS	United States of America	EVERTS
+VTT	Sudan	VIATRANSPORT
+VTV	Bulgaria	VOINTEH
+VTX	Mexico	VERATAXIS
+VTY	Nigeria	VICTORY
+VUE	United Kingdom	FLIGHTVUE
+VUL	Italy	ELIOS
+VUN	Côte d'Ivoire	AIRIVOIRE
+VUO	Mexico	AEROVUELOX
+VUR	Ecuador	VIPEC
+VUS	Mexico	VUELA BUS
+VVA	Russian Federation	IALSI
+VVF	Turkey	WORLDFOCUS
+VVG	Colombia	AEROVILLA
+VVM	Macao Special Administrative Region of China	JACKPOT
+VVP	Austria	AIR SALZBURG
+VVS	Virtual Airline	VVS
+VXG	Gabon	AVIREX-GABON
+VXL	Equatorial Guinea	VEXLINE
+VXP	Mali	AVION EXPRESS
+VXX	Ukraine	EXPRESSAVIA
+VYT	United Kingdom	ANGLESEY
+VZL	Russian Federation	VZLYET
+VZR	France	IAZUR
+WAA	Namibia	WESTAIR WINGS
+WAB	United States of America	WABASH
+WAC	Mauritania	WESTAF CARGO
+WAD	United Kingdom	VULCAN
+WAE	United States of America	WESTERN EXPRESS
+WAF	United States of America	FLAMENCO
+WAG	United States of America	UNKNOWN
+WAI	United States of America	BUSHWOOD
+WAK	United States of America	WINGS ALASKA
+WAM	Sudan	TAXI CARGO
+WAP	Panama	ARROW PANAMA
+WAR	New Zealand	WARBIRDS
+WAS	Canada	WALSTEN
+WAT	Sudan	UNKNOWN
+WAU	Ukraine	WIZZAIR UKRAINE
+WAV	United States of America	WARBELOW
+WAW	United States of America	WING SHUTTLE
+WAY	France	GARONNE
+WBA	Virtual Airline	WILDBLUE
+WBR	United States of America	WEBER
+WCB	Ghana	KILO YANKEE
+WCC	United States of America	WEST COAST
+WCG	Ghana	WHISKEY INDIA
+WCO	United States of America	COLUMBIA HELI
+WCP	United States of America	WHITECAP
+WCT	Virtual Airline	WILDCAT
+WCW	Colombia	UNKNOWN
+WCY	United States of America	TITAN AIR
+WDA	Democratic Republic of the Congo	WIMBI DIRA
+WDG	United Kingdom	WATCHDOG
+WDK	United Kingdom	WOODSTOCK
+WDL	Germany	WDL
+WDR	United States of America	WIND RIDER
+WDS	United States of America	WINDS
+WDY	United States of America	WINDYCITY
+WEA	Poland	WHITE EAGLE
+WEB	Brazil	WEB-BRASIL
+WEL	Ukraine	VELES
+WEU	Virtual Airline	GROLSCH
+WEV	Uganda	VICTORIA
+WEW	Canada	WESTWIND
+WEX	United States of America	WINGS EXPRESS
+WFC	Switzerland	SWIFTCOPTERS
+WFD	United Kingdom	AVRO
+WFO	United States of America	WILBURS
+WGA	Ukraine	WEGA FRANKO
+WGP	United Kingdom	GRAND PRIX
+WGS	Finland	AIRWINGS
+WGT	United Kingdom	WORLDGATE
+WHB	Sudan	HOSHAM AIR
+WHE	United Kingdom	WESTLAND
+WHR	United States of America	TANGI
+WHS	Germany	WEEKING
+WHT	Portugal	WHITEJET
+WIA	Netherlands	WINDWARD
+WIF	Norway	WIDEROE
+WIG	United States of America	WIGGINS AIRWAYS
+WIL	United States of America	WILLAMETTE
+WIN	Saint Lucia	WINLINK
+WIS	United States of America	WISCAIR
+WIT	United Kingdom	STRIKER
+WIW	Ukraine	VEE-AVIA
+WIZ	United Kingdom	WIZARD
+WJA	Canada	WESTJET
+WKD	Virtual Airline	WEEKEND AIR
+WKH	Ukraine	WEST-KHARKOV
+WLA	Zambia	AIRLIMITED
+WLB	Lebanon	WINGS LEBANON
+WLC	Austria	WELCOMEAIR
+WLG	Russian Federation	GOUMRAK
+WLI	Finland	WINGLINE
+WLK	South Africa	SKYWATCH
+WLR	Italy	AIRWALSER
+WLS	United States of America	WILLIAMS AIR
+WLT	United States of America	WINGLET
+WLV	United States of America	WOLVERINE
+WLX	Luxembourg	WEST LUX
+WML	United States of America	MARLIN
+WNA	United States of America	WINAIR
+WNR	Spain	WONDAIR
+WOA	United States of America	WORLD
+WOK	Czech Republic	WOKAIR
+WOL	Guyana	WINGJET
+WON	Indonesia	WINGS ABADI
+WOW	United Kingdom	SWALLOW
+WPA	Solomon Islands	WESTPAC
+WPK	United States of America	WOLFPACK
+WPR	New Zealand	WESTPAC RESCUE
+WPT	Canada	WAPITI
+WRA	Canada	UNKNOWN
+WRC	Ukraine	WIND ROSE
+WRF	United States of America	WRIGHT FLYER
+WRR	United States of America	WRAP AIR
+WRT	United States of America	WRIGHT-AIR
+WSA	United States of America	WESTATES
+WSC	Côte d'Ivoire	WESTCAR
+WSF	Benin	UNKNOWN
+WSG	Canada	WASAYA
+WSI	United States of America	WIND SPIRIT
+WSM	United States of America	WISMAN
+WST	Bahamas	WESTERN BAHAMAS
+WTA	Togo	WEST TOGO
+WTC	Liberia	WATCO
+WTF	Senegal	WESTAF AIRTRANS
+WTN	United Kingdom	TARNISH
+WTP	Canada	WESTPOINT
+WTV	United States of America	WESTAVIA
+WVA	United States of America	WABASH VALLEY
+WVL	Bulgaria	WIZZBUL
+WWA	Virtual Airline	WESTWIND
+WWD	United States of America	WESTWARD
+WWG	Mexico	UNKNOWN
+WWI	United States of America	WORLDWIDE
+WWL	Australia	UNKNOWN
+WWM	Kyrgyzstan	MANAS WING
+WWS	Pakistan	UNKNOWN
+WYC	United Kingdom	WYCOMBE
+WYG	United States of America	WYOMING
+WYT	United Kingdom	UNKNOWN
+WZZ	Hungary	WIZZAIR
+XAA	United States of America	UNKNOWN
+XAB	Mexico	AERO XABRE
+XAC	United States of America	UNKNOWN
+XAD	United States of America	UNKNOWN
+XAF	United States of America	UNKNOWN
+XAH	United Kingdom	UNKNOWN
+XAK	Kenya	SUNEXPRESS
+XAL	Barbados	BAJANSTAR
+XAM	United States of America	ALLIANCE
+XAO	United States of America	UNKNOWN
+XAP	United States of America	MID-TOWN
+XAR	Indonesia	TRAVEL EXPRESS
+XAS	United States of America	UNKNOWN
+XAT	United States of America	UNKNOWN
+XAV	Russian Federation	AVIAPROM
+XAX	Malaysia	XANADU
+XBG	United States of America	UNKNOWN
+XBO	United States of America	UNKNOWN
+XCC	Mexico	XCALAK
+XCL	United States of America	UNKNOWN
+XCO	United States of America	UNKNOWN
+XCS	United States of America	UNKNOWN
+XCT	Mexico	AEROCOSTAXI
+XCX	United States of America	UNKNOWN
+XDA	France	UNKNOWN
+XDD	United States of America	UNKNOWN
+XDS	United States of America	UNKNOWN
+XDT	United States of America	UNKNOWN
+XDY	United States of America	UNKNOWN
+XEC	Germany	UNKNOWN
+XEL	United Kingdom	HELI EXCEL
+XER	United States of America	XEROX
+XFL	United States of America	EX-FLIGHT
+XFS	United States of America	UNKNOWN
+XFX	New Zealand	AIRCORP
+XGO	Germany	PASTIS
+XGS	United States of America	UNKNOWN
+XGW	United States of America	UNKNOWN
+XIA	Canada	UNKNOWN
+XJA	France	UNKNOWN
+XJC	United Kingdom	EXCLUSIVE JET
+XJT	United Kingdom	XRAY
+XKA	United States of America	UNKNOWN
+XKX	France	UNKNOWN
+XLA	United Kingdom	EXPO
+XLB	United States of America	UNKNOWN
+XLD	United States of America	UNKNOWN
+XLF	France	STARWAY
+XLG	United States of America	UNKNOWN
+XLI	Virtual Airline	X-LINE
+XLK	Kenya	SAFARILINK
+XLL	United Republic of Tanzania	TINGA-TINGA
+XLT	Brazil	INFRAERO
+XMA	United States of America	UNKNOWN
+XME	Australia	UNKNOWN
+XMG	Russian Federation	UNKNOWN
+XMJ	Virtual Airline	MEADOWSWEET
+XMR	Ireland	AUTHORITY
+XMS	United Kingdom	SANTA
+XMX	Mexico	SENEAM
+XNA	United States of America	EXPRESSNET
+XNR	Mexico	TAXI NORTE
+XNS	Canada	UNKNOWN
+XNT	United States of America	UNKNOWN
+XNV	United States of America	UNKNOWN
+XOJ	United States of America	EXOJET
+XPA	United States of America	UNKNOWN
+XPE	Austria	EXPERT
+XPG	Canada	UNKNOWN
+XPN	Niger	UNKNOWN
+XPR	United States of America	UNKNOWN
+XPS	Netherlands	XP PARCEL
+XPX	Canada	UNKNOWN
+XRA	South Africa	INTENSIVE
+XSA	United States of America	UNKNOWN
+XSL	United States of America	SATSLAB
+XSN	Canada	UNKNOWN
+XSR	United States of America	EXECUTIVE AIRSHARE
+XSS	Mexico	INTER EXPRESS
+XTA	Mexico	TEXTRA
+XTJ	United States of America	UNKNOWN
+XTO	Gabon	EXPRESS TOURS
+XWS	United States of America	UNKNOWN
+XWW	Canada	UNKNOWN
+XXA	Austria	UNKNOWN
+XXS	Canada	UNKNOWN
+XXV	Bolivia	UNKNOWN
+XXX	Belgium	UNKNOWN
+XYZ	United States of America	RAINBIRD
+YAK	Russian Federation	YAK AVIA
+YBE	United States of America	YELLOW BIRD
+YFS	United States of America	YOUNG AIR
+YMA	Virtual Airline	COMPASS
+YMF	Virtual Airline	LOGISTICS
+YOG	United States of America	YOGAN AIR
+YPV	Virtual Airline	YOUR PERCEPTION
+YRG	Serbia and Montenegro	YUGAIR
+YZR	China	YANGTZE RIVER
+ZAI	Democratic Republic of the Congo	ZASAIR
+ZAK	Zambia	ZAMBIA SKIES
+ZAN	United States of America	ZANTOP
+ZAR	Democratic Republic of the Congo	ZAIREAN
+ZAS	Egypt	ZAS AIRLINES
+ZAW	Bangladesh	ZED AIR
+ZBA	Kenya	BOSKY
+ZMA	Zambia	ZAMBEZI WINGS
+ZZM	Côte d'Ivoire	UNKNOWN

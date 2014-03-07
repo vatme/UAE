@@ -11,10 +11,13 @@ Settings	SettingsfileFP	\OMAE-settings.txt
 Settings	SettingsfilePLUGINS	\OMAE-settings.txt
 Settings	Settingsfile	\OMAE-settings.txt
 Settings	SettingsfileSCREEN	\OMAE-settings.txt
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airways	\DataFiles\airway.txt
 LastSession	connecttype	0
 Settings	AtisFolder	\UniATIS_OMAEV2\atisfiles.txt
 LastSession	atis_airport	OMDB
-Voice	PPPT	18677760
 LastSession	atis_letter	67
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
@@ -22,11 +25,6 @@ RecentFiles	Recent1	\VATUAE.asr
 LastSession	atis2	Emirates Control
 LastSession	atis3	Report callsign with heading and altitude on first contact
 LastSession	range	350
-Voice	input_hardware	Wave - Integrated Microphone Array (ID
-Voice	output_hardware	Wave - Speakers and Headphones (IDT Hi
-Voice	input_hardware2	Wave - Integrated Microphone Array (ID
-Voice	output_hardware2	Wave - Speakers and Headphones (IDT Hi
-Voice	squelch	70.7
 LastSession	atis4	Monitor ATIS 131.700
 LastSession	callsign	OMAE_CTR
 LastSession	facility	6
