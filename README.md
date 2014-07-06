@@ -25,7 +25,7 @@ Updating the AIRAC is necessary as airport airways, fixes, SIDs, and STARs chang
 
 1. Download the zip file of this sector file by clicking the Download Zip button on the right side.
 2. Extract the zip file anywhere on your computer.
-3. Open the extracted files and copy the DataFiles folder and VATUAE.ese file. Go to your current sector file folder for VATUAE and replace the DataFiles and .ese file with the ones you just copied. 
+3. Open the extracted files and copy the DataFiles folder, VATUAE.ese, and VATUAE.sct files and replace the same files in your current UAE folder.
 
 ##Support
 For support on sector files, contact the VATME Support Team at: http://vatme.net/support/
