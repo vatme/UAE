@@ -555,7 +555,7 @@ AG:OMDB_ATIS:131.700:rw.liveatc.net:omdb_atis
 END
 PROFILE
 PROFILE:OMAE_CTR:350:6
-ATIS2:Emirates Control
+ATIS2:UAE Radar
 ATIS3:Report callsign with heading and altitude on first contact
 ATIS4:Monitor ATIS 131.700
 PROFILE:OMDB_APP:150:5

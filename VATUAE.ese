@@ -6,15 +6,18 @@
 
 [POSITIONS]
 ; Surrounding
-Muscat Center:Muscat Center:120.200:MC:-:OOMM:CTR:-:-:0000:0000
-Bahrain Control:Bahrain Control:128.770:BC:-:OBBB:CTR:-:-:0000:0000
+Muscat Center:Muscat Center:126.250:MC:-:OOMM:CTR:-:-:0000:0000
+Bahrain Control:Bahrain Control:126.700:BC:-:OBBB:CTR:-:-:0000:0000
 Tehran Center:Tehran Center:133.400:TC:-:OIIX:CTR:-:-:0000:0000
+Jeddah Control:Jeddah Control:134.300:JC:-:OEJD:CTR:-:-:0000:0000
 Gulf Control:Gulf Control:133.550:GF:-:GULF:FSS:-:-:0000:0000
+Gulf Control West:Gulf Control West:133.500:GFW:-:GULF:FSS:-:-:0000:0000
+Gulf Control East:Gulf Control East:133.600:GFE:-:GULF:FSS:-:-:0000:0000
 
 ; FIR Center Positions
-OMAE_CTR:U.A.E Radar:119.300:EC:-:OMAE:CTR:-:-:2701:2777
-;OMAE_E_CTR:U.A.E Radar:119.300:ECE:E:OMAE:CTR:-:-:2701:2777			; east sector only
-OMAE_W_CTR:U.A.E Radar:120.900:ECW:W:OMAE:CTR:-:-:2701:2777
+OMAE_CTR:UAE Radar:119.300:EC:-:OMAE:CTR:-:-:2701:2777
+;OMAE_E_CTR:UAE Radar:119.300:ECE:E:OMAE:CTR:-:-:2701:2777			; east sector only
+OMAE_W_CTR:UAE Radar:120.900:ECW:W:OMAE:CTR:-:-:2701:2777
 
 ; FIR Approach Positions
 OMAA_APP:Abu Dhabi Approach:128.100:AAA:-:OMAA:APP:-:-:6241:6257

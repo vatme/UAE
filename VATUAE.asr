@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SYAM\Documents\EuroScope\OMAE\VATUAE.sct
+SECTORFILE:VATUAE.sct
 SECTORTITLE:VATUAE.sct
 Airports:OMAA:name
 Airports:OMAD:name
