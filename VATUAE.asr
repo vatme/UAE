@@ -10,6 +10,19 @@ Airports:OMDB:name
 Airports:OMFJ:name
 Airports:OMRK:name
 Airports:OMSJ:name
+ARTCC boundary:CTR/Dubai:
+ARTCC boundary:CTR/Fujairah:
+ARTCC boundary:CTR/Sharjah:
+ARTCC boundary:Fix:
+ARTCC boundary:Line:
+ARTCC high boundary:OBBB:
+ARTCC high boundary:OIIX:
+ARTCC high boundary:OMAE:
+ARTCC high boundary:OOMM:
+ARTCC low boundary:Fix:
+ARTCC low boundary:SMA/AA:
+ARTCC low boundary:SMA/DB:
+ARTCC low boundary:SMA/RK:
 Fixes:ALKAD:name
 Fixes:ALKAD:symbol
 Fixes:ALNET:name
@@ -46,8 +59,6 @@ Fixes:ASTOG:name
 Fixes:ASTOG:symbol
 Fixes:ASVAD:name
 Fixes:ASVAD:symbol
-Fixes:ASVOR:name
-Fixes:ASVOR:symbol
 Fixes:ATBEX:name
 Fixes:ATBEX:symbol
 Fixes:ATBID:name
@@ -92,8 +103,6 @@ Fixes:DANIG:name
 Fixes:DANIG:symbol
 Fixes:DANOK:name
 Fixes:DANOK:symbol
-Fixes:DAPIN:name
-Fixes:DAPIN:symbol
 Fixes:DARAX:name
 Fixes:DARAX:symbol
 Fixes:DARTO:name
@@ -164,8 +173,6 @@ Fixes:GEPAN:name
 Fixes:GEPAN:symbol
 Fixes:GEPEL:name
 Fixes:GEPEL:symbol
-Fixes:GEVEG:name
-Fixes:GEVEG:symbol
 Fixes:GEXIK:name
 Fixes:GEXIK:symbol
 Fixes:GIDIS:name
@@ -188,12 +195,8 @@ Fixes:GOGMI:name
 Fixes:GOGMI:symbol
 Fixes:GOLGU:name
 Fixes:GOLGU:symbol
-Fixes:GOMPI:name
-Fixes:GOMPI:symbol
 Fixes:GOMTA:name
 Fixes:GOMTA:symbol
-Fixes:IMDEL:name
-Fixes:IMDEL:symbol
 Fixes:IMKIR:name
 Fixes:IMKIR:symbol
 Fixes:IMLAD:name
@@ -204,8 +207,6 @@ Fixes:ITITA:name
 Fixes:ITITA:symbol
 Fixes:ITMOX:name
 Fixes:ITMOX:symbol
-Fixes:ITNER:name
-Fixes:ITNER:symbol
 Fixes:ITPUT:name
 Fixes:ITPUT:symbol
 Fixes:ITRAX:name
@@ -216,8 +217,6 @@ Fixes:IVALA:name
 Fixes:IVALA:symbol
 Fixes:IVISA:name
 Fixes:IVISA:symbol
-Fixes:IVOGO:name
-Fixes:IVOGO:symbol
 Fixes:IVUTI:name
 Fixes:IVUTI:symbol
 Fixes:KANIP:name
@@ -246,16 +245,12 @@ Fixes:KODAS:name
 Fixes:KODAS:symbol
 Fixes:KUMDA:name
 Fixes:KUMDA:symbol
-Fixes:KUMUN:name
-Fixes:KUMUN:symbol
 Fixes:KUNGU:name
 Fixes:KUNGU:symbol
 Fixes:KUPMA:name
 Fixes:KUPMA:symbol
 Fixes:KUSEN:name
 Fixes:KUSEN:symbol
-Fixes:KUTPU:name
-Fixes:KUTPU:symbol
 Fixes:KUVRO:name
 Fixes:KUVRO:symbol
 Fixes:KUXIR:name
@@ -320,8 +315,6 @@ Fixes:MISOD:name
 Fixes:MISOD:symbol
 Fixes:MODUS:name
 Fixes:MODUS:symbol
-Fixes:MURAG:name
-Fixes:MURAG:symbol
 Fixes:MUSAP:name
 Fixes:MUSAP:symbol
 Fixes:MUSEN:name
@@ -390,8 +383,6 @@ Fixes:ODBAS:name
 Fixes:ODBAS:symbol
 Fixes:ODBEV:name
 Fixes:ODBEV:symbol
-Fixes:ODGOR:name
-Fixes:ODGOR:symbol
 Fixes:ODLAL:name
 Fixes:ODLAL:symbol
 Fixes:ORPAT:name
@@ -402,8 +393,6 @@ Fixes:OSTIN:name
 Fixes:OSTIN:symbol
 Fixes:OTOLO:name
 Fixes:OTOLO:symbol
-Fixes:OXAPO:name
-Fixes:OXAPO:symbol
 Fixes:PARED:name
 Fixes:PARED:symbol
 Fixes:PASEK:name
@@ -472,18 +461,12 @@ Fixes:SIDMI:name
 Fixes:SIDMI:symbol
 Fixes:SIGBO:name
 Fixes:SIGBO:symbol
-Fixes:SIKNU:name
-Fixes:SIKNU:symbol
 Fixes:SINBI:name
 Fixes:SINBI:symbol
-Fixes:SINGU:name
-Fixes:SINGU:symbol
 Fixes:SITAT:name
 Fixes:SITAT:symbol
 Fixes:SIVAX:name
 Fixes:SIVAX:symbol
-Fixes:SIXAN:name
-Fixes:SIXAN:symbol
 Fixes:SOBER:name
 Fixes:SOBER:symbol
 Fixes:SOBOB:name
@@ -520,8 +503,6 @@ Fixes:TOPSI:name
 Fixes:TOPSI:symbol
 Fixes:TORSO:name
 Fixes:TORSO:symbol
-Fixes:TOSBO:name
-Fixes:TOSBO:symbol
 Fixes:TOSNA:name
 Fixes:TOSNA:symbol
 Fixes:TOXIG:name
@@ -685,11 +666,14 @@ Free Text:CTR/FIR\AA CTR:freetext
 Free Text:CTR/FIR\AD CTR:freetext
 Free Text:CTR/FIR\AL CTR:freetext
 Free Text:CTR/FIR\BAHRAIN FIR:freetext
+Free Text:CTR/FIR\BAHRAIN FIR:freetext
 Free Text:CTR/FIR\DB CTR:freetext
 Free Text:CTR/FIR\DW CTR:freetext
 Free Text:CTR/FIR\FJ CTR:freetext
 Free Text:CTR/FIR\MUSCAT FIR:freetext
 Free Text:CTR/FIR\RK CTR:freetext
+Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
+Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
 Free Text:CTR/FIR\SJ CTR:freetext
 Free Text:CTR/FIR\TEHRAN FIR:freetext
 Free Text:DUBAI GROUND gates\A1:freetext
@@ -1242,57 +1226,40 @@ Geo:OMDW:
 Geo:OMFJ:
 Geo:OMRK:
 Geo:OMSJ:
-Runways:OMDB DUBAI Intl 12L-30R:centerline
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 1
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 1 left base
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 1 left ticks
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 1 left vectoring
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 1 right base
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 1 right ticks
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 1 right vectoring
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 2
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 2 left base
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 2 left ticks
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 2 left vectoring
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 2 right base
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 2 right ticks
-Runways:OMDB DUBAI Intl 12L-30R:extended centerline 2 right vectoring
-Runways:OMDB DUBAI Intl 12L-30R:name
-Runways:OMDB DUBAI Intl 12R-30L:centerline
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 1
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 1 left base
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 1 left ticks
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 1 left vectoring
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 1 right base
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 1 right ticks
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 1 right vectoring
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 2
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 2 left base
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 2 left ticks
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 2 left vectoring
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 2 right base
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 2 right ticks
-Runways:OMDB DUBAI Intl 12R-30L:extended centerline 2 right vectoring
-Runways:OMDB DUBAI Intl 12R-30L:name
-Runways:OMSJ SHARJAH 12-30:centerline
-Runways:OMSJ SHARJAH 12-30:extended centerline 1
-Runways:OMSJ SHARJAH 12-30:extended centerline 1 left base
-Runways:OMSJ SHARJAH 12-30:extended centerline 1 left ticks
-Runways:OMSJ SHARJAH 12-30:extended centerline 1 left vectoring
-Runways:OMSJ SHARJAH 12-30:extended centerline 1 right base
-Runways:OMSJ SHARJAH 12-30:extended centerline 1 right ticks
-Runways:OMSJ SHARJAH 12-30:extended centerline 1 right vectoring
-Runways:OMSJ SHARJAH 12-30:extended centerline 2
-Runways:OMSJ SHARJAH 12-30:extended centerline 2 left base
-Runways:OMSJ SHARJAH 12-30:extended centerline 2 left ticks
-Runways:OMSJ SHARJAH 12-30:extended centerline 2 left vectoring
-Runways:OMSJ SHARJAH 12-30:extended centerline 2 right base
-Runways:OMSJ SHARJAH 12-30:extended centerline 2 right ticks
-Runways:OMSJ SHARJAH 12-30:extended centerline 2 right vectoring
-Runways:OMSJ SHARJAH 12-30:name
+Runways:OMDB DUBAI INTL 12L-30R:centerline
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 1
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 1 left base
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 1 left ticks
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 1 left vectoring
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 1 right base
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 1 right ticks
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 1 right vectoring
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 2
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 2 left base
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 2 left ticks
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 2 left vectoring
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 2 right base
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 2 right ticks
+Runways:OMDB DUBAI INTL 12L-30R:extended centerline 2 right vectoring
+Runways:OMDB DUBAI INTL 12L-30R:name
+Runways:OMDB DUBAI INTL 12R-30L:centerline
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 1
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 1 left base
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 1 left ticks
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 1 left vectoring
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 1 right base
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 1 right ticks
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 1 right vectoring
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2 left base
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2 left ticks
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2 left vectoring
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2 right base
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2 right ticks
+Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2 right vectoring
+Runways:OMDB DUBAI INTL 12R-30L:name
 VORs:ALN:symbol
 VORs:JXB:symbol
-VORs:MIN:symbol
 VORs:RAV:symbol
 VORs:SIR:symbol
 SHOWC:1
@@ -1307,4 +1274,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:GSiT
-WINDOWAREA:22.699038:50.300667:27.479931:60.959207
+WINDOWAREA:21.549128:48.449824:27.851194:61.781760
