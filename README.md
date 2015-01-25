@@ -28,6 +28,6 @@ Updating the AIRAC is necessary as airport airways, fixes, SIDs, and STARs chang
 3. Open the extracted files and copy the DataFiles folder, VATUAE.ese, and VATUAE.sct files and replace the same files in your current UAE folder.
 
 ##Support
-For support on sector files, contact the VATME Support Team at: http://vatme.net/support/
+For support on sector files, contact the VATME Support Team at: http://support.vatme.net
 
 ***Sector files are property of VATSIM (www.vatsim.net) and VATME (www.vatme.net)***
