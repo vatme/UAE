@@ -531,8 +531,10 @@ AG:OMAA_ATIS:125.100:rw.liveatc.net:omaa_atis
 AG:OMAE_U_CTR:120.900:rw.liveatc.net:120.900
 AG:OMDB_DEL:120.350:rw.liveatc.net:OMDB_DEL
 AG:OMDB_GND:118.350:rw.liveatc.net:OMDB_GND
+AG:OMDB_N_GND:121.650:rw.liveatc.net:OMDB_N_GND
 AG:OMDB_TWR:118.750:rw.liveatc.net:OMDB_TWR
 AG:OMDB_DEP:126.200:rw.liveatc.net:OMDB_DEP
+AG:OMDB_S_DEP:121.025:rw.liveatc.net:OMDB_S_DEP
 AG:OMDB_APP:124.900:rw.liveatc.net:omdb_app
 AG:OMDB_F_APP:127.900:rw.liveatc.net:OMDB_F_APP
 AG:OMAA_GND:123.970:rw.liveatc.net:OMAA_GND
@@ -562,11 +564,23 @@ PROFILE:OMDB_APP:150:5
 ATIS2:Dubai Approach
 ATIS3:Report callsign with heading and altitude on first contact
 ATIS4:Monitor ATIS 131.700
+PROFILE:OMDB_DEP:150:5
+ATIS2:Dubai Departure
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Monitor ATIS 131.700
+PROFILE:OMDB_S_DEP:150:5
+ATIS2:Dubai Departure
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Monitor ATIS 131.700
 PROFILE:OMDB_TWR:50:4
 ATIS2:Dubai Tower
 ATIS3:Report callsign with position first contact
 ATIS4:Monitor ATIS 131.700
 PROFILE:OMDB_GND:20:3
+ATIS2:Dubai Ground
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 131.700
+PROFILE:OMDB_N_GND:20:3
 ATIS2:Dubai Ground
 ATIS3:Report callsign with position first contact
 ATIS4:Monitor ATIS 131.700
