@@ -15,18 +15,18 @@ Gulf Control West:Gulf Control West:133.500:GFW:-:GULF:FSS:-:-:0000:0000
 Gulf Control East:Gulf Control East:133.600:GFE:-:GULF:FSS:-:-:0000:0000
 
 ; FIR Center Positions
-OMAE_CTR:UAE Radar:119.300:EC:-:OMAE:CTR:-:-:2701:2777
-;OMAE_E_CTR:UAE Radar:119.300:ECE:E:OMAE:CTR:-:-:2701:2777			; east sector only
-OMAE_W_CTR:UAE Radar:120.900:ECW:W:OMAE:CTR:-:-:2701:2777
+OMAE_CTR:UAE Radar:119.300:EC:-:OMAE:CTR:-:-:1701:1777
+;OMAE_E_CTR:UAE Radar:119.300:ECE:E:OMAE:CTR:-:-:1701:1777			; east sector only
+OMAE_W_CTR:UAE Radar:120.900:ECW:W:OMAE:CTR:-:-:1701:1777
 
 ; FIR Approach Positions
 OMAA_APP:Abu Dhabi Approach:128.100:AAA:-:OMAA:APP:-:-:6241:6257
 OMAA_F_APP:Abu Dhabi Director:124.400:AAF:F:OMAA:APP:-:-:6241:6257
 OMAL_APP:Al-Ain Approach:132.670:ALA:-:OMAL:APP:-:-:6261:6277
-OMDB_APP:Dubai Approach:124.900:DBA:-:OMDB:APP:-:-:6201:6237
-OMDB_F_APP:Dubai Director:127.900:DBF:F:OMDB:APP:-:-:6201:6237
-OMDB_DEP:Dubai Departure:126.200:DBD:-:OMDB:DEP:-:-:6201:6237
-OMDB_S_DEP:Dubai Departure:121.025:DBS:-:OMDB:DEP:-:-:6201:6237
+OMDB_APP:Dubai Approach:124.900:DBA:-:OMDB:APP:-:-:0501:0577
+OMDB_F_APP:Dubai Director:127.900:DBF:F:OMDB:APP:-:-:0501:0577
+OMDB_DEP:Dubai Departure:126.200:DBD:-:OMDB:DEP:-:-:0501:0577
+OMDB_S_DEP:Dubai Departure:121.025:DBS:-:OMDB:DEP:-:-:0501:0577
 OMFJ_APP:Fujairah Approach:129.400:FJA:-:OMFJ:APP:-:-:6261:6277
 OMRK_APP:Ras Al Khaimah Approach:124.000:RKA:-:OMRK:APP:-:-:6261:6277
 
@@ -35,23 +35,23 @@ OMAA_TWR:Abu Dhabi Tower:119.200:AAT:-:OMAA:TWR:-:-:6241:6257
 OMAA_N_TWR:Abu Dhabi Tower North:121.950:AATN:N:OMAA:TWR:-:-:6241:6257		; currently not in use
 OMAD_TWR:Abu Dhabi Al Bateen Tower:119.850:ADT:-:OMAD:TWR:-:-:6261:6277
 OMAL_TWR:Al-Ain Tower:119.850:ALT:-:OMAL:TWR:-:-:6261:6277
-OMDB_TWR:Dubai Tower:118.750:DBT:-:OMDB:TWR:-:-:6201:6237
+OMDB_TWR:Dubai Tower:118.750:DBT:-:OMDB:TWR:-:-:0501:0577
 OMDB_S_TWR:Dubai Tower South:119.550:DBTS:S:OMDB:TWR:-:-:6201:6237		; currently not in use
 OMDW_TWR:World Central Tower:118.620:DWT:-:OMDW:TWR:-:-:6261:6277
 OMFJ_TWR:Fujairah Tower:124.600:FJT:-:OMFJ:TWR:-:-:6261:6277
 OMRK_TWR:Ras Al Khaimah Tower:118.250:RKT:-:OMRK:TWR:-:-:2351:2377
-OMSJ_TWR:Sharjah Tower:118.600:SJT:-:OMSJ:TWR:-:-:0501:0577
+OMSJ_TWR:Sharjah Tower:118.600:SJT:-:OMSJ:TWR:-:-:3401:3477
 
 ; FIR Ground Positions
 OMAA_GND:Abu Dhabi Ground:123.970:AAG:-:OMAA:GND:-:-:6241:6257
 OMAA_N_GND:Abu Dhabi Ground North:123.970:AAGN:N:OMAA:GND:-:-:6241:6257		; currently not in use
 OMAL_GND:Al-Ain Ground:129.150:ALG:-:OMAL:GND:-:-:6261:6277
-OMDB_GND:Dubai Ground:118.350:DBG:-:OMDB:GND:-:-:6201:6237
+OMDB_GND:Dubai Ground:118.350:DBG:-:OMDB:GND:-:-:0501:0577
 OMDB_N_GND:Dubai Ground:121.650:DBN:-:OMDB:GND:-:-:6201:6237 ;Aircraft on TWY P, APRON E, APRON Q and Emirates hangar shall contact GROUND MOVEMENT CONTROL on this frequency.
 
 ; FIR Delivery Positions
 OMAA_DEL:Abu Dhabi Clearance Delivery:125.100:AAC:-:OMAA:DEL:-:-:6241:6257
-OMDB_DEL:Dubai Clearance Delivery:120.350:DBC:-:OMDB:DEL:-:-:6201:6237
+OMDB_DEL:Dubai Clearance Delivery:120.350:DBC:-:OMDB:DEL:-:-:0501:0577
 
 
 [FREETEXT]
