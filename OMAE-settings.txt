@@ -563,19 +563,19 @@ ATIS3:Report callsign with heading and altitude on first contact
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMDB_APP:150:5
 ATIS2:Dubai Approach
-ATIS3:Report callsign with heading and altitude on first contact
+ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMDB_DEP:150:5
 ATIS2:Dubai Departure
-ATIS3:Report callsign with heading and altitude on first contact
+ATIS3:Departing aircraft report callsign and passing level
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMDB_S_DEP:150:5
 ATIS2:Dubai Departure
-ATIS3:Report callsign with heading and altitude on first contact
+ATIS3:Departing aircraft report callsign and passing level
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMDB_N_DEP:150:5
 ATIS2:Dubai Departure
-ATIS3:Report callsign with heading and altitude on first contact
+ATIS3:Departing aircraft report callsign and passing level
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMDB_TWR:50:4
 ATIS2:Dubai Tower
@@ -595,15 +595,15 @@ ATIS3:Report callsign with position first contact
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMDB_F_APP:150:5
 ATIS2:Dubai Director
-ATIS3:Report callsign with heading and altitude on first contact
+ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMAA_APP:150:5
 ATIS2:Abu Dhabi Approach
-ATIS3:Report callsign with heading and altitude on first contact
+ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
 ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMAA_F_APP:150:5
 ATIS2:Abu Dhabi Director
-ATIS3:Report callsign with heading and altitude on first contact
+ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
 ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMAA_TWR:50:4
 ATIS2:Abu Dhabi Tower
