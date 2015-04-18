@@ -599,7 +599,7 @@ ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMAA_APP:150:5
 ATIS2:Abu Dhabi Approach
-ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
+ATIS3:Departures report callsign, passing level, and SID designation. Arrivals report callsign, passing level, aircraft type, STAR designation, and ATIS info.
 ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.uae-vacc.net
 PROFILE:OMAA_F_APP:150:5
 ATIS2:Abu Dhabi Director
