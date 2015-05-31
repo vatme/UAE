@@ -1,6 +1,6 @@
-AIRAC cycle    : 1505
-Version        : 1
-Valid (from/to): 30/APR/2015 - 27/MAY/2015
+AIRAC cycle    : 1506
+Version        : 2
+Valid (from/to): 28/MAY/2015 - 24/JUN/2015
 
 Forum          : http://forum.navigraph.com
 
@@ -11,5 +11,5 @@ or distributed for any purpose without the written consent of Navigraph.
 The contents of this database is dated and must not be used for real
 world navigation as it is unlawful and unsafe to do so.
 
-Parser-Version : DFD v1.0 15.0416 (c) Richard Stefan
-Files parsed on: 16/04/2015
+Parser-Version : DFD v1.0 15.0509 (c) Richard Stefan
+Files parsed on: 30/05/2015
