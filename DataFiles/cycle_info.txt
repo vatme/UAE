@@ -1,6 +1,6 @@
-AIRAC cycle    : 1510
+AIRAC cycle    : 1513
 Version        : 1
-Valid (from/to): 17/SEP/2015 - 14/OCT/2015
+Valid (from/to): 10/DEC/2015 - 06/JAN/2016
 
 Forum          : http://forum.navigraph.com
 
@@ -11,8 +11,5 @@ or distributed for any purpose without the written consent of Navigraph.
 The contents of this database is dated and must not be used for real
 world navigation as it is unlawful and unsafe to do so.
 
-Parser-Version : DFD v1.0 15.0907 (c) Richard Stefan
-Files parsed on: 15/09/2015
-
-Addon title    : FSiPanel
-Addon GUID     : 1ff53f1d-3b52-4197-91d6-f789222a5e2e
+Parser-Version : DFD v1.0 15.1130 (c) Richard Stefan
+Files parsed on: 03/12/2015
