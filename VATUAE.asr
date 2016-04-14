@@ -209,40 +209,6 @@ Fixes:UMALI:name
 Fixes:UMALI:symbol
 Fixes:VEBAT:name
 Fixes:VEBAT:symbol
-Free Text:ABU DHABI GROUND gates\101:freetext
-Free Text:ABU DHABI GROUND gates\103:freetext
-Free Text:ABU DHABI GROUND gates\111:freetext
-Free Text:ABU DHABI GROUND gates\112:freetext
-Free Text:ABU DHABI GROUND gates\113:freetext
-Free Text:ABU DHABI GROUND gates\121:freetext
-Free Text:ABU DHABI GROUND gates\122:freetext
-Free Text:ABU DHABI GROUND gates\123:freetext
-Free Text:ABU DHABI GROUND gates\131:freetext
-Free Text:ABU DHABI GROUND gates\132:freetext
-Free Text:ABU DHABI GROUND gates\133:freetext
-Free Text:ABU DHABI GROUND gates\134:freetext
-Free Text:ABU DHABI GROUND gates\135:freetext
-Free Text:ABU DHABI GROUND gates\136:freetext
-Free Text:ABU DHABI GROUND gates\201:freetext
-Free Text:ABU DHABI GROUND gates\202:freetext
-Free Text:ABU DHABI GROUND gates\203:freetext
-Free Text:ABU DHABI GROUND gates\204:freetext
-Free Text:ABU DHABI GROUND gates\205:freetext
-Free Text:ABU DHABI GROUND gates\206:freetext
-Free Text:ABU DHABI GROUND gates\207:freetext
-Free Text:ABU DHABI GROUND gates\208:freetext
-Free Text:ABU DHABI GROUND gates\209:freetext
-Free Text:ABU DHABI GROUND gates\221:freetext
-Free Text:ABU DHABI GROUND gates\222:freetext
-Free Text:ABU DHABI GROUND gates\301:freetext
-Free Text:ABU DHABI GROUND gates\302:freetext
-Free Text:ABU DHABI GROUND gates\303:freetext
-Free Text:ABU DHABI GROUND gates\304:freetext
-Free Text:ABU DHABI GROUND gates\305:freetext
-Free Text:ABU DHABI GROUND gates\306:freetext
-Free Text:ABU DHABI GROUND gates\307:freetext
-Free Text:ABU DHABI GROUND gates\308:freetext
-Free Text:ABU DHABI GROUND gates\309:freetext
 Free Text:ABU DHABI GROUND misc\ADAT APRON:freetext
 Free Text:ABU DHABI GROUND misc\AMIRI FLIGHT APRON:freetext
 Free Text:ABU DHABI GROUND misc\CARGO:freetext
@@ -761,27 +727,253 @@ Free Text:FUJAIRAH GROUND\G2:freetext
 Free Text:FUJAIRAH GROUND\G2:freetext
 Free Text:FUJAIRAH GROUND\G3:freetext
 Free Text:FUJAIRAH GROUND\G3:freetext
-Free Text:GMORA\G13:freetext
-Free Text:GMORA\G15:freetext
-Free Text:GMORA\G15:freetext
-Free Text:GMORA\G16:freetext
-Free Text:GMORA\G16:freetext
-Free Text:GMORA\G16:freetext
-Free Text:GMORA\G18:freetext
-Free Text:GMORA\G19:freetext
-Free Text:GMORA\G19:freetext
-Free Text:GMORA\G20:freetext
-Free Text:GMORA\G21:freetext
-Free Text:GMORA\G23:freetext
-Free Text:GMORA\G27:freetext
-Free Text:GMORA\G47:freetext
-Free Text:GMORA\G48:freetext
-Free Text:GMORA\G54:freetext
-Free Text:GMORA\G58:freetext
-Free Text:GMORA\G63:freetext
-Free Text:GMORA\G67:freetext
-Free Text:GMORA\G85:freetext
-Free Text:GMORA\G94:freetext
+Free Text:OMAA\1:freetext
+Free Text:OMAA\1:freetext
+Free Text:OMAA\10:freetext
+Free Text:OMAA\101:freetext
+Free Text:OMAA\102:freetext
+Free Text:OMAA\103:freetext
+Free Text:OMAA\11:freetext
+Free Text:OMAA\11:freetext
+Free Text:OMAA\111:freetext
+Free Text:OMAA\112:freetext
+Free Text:OMAA\113:freetext
+Free Text:OMAA\12:freetext
+Free Text:OMAA\12:freetext
+Free Text:OMAA\12:freetext
+Free Text:OMAA\121:freetext
+Free Text:OMAA\122:freetext
+Free Text:OMAA\123:freetext
+Free Text:OMAA\13:freetext
+Free Text:OMAA\13:freetext
+Free Text:OMAA\13:freetext
+Free Text:OMAA\131:freetext
+Free Text:OMAA\132:freetext
+Free Text:OMAA\133:freetext
+Free Text:OMAA\134:freetext
+Free Text:OMAA\136:freetext
+Free Text:OMAA\14:freetext
+Free Text:OMAA\14:freetext
+Free Text:OMAA\15:freetext
+Free Text:OMAA\16:freetext
+Free Text:OMAA\17:freetext
+Free Text:OMAA\18:freetext
+Free Text:OMAA\19:freetext
+Free Text:OMAA\2:freetext
+Free Text:OMAA\2:freetext
+Free Text:OMAA\20:freetext
+Free Text:OMAA\201:freetext
+Free Text:OMAA\202:freetext
+Free Text:OMAA\203:freetext
+Free Text:OMAA\204:freetext
+Free Text:OMAA\205:freetext
+Free Text:OMAA\206:freetext
+Free Text:OMAA\207:freetext
+Free Text:OMAA\208:freetext
+Free Text:OMAA\209:freetext
+Free Text:OMAA\21:freetext
+Free Text:OMAA\221:freetext
+Free Text:OMAA\222:freetext
+Free Text:OMAA\25:freetext
+Free Text:OMAA\26:freetext
+Free Text:OMAA\27:freetext
+Free Text:OMAA\3:freetext
+Free Text:OMAA\3:freetext
+Free Text:OMAA\301:freetext
+Free Text:OMAA\302:freetext
+Free Text:OMAA\303:freetext
+Free Text:OMAA\304:freetext
+Free Text:OMAA\305:freetext
+Free Text:OMAA\306:freetext
+Free Text:OMAA\307:freetext
+Free Text:OMAA\308:freetext
+Free Text:OMAA\309:freetext
+Free Text:OMAA\4:freetext
+Free Text:OMAA\4:freetext
+Free Text:OMAA\401:freetext
+Free Text:OMAA\402:freetext
+Free Text:OMAA\403:freetext
+Free Text:OMAA\404:freetext
+Free Text:OMAA\405:freetext
+Free Text:OMAA\406:freetext
+Free Text:OMAA\407:freetext
+Free Text:OMAA\408:freetext
+Free Text:OMAA\409:freetext
+Free Text:OMAA\410:freetext
+Free Text:OMAA\411:freetext
+Free Text:OMAA\412:freetext
+Free Text:OMAA\413:freetext
+Free Text:OMAA\414:freetext
+Free Text:OMAA\415:freetext
+Free Text:OMAA\416:freetext
+Free Text:OMAA\417:freetext
+Free Text:OMAA\418:freetext
+Free Text:OMAA\419:freetext
+Free Text:OMAA\449:freetext
+Free Text:OMAA\450:freetext
+Free Text:OMAA\451:freetext
+Free Text:OMAA\452:freetext
+Free Text:OMAA\453:freetext
+Free Text:OMAA\5:freetext
+Free Text:OMAA\5:freetext
+Free Text:OMAA\508:freetext
+Free Text:OMAA\509:freetext
+Free Text:OMAA\510:freetext
+Free Text:OMAA\511:freetext
+Free Text:OMAA\512:freetext
+Free Text:OMAA\513:freetext
+Free Text:OMAA\514:freetext
+Free Text:OMAA\515:freetext
+Free Text:OMAA\516:freetext
+Free Text:OMAA\6:freetext
+Free Text:OMAA\6:freetext
+Free Text:OMAA\7:freetext
+Free Text:OMAA\704:freetext
+Free Text:OMAA\705:freetext
+Free Text:OMAA\706:freetext
+Free Text:OMAA\707:freetext
+Free Text:OMAA\708:freetext
+Free Text:OMAA\709:freetext
+Free Text:OMAA\710:freetext
+Free Text:OMAA\711:freetext
+Free Text:OMAA\712:freetext
+Free Text:OMAA\713:freetext
+Free Text:OMAA\714:freetext
+Free Text:OMAA\715:freetext
+Free Text:OMAA\8:freetext
+Free Text:OMAA\801:freetext
+Free Text:OMAA\802:freetext
+Free Text:OMAA\803:freetext
+Free Text:OMAA\804:freetext
+Free Text:OMAA\805:freetext
+Free Text:OMAA\9:freetext
+Free Text:OMAA\901:freetext
+Free Text:OMAA\902:freetext
+Free Text:OMAA\903:freetext
+Free Text:OMAA\904:freetext
+Free Text:OMAA\905:freetext
+Free Text:OMAA\906:freetext
+Free Text:OMAA\907:freetext
+Free Text:OMAA\908:freetext
+Free Text:OMAA\909:freetext
+Free Text:OMAA\910:freetext
+Free Text:OMAA\911:freetext
+Free Text:OMAA\912:freetext
+Free Text:OMAA\913:freetext
+Free Text:OMAA\914:freetext
+Free Text:OMAA\915:freetext
+Free Text:OMAA\916:freetext
+Free Text:OMAA\917:freetext
+Free Text:OMAA\918:freetext
+Free Text:OMAA\919:freetext
+Free Text:OMAA\920:freetext
+Free Text:OMAA\921:freetext
+Free Text:OMAA\922:freetext
+Free Text:OMAA\923:freetext
+Free Text:OMAA\924:freetext
+Free Text:OMAA\925:freetext
+Free Text:OMAA\926:freetext
+Free Text:OMAA\927:freetext
+Free Text:OMAA\928:freetext
+Free Text:OMAA\929:freetext
+Free Text:OMAA\930:freetext
+Free Text:OMAA\931:freetext
+Free Text:OMAA\932:freetext
+Free Text:OMAA\933:freetext
+Free Text:OMAA\934:freetext
+Free Text:OMAA\935:freetext
+Free Text:OMAA\936:freetext
+Free Text:OMAA\937:freetext
+Free Text:OMAA\938:freetext
+Free Text:OMAA\939:freetext
+Free Text:OMAA\940:freetext
+Free Text:OMAA\941:freetext
+Free Text:OMAA\942:freetext
+Free Text:OMAA\943:freetext
+Free Text:OMAA\944:freetext
+Free Text:OMAA\945:freetext
+Free Text:OMAA\946:freetext
+Free Text:OMAA\947:freetext
+Free Text:OMAA\948:freetext
+Free Text:OMAA\949:freetext
+Free Text:OMAA\G28:freetext
+Free Text:OMAA\G29:freetext
+Free Text:OMSJ:freetext
+Free Text:OMSJ\10:freetext
+Free Text:OMSJ\11:freetext
+Free Text:OMSJ\13:freetext
+Free Text:OMSJ\14:freetext
+Free Text:OMSJ\15:freetext
+Free Text:OMSJ\16:freetext
+Free Text:OMSJ\17:freetext
+Free Text:OMSJ\18:freetext
+Free Text:OMSJ\2:freetext
+Free Text:OMSJ\21:freetext
+Free Text:OMSJ\22:freetext
+Free Text:OMSJ\23:freetext
+Free Text:OMSJ\24:freetext
+Free Text:OMSJ\25:freetext
+Free Text:OMSJ\26:freetext
+Free Text:OMSJ\3:freetext
+Free Text:OMSJ\4:freetext
+Free Text:OMSJ\5:freetext
+Free Text:OMSJ\50:freetext
+Free Text:OMSJ\51:freetext
+Free Text:OMSJ\52:freetext
+Free Text:OMSJ\53:freetext
+Free Text:OMSJ\54:freetext
+Free Text:OMSJ\55:freetext
+Free Text:OMSJ\56:freetext
+Free Text:OMSJ\57:freetext
+Free Text:OMSJ\58:freetext
+Free Text:OMSJ\59:freetext
+Free Text:OMSJ\6:freetext
+Free Text:OMSJ\60:freetext
+Free Text:OMSJ\61:freetext
+Free Text:OMSJ\62:freetext
+Free Text:OMSJ\63:freetext
+Free Text:OMSJ\7:freetext
+Free Text:OMSJ\8:freetext
+Free Text:OMSJ\80:freetext
+Free Text:OMSJ\81:freetext
+Free Text:OMSJ\82:freetext
+Free Text:OMSJ\83:freetext
+Free Text:OMSJ\84:freetext
+Free Text:OMSJ\9:freetext
+Free Text:OMSJ\A:freetext
+Free Text:OMSJ\A:freetext
+Free Text:OMSJ\A:freetext
+Free Text:OMSJ\A1:freetext
+Free Text:OMSJ\A12:freetext
+Free Text:OMSJ\A14:freetext
+Free Text:OMSJ\A18:freetext
+Free Text:OMSJ\A2:freetext
+Free Text:OMSJ\A20:freetext
+Free Text:OMSJ\A6:freetext
+Free Text:OMSJ\A8:freetext
+Free Text:OMSJ\B:freetext
+Free Text:OMSJ\B1:freetext
+Free Text:OMSJ\B11:freetext
+Free Text:OMSJ\B14:freetext
+Free Text:OMSJ\B19:freetext
+Free Text:OMSJ\B2:freetext
+Free Text:OMSJ\B20:freetext
+Free Text:OMSJ\B3:freetext
+Free Text:OMSJ\B6:freetext
+Free Text:OMSJ\B7:freetext
+Free Text:OMSJ\C1:freetext
+Free Text:OMSJ\F1:freetext
+Free Text:OMSJ\F2:freetext
+Free Text:OMSJ\Z:freetext
+Free Text:OMSJ\Z10:freetext
+Free Text:OMSJ\Z11:freetext
+Free Text:OMSJ\Z14:freetext
+Free Text:OMSJ\Z15:freetext
+Free Text:OMSJ\Z2:freetext
+Free Text:OMSJ\Z3:freetext
+Free Text:OMSJ\Z4:freetext
+Free Text:OMSJ\Z8:freetext
+Free Text:OMSJ\Z9:freetext
 Free Text:Prohibited Areas\UNL/SFC:freetext
 Free Text:RAS AL KHAIMAH GROUND\1:freetext
 Free Text:RAS AL KHAIMAH GROUND\1:freetext
@@ -790,74 +982,6 @@ Free Text:RAS AL KHAIMAH GROUND\2:freetext
 Free Text:RAS AL KHAIMAH GROUND\7:freetext
 Free Text:RAS AL KHAIMAH GROUND\9:freetext
 Free Text:Restricted Areas\UNL/SFC:freetext
-Free Text:SHARJAH GROUND gates\10:freetext
-Free Text:SHARJAH GROUND gates\11:freetext
-Free Text:SHARJAH GROUND gates\13:freetext
-Free Text:SHARJAH GROUND gates\14:freetext
-Free Text:SHARJAH GROUND gates\15:freetext
-Free Text:SHARJAH GROUND gates\16:freetext
-Free Text:SHARJAH GROUND gates\17:freetext
-Free Text:SHARJAH GROUND gates\18:freetext
-Free Text:SHARJAH GROUND gates\1A:freetext
-Free Text:SHARJAH GROUND gates\1B:freetext
-Free Text:SHARJAH GROUND gates\1C:freetext
-Free Text:SHARJAH GROUND gates\2:freetext
-Free Text:SHARJAH GROUND gates\21:freetext
-Free Text:SHARJAH GROUND gates\22:freetext
-Free Text:SHARJAH GROUND gates\23:freetext
-Free Text:SHARJAH GROUND gates\24:freetext
-Free Text:SHARJAH GROUND gates\25:freetext
-Free Text:SHARJAH GROUND gates\26:freetext
-Free Text:SHARJAH GROUND gates\3:freetext
-Free Text:SHARJAH GROUND gates\4:freetext
-Free Text:SHARJAH GROUND gates\5:freetext
-Free Text:SHARJAH GROUND gates\50:freetext
-Free Text:SHARJAH GROUND gates\51:freetext
-Free Text:SHARJAH GROUND gates\52:freetext
-Free Text:SHARJAH GROUND gates\53:freetext
-Free Text:SHARJAH GROUND gates\54:freetext
-Free Text:SHARJAH GROUND gates\55:freetext
-Free Text:SHARJAH GROUND gates\56:freetext
-Free Text:SHARJAH GROUND gates\57:freetext
-Free Text:SHARJAH GROUND gates\58:freetext
-Free Text:SHARJAH GROUND gates\59:freetext
-Free Text:SHARJAH GROUND gates\6:freetext
-Free Text:SHARJAH GROUND gates\60:freetext
-Free Text:SHARJAH GROUND gates\61:freetext
-Free Text:SHARJAH GROUND gates\62:freetext
-Free Text:SHARJAH GROUND gates\7:freetext
-Free Text:SHARJAH GROUND gates\8:freetext
-Free Text:SHARJAH GROUND gates\80:freetext
-Free Text:SHARJAH GROUND gates\81:freetext
-Free Text:SHARJAH GROUND gates\82:freetext
-Free Text:SHARJAH GROUND gates\83:freetext
-Free Text:SHARJAH GROUND gates\84:freetext
-Free Text:SHARJAH GROUND gates\9:freetext
-Free Text:SHARJAH GROUND misc\CARGO 1:freetext
-Free Text:SHARJAH GROUND misc\CARGO 2, 4 & 5:freetext
-Free Text:SHARJAH GROUND misc\CARGO 3:freetext
-Free Text:SHARJAH GROUND misc\HANGER:freetext
-Free Text:SHARJAH GROUND misc\MAINTENANCE APRON:freetext
-Free Text:SHARJAH GROUND misc\MAINTENANCE AREA:freetext
-Free Text:SHARJAH GROUND misc\PASSENGER APRON:freetext
-Free Text:SHARJAH GROUND misc\PASSENGER TERMINAL:freetext
-Free Text:SHARJAH GROUND misc\PRIVATE APRON:freetext
-Free Text:SHARJAH GROUND misc\SERVICE AREA:freetext
-Free Text:SHARJAH GROUND taxi\A:freetext
-Free Text:SHARJAH GROUND taxi\A:freetext
-Free Text:SHARJAH GROUND taxi\A:freetext
-Free Text:SHARJAH GROUND taxi\A:freetext
-Free Text:SHARJAH GROUND taxi\B:freetext
-Free Text:SHARJAH GROUND taxi\C:freetext
-Free Text:SHARJAH GROUND taxi\D:freetext
-Free Text:SHARJAH GROUND taxi\E:freetext
-Free Text:SHARJAH GROUND taxi\F:freetext
-Free Text:SHARJAH GROUND taxi\G:freetext
-Free Text:SHARJAH GROUND taxi\H:freetext
-Free Text:SHARJAH GROUND taxi\J:freetext
-Free Text:SHARJAH GROUND taxi\K:freetext
-Free Text:SHARJAH GROUND taxi\L:freetext
-Free Text:SHARJAH GROUND taxi\M:freetext
 Free Text:SMA Abu Dhabi\T18:freetext
 Free Text:SMA Abu Dhabi\T20:freetext
 Free Text:SMA Abu Dhabi\T23:freetext
@@ -888,7 +1012,6 @@ Free Text:SMA Ras Al Khaimah\T55:freetext
 Free Text:SMA Ras Al Khaimah\T70:freetext
 Geo:Coastline:
 Geo:GEO:
-Geo:OMAA:
 Geo:OMAD:
 Geo:OMAL:
 Geo:OMDB:
@@ -896,6 +1019,38 @@ Geo:OMDW:
 Geo:OMFJ:
 Geo:OMRK:
 Geo:OMSJ:
+Runways:OMAA ABU DHABI INTL 13L-31R:centerline
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 1
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 1 left base
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 1 left ticks
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 1 left vectoring
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 1 right base
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 1 right ticks
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 1 right vectoring
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 2
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 2 left base
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 2 left ticks
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 2 left vectoring
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 2 right base
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 2 right ticks
+Runways:OMAA ABU DHABI INTL 13L-31R:extended centerline 2 right vectoring
+Runways:OMAA ABU DHABI INTL 13L-31R:name
+Runways:OMAA ABU DHABI INTL 13R-31L:centerline
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 1
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 1 left base
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 1 left ticks
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 1 left vectoring
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 1 right base
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 1 right ticks
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 1 right vectoring
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 2
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 2 left base
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 2 left ticks
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 2 left vectoring
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 2 right base
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 2 right ticks
+Runways:OMAA ABU DHABI INTL 13R-31L:extended centerline 2 right vectoring
+Runways:OMAA ABU DHABI INTL 13R-31L:name
 Runways:OMDB DUBAI INTL 12L-30R:centerline
 Runways:OMDB DUBAI INTL 12L-30R:extended centerline 1
 Runways:OMDB DUBAI INTL 12L-30R:extended centerline 1 left base
@@ -928,6 +1083,38 @@ Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2 right base
 Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2 right ticks
 Runways:OMDB DUBAI INTL 12R-30L:extended centerline 2 right vectoring
 Runways:OMDB DUBAI INTL 12R-30L:name
+Runways:OMDW AL MAKTOUM INTL 12-30:centerline
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 1
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 1 left base
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 1 left ticks
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 1 left vectoring
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 1 right base
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 1 right ticks
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 1 right vectoring
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 2
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 2 left base
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 2 left ticks
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 2 left vectoring
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 2 right base
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 2 right ticks
+Runways:OMDW AL MAKTOUM INTL 12-30:extended centerline 2 right vectoring
+Runways:OMDW AL MAKTOUM INTL 12-30:name
+Runways:OMSJ Sharjah Intl 30-12:centerline
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 1
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 1 left base
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 1 left ticks
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 1 left vectoring
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 1 right base
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 1 right ticks
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 1 right vectoring
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 2
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 left base
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 left ticks
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 left vectoring
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 right base
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 right ticks
+Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 right vectoring
+Runways:OMSJ Sharjah Intl 30-12:name
 VORs:ALN:symbol
 VORs:JXB:symbol
 VORs:RAV:symbol
@@ -944,4 +1131,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:GSiT
-WINDOWAREA:24.324029:53.720161:26.076000:57.215049
+WINDOWAREA:22.343018:48.870071:26.601549:58.245300
