@@ -590,10 +590,10 @@ AG:OMDB_APP:124.900:voice1.vatsim-germany.org:omdb_app
 AG:OMDB_F_APP:127.900:voice1.vatsim-germany.org:OMDB_F_APP
 AG:OMAA_GND:123.970:voice1.vatsim-germany.org:OMAA_GND
 AG:OMAA_TWR:119.200:voice1.vatsim-germany.org:OMAA_TWR
-AG:OMAA_APP:128.100:voice1.vatsim-germany.org:omaa_app
+AG:OMAA_APP:124.400:voice1.vatsim-germany.org:omaa_app
 AG:OMSJ_ATIS:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
 AG:OMSJ_TWR:118.600:voice1.vatsim-germany.org:OMSJ_TWR
-AG:OMAA_F_APP:127.500:voice1.vatsim-germany.org:OMAA_F_APP
+AG:OMAA_F_APP:128.100:voice1.vatsim-germany.org:OMAA_F_APP
 AG:OMRK_GND:121.600:voice1.vatsim-germany.org:OMRK_GND
 AG:OMRK_TWR:118.250:voice1.vatsim-germany.org:OMRK_TWR
 AG:OMRK_APP:124.000:voice1.vatsim-germany.org:OMRK_APP
