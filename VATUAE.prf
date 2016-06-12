@@ -25,7 +25,12 @@ RecentFiles	Recent1	\VATUAE.asr
 LastSession	atis2	UAE Radar
 LastSession	atis3	Report callsign with heading and altitude on first contact
 LastSession	range	350
-LastSession	atis4	Monitor ATIS 131.700
+LastSession	atis4	Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 LastSession	callsign	OMAE_CTR
 LastSession	facility	6
 LastSession	rating	0
+Plugins	Plugin0	C:\Program Files (x86)\EuroScope\HoldingListPlugin.dll
+LastSession	tovatsim	1
+LastSession	scenario	C:\Users\mh1ok\OneDrive\Documents\EuroScope\uae\NewScenarioFile.txt
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

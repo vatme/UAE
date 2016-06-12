@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:VATUAE.sct
+SECTORFILE:C:\Users\mh1ok\Desktop\UAE\VATUAE.sct
 SECTORTITLE:VATUAE.sct
 Airports:OMAA:name
 Airports:OMAD:name
@@ -312,6 +312,7 @@ Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
 Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
 Free Text:CTR/FIR\SJ CTR:freetext
 Free Text:CTR/FIR\TEHRAN FIR:freetext
+Free Text:Default group\OMSJ:freetext
 Free Text:DUBAI GROUND gates\A1:freetext
 Free Text:DUBAI GROUND gates\A10:freetext
 Free Text:DUBAI GROUND gates\A2:freetext
@@ -898,7 +899,6 @@ Free Text:OMAA\948:freetext
 Free Text:OMAA\949:freetext
 Free Text:OMAA\G28:freetext
 Free Text:OMAA\G29:freetext
-Free Text:OMSJ:freetext
 Free Text:OMSJ\10:freetext
 Free Text:OMSJ\11:freetext
 Free Text:OMSJ\13:freetext
@@ -1131,4 +1131,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:GSiT
-WINDOWAREA:22.343018:48.870071:26.601549:58.245300
+WINDOWAREA:22.175720:49.573632:26.697795:58.948861

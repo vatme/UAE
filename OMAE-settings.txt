@@ -4,7 +4,7 @@ m_ShowAirspaceLines:1
 m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
-m_ShowSimulatedData:1
+m_ShowSimulatedData:0
 m_TransitionAltitude:13000
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
@@ -33,7 +33,7 @@ m_ShowRouteWhenAccepting:1
 m_AllowAssumedACTagDown:0
 m_InhibitAutoPushOnHandoff:0
 m_RandomSquawks:1
-m_VFRSquawk:7000
+m_VFRSquawks:7000
 m_WhoIsOnlineURL:http://data.vattastic.com/vatsim-data.txt
 m_AutoLoadMetarForActiveAirports:0
 m_LockShowRouteWhenAccepting:0
@@ -106,6 +106,22 @@ m_ShowUnconcernedInFpList:0
 m_ZoomCenterUnderMouse:1
 m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
 m_CompensateMagneticVariation:0
+m_STCA_LowPreWarnTime:120
+m_STCA_LowWarnTime:150
+m_HighPreWarnTime:180
+m_STCA_HighWarnTime:240
+m_STCA_ShowCFL:1
+m_STCA_PlaySoundOnCFL:0
+m_STCA_PlaySoundOnTrackedOnly:1
+m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
+m_DontAutoCorrelateDuplicated:1
+m_AcceptPilotSquawkForCorrelation:1
+m_MTCA_Floor:10000
+m_MTCA_AltitudeDifference:2000
+m_MTCA_Distance:20.0
+m_UseIsectForScratchPad:1
+m_RotateRadarTargetSymbol:0
+m_RotateFlightPlanTrackSymbol:0
 m_ShowControllers:1
 m_ShowAircraft:1
 m_ShowTextMessages:1
@@ -150,6 +166,16 @@ m_VoiceListX:1243
 m_VoiceListY:24
 m_ControllerListX:1479
 m_ControllerListY:25
+m_ShowPlaneRangeRingsTracked:0
+m_ShowPlaneRangeRingsUntracked:0
+m_PlaneRangeRingsDistance1:1.5
+m_PlaneRangeRingsDistance2:2.5
+m_PlaneRangeRingsDistance3:5.0
+m_PlaneRangeRingsDistance4:0.0
+m_ShowTooltips:1
+m_OnTheGroundAltitude:5000
+m_OnTheGroundSpeed:50
+m_ShowCdtOnCflCheck:0
 SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:4144959:1.0:0:0:7
@@ -183,6 +209,8 @@ Datablock:redundant:5938156:3.2:0:0:7
 Datablock:information:65535:3.2:0:0:7
 Datablock:even flight level:16777215:3.2:0:0:7
 Datablock:odd flight level:16777215:3.2:0:0:7
+Datablock:arrivals:16777215:3.5:0:0:7
+Datablock:departures:16777215:3.5:0:0:7
 Datablock:user 1:16777215:3.5:0:0:7
 Datablock:user 2:16777215:3.5:0:0:7
 Datablock:user 3:16777215:3.5:0:0:7
@@ -198,6 +226,11 @@ Datablock:detailed background:5526612:3.3:0:0:7
 Datablock:active item background:3223857:3.2:0:0:7
 Datablock:AC list background:6452499:3.2:0:0:7
 Datablock:AC list selected background:2238470:3.2:0:0:7
+Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
+Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
+Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
+Datablock:SCTA warning leader:3289855:3.5:0:3:7
+Datablock:SCTA CFL used warning leader:65535:3.5:0:3:7
 Controller:normal:65535:3.5:0:0:7
 Controller:breaking:13408767:3.5:0:0:7
 Controller:timeout:16777215:3.5:0:0:7
@@ -209,14 +242,24 @@ Other:distance line:8421504:3.5:0:0:7
 Other:distance values:40349:4.0:0:0:7
 Other:distance annotation:40349:3.5:0:0:7
 Other:separation leader:16777215:3.5:0:3:7
+Other:separation leader2:16777215:3.5:0:1:7
 Other:find:16777215:3.5:0:5:7
 Other:valid airway:43690:3.5:0:1:7
 Other:bad direction airway:255:3.5:0:1:7
 Other:unconnected airway:16711680:3.5:0:1:7
 Other:direct no airway:16776960:3.5:0:1:7
+Other:free of conflict:65280:3.5:0:2:7
+Other:conflict warning:65535:3.5:0:2:7
+Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:16777215:3.5:0:1:7
 Other:freetext:14734786:3.3:0:0:7
 Other:range rings:65535:5.0:0:0:2
+Other:off antenna range rings:255:5.0:0:0:2
+Other:plane range rings:5921370:5.0:0:0:2
+Other:manual taxi line:16777215:5.0:0:3:2
+Other:manual taxi line ends at predefined point:65535:5.0:0:3:2
+Other:predefined taxi line:65280:5.0:0:3:2
+Other:terminal taxi line:255:5.0:0:3:2
 Other:list header:16777215:3.5:0:0:7
 Other:normal menu item:16777215:3.5:0:0:7
 Other:disabled menu item:8421504:3.5:0:0:7
@@ -226,6 +269,7 @@ Chat:background:8605742:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7
 Chat:name unread:16776960:3.5:0:0:7
 Sector:line:33023:4.0:0:1:7
+Sector:msaw:32768:2.0:0:2:7
 Sector:active sector background:5122079:3.5:0:0:7
 Sector:inactive sector background:7354926:3.5:0:0:7
 SYMBOL:0
@@ -524,6 +568,12 @@ SYMBOLITEM:SETPIXEL 11 9
 SYMBOLITEM:SETPIXEL 11 8
 SYMBOLITEM:SETPIXEL 11 7
 SYMBOLITEM:SETPIXEL 11 6
+SYMBOL:22
+SYMBOLITEM:MOVETO -3 7
+SYMBOLITEM:LINETO 3 7
+SYMBOLITEM:LINETO 3 -7
+SYMBOLITEM:LINETO -3 -7
+SYMBOLITEM:LINETO -3 7
 m_ClipArea:0
 END
 VOICE
@@ -540,7 +590,7 @@ AG:OMDB_APP:124.900:voice1.vatsim-germany.org:omdb_app
 AG:OMDB_F_APP:127.900:voice1.vatsim-germany.org:OMDB_F_APP
 AG:OMAA_GND:123.970:voice1.vatsim-germany.org:OMAA_GND
 AG:OMAA_TWR:119.200:voice1.vatsim-germany.org:OMAA_TWR
-AG:OMAA_APP:124.400:voice1.vatsim-germany.org:omaa_app
+AG:OMAA_APP:128.100:voice1.vatsim-germany.org:omaa_app
 AG:OMSJ_ATIS:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
 AG:OMSJ_TWR:118.600:voice1.vatsim-germany.org:OMSJ_TWR
 AG:OMAA_F_APP:127.500:voice1.vatsim-germany.org:OMAA_F_APP
@@ -554,10 +604,21 @@ AG:OMFJ_APP:129.400:voice1.vatsim-germany.org:OMFJ_APP
 AG:OMAL_GND:129.150:voice1.vatsim-germany.org:OMAL_GND
 AG:OMAL_APP:119.850:voice1.vatsim-germany.org:OMAL_APP
 AG:OMAE_CTR:119.300:voice1.vatsim-germany.org:omae_ctr
+AG:OMAE_N_CTR:124.850:voice1.vatsim-germany.org:omae_n_ctr
+AG:OMAE_S_CTR:132.150:voice1.vatsim-germany.org:omae_s_ctr
+AG:OMAE_H_CTR:129.500:voice1.vatsim-germany.org:omae_h_ctr
 AG:OMDB_ATIS:131.700:voice1.vatsim-germany.org:omdb_atis
 END
 PROFILE
 PROFILE:OMAE_CTR:350:6
+ATIS2:UAE Radar
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
+PROFILE:OMAE_N_CTR:350:6
+ATIS2:UAE Radar
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
+PROFILE:OMAE_S_CTR:350:6
 ATIS2:UAE Radar
 ATIS3:Report callsign with heading and altitude on first contact
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
@@ -898,8 +959,8 @@ TAGITEM:17::0:1:10:14::0:1:::1
 END
 SIL
 m_Visible:1
-m_X:333
-m_Y:25
+m_X:0
+m_Y:24
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:7
@@ -926,8 +987,8 @@ m_Column:ASSR:5:1:60:31:31:1::::1867398211
 END
 SEL
 m_Visible:1
-m_X:333
-m_Y:57
+m_X:0
+m_Y:135
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:16
@@ -955,8 +1016,8 @@ m_Column:SI:3:1:64:20:0:1::::1867398211
 END
 DEP
 m_Visible:1
-m_X:333
-m_Y:89
+m_X:0
+m_Y:167
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -1003,5 +1064,19 @@ m_Column:C/S:7:0:9:0:0:1::::1867398211
 m_Column:ADEP:5:1:61:0:0:1::::1867398211
 m_Column:ADES:5:1:17:7:0:1::::1867398211
 m_Column:STS:6:1:82:34:34:1::::1867398211
+END
+CONFLICT
+m_Visible:0
+m_X:0
+m_Y:600
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:TYPE:6:1:88:0:36:1::::1731018134
+m_Column:C/S:7:0:9:0:36:1::::1731018134
+m_Column:C/S:7:0:85:0:36:1::::1731018134
+m_Column:START:6:1:86:0:36:1::::1731018134
+m_Column:END:6:1:87:0:36:1::::1731018134
 END
 PLUGINS
