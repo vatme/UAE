@@ -678,6 +678,10 @@ PROFILE:OMAA_DEL:20:2
 ATIS2:Abu Dhabi Delivery
 ATIS3:Report callsign with position first contact
 ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.uae-vacc.net
+PROFILE:OMAE_H_CTR:350:6
+ATIS2:UAE Radar
+ATIS3:Holding Stack Controller. For HOLDINGS only
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
 END
 TAGS
 TAGFAMILY:GSiT
@@ -988,7 +992,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:135
+m_Y:57
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:16
@@ -1017,7 +1021,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:167
+m_Y:89
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
