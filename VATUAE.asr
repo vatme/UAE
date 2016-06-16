@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\mh1ok\Desktop\UAE\VATUAE.sct
+SECTORFILE:\VATUAE.sct
 SECTORTITLE:VATUAE.sct
 Airports:OMAA:name
 Airports:OMAD:name
@@ -205,8 +205,6 @@ Fixes:TOXIG:name
 Fixes:TOXIG:symbol
 Fixes:ULASO:name
 Fixes:ULASO:symbol
-Fixes:UMALI:name
-Fixes:UMALI:symbol
 Fixes:VEBAT:name
 Fixes:VEBAT:symbol
 Free Text:ABU DHABI GROUND misc\ADAT APRON:freetext
@@ -216,6 +214,54 @@ Free Text:ABU DHABI GROUND misc\GA:freetext
 Free Text:ABU DHABI GROUND misc\Terminal 1:freetext
 Free Text:ABU DHABI GROUND misc\Terminal 2:freetext
 Free Text:ABU DHABI GROUND misc\Terminal 3:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A1:freetext
+Free Text:ABU DHABI GROUND taxi\A10:freetext
+Free Text:ABU DHABI GROUND taxi\A11:freetext
+Free Text:ABU DHABI GROUND taxi\A13:freetext
+Free Text:ABU DHABI GROUND taxi\A14:freetext
+Free Text:ABU DHABI GROUND taxi\A16:freetext
+Free Text:ABU DHABI GROUND taxi\A17:freetext
+Free Text:ABU DHABI GROUND taxi\A18:freetext
+Free Text:ABU DHABI GROUND taxi\A2:freetext
+Free Text:ABU DHABI GROUND taxi\A3:freetext
+Free Text:ABU DHABI GROUND taxi\A5:freetext
+Free Text:ABU DHABI GROUND taxi\A6:freetext
+Free Text:ABU DHABI GROUND taxi\A8:freetext
+Free Text:ABU DHABI GROUND taxi\Apron 7:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C2:freetext
+Free Text:ABU DHABI GROUND taxi\C3:freetext
+Free Text:ABU DHABI GROUND taxi\C4:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D10:freetext
+Free Text:ABU DHABI GROUND taxi\D2:freetext
+Free Text:ABU DHABI GROUND taxi\D3:freetext
+Free Text:ABU DHABI GROUND taxi\D4:freetext
+Free Text:ABU DHABI GROUND taxi\D6:freetext
+Free Text:ABU DHABI GROUND taxi\D7:freetext
+Free Text:ABU DHABI GROUND taxi\D8:freetext
+Free Text:ABU DHABI GROUND taxi\D9:freetext
 Free Text:ABU DHABI GROUND taxi\E:freetext
 Free Text:ABU DHABI GROUND taxi\E:freetext
 Free Text:ABU DHABI GROUND taxi\E1:freetext
@@ -252,6 +298,20 @@ Free Text:ABU DHABI GROUND taxi\F3:freetext
 Free Text:ABU DHABI GROUND taxi\F4:freetext
 Free Text:ABU DHABI GROUND taxi\F5:freetext
 Free Text:ABU DHABI GROUND taxi\F6:freetext
+Free Text:ABU DHABI GROUND taxi\G:freetext
+Free Text:ABU DHABI GROUND taxi\G:freetext
+Free Text:ABU DHABI GROUND taxi\H:freetext
+Free Text:ABU DHABI GROUND taxi\H:freetext
+Free Text:ABU DHABI GROUND taxi\H:freetext
+Free Text:ABU DHABI GROUND taxi\K:freetext
+Free Text:ABU DHABI GROUND taxi\L3:freetext
+Free Text:ABU DHABI GROUND taxi\L4:freetext
+Free Text:ABU DHABI GROUND taxi\M:freetext
+Free Text:ABU DHABI GROUND taxi\N:freetext
+Free Text:ABU DHABI GROUND taxi\Z:freetext
+Free Text:ABU DHABI GROUND taxi\Z1:freetext
+Free Text:ABU DHABI GROUND taxi\Z2:freetext
+Free Text:ABU DHABI GROUND taxi\Z3:freetext
 Free Text:AL AIN GROUND\1:freetext
 Free Text:AL AIN GROUND\2:freetext
 Free Text:AL AIN GROUND\3:freetext
@@ -312,7 +372,6 @@ Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
 Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
 Free Text:CTR/FIR\SJ CTR:freetext
 Free Text:CTR/FIR\TEHRAN FIR:freetext
-Free Text:Default group\OMSJ:freetext
 Free Text:DUBAI GROUND gates\A1:freetext
 Free Text:DUBAI GROUND gates\A10:freetext
 Free Text:DUBAI GROUND gates\A2:freetext
@@ -1131,4 +1190,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:GSiT
-WINDOWAREA:22.175720:49.573632:26.697795:58.948861
+WINDOWAREA:21.591229:48.539589:27.243823:60.258627

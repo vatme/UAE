@@ -334,13 +334,7 @@ SYMBOLITEM:LINETO 2 3
 SYMBOLITEM:MOVETO 0 4
 SYMBOLITEM:LINETO 1 4
 SYMBOL:8
-SYMBOLITEM:MOVETO -4 0
-SYMBOLITEM:LINETO -3 4
-SYMBOLITEM:LINETO 3 4
-SYMBOLITEM:LINETO 4 0
-SYMBOLITEM:LINETO 3 -4
-SYMBOLITEM:LINETO -3 -4
-SYMBOLITEM:LINETO -4 0
+SYMBOLITEM:POLYGON -4 -4 -4 4 4 4 4 -4
 SYMBOL:9
 SYMBOLITEM:MOVETO -4 0
 SYMBOLITEM:LINETO -3 4
@@ -580,7 +574,8 @@ VOICE
 AG:OMAA_ATIS:125.100:voice1.vatsim-germany.org:omaa_atis
 AG:OMAE_U_CTR:120.900:voice1.vatsim-germany.org:120.900
 AG:OMDB_DEL:120.350:voice1.vatsim-germany.org:OMDB_DEL
-AG:OMDB_GND:118.350:voice1.vatsim-germany.org:OMDB_GND
+AG:OMDB_GND:118.850:voice1.vatsim-germany.org:OMDB_GND
+AG:OMDB_S_GND:118.350:voice1.vatsim-germany.org:OMDB_S_GND
 AG:OMDB_N_GND:121.650:voice1.vatsim-germany.org:OMDB_N_GND
 AG:OMDB_TWR:118.750:voice1.vatsim-germany.org:OMDB_TWR
 AG:OMDB_DEP:124.450:voice1.vatsim-germany.org:OMDB_DEP
@@ -992,7 +987,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:57
+m_Y:135
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:16
@@ -1021,7 +1016,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:89
+m_Y:167
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
