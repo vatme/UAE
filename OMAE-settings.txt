@@ -200,7 +200,7 @@ NDBs:name:7823422:3.5:0:0:12
 NDBs:frequency:5982521:3.5:0:0:0
 Runways:centerline:8421504:3.5:0:0:7
 Runways:extended centerline:4259584:3.5:4:0:7
-Runways:name:8421504:3.5:0:0:7
+Runways:name:2025010:3.9:0:5:7
 Datablock:non concerned:10548209:3.2:0:0:7
 Datablock:notified:16777215:3.2:0:0:7
 Datablock:assumed:9109386:3.2:0:0:7
@@ -987,7 +987,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:135
+m_Y:57
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:16
@@ -1016,7 +1016,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:167
+m_Y:89
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
