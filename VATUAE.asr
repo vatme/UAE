@@ -93,6 +93,8 @@ Fixes:DB-TC:name
 Fixes:DB-TC:symbol
 Fixes:DESDI:name
 Fixes:DESDI:symbol
+Fixes:EGVOS:name
+Fixes:EGVOS:symbol
 Fixes:ELELA:name
 Fixes:ELELA:symbol
 Fixes:EMATI:name
@@ -171,6 +173,8 @@ Fixes:NAMLA:name
 Fixes:NAMLA:symbol
 Fixes:NIBAX:name
 Fixes:NIBAX:symbol
+Fixes:NODVI:name
+Fixes:NODVI:symbol
 Fixes:ORSAR:name
 Fixes:ORSAR:symbol
 Fixes:PASEK:name
@@ -191,6 +195,8 @@ Fixes:RULAM:name
 Fixes:RULAM:symbol
 Fixes:SEDPO:name
 Fixes:SEDPO:symbol
+Fixes:SENSU:name
+Fixes:SENSU:symbol
 Fixes:SERSA:name
 Fixes:SERSA:symbol
 Fixes:SITAT:name
@@ -207,6 +213,8 @@ Fixes:ULASO:name
 Fixes:ULASO:symbol
 Fixes:VEBAT:name
 Fixes:VEBAT:symbol
+Fixes:VEDEX:name
+Fixes:VEDEX:symbol
 Free Text:ABU DHABI GROUND misc\ADAT APRON:freetext
 Free Text:ABU DHABI GROUND misc\AMIRI FLIGHT APRON:freetext
 Free Text:ABU DHABI GROUND misc\CARGO:freetext
