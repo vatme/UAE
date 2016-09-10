@@ -133,8 +133,6 @@ Fixes:GOGMI:name
 Fixes:GOGMI:symbol
 Fixes:GOMTA:name
 Fixes:GOMTA:symbol
-Fixes:IMLAD:name
-Fixes:IMLAD:symbol
 Fixes:IMTEN:name
 Fixes:IMTEN:symbol
 Fixes:ITITA:name
@@ -155,8 +153,6 @@ Fixes:LAGMI:name
 Fixes:LAGMI:symbol
 Fixes:LALDO:name
 Fixes:LALDO:symbol
-Fixes:LOSUR:name
-Fixes:LOSUR:symbol
 Fixes:MAXMO:name
 Fixes:MAXMO:symbol
 Fixes:MIADA:name
@@ -185,8 +181,6 @@ Fixes:PEBAT:name
 Fixes:PEBAT:symbol
 Fixes:PUVAL:name
 Fixes:PUVAL:symbol
-Fixes:RALDA:name
-Fixes:RALDA:symbol
 Fixes:RIKET:name
 Fixes:RIKET:symbol
 Fixes:ROVOS:name
