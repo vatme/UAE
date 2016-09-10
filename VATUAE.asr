@@ -372,8 +372,6 @@ Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
 Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
 Free Text:CTR/FIR\SJ CTR:freetext
 Free Text:CTR/FIR\TEHRAN FIR:freetext
-Free Text:Default group\OMDB Ground Fixes:freetext
-Free Text:Default group\OMSJ:freetext
 Free Text:Dubai World Central Ground\301:freetext
 Free Text:Dubai World Central Ground\302:freetext
 Free Text:Dubai World Central Ground\303:freetext
@@ -1141,6 +1139,11 @@ Free Text:SMA Ras Al Khaimah\T55:freetext
 Free Text:SMA Ras Al Khaimah\T70:freetext
 Geo:Coastline:
 Geo:GEO:
+Geo:OMAD:
+Geo:OMAL:
+Geo:OMDW:
+Geo:OMFJ:
+Geo:OMRK:
 Geo:OMSJ:
 Geo:Taxi_FT:
 Regions:add_green_1:polygon
