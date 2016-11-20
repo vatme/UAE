@@ -589,6 +589,7 @@ AG:OMAA_N_GND:121.950:voice1.vatsim-germany.org:OMAA_N_GND
 AG:OMAA_TWR:119.200:voice1.vatsim-germany.org:OMAA_TWR
 AG:OMAA_N_TWR:118.675:voice1.vatsim-germany.org:OMAA_N_TWR
 AG:OMAA_APP:128.100:voice1.vatsim-germany.org:omaa_app
+AG:OMAA_R_APP:124.400:voice1.vatsim-germany.org:omaa_r_app
 AG:OMSJ_ATIS:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
 AG:OMSJ_TWR:118.600:voice1.vatsim-germany.org:OMSJ_TWR
 AG:OMRK_GND:121.600:voice1.vatsim-germany.org:OMRK_GND
@@ -657,7 +658,11 @@ ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
 PROFILE:OMAA_APP:150:5
 ATIS2:Abu Dhabi Arrivals
-ATIS3:Departures report callsign, passing level, and SID designation. Arrivals report callsign, passing level, aircraft type, STAR designation, and ATIS info.
+ATIS3:Report callsign, passing level, aircraft type, SID/STAR designation, and ATIS info.
+ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAA_R_APP:150:5
+ATIS2:Abu Dhabi Radar
+ATIS3:Departures report callsign, passing level, and SID designation
 ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
 PROFILE:OMAA_N_TWR:50:4
 ATIS2:Abu Dhabi Tower North
@@ -683,6 +688,18 @@ PROFILE:OMAE_H_CTR:350:6
 ATIS2:UAE Radar
 ATIS3:Holding Stack Controller. For HOLDINGS only
 ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAL_GND:20:3
+ATIS2:Al Ain Ground
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 126.050. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAL_TWR:50:4
+ATIS2:Al Ain Tower
+ATIS3:Report callsign with position on first contact
+ATIS4:Monitor ATIS 126.050. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAL_APP:150:5
+ATIS2:Al Ain Radar
+ATIS3:Report callsign with position on first contact
+ATIS4:Monitor ATIS 126.050. For charts and procedures visit www.vatame.org/vacc/OMAE
 END
 TAGS
 TAGFAMILY:GSiT
