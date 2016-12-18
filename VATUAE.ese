@@ -55,7 +55,7 @@ OMDB_S_GND:Dubai Ground:118.350:DBS:S:OMDB:GND:::0501:0577
 OMDB_N_GND:Dubai Ground:121.650:DBN:-:OMDB:GND:-:-:0501:0577 ;Aircraft on TWY P, APRON E, APRON Q and Emirates hangar shall contact GROUND MOVEMENT CONTROL on this frequency.
 
 ; FIR Delivery Positions
-OMAA_DEL:Abu Dhabi Clearance Delivery:125.100:AAC:-:OMAA:DEL:-:-:6241:6257
+OMAA_DEL:Abu Dhabi Clearance Delivery:125.100:AAC:-:OMAA:DEL:-:-:6201:6277
 OMDB_DEL:Dubai Clearance Delivery:120.350:DBC:-:OMDB:DEL:-:-:0501:0577
 
 

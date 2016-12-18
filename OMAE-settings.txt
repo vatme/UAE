@@ -584,6 +584,7 @@ AG:OMDB_N_DEP:126.200:voice1.vatsim-germany.org:OMDB_N_DEP
 AG:OMDB_APP:124.900:voice1.vatsim-germany.org:omdb_app
 AG:OMDB_F_APP:127.900:voice1.vatsim-germany.org:OMDB_F_APP
 AG:OMAA_ATIS:125.100:voice1.vatsim-germany.org:omaa_atis
+AG:OMAA_DEL:125.100:voice1.vatsim-germany.org:OMAA_DEL
 AG:OMAA_GND:123.970:voice1.vatsim-germany.org:OMAA_GND
 AG:OMAA_N_GND:121.950:voice1.vatsim-germany.org:OMAA_N_GND
 AG:OMAA_TWR:119.200:voice1.vatsim-germany.org:OMAA_TWR
@@ -682,7 +683,7 @@ ATIS3:Report callsign with position first contact
 ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
 PROFILE:OMAA_DEL:20:2
 ATIS2:Abu Dhabi Delivery
-ATIS3:Report callsign with position first contact
+ATIS3:Report callsign with position first contact. Only call when fully ready for pushback!
 ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
 PROFILE:OMAE_H_CTR:350:6
 ATIS2:UAE Radar
