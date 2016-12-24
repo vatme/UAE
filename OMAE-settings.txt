@@ -105,7 +105,6 @@ m_ShowConcernedInFpList:1
 m_ShowUnconcernedInFpList:0
 m_ZoomCenterUnderMouse:1
 m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
-m_CompensateMagneticVariation:0
 m_STCA_LowPreWarnTime:120
 m_STCA_LowWarnTime:150
 m_HighPreWarnTime:180
@@ -122,9 +121,11 @@ m_MTCA_Distance:20.0
 m_UseIsectForScratchPad:1
 m_RotateRadarTargetSymbol:0
 m_RotateFlightPlanTrackSymbol:0
+m_RubberHeadingRounding:5
+SqawkForSModeTransponder:
 m_ShowControllers:1
 m_ShowAircraft:1
-m_ShowTextMessages:1
+m_ShowTextMessages:0
 m_ShowTitle:1
 m_ShowTitleFileName:1
 m_ShowTitleController:1
@@ -158,14 +159,14 @@ m_ScreenNumber:0
 m_ScreenPosition:0
 m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
-m_PlanesListX:1321
-m_PlanesListY:20
-m_MetarListX:1077
-m_MetarListY:21
-m_VoiceListX:1243
+m_PlanesListX:1656
+m_PlanesListY:24
+m_MetarListX:1305
+m_MetarListY:24
+m_VoiceListX:1487
 m_VoiceListY:24
-m_ControllerListX:1479
-m_ControllerListY:25
+m_ControllerListX:1798
+m_ControllerListY:24
 m_ShowPlaneRangeRingsTracked:0
 m_ShowPlaneRangeRingsUntracked:0
 m_PlaneRangeRingsDistance1:1.5
@@ -176,6 +177,9 @@ m_ShowTooltips:1
 m_OnTheGroundAltitude:5000
 m_OnTheGroundSpeed:50
 m_ShowCdtOnCflCheck:0
+m_ShowTsVccsMiniControl:0
+ScenarioEditorX:0
+ScenarioEditorY:0
 SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:4144959:1.0:0:0:7
@@ -186,8 +190,8 @@ High airways:line:9590067:3.5:0:0:7
 High airways:name:11637094:3.5:0:0:8
 Fixes:symbol:14734786:0.8:0:0:7
 Fixes:name:5483007:3.2:0:0:1
-Sids:line:6579300:3.0:1:0:7
-Stars:line:6579300:3.0:0:0:7
+Sids:line:12036896:3.0:1:0:7
+Stars:line:7912984:2.0:1:0:7
 ARTCC high boundary:line:13010755:3.0:0:1:7
 ARTCC boundary:line:13010755:3.0:0:2:7
 ARTCC low boundary:line:13010755:3.0:0:1:7
@@ -268,6 +272,9 @@ Chat:text:16777215:3.5:0:0:7
 Chat:background:8605742:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7
 Chat:name unread:16776960:3.5:0:0:7
+Ground Network:exit:16711680:3.5:0:3:7
+Ground Network:taxiway:65280:3.5:0:3:7
+Ground Network:terminal taxiway:255:3.5:0:3:7
 Sector:line:33023:4.0:0:1:7
 Sector:msaw:32768:2.0:0:2:7
 Sector:active sector background:5122079:3.5:0:0:7
@@ -683,7 +690,7 @@ ATIS3:Report callsign with position first contact
 ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
 PROFILE:OMAA_DEL:20:2
 ATIS2:Abu Dhabi Delivery
-ATIS3:Report callsign with position first contact. Only call when fully ready for pushback!
+ATIS3:Report callsign with position first contact
 ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
 PROFILE:OMAE_H_CTR:350:6
 ATIS2:UAE Radar
@@ -1102,4 +1109,19 @@ m_Column:C/S:7:0:85:0:36:1::::1731018134
 m_Column:START:6:1:86:0:36:1::::1731018134
 m_Column:END:6:1:87:0:36:1::::1731018134
 END
+VCCS
+Ts3Server:localhost
+Ts3Port:9988
 PLUGINS
+Holding List:ACList/Holding list/m_Visible:1
+Holding List:ACList/Holding list/m_X:20
+Holding List:ACList/Holding list/m_Y:20
+Holding List:ACList/Holding list/m_LineNumber:1
+Holding List:ACList/Holding list/m_Resizable:1
+Holding List:ACList/Holding list/m_OrderingColumn:1
+Holding List:ACList/Holding list/m_Column_0:C/S:6:0:9:0:0:1:::
+Holding List:ACList/Holding list/m_Column_1:H/P:6:0:1:1:0:1:Holding List:Holding List:
+Holding List:ACList/Holding list/m_Column_2:AFL:4:1:4:0:0:1:::
+Holding List:ACList/Holding list/m_Column_3:CFL:4:1:20:11:0:1:::
+Holding List:ACList/Holding list/m_Column_4:TIM:6:1:2:0:0:1:Holding List::
+Holding List:ACList/Holding list/m_Column_5:REM:6:1:3:2:0:1:Holding List:Holding List:
