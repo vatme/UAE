@@ -35,7 +35,7 @@ m_InhibitAutoPushOnHandoff:0
 m_RandomSquawks:1
 m_VFRSquawks:7000
 m_WhoIsOnlineURL:http://data.vattastic.com/vatsim-data.txt
-m_AutoLoadMetarForActiveAirports:0
+m_AutoLoadMetarForActiveAirports:1
 m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS&info=$atiscode&metar=$metar($atisairport)
 m_DoNotUseAcceptedColor:0
@@ -256,7 +256,7 @@ Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:16777215:3.5:0:1:7
-Other:freetext:14734786:3.3:0:0:7
+Other:freetext:16777215:3.4:0:0:7
 Other:range rings:65535:5.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:5921370:5.0:0:0:2
@@ -990,7 +990,7 @@ END
 SIL
 m_Visible:1
 m_X:0
-m_Y:42
+m_Y:57
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:7
@@ -1018,7 +1018,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:74
+m_Y:89
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:16
@@ -1047,7 +1047,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:106
+m_Y:121
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:-3
@@ -1113,9 +1113,9 @@ VCCS
 Ts3Server:localhost
 Ts3Port:9988
 PLUGINS
-Holding List:ACList/Holding list/m_Visible:1
-Holding List:ACList/Holding list/m_X:1113
-Holding List:ACList/Holding list/m_Y:24
+Holding List:ACList/Holding list/m_Visible:0
+Holding List:ACList/Holding list/m_X:20
+Holding List:ACList/Holding list/m_Y:20
 Holding List:ACList/Holding list/m_LineNumber:1
 Holding List:ACList/Holding list/m_Resizable:1
 Holding List:ACList/Holding list/m_OrderingColumn:1
