@@ -17,7 +17,7 @@ m_CenterlineMarkerInterval:5.0
 m_CenterlineVectorDme:10.0
 m_CenterlineVectorLength:3.0
 m_CenterlineVectorAngle:30.0
-m_CenterlineVectorBase:5.0
+m_CenterlineVectorBase:3.0
 m_STCA_LowShow:1
 m_STCA_LowVertical:1000
 m_STCA_LowHorizontal:4.0
