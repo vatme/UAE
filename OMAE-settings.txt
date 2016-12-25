@@ -26,7 +26,7 @@ m_STCA_HighShow:1
 m_STCA_HighVertical:1000
 m_STCA_HighHorizontal:12.0
 m_STCA_HighBottom:14500
-m_ExtendedCenterlinActiveArr:0
+m_ExtendedCenterlinActiveArr:1
 m_UseHoveringTagForKeys:1
 m_AutoMessageForTextAircraft:1
 m_ShowRouteWhenAccepting:1
@@ -40,7 +40,7 @@ m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS&info=$atiscode&metar=$metar($atisairport)
 m_DoNotUseAcceptedColor:0
 m_DoNotUseRefusedColor:0
-SET_TransparentAcListBackground:0
+SET_TransparentAcListBackground:1
 m_PutIncomingCoordinationToFirst:0
 m_AutoProxyMode:0
 m_TransparentAcListSelectedBackground:0
@@ -98,18 +98,18 @@ m_PrivateMessageLevel:4
 m_FreqMessageLevel:4
 m_MericUnits:0
 m_ShowCorrelatedInFpList:0
-m_ShowUncorrelatedInFpList:1
+m_ShowUncorrelatedInFpList:0
 m_ShowVFRInFpList:1
 m_ShowIFRInFpList:1
 m_ShowConcernedInFpList:1
 m_ShowUnconcernedInFpList:0
 m_ZoomCenterUnderMouse:1
 m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
-m_STCA_LowPreWarnTime:120
+m_STCA_LowPreWarnTime:150
 m_STCA_LowWarnTime:150
-m_HighPreWarnTime:180
+m_HighPreWarnTime:240
 m_STCA_HighWarnTime:240
-m_STCA_ShowCFL:1
+m_STCA_ShowCFL:0
 m_STCA_PlaySoundOnCFL:0
 m_STCA_PlaySoundOnTrackedOnly:1
 m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
@@ -159,11 +159,11 @@ m_ScreenNumber:0
 m_ScreenPosition:0
 m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
-m_PlanesListX:1656
+m_PlanesListX:1666
 m_PlanesListY:24
-m_MetarListX:1305
+m_MetarListX:1387
 m_MetarListY:24
-m_VoiceListX:1487
+m_VoiceListX:1562
 m_VoiceListY:24
 m_ControllerListX:1798
 m_ControllerListY:24
@@ -190,11 +190,11 @@ High airways:line:9590067:3.5:0:0:7
 High airways:name:11637094:3.5:0:0:8
 Fixes:symbol:14734786:0.8:0:0:7
 Fixes:name:5483007:3.2:0:0:1
-Sids:line:12036896:3.0:1:0:7
-Stars:line:7912984:2.0:1:0:7
+Sids:line:3269590:3.0:2:0:7
+Stars:line:7912984:2.0:2:0:7
 ARTCC high boundary:line:13010755:3.0:0:1:7
-ARTCC boundary:line:13010755:3.0:0:2:7
-ARTCC low boundary:line:13010755:3.0:0:1:7
+ARTCC boundary:line:12945219:3.0:2:1:7
+ARTCC low boundary:line:13010755:3.0:2:1:7
 Geo:line:16777215:3.0:0:0:7
 VORs:symbol:7823422:1.0:0:0:7
 VORs:name:7823422:3.5:0:0:14
@@ -203,7 +203,7 @@ NDBs:symbol:7823422:1.0:0:0:7
 NDBs:name:7823422:3.5:0:0:12
 NDBs:frequency:5982521:3.5:0:0:0
 Runways:centerline:8421504:3.5:0:0:7
-Runways:extended centerline:4259584:3.5:4:0:7
+Runways:extended centerline:10140943:3.0:2:0:7
 Runways:name:2025010:3.9:0:5:7
 Datablock:non concerned:10548209:3.2:0:0:7
 Datablock:notified:16777215:3.2:0:0:7
@@ -585,7 +585,7 @@ AG:OMDB_GND:118.850:voice1.vatsim-germany.org:OMDB_GND
 AG:OMDB_S_GND:118.350:voice1.vatsim-germany.org:OMDB_S_GND
 AG:OMDB_N_GND:121.650:voice1.vatsim-germany.org:OMDB_N_GND
 AG:OMDB_TWR:118.750:voice1.vatsim-germany.org:OMDB_TWR
-AG:OMDB_DEP:124.450:voice1.vatsim-germany.org:OMDB_DEP
+AG:OMDB_DEP:124.450:voice1.vatsim-germany.org:omdb_dep
 AG:OMDB_S_DEP:121.025:voice1.vatsim-germany.org:OMDB_S_DEP
 AG:OMDB_N_DEP:126.200:voice1.vatsim-germany.org:OMDB_N_DEP
 AG:OMDB_APP:124.900:voice1.vatsim-germany.org:omdb_app
@@ -990,7 +990,7 @@ END
 SIL
 m_Visible:1
 m_X:0
-m_Y:24
+m_Y:42
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:7
@@ -1005,7 +1005,7 @@ m_Column:ETN:5:1:50:0:0:1::::1867398211
 m_Column:PEL:4:1:49:23:23:1::::1867398211
 m_Column:ETA:5:1:54:0:0:1::::1867398211
 m_Column:ADEP:4:1:61:0:0:1::::1867398211
-m_Column:™:1:1:62:0:0:1::::1867398211
+m_Column:™:1:1:62:0:0:0::::1867398211
 m_Column:FR:2:1:63:0:0:1::::1867398211
 m_Column:ADES:4:1:17:7:0:1::::1867398211
 m_Column:COPX:5:0:51:22:22:1::::1867398211
@@ -1018,7 +1018,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:57
+m_Y:74
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:16
@@ -1047,28 +1047,28 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:89
+m_Y:106
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:1
+m_OrderingColumn:-3
 m_HeaderOnly:0
-m_Column:DSQ:3:1:57:0:0:1::::1867398211
+m_Column:DSQ:3:1:57:0:0:0::::1867398211
 m_Column:C/S:7:0:9:0:0:1::::1867398211
 m_Column:ADEP:4:1:61:0:0:1::::1867398211
 m_Column:ATYP:4:1:16:0:0:1::::1867398211
 m_Column:WTC:3:1:10:0:0:1::::1867398211
 m_Column:RUNW:4:1:47:19:19:1::::1867398211
 m_Column:SID:7:0:56:17:17:1::::1867398211
-m_Column:COPN:5:0:48:21:21:1::::1867398211
+m_Column:COPN:5:0:48:21:21:0::::1867398211
 m_Column:CFL:4:1:20:11:0:1::::1867398211
 m_Column:ASSR:5:1:60:31:31:1::::1867398211
 m_Column:E:1:1:58:27:0:1::::1867398211
-m_Column:COPX:5:0:51:22:22:1::::1867398211
-m_Column:XFL:4:1:52:24:24:1::::1867398211
+m_Column:COPX:5:0:51:22:22:0::::1867398211
+m_Column:XFL:4:1:52:24:24:0::::1867398211
 m_Column:ADES:4:1:17:7:0:1::::1867398211
 m_Column:RFL:4:1:22:30:30:1::::1867398211
 m_Column:FR:2:1:63:0:0:1::::1867398211
-m_Column:™:1:1:62:0:0:1::::1867398211
+m_Column:™:1:1:62:0:0:0::::1867398211
 m_Column:STS:4:1:59:28:28:1::::1867398211
 END
 ARR
@@ -1114,8 +1114,8 @@ Ts3Server:localhost
 Ts3Port:9988
 PLUGINS
 Holding List:ACList/Holding list/m_Visible:1
-Holding List:ACList/Holding list/m_X:20
-Holding List:ACList/Holding list/m_Y:20
+Holding List:ACList/Holding list/m_X:1113
+Holding List:ACList/Holding list/m_Y:24
 Holding List:ACList/Holding list/m_LineNumber:1
 Holding List:ACList/Holding list/m_Resizable:1
 Holding List:ACList/Holding list/m_OrderingColumn:1

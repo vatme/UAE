@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:\VATUAE.sct
+SECTORFILE:C:\Users\mh1ok\Desktop\UAE\VATUAE.sct
 SECTORTITLE:VATUAE.sct
 Airports:OMAA:name
 Airports:OMAD:name
@@ -47,8 +47,6 @@ Fixes:ATBOR:name
 Fixes:ATBOR:symbol
 Fixes:ATUDO:name
 Fixes:ATUDO:symbol
-Fixes:BORAP:name
-Fixes:BORAP:symbol
 Fixes:BOXAK:name
 Fixes:BOXAK:symbol
 Fixes:BUBIN:name
@@ -129,8 +127,6 @@ Fixes:FJ929:name
 Fixes:FJ929:symbol
 Fixes:GITBO:name
 Fixes:GITBO:symbol
-Fixes:GOGMI:name
-Fixes:GOGMI:symbol
 Fixes:GOMTA:name
 Fixes:GOMTA:symbol
 Fixes:IMTEN:name
@@ -139,18 +135,12 @@ Fixes:ITITA:name
 Fixes:ITITA:symbol
 Fixes:KANIP:name
 Fixes:KANIP:symbol
-Fixes:KAPUM:name
-Fixes:KAPUM:symbol
 Fixes:KINOS:name
 Fixes:KINOS:symbol
 Fixes:KISAG:name
 Fixes:KISAG:symbol
 Fixes:KITAP:name
 Fixes:KITAP:symbol
-Fixes:LADMO:name
-Fixes:LADMO:symbol
-Fixes:LAGMI:name
-Fixes:LAGMI:symbol
 Fixes:LALDO:name
 Fixes:LALDO:symbol
 Fixes:MAXMO:name
@@ -185,8 +175,6 @@ Fixes:RIKET:name
 Fixes:RIKET:symbol
 Fixes:ROVOS:name
 Fixes:ROVOS:symbol
-Fixes:RULAM:name
-Fixes:RULAM:symbol
 Fixes:SEDPO:name
 Fixes:SEDPO:symbol
 Fixes:SENSU:name
@@ -1395,5 +1383,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:GSiT
-WINDOWAREA:22.139478:49.264820:26.661553:58.640052
+WINDOWAREA:22.137548:49.339612:26.659623:58.714844
