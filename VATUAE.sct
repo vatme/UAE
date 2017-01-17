@@ -1,6 +1,6 @@
 #define dxb_runway 4784275
 #define Parking 11502259
-#define Parking_1 11511214
+#define Parking_1 4784275
 #define dxb_building 9803157
 #define dxb_apron 6250335
 #define dxb_gates 11502259
