@@ -581,7 +581,7 @@ VOICE
 AG:OMAE_U_CTR:120.900:voice1.vatsim-germany.org:120.900
 AG:OMDB_ATIS:131.700:voice1.vatsim-germany.org:omdb_atis
 AG:OMDB_DEL:120.350:voice1.vatsim-germany.org:OMDB_DEL
-AG:OMDB_GND:118.850:voice1.vatsim-germany.org:OMDB_GND
+AG:OMDB_GND:118.350:voice1.vatsim-germany.org:OMDB_GND
 AG:OMDB_S_GND:118.350:voice1.vatsim-germany.org:OMDB_S_GND
 AG:OMDB_N_GND:121.650:voice1.vatsim-germany.org:OMDB_N_GND
 AG:OMDB_TWR:118.750:voice1.vatsim-germany.org:OMDB_TWR
