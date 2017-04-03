@@ -1,0 +1,118 @@
+PROFILE
+PROFILE:OMAE_CTR:350:6
+ATIS2:UAE Radar
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAE_N_CTR:350:6
+ATIS2:UAE Radar
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAE_S_CTR:350:6
+ATIS2:UAE Radar
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Monitor OMAA ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMDB_APP:150:5
+ATIS2:Dubai Arrivals
+ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMDB_DEP:150:5
+ATIS2:Dubai Departure
+ATIS3:Departing aircraft report callsign and passing level
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMDB_S_DEP:150:5
+ATIS2:Dubai Departure
+ATIS3:Departing aircraft report callsign and passing level
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMDB_N_DEP:150:5
+ATIS2:Dubai Departure
+ATIS3:Departing aircraft report callsign and passing level
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMDB_TWR:50:4
+ATIS2:Dubai Tower
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMDB_GND:20:3
+ATIS2:Dubai Ground
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMDB_N_GND:20:3
+ATIS2:Dubai Ground
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMDB_DEL:20:2
+ATIS2:Dubai Delivery
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMDB_F_APP:150:5
+ATIS2:Dubai Director
+ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAA_APP:150:5
+ATIS2:Abu Dhabi Arrivals
+ATIS3:Report callsign, passing level, aircraft type, SID/STAR designation, and ATIS info.
+ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAA_R_APP:150:5
+ATIS2:Abu Dhabi Radar
+ATIS3:Departures report callsign, passing level, and SID designation
+ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAA_N_TWR:50:4
+ATIS2:Abu Dhabi Tower North
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAA_TWR:50:4
+ATIS2:Abu Dhabi Tower
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAA_N_GND:20:3
+ATIS2:Abu Dhabi Ground
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAA_GND:20:3
+ATIS2:Abu Dhabi Ground
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAA_DEL:20:2
+ATIS2:Abu Dhabi Delivery
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 125.100. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAE_H_CTR:350:6
+ATIS2:UAE Radar
+ATIS3:Holding Stack Controller. For HOLDINGS only
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAL_GND:20:3
+ATIS2:Al Ain Ground
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 126.050. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAL_TWR:50:4
+ATIS2:Al Ain Tower
+ATIS3:Report callsign with position on first contact
+ATIS4:Monitor ATIS 126.050. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMAL_APP:150:5
+ATIS2:Al Ain Radar
+ATIS3:Report callsign with position on first contact
+ATIS4:Monitor ATIS 126.050. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMRK_GND:20:3
+ATIS2:Ras Al Khaimah Ground
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 126.075. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMRK_TWR:50:4
+ATIS2:Ras Al Khaimah Tower
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 126.075. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMRK_APP:150:5
+ATIS2:Ras Al Khaimah Approach
+ATIS3:Report callsign with position on first contact
+ATIS4:Monitor ATIS 126.075. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMSJ_GND:20:3
+ATIS2:Sharjah Ground
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 122.400. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:OMSJ_TWR:50:4
+ATIS2:Sharjah Tower
+ATIS3:Report callsign with position first contact
+ATIS4:Monitor ATIS 122.400. For charts and procedures visit www.vatame.org/vacc/OMAE
+PROFILE:SH_OBS:100:0
+ATIS2:UAE ATC OBSERVER
+ATIS3:
+ATIS4:
+END

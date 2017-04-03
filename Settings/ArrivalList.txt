@@ -1,0 +1,11 @@
+ARR
+m_Visible:0
+m_X:0
+m_Y:400
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:7:0:9:8:0:1::::1867398211
+m_Column:TXT:6:1:19:29:0:1::::1867398211
+END
