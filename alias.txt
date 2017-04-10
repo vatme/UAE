@@ -6,8 +6,14 @@ General
 .asf identified. Continue as filed.
 .sq Squawk $asquawk
 .unicom You are leaving my airspace, no further ATC available. Monitor UNICOM 122.80
+.qnharr QNH $altim($arr)
+.qnhdep QNH $altim($dep)
 
 Clearance Delivery
+.pdc .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(15) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $com
+.pdc2 .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(15) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $1
+.pdcaa .msg $aircraft OMAA PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(15) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. STANDBY FOR PUSH ON $com
+.pdcaa .msg $aircraft OMAA PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(15) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. STANDBY FOR PUSH ON $1
 .ready Please contact me on $freq when ready for clearance
 .clear Cleared to $arr via $sid departure. Maintain altitude $1 feet. Squawk $asquawk
 .clearrwy Cleared to $arr. After departure, fly runway heading, climb to altitude $1 feet. Runway $deprwy for departure, squawk $asquawk
@@ -42,6 +48,8 @@ Tower
 Departure/Approach
 .idcl identified, climb to FL$1
 .idal identified, climb to altitude $1 feet
+.ilsapp Expect ILS approach RWY $1.
+.visapp Expect visual approach RWY $1.
 .cm Climb to altitude $1
 .cmfl Climb to FL$1
 .dct proceed direct $1
@@ -51,30 +59,26 @@ Departure/Approach
 .dmfl Descend to FL$1
 .dmto Descend to altitude $1 by $2
 .dmflto Descend to FL$1 by $2
-
+.rwyarr Expect $1 approach for rwy $arrrwy
 .speed Report speed
 .reds Reduce speed to $1 KT
 .adds Increase speed $1 KT
 .redl Reduce speed $1 kts or less.
 .redm Reduce speed to your minimum clean.
 .redf Reduce to final approach speed.
-
-.expvectors identified, descend to altitude $1 feet, expect vectoring for ILS approach runway $2
 .pointhdg leave $1 heading $2
-
 .tl Turn left heading $1.
 .tr Turn right heading $1.
 .fh Fly heading $1.
-.ilsapp Expect ILS approach RWY $1.
-.visapp Expect visual approach RWY $1.
 .pd Proceed direct to $1.
-.ils Cleared ILS approach rwy $1
-
+.ils Cleared ILS approach rwy $arrrwy
 .aptis $arr is at your $oclock($arr) $dist($arr) miles
 
 Center
 .flstar identified, descend to FL$1 on $star arrival
-.alstar identified, descend to altitude $1 on $star arrival
+.alstar identified, descend to altitude $1 feet on $star arrival
+.flvec identified, descend to FL$1. Expect vectors for $1 approach, rwy $arrrwy
+.alvec identified, descend to altitude $1 feet. Expect vectors for $1 approach, rwy $arrrwy
 
 Holding
 .hold Hold at $1 $2
@@ -87,3 +91,8 @@ Emergency
 .problem Could you please confirm the problem?
 .priority You will get priority landing for the best available runway.
 .tell We have an emergency aircraft, you may expect some delay and holding.
+
+Euroscope-fixes
+.autoclimbaltitude Climb to altitude $1 feet
+.autodescendaltitude Descend to altitude $1 feet
+.autocontact Contact $1 on frequency $2
