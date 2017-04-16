@@ -123,10 +123,6 @@ PROFILE:OMAA_DEL:20:2
 ATIS2:Abu Dhabi Delivery
 ATIS3:Report callsign with position first contact. Monitor ATIS 125.100.
 ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
-PROFILE:OMAE_H_CTR:350:6
-ATIS2:UAE Radar
-ATIS3:Holding Stack Controller. For HOLDINGS only
-ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
 PROFILE:OMAL_GND:20:3
 ATIS2:Al Ain Ground
 ATIS3:Report callsign with position first contact. Monitor ATIS 126.075.
