@@ -60,8 +60,6 @@ Fixes:ANVIX:name
 Fixes:ANVIX:symbol
 Fixes:ASTOG:name
 Fixes:ASTOG:symbol
-Fixes:ATBOR:name
-Fixes:ATBOR:symbol
 Fixes:ATUDO:name
 Fixes:ATUDO:symbol
 Fixes:BOXAK:name
@@ -72,36 +70,14 @@ Fixes:BUNDU:name
 Fixes:BUNDU:symbol
 Fixes:DAVMO:name
 Fixes:DAVMO:symbol
-Fixes:DB-AD:name
-Fixes:DB-AD:symbol
-Fixes:DB-AG:name
-Fixes:DB-AG:symbol
 Fixes:DB-AI:name
 Fixes:DB-AI:symbol
-Fixes:DB-AM:name
-Fixes:DB-AM:symbol
-Fixes:DB-AQ:name
-Fixes:DB-AQ:symbol
 Fixes:DB-CI:name
 Fixes:DB-CI:symbol
-Fixes:DB-DD:name
-Fixes:DB-DD:symbol
 Fixes:DB-EI:name
 Fixes:DB-EI:symbol
-Fixes:DB-GB:name
-Fixes:DB-GB:symbol
-Fixes:DB-HE:name
-Fixes:DB-HE:symbol
 Fixes:DB-HV:name
 Fixes:DB-HV:symbol
-Fixes:DB-KE:name
-Fixes:DB-KE:symbol
-Fixes:DB-MC:name
-Fixes:DB-MC:symbol
-Fixes:DB-PS:name
-Fixes:DB-PS:symbol
-Fixes:DB-SC:name
-Fixes:DB-SC:symbol
 Fixes:DB-SU:name
 Fixes:DB-SU:symbol
 Fixes:DB-TC:name
@@ -120,26 +96,6 @@ Fixes:EMUNI:name
 Fixes:EMUNI:symbol
 Fixes:ESROM:name
 Fixes:ESROM:symbol
-Fixes:FJ-ALBITHNAH:name
-Fixes:FJ-ALBITHNAH:symbol
-Fixes:FJ-DHADNAH:name
-Fixes:FJ-DHADNAH:symbol
-Fixes:FJ-HATTA-ROAD:name
-Fixes:FJ-HATTA-ROAD:symbol
-Fixes:FJ-KALBA:name
-Fixes:FJ-KALBA:symbol
-Fixes:FJ-KHAWR-KALBA:name
-Fixes:FJ-KHAWR-KALBA:symbol
-Fixes:FJ-KHORFAKKAN:name
-Fixes:FJ-KHORFAKKAN:symbol
-Fixes:FJ-MASAFI:name
-Fixes:FJ-MASAFI:symbol
-Fixes:FJ-MURBAH:name
-Fixes:FJ-MURBAH:symbol
-Fixes:FJ-SEA-PORT:name
-Fixes:FJ-SEA-PORT:symbol
-Fixes:FJ-ZURBARAH:name
-Fixes:FJ-ZURBARAH:symbol
 Fixes:FJ929:name
 Fixes:FJ929:symbol
 Fixes:GIDIS:name
@@ -150,8 +106,6 @@ Fixes:GOMTA:name
 Fixes:GOMTA:symbol
 Fixes:IMTEN:name
 Fixes:IMTEN:symbol
-Fixes:ITITA:name
-Fixes:ITITA:symbol
 Fixes:KANIP:name
 Fixes:KANIP:symbol
 Fixes:KINOS:name
@@ -164,12 +118,8 @@ Fixes:KIXID:name
 Fixes:KIXID:symbol
 Fixes:KUNGU:name
 Fixes:KUNGU:symbol
-Fixes:LAGMI:name
-Fixes:LAGMI:symbol
 Fixes:LALDO:name
 Fixes:LALDO:symbol
-Fixes:MAXMO:name
-Fixes:MAXMO:symbol
 Fixes:MIADA:name
 Fixes:MIADA:symbol
 Fixes:MODUS:name
@@ -208,8 +158,6 @@ Fixes:SERSA:name
 Fixes:SERSA:symbol
 Fixes:SITAT:name
 Fixes:SITAT:symbol
-Fixes:TALVI:name
-Fixes:TALVI:symbol
 Fixes:TANSU:name
 Fixes:TANSU:symbol
 Fixes:TARDI:name
@@ -220,8 +168,6 @@ Fixes:TOXIG:name
 Fixes:TOXIG:symbol
 Fixes:ULASO:name
 Fixes:ULASO:symbol
-Fixes:VEBAT:name
-Fixes:VEBAT:symbol
 Fixes:VEDEX:name
 Fixes:VEDEX:symbol
 Free Text:ABU DHABI GROUND misc\ADAT APRON:freetext
@@ -381,7 +327,6 @@ Free Text:CTR/FIR\AL CTR:freetext
 Free Text:CTR/FIR\BAHRAIN FIR:freetext
 Free Text:CTR/FIR\BAHRAIN FIR:freetext
 Free Text:CTR/FIR\DB CTR:freetext
-Free Text:CTR/FIR\DW CTR:freetext
 Free Text:CTR/FIR\FJ CTR:freetext
 Free Text:CTR/FIR\MUSCAT FIR:freetext
 Free Text:CTR/FIR\RK CTR:freetext
@@ -1236,6 +1181,35 @@ Free Text:SMA Ras Al Khaimah\T40:freetext
 Free Text:SMA Ras Al Khaimah\T45:freetext
 Free Text:SMA Ras Al Khaimah\T55:freetext
 Free Text:SMA Ras Al Khaimah\T70:freetext
+Free Text:UAE-CTRs\OMAE_A_CTR:freetext
+Free Text:UAE-CTRs\OMAE_A_CTR:freetext
+Free Text:UAE-CTRs\OMAE_A_CTR:freetext
+Free Text:UAE-CTRs\OMAE_A_CTR:freetext
+Free Text:UAE-CTRs\OMAE_A_CTR:freetext
+Free Text:UAE-CTRs\OMAE_B_CTR:freetext
+Free Text:UAE-CTRs\OMAE_B_CTR:freetext
+Free Text:UAE-CTRs\OMAE_B_CTR:freetext
+Free Text:UAE-CTRs\OMAE_B_CTR:freetext
+Free Text:UAE-CTRs\OMAE_B_CTR:freetext
+Free Text:UAE-CTRs\OMAE_B_CTR:freetext
+Free Text:UAE-CTRs\OMAE_D_CTR:freetext
+Free Text:UAE-CTRs\OMAE_D_CTR:freetext
+Free Text:UAE-CTRs\OMAE_D_CTR:freetext
+Free Text:UAE-CTRs\OMAE_D_CTR:freetext
+Free Text:UAE-CTRs\OMAE_E_CTR:freetext
+Free Text:UAE-CTRs\OMAE_E_CTR:freetext
+Free Text:UAE-CTRs\OMAE_E_CTR:freetext
+Free Text:UAE-CTRs\OMAE_E_CTR:freetext
+Free Text:UAE-CTRs\OMAE_E_CTR:freetext
+Free Text:UAE-CTRs\OMAE_I_CTR:freetext
+Free Text:UAE-CTRs\OMAE_I_CTR:freetext
+Free Text:UAE-CTRs\OMAE_I_CTR:freetext
+Free Text:UAE-CTRs\OMAE_I_CTR:freetext
+Free Text:UAE-CTRs\OMAE_I_CTR:freetext
+Free Text:UAE-CTRs\OMAE_W_CTR:freetext
+Free Text:UAE-CTRs\OMAE_W_CTR:freetext
+Free Text:UAE-CTRs\OMAE_W_CTR:freetext
+Free Text:UAE-CTRs\OMAE_W_CTR:freetext
 Geo:Coastline:
 Geo:GEO:
 Geo:OMAB:
@@ -1778,4 +1752,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:GSiT
-WINDOWAREA:22.149566:49.834662:26.671643:59.209897
+WINDOWAREA:22.082264:48.847939:26.782028:58.591557
