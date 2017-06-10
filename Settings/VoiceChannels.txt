@@ -30,6 +30,7 @@ AG:OMAA_N_GND:121.950:voice1.vatsim-germany.org:OMAA_N_GND
 AG:OMAA_TWR:119.200:voice1.vatsim-germany.org:OMAA_TWR
 AG:OMAA_N_TWR:118.675:voice1.vatsim-germany.org:OMAA_N_TWR
 AG:OMAA_APP:128.100:voice1.vatsim-germany.org:omaa_app
+AG:OMAA_N_APP:135.150:voice1.vatsim-germany.org:omaa_n_app
 AG:OMAA_R_APP:124.400:voice1.vatsim-germany.org:omaa_r_app
 AG:OMSJ_ATIS:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
 AG:OMSJ_TWR:118.600:voice1.vatsim-germany.org:OMSJ_TWR

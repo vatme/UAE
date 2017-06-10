@@ -99,6 +99,10 @@ PROFILE:OMAA_APP:150:5
 ATIS2:Abu Dhabi Arrivals
 ATIS3:Report callsign, passing level, aircraft type, and STAR designation. Monitor ATIS 125.100.
 ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAA_N_APP:100:5
+ATIS2:Abu Dhabi Radar North
+ATIS3:Report callsign, passing level, aircraft type, and STAR designation. Monitor ATIS 125.100.
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OMAE
 PROFILE:OMAA_R_APP:150:5
 ATIS2:Abu Dhabi Radar
 ATIS3:Departures report callsign, passing level, and SID designation. Monitor ATIS 125.100.
