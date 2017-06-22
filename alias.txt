@@ -72,6 +72,7 @@ Departure/Approach
 .fh Fly heading $1.
 .pd Proceed direct to $1.
 .ils Cleared ILS approach rwy $arrrwy
+.vapp Cleared visual approach rwy $arrrwy
 .aptis $arr is at your $oclock($arr) $dist($arr) miles
 
 Center

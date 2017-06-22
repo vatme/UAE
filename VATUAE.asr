@@ -58,6 +58,8 @@ Fixes:ALPEK:name
 Fixes:ALPEK:symbol
 Fixes:ANVIX:name
 Fixes:ANVIX:symbol
+Fixes:ASKIN:name
+Fixes:ASKIN:symbol
 Fixes:ASTOG:name
 Fixes:ASTOG:symbol
 Fixes:ATUDO:name
@@ -106,6 +108,10 @@ Fixes:GOMTA:name
 Fixes:GOMTA:symbol
 Fixes:IMTEN:name
 Fixes:IMTEN:symbol
+Fixes:ITLAP:name
+Fixes:ITLAP:symbol
+Fixes:IVADI:name
+Fixes:IVADI:symbol
 Fixes:KANIP:name
 Fixes:KANIP:symbol
 Fixes:KINOS:name
@@ -130,14 +136,20 @@ Fixes:MUXIT:name
 Fixes:MUXIT:symbol
 Fixes:NADIL:name
 Fixes:NADIL:symbol
+Fixes:NAMKU:name
+Fixes:NAMKU:symbol
 Fixes:NAMLA:name
 Fixes:NAMLA:symbol
 Fixes:NIBAX:name
 Fixes:NIBAX:symbol
 Fixes:NODVI:name
 Fixes:NODVI:symbol
+Fixes:OBTOL:name
+Fixes:OBTOL:symbol
 Fixes:ORSAR:name
 Fixes:ORSAR:symbol
+Fixes:PARED:name
+Fixes:PARED:symbol
 Fixes:PASEK:name
 Fixes:PASEK:symbol
 Fixes:PATUB:name
@@ -158,6 +170,8 @@ Fixes:SERSA:name
 Fixes:SERSA:symbol
 Fixes:SITAT:name
 Fixes:SITAT:symbol
+Fixes:SUTVA:name
+Fixes:SUTVA:symbol
 Fixes:TANSU:name
 Fixes:TANSU:symbol
 Fixes:TARDI:name
@@ -170,6 +184,10 @@ Fixes:ULASO:name
 Fixes:ULASO:symbol
 Fixes:VEDEX:name
 Fixes:VEDEX:symbol
+Fixes:VEGIT:name
+Fixes:VEGIT:symbol
+Fixes:XAKUM:name
+Fixes:XAKUM:symbol
 Free Text:ABU DHABI GROUND misc\ADAT APRON:freetext
 Free Text:ABU DHABI GROUND misc\AMIRI FLIGHT APRON:freetext
 Free Text:ABU DHABI GROUND misc\CARGO:freetext
@@ -1735,6 +1753,20 @@ Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 right base
 Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 right ticks
 Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 right vectoring
 Runways:OMSJ Sharjah Intl 30-12:name
+Stars:HOLDING OMAA ASKIN L 123.0 7000:
+Stars:HOLDING OMAA NAMKU L 111.0 3000 6000:
+Stars:HOLDING OMAA OBTOL L 126.0 3000 6000:
+Stars:HOLDING OMAE BUBIN R 303.0 10000 13000:
+Stars:HOLDING OMAE BUBIN R 303.0 150 250:
+Stars:HOLDING OMAE DESDI L 109.0 10000 13000:
+Stars:HOLDING OMAE DESDI L 109.0 150 250:
+Stars:HOLDING OMAE ITLAP L 204.0 10000 180:
+Stars:HOLDING OMAE KIXID R 270.0 10000 13000:
+Stars:HOLDING OMAE KIXID R 270.0 150 250:
+Stars:HOLDING OMAE PARED R 300.0 6000:
+Stars:HOLDING OMAE SUTVA R 300.0 6000:
+Stars:HOLDING OMAE VEGIT L 306.0 7000 9000:
+Stars:HOLDING OMAE XAKUM R 117.0 5000 260:
 VORs:ALN:symbol
 VORs:JXB:symbol
 VORs:RAV:symbol

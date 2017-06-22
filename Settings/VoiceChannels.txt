@@ -23,7 +23,7 @@ AG:OMDB_S_DEP:121.025:voice1.vatsim-germany.org:OMDB_S_DEP
 AG:OMDB_N_DEP:126.200:voice1.vatsim-germany.org:OMDB_N_DEP
 AG:OMDB_APP:124.900:voice1.vatsim-germany.org:omdb_app
 AG:OMDB_F_APP:127.900:voice1.vatsim-germany.org:OMDB_F_APP
-AG:OMAA_ATIS:125.100:voice1.vatsim-germany.org:omaa_atis
+AG:OMAA_ATIS:119.675:voice1.vatsim-germany.org:omaa_atis
 AG:OMAA_DEL:125.100:voice1.vatsim-germany.org:OMAA_DEL
 AG:OMAA_GND:123.970:voice1.vatsim-germany.org:OMAA_GND
 AG:OMAA_N_GND:121.950:voice1.vatsim-germany.org:OMAA_N_GND
