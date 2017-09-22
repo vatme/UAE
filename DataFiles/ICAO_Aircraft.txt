@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 1706/1  ++  Valid period: 25/MAY/2017 - 21/JUN/2017  ++  File-Publisher: Emirates vACC - OMAE                    ;
+;  AIRAC 1708/1  ++  Valid period: 20/JUL/2017 - 16/AUG/2017  ++  File-Publisher: Emirates vACC - OMAE                    ;
 ;=========================================================================================================================;
 A1	ML1P	DOUGLAS	A1, EA1, AD Skyraider
 A10	ML2J	FAIRCHILD, US	A10, OA10 Thunderbolt 2
@@ -235,6 +235,7 @@ B305	LH1P	BRANTLY	305
 B350	LL2T	HAWKER BEECHCRAFT CORP	B300 Super King Air 350
 B36T	LL1T	ALLISON	36 Turbine Bonanza
 B377	MA4P	BOEING	377 Stratocruiser
+B38M	ML2J	BOEING	737-8 MAX
 B39M	ML2J	BOEING	B737-900 MAX / BBJ MAX
 B407	LH1T	BELL	407
 B412	LH2T	AGUSTA	AB412, Griffon (Hkp11)
@@ -703,6 +704,7 @@ E135	ML2J	EMBRAER	EMB135 ECJ135, Legacy
 E145	ML2J	EMBRAER	EMB145, ERJ145 (R99)
 E170	ML2J	EMBRAER	170, 175, ERJ170
 E190	ML2J	EMBRAER	190, 195, ERJ190
+E195	ML2J	EMBRAER	195, ERJ-190-200
 E2	ML2T	GRUMMAN	E2, TE2 Hawkeye, Daya
 E200	LL1P	EXTRA	200
 E230	LL1P	EXTRA	230

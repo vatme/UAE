@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 1706/1  ++  Valid period: 25/MAY/2017 - 21/JUN/2017  ++  File-Publisher: Emirates vACC - OMAE                    ;
+;  AIRAC 1708/1  ++  Valid period: 20/JUL/2017 - 16/AUG/2017  ++  File-Publisher: Emirates vACC - OMAE                    ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABELAG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -191,7 +191,7 @@ AIC	AIR INDIA LIMITED	AIRINDIA	INDIA
 AID	CHRISTIAN KONIG - CENTURY AIRBIRDS	CENTURY AIRBIRD	AUSTRIA
 AIE	AIR INUIT LTD	INUIT	CANADA
 AIH	AIR INCHEON CO. LTD	AIR INCHEON	REPUBLIC OF KOREA
-AIJ	ABC AEROLINEAS, S.A. DE C.V.	ABC AEROLINEAS	MEXICO
+AIJ	ABC AEROLINEAS, S.A. DE C.V.	INTERJET	MEXICO
 AIK	AFRICAN AIRLINES INTERNATIONAL LIMITED	AFRICAN AIRLINES	KENYA
 AIM	TRABAJOS AEREOS MURCIANOS S.L.	PIJO	SPAIN
 AIN	AFRICAN INTERNATIONAL AIRWAYS (PTY) LTD	FLY CARGO	SOUTH AFRICA
