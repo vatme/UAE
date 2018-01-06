@@ -18,10 +18,10 @@ AG:OMDB_GND:118.350:voice1.vatsim-germany.org:OMDB_GND
 AG:OMDB_S_GND:118.350:voice1.vatsim-germany.org:OMDB_S_GND
 AG:OMDB_N_GND:121.650:voice1.vatsim-germany.org:OMDB_N_GND
 AG:OMDB_TWR:118.750:voice1.vatsim-germany.org:OMDB_TWR
-AG:OMDB_DEP:124.450:voice1.vatsim-germany.org:omdb_dep
+AG:OMDB_DEP:126.200:voice1.vatsim-germany.org:omdb_dep
 AG:OMDB_S_DEP:121.025:voice1.vatsim-germany.org:OMDB_S_DEP
 AG:OMDB_N_DEP:126.200:voice1.vatsim-germany.org:OMDB_N_DEP
-AG:OMDB_APP:120.250:voice1.vatsim-germany.org:omdb_app
+AG:OMDB_APP:124.450:voice1.vatsim-germany.org:omdb_app
 AG:OMDB_N_APP:124.450:voice1.vatsim-germany.org:OMDB_N_APP
 AG:OMDB_S_APP:124.900:voice1.vatsim-germany.org:OMDB_S_APP
 AG:OMDB_F_APP:127.900:voice1.vatsim-germany.org:OMDB_F_APP
