@@ -1,8 +1,4 @@
 PROFILE
-PROFILE:AE_DES_CTR:40:6
-ATIS2:UAE Radar
-ATIS3:Managing holding stack at DESDI only
-ATIS4:Contact with callsign only! Charts/procedures @ www.vatame.org/vacc/OMAE
 PROFILE:AE_BUB_CTR:40:6
 ATIS2:UAE Radar
 ATIS3:Managing holding stack at BUBIN only

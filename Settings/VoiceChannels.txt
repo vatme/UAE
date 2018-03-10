@@ -1,5 +1,4 @@
 VOICE
-AG:AE_DES_CTR:120.250:voice1.vatsim-germany.org:ae_des_ctr
 AG:AE_BUB_CTR:126.025:voice1.vatsim-germany.org:ae_bub_ctr
 AG:AE_XAK_CTR:118.925:voice1.vatsim-germany.org:ae_xak_ctr
 AG:AE_KIX_CTR:124.625:voice1.vatsim-germany.org:ae_kix_ctr
