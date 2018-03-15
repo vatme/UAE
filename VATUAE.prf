@@ -1,15 +1,15 @@
-Settings	sector	\VATUAE.sct
+Settings	sector	\Sector\VATUAE.sct
 Settings	Settingsfile	\Settings\General.txt
 Settings	SettingsfileSYMBOLOGY	\Settings\Symbology.txt
 Settings	SettingsfileVOICE	\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\Settings\Profiles.txt
 Settings	SettingsfileTAGS	\Settings\Tags.txt
-Settings	SettingsfileSIL	\Settings\SectorInboundList.txt
-Settings	SettingsfileSEL	\Settings\SectorExitList.txt
-Settings	SettingsfileDEP	\Settings\DepartureList.txt
-Settings	SettingsfileARR	\Settings\ArrivalList.txt
-Settings	SettingsfileFP	\Settings\FPList.txt
-Settings	SettingsfileCONFLICT	\Settings\Conflict.txt
+Settings	SettingsfileSIL	\Settings\List - Inbound.txt
+Settings	SettingsfileSEL	\Settings\List - Exit.txt
+Settings	SettingsfileDEP	\Settings\List - Departure.txt
+Settings	SettingsfileARR	\Settings\List - Arrival.txt
+Settings	SettingsfileFP	\Settings\List - Flight Plan.txt
+Settings	SettingsfileCONFLICT	\Settings\List - Conflict.txt
 Settings	SettingsfilePLUGINS	\Settings\Plugins.txt
 Settings	SettingsfileSCREEN	\Settings\Screen.txt
 Settings	airlines	\DataFiles\ICAO_Airlines.txt
@@ -17,19 +17,37 @@ Settings	airports	\DataFiles\ICAO_Airports.txt
 Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
 Settings	airways	\DataFiles\airway.txt
 Settings	alias	\alias.txt
-Plugins	Plugin0	\Plugins\HoldingList\HoldingListPlugin.dll
 LastSession	connecttype	0
 Settings	AtisFolder	\UniATIS_OMAEV2\atisfiles.txt
 LastSession	atis_airport	OMDB
-LastSession	atis_letter	67
+LastSession	atis_letter	65
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-RecentFiles	Recent1	\VATUAE.asr
 LastSession	atis2	UAE Radar
 LastSession	atis3	Report callsign with heading and altitude on first contact
-LastSession	range	350
-LastSession	atis4	Monitor ATIS 131.700. For charts and procedures visit www.uae-vacc.net
+LastSession	range	400
+LastSession	atis4	DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
 LastSession	callsign	OMAE_CTR
 LastSession	facility	6
-LastSession	rating	0
+LastSession	rating	4
 LastSession	tovatsim	1
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Plugins	Plugin0	\Plugins\HoldingList\HoldingListPlugin.dll
+Plugins	Plugin1	\Plugins\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+ASRFastKeys	1	\ASR\UAE Radar.asr
+ASRFastKeys	2	\ASR\OMDB.asr
+ASRFastKeys	3	\ASR\OMAA.asr
+ASRFastKeys	4	\ASR\OMDW.asr
+ASRFastKeys	5	\ASR\OMSJ.asr
+ASRFastKeys	6	\ASR\OMFJ.asr
+ASRFastKeys	7	\ASR\OMRK.asr
+RecentFiles	Recent1	\ASR\UAE Radar.asr
+RecentFiles	Recent2	\ASR\OMDB.asr
+RecentFiles	Recent3	\ASR\OMAA.asr
+RecentFiles	Recent4	\ASR\OMDW.asr
+RecentFiles	Recent5	\ASR\OMSJ.asr
+RecentFiles	Recent6	\ASR\OMFJ.asr
+RecentFiles	Recent7	\ASR\OMRK.asr

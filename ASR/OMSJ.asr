@@ -1,0 +1,96 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-master\Sector\VATUAE.sct
+SECTORTITLE:VATUAE.sct
+Free Text:OMSJ\10:freetext
+Free Text:OMSJ\11:freetext
+Free Text:OMSJ\13:freetext
+Free Text:OMSJ\14:freetext
+Free Text:OMSJ\15:freetext
+Free Text:OMSJ\16:freetext
+Free Text:OMSJ\17:freetext
+Free Text:OMSJ\18:freetext
+Free Text:OMSJ\2:freetext
+Free Text:OMSJ\21:freetext
+Free Text:OMSJ\22:freetext
+Free Text:OMSJ\23:freetext
+Free Text:OMSJ\24:freetext
+Free Text:OMSJ\25:freetext
+Free Text:OMSJ\26:freetext
+Free Text:OMSJ\3:freetext
+Free Text:OMSJ\4:freetext
+Free Text:OMSJ\5:freetext
+Free Text:OMSJ\50:freetext
+Free Text:OMSJ\51:freetext
+Free Text:OMSJ\52:freetext
+Free Text:OMSJ\53:freetext
+Free Text:OMSJ\54:freetext
+Free Text:OMSJ\55:freetext
+Free Text:OMSJ\56:freetext
+Free Text:OMSJ\57:freetext
+Free Text:OMSJ\58:freetext
+Free Text:OMSJ\59:freetext
+Free Text:OMSJ\6:freetext
+Free Text:OMSJ\60:freetext
+Free Text:OMSJ\61:freetext
+Free Text:OMSJ\62:freetext
+Free Text:OMSJ\63:freetext
+Free Text:OMSJ\7:freetext
+Free Text:OMSJ\8:freetext
+Free Text:OMSJ\80:freetext
+Free Text:OMSJ\81:freetext
+Free Text:OMSJ\82:freetext
+Free Text:OMSJ\83:freetext
+Free Text:OMSJ\84:freetext
+Free Text:OMSJ\9:freetext
+Free Text:OMSJ\A:freetext
+Free Text:OMSJ\A:freetext
+Free Text:OMSJ\A:freetext
+Free Text:OMSJ\A1:freetext
+Free Text:OMSJ\A12:freetext
+Free Text:OMSJ\A14:freetext
+Free Text:OMSJ\A18:freetext
+Free Text:OMSJ\A2:freetext
+Free Text:OMSJ\A20:freetext
+Free Text:OMSJ\A6:freetext
+Free Text:OMSJ\A8:freetext
+Free Text:OMSJ\B:freetext
+Free Text:OMSJ\B1:freetext
+Free Text:OMSJ\B11:freetext
+Free Text:OMSJ\B14:freetext
+Free Text:OMSJ\B19:freetext
+Free Text:OMSJ\B2:freetext
+Free Text:OMSJ\B20:freetext
+Free Text:OMSJ\B3:freetext
+Free Text:OMSJ\B6:freetext
+Free Text:OMSJ\B7:freetext
+Free Text:OMSJ\C1:freetext
+Free Text:OMSJ\F1:freetext
+Free Text:OMSJ\F2:freetext
+Free Text:OMSJ\Z:freetext
+Free Text:OMSJ\Z10:freetext
+Free Text:OMSJ\Z11:freetext
+Free Text:OMSJ\Z14:freetext
+Free Text:OMSJ\Z15:freetext
+Free Text:OMSJ\Z2:freetext
+Free Text:OMSJ\Z3:freetext
+Free Text:OMSJ\Z4:freetext
+Free Text:OMSJ\Z8:freetext
+Free Text:OMSJ\Z9:freetext
+Regions:OMSJ_SMR:polygon
+Runways:OMSJ Sharjah Intl 30-12:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:UAE
+WINDOWAREA:25.314549:55.483820:25.344573:55.546066
+PLUGIN:vSMR:Airport:OMSJ
