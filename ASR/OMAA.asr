@@ -1,0 +1,128 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-master\Sector\VATUAE.sct
+SECTORTITLE:VATUAE.sct
+Free Text:ABU DHABI GROUND misc\ADAT APRON:freetext
+Free Text:ABU DHABI GROUND misc\AMIRI FLIGHT APRON:freetext
+Free Text:ABU DHABI GROUND misc\CARGO:freetext
+Free Text:ABU DHABI GROUND misc\GA:freetext
+Free Text:ABU DHABI GROUND misc\Terminal 1:freetext
+Free Text:ABU DHABI GROUND misc\Terminal 2:freetext
+Free Text:ABU DHABI GROUND misc\Terminal 3:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A1:freetext
+Free Text:ABU DHABI GROUND taxi\A10:freetext
+Free Text:ABU DHABI GROUND taxi\A11:freetext
+Free Text:ABU DHABI GROUND taxi\A13:freetext
+Free Text:ABU DHABI GROUND taxi\A14:freetext
+Free Text:ABU DHABI GROUND taxi\A16:freetext
+Free Text:ABU DHABI GROUND taxi\A17:freetext
+Free Text:ABU DHABI GROUND taxi\A18:freetext
+Free Text:ABU DHABI GROUND taxi\A2:freetext
+Free Text:ABU DHABI GROUND taxi\A3:freetext
+Free Text:ABU DHABI GROUND taxi\A5:freetext
+Free Text:ABU DHABI GROUND taxi\A6:freetext
+Free Text:ABU DHABI GROUND taxi\A8:freetext
+Free Text:ABU DHABI GROUND taxi\Apron 7:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C2:freetext
+Free Text:ABU DHABI GROUND taxi\C3:freetext
+Free Text:ABU DHABI GROUND taxi\C4:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D10:freetext
+Free Text:ABU DHABI GROUND taxi\D2:freetext
+Free Text:ABU DHABI GROUND taxi\D3:freetext
+Free Text:ABU DHABI GROUND taxi\D4:freetext
+Free Text:ABU DHABI GROUND taxi\D6:freetext
+Free Text:ABU DHABI GROUND taxi\D7:freetext
+Free Text:ABU DHABI GROUND taxi\D8:freetext
+Free Text:ABU DHABI GROUND taxi\D9:freetext
+Free Text:ABU DHABI GROUND taxi\E:freetext
+Free Text:ABU DHABI GROUND taxi\E:freetext
+Free Text:ABU DHABI GROUND taxi\E1:freetext
+Free Text:ABU DHABI GROUND taxi\E10:freetext
+Free Text:ABU DHABI GROUND taxi\E10:freetext
+Free Text:ABU DHABI GROUND taxi\E11:freetext
+Free Text:ABU DHABI GROUND taxi\E12:freetext
+Free Text:ABU DHABI GROUND taxi\E12:freetext
+Free Text:ABU DHABI GROUND taxi\E13:freetext
+Free Text:ABU DHABI GROUND taxi\E13:freetext
+Free Text:ABU DHABI GROUND taxi\E14:freetext
+Free Text:ABU DHABI GROUND taxi\E14:freetext
+Free Text:ABU DHABI GROUND taxi\E15:freetext
+Free Text:ABU DHABI GROUND taxi\E15:freetext
+Free Text:ABU DHABI GROUND taxi\E2:freetext
+Free Text:ABU DHABI GROUND taxi\E3:freetext
+Free Text:ABU DHABI GROUND taxi\E3:freetext
+Free Text:ABU DHABI GROUND taxi\E4:freetext
+Free Text:ABU DHABI GROUND taxi\E5:freetext
+Free Text:ABU DHABI GROUND taxi\E6:freetext
+Free Text:ABU DHABI GROUND taxi\E6:freetext
+Free Text:ABU DHABI GROUND taxi\E7:freetext
+Free Text:ABU DHABI GROUND taxi\E7:freetext
+Free Text:ABU DHABI GROUND taxi\E8:freetext
+Free Text:ABU DHABI GROUND taxi\E8:freetext
+Free Text:ABU DHABI GROUND taxi\E9:freetext
+Free Text:ABU DHABI GROUND taxi\F:freetext
+Free Text:ABU DHABI GROUND taxi\F:freetext
+Free Text:ABU DHABI GROUND taxi\F:freetext
+Free Text:ABU DHABI GROUND taxi\F:freetext
+Free Text:ABU DHABI GROUND taxi\F1:freetext
+Free Text:ABU DHABI GROUND taxi\F2:freetext
+Free Text:ABU DHABI GROUND taxi\F3:freetext
+Free Text:ABU DHABI GROUND taxi\F4:freetext
+Free Text:ABU DHABI GROUND taxi\F5:freetext
+Free Text:ABU DHABI GROUND taxi\F6:freetext
+Free Text:ABU DHABI GROUND taxi\G:freetext
+Free Text:ABU DHABI GROUND taxi\G:freetext
+Free Text:ABU DHABI GROUND taxi\H:freetext
+Free Text:ABU DHABI GROUND taxi\H:freetext
+Free Text:ABU DHABI GROUND taxi\H:freetext
+Free Text:ABU DHABI GROUND taxi\K:freetext
+Free Text:ABU DHABI GROUND taxi\L3:freetext
+Free Text:ABU DHABI GROUND taxi\L4:freetext
+Free Text:ABU DHABI GROUND taxi\M:freetext
+Free Text:ABU DHABI GROUND taxi\N:freetext
+Free Text:ABU DHABI GROUND taxi\Z:freetext
+Free Text:ABU DHABI GROUND taxi\Z1:freetext
+Free Text:ABU DHABI GROUND taxi\Z2:freetext
+Free Text:ABU DHABI GROUND taxi\Z3:freetext
+Geo:GEO:
+Regions:OMAA_SMR:polygon
+Runways:OMAA ABU DHABI INTL 13L-31R:name
+Runways:OMAA ABU DHABI INTL 13R-31L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:UAE
+WINDOWAREA:24.411120:54.588449:24.469761:54.710024
+PLUGIN:vSMR:Airport:OMAA

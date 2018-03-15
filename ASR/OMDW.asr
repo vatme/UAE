@@ -1,0 +1,136 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-master\Sector\VATUAE.sct
+SECTORTITLE:VATUAE.sct
+Free Text:OMDW\S289:freetext
+Free Text:OMDW\S290:freetext
+Free Text:OMDW\S291:freetext
+Free Text:OMDW\S292:freetext
+Free Text:OMDW\S293:freetext
+Free Text:OMDW\S294:freetext
+Free Text:OMDW\S295:freetext
+Free Text:OMDW\S296:freetext
+Free Text:OMDW\S297:freetext
+Free Text:OMDW\S298:freetext
+Free Text:OMDW\S299:freetext
+Free Text:OMDW\S300:freetext
+Free Text:OMDW\S301:freetext
+Free Text:OMDW\S302:freetext
+Free Text:OMDW\S303:freetext
+Free Text:OMDW\S304:freetext
+Free Text:OMDW\S305:freetext
+Free Text:OMDW\S306:freetext
+Free Text:OMDW\S307:freetext
+Free Text:OMDW\S308:freetext
+Free Text:OMDW\S309:freetext
+Free Text:OMDW\S310:freetext
+Free Text:OMDW\S311:freetext
+Free Text:OMDW\S312:freetext
+Free Text:OMDW\S313:freetext
+Free Text:OMDW\S324:freetext
+Free Text:OMDW\S325:freetext
+Free Text:OMDW\S326:freetext
+Free Text:OMDW\S327:freetext
+Free Text:OMDW\S328:freetext
+Free Text:OMDW\S329:freetext
+Free Text:OMDW\S330:freetext
+Free Text:OMDW\S331:freetext
+Free Text:OMDW\S332:freetext
+Free Text:OMDW\S340:freetext
+Free Text:OMDW\S341:freetext
+Free Text:OMDW\S342:freetext
+Free Text:OMDW\S343:freetext
+Free Text:OMDW\S344:freetext
+Free Text:OMDW\S345:freetext
+Free Text:OMDW\S346:freetext
+Free Text:OMDW\S347:freetext
+Free Text:OMDW\S348:freetext
+Free Text:OMDW\S349:freetext
+Free Text:OMDW\S401:freetext
+Free Text:OMDW\S402:freetext
+Free Text:OMDW\S403:freetext
+Free Text:OMDW\S404:freetext
+Free Text:OMDW\S440:freetext
+Free Text:OMDW\S441:freetext
+Free Text:OMDW\S442:freetext
+Free Text:OMDW\S443:freetext
+Free Text:OMDW\S444:freetext
+Free Text:OMDW\S445:freetext
+Free Text:OMDW\S446:freetext
+Free Text:OMDW\S447:freetext
+Free Text:OMDW\S448:freetext
+Free Text:OMDW\S801:freetext
+Free Text:OMDW\S802:freetext
+Free Text:OMDW\S803:freetext
+Free Text:OMDW\S804:freetext
+Free Text:OMDW\S805:freetext
+Free Text:OMDW\S806:freetext
+Free Text:OMDW\S807:freetext
+Free Text:OMDW\S808:freetext
+Free Text:OMDW\S809:freetext
+Free Text:OMDW\S810:freetext
+Free Text:OMDW\S811:freetext
+Free Text:OMDW\S812:freetext
+Free Text:OMDW\U:freetext
+Free Text:OMDW\U4:freetext
+Free Text:OMDW\V:freetext
+Free Text:OMDW\V1:freetext
+Free Text:OMDW\V10:freetext
+Free Text:OMDW\V11:freetext
+Free Text:OMDW\V12:freetext
+Free Text:OMDW\V13:freetext
+Free Text:OMDW\V16:freetext
+Free Text:OMDW\V17:freetext
+Free Text:OMDW\V18:freetext
+Free Text:OMDW\V19:freetext
+Free Text:OMDW\V2:freetext
+Free Text:OMDW\V20:freetext
+Free Text:OMDW\V21:freetext
+Free Text:OMDW\V3:freetext
+Free Text:OMDW\V4:freetext
+Free Text:OMDW\V6:freetext
+Free Text:OMDW\V7:freetext
+Free Text:OMDW\V8:freetext
+Free Text:OMDW\V9:freetext
+Free Text:OMDW\W:freetext
+Free Text:OMDW\W1:freetext
+Free Text:OMDW\W10:freetext
+Free Text:OMDW\W11:freetext
+Free Text:OMDW\W12:freetext
+Free Text:OMDW\W13:freetext
+Free Text:OMDW\W14:freetext
+Free Text:OMDW\W15:freetext
+Free Text:OMDW\W16:freetext
+Free Text:OMDW\W17:freetext
+Free Text:OMDW\W18:freetext
+Free Text:OMDW\W19:freetext
+Free Text:OMDW\W2:freetext
+Free Text:OMDW\W20:freetext
+Free Text:OMDW\W21:freetext
+Free Text:OMDW\W3:freetext
+Free Text:OMDW\W4:freetext
+Free Text:OMDW\W7:freetext
+Free Text:OMDW\W8:freetext
+Free Text:OMDW\W9:freetext
+Free Text:OMDW\Z:freetext
+Free Text:OMDW\Z6:freetext
+Free Text:OMDW\Z7:freetext
+Free Text:OMDW\Z8:freetext
+Geo:GEO:
+Regions:OMDW_SMR:polygon
+Runways:OMDW AL MAKTOUM INTL 12-30:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:24.866888:55.110534:24.913801:55.207794
+PLUGIN:vSMR:Airport:OMDW
