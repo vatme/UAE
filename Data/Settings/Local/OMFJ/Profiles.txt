@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:OMFJ_GND:20:3
+ATIS2:Fujairah Ground
+ATIS3:Report callsign with position first contact. Monitor ATIS 118.000.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMFJ_TWR:50:4
+ATIS2:Fujairah Tower
+ATIS3:Report callsign with position first contact. Monitor ATIS 118.000.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMFJ_APP:150:5
+ATIS2:Fujairah Approach
+ATIS3:Report callsign with position first contact. Monitor ATIS 118.000.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+END

@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:OMRK_GND:20:3
+ATIS2:Ras Al Khaimah Ground
+ATIS3:Report callsign with position first contact. Monitor ATIS 126.075.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMRK_TWR:40:4
+ATIS2:Ras Al Khaimah Tower
+ATIS3:Report callsign with position first contact. Monitor ATIS 126.075.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMRK_APP:50:5
+ATIS2:Ras Al Khaimah Approach
+ATIS3:Report callsign with position on first contact. Monitor ATIS 126.075.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+END

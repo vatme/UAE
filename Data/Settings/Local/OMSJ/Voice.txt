@@ -1,0 +1,5 @@
+VOICE
+AG:Sharjah Intl. Information:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
+AG:Sharjah Tower:118.600:voice1.vatsim-germany.org:OMSJ_TWR
+AG:Sharjah Ground:121.875:voice1.vatsim-germany.org:OMSJ_GND
+END

@@ -1,0 +1,6 @@
+VOICE
+AG:Fujairah Ground:119.450:voice1.vatsim-germany.org:OMFJ_GND
+AG:Fujairah Intl. Information:118.000:voice1.vatsim-germany.org:OMFJ_ATIS
+AG:Fujairah Tower:124.600:voice1.vatsim-germany.org:OMFJ_TWR
+AG:Fujairah Approach:129.400:voice1.vatsim-germany.org:OMFJ_APP
+END

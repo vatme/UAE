@@ -1,0 +1,416 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
+SECTORTITLE:UAE.sct
+Free Text:OMDB Ground Misc\A1:freetext
+Free Text:OMDB Ground Misc\A10:freetext
+Free Text:OMDB Ground Misc\A2:freetext
+Free Text:OMDB Ground Misc\A3:freetext
+Free Text:OMDB Ground Misc\A4:freetext
+Free Text:OMDB Ground Misc\A5:freetext
+Free Text:OMDB Ground Misc\A6:freetext
+Free Text:OMDB Ground Misc\A7:freetext
+Free Text:OMDB Ground Misc\A8:freetext
+Free Text:OMDB Ground Misc\A9:freetext
+Free Text:OMDB Ground Misc\AIRSHOW APRON:freetext
+Free Text:OMDB Ground Misc\B1:freetext
+Free Text:OMDB Ground Misc\B10:freetext
+Free Text:OMDB Ground Misc\B11:freetext
+Free Text:OMDB Ground Misc\B12:freetext
+Free Text:OMDB Ground Misc\B13:freetext
+Free Text:OMDB Ground Misc\B14:freetext
+Free Text:OMDB Ground Misc\B15:freetext
+Free Text:OMDB Ground Misc\B16:freetext
+Free Text:OMDB Ground Misc\B17:freetext
+Free Text:OMDB Ground Misc\B18:freetext
+Free Text:OMDB Ground Misc\B19:freetext
+Free Text:OMDB Ground Misc\B2:freetext
+Free Text:OMDB Ground Misc\B20:freetext
+Free Text:OMDB Ground Misc\B21:freetext
+Free Text:OMDB Ground Misc\B22:freetext
+Free Text:OMDB Ground Misc\B23:freetext
+Free Text:OMDB Ground Misc\B24:freetext
+Free Text:OMDB Ground Misc\B25:freetext
+Free Text:OMDB Ground Misc\B26:freetext
+Free Text:OMDB Ground Misc\B27:freetext
+Free Text:OMDB Ground Misc\B3:freetext
+Free Text:OMDB Ground Misc\B4:freetext
+Free Text:OMDB Ground Misc\B5:freetext
+Free Text:OMDB Ground Misc\B6:freetext
+Free Text:OMDB Ground Misc\B7:freetext
+Free Text:OMDB Ground Misc\B8:freetext
+Free Text:OMDB Ground Misc\B9:freetext
+Free Text:OMDB Ground Misc\C1:freetext
+Free Text:OMDB Ground Misc\C10:freetext
+Free Text:OMDB Ground Misc\C11:freetext
+Free Text:OMDB Ground Misc\C12:freetext
+Free Text:OMDB Ground Misc\C13:freetext
+Free Text:OMDB Ground Misc\C14:freetext
+Free Text:OMDB Ground Misc\C15:freetext
+Free Text:OMDB Ground Misc\C16:freetext
+Free Text:OMDB Ground Misc\C17:freetext
+Free Text:OMDB Ground Misc\C18:freetext
+Free Text:OMDB Ground Misc\C19:freetext
+Free Text:OMDB Ground Misc\C2:freetext
+Free Text:OMDB Ground Misc\C20:freetext
+Free Text:OMDB Ground Misc\C21:freetext
+Free Text:OMDB Ground Misc\C22:freetext
+Free Text:OMDB Ground Misc\C23:freetext
+Free Text:OMDB Ground Misc\C24:freetext
+Free Text:OMDB Ground Misc\C25:freetext
+Free Text:OMDB Ground Misc\C26:freetext
+Free Text:OMDB Ground Misc\C27:freetext
+Free Text:OMDB Ground Misc\C28:freetext
+Free Text:OMDB Ground Misc\C29:freetext
+Free Text:OMDB Ground Misc\C3:freetext
+Free Text:OMDB Ground Misc\C30:freetext
+Free Text:OMDB Ground Misc\C31:freetext
+Free Text:OMDB Ground Misc\C32:freetext
+Free Text:OMDB Ground Misc\C33:freetext
+Free Text:OMDB Ground Misc\C34:freetext
+Free Text:OMDB Ground Misc\C35:freetext
+Free Text:OMDB Ground Misc\C36:freetext
+Free Text:OMDB Ground Misc\C37:freetext
+Free Text:OMDB Ground Misc\C38:freetext
+Free Text:OMDB Ground Misc\C39:freetext
+Free Text:OMDB Ground Misc\C4:freetext
+Free Text:OMDB Ground Misc\C40:freetext
+Free Text:OMDB Ground Misc\C41:freetext
+Free Text:OMDB Ground Misc\C42:freetext
+Free Text:OMDB Ground Misc\C48:freetext
+Free Text:OMDB Ground Misc\C49:freetext
+Free Text:OMDB Ground Misc\C5:freetext
+Free Text:OMDB Ground Misc\C50:freetext
+Free Text:OMDB Ground Misc\C51:freetext
+Free Text:OMDB Ground Misc\C52:freetext
+Free Text:OMDB Ground Misc\C53:freetext
+Free Text:OMDB Ground Misc\C54:freetext
+Free Text:OMDB Ground Misc\C55:freetext
+Free Text:OMDB Ground Misc\C56:freetext
+Free Text:OMDB Ground Misc\C57:freetext
+Free Text:OMDB Ground Misc\C58:freetext
+Free Text:OMDB Ground Misc\C59:freetext
+Free Text:OMDB Ground Misc\C6:freetext
+Free Text:OMDB Ground Misc\C60:freetext
+Free Text:OMDB Ground Misc\C61:freetext
+Free Text:OMDB Ground Misc\C62:freetext
+Free Text:OMDB Ground Misc\C63:freetext
+Free Text:OMDB Ground Misc\C64:freetext
+Free Text:OMDB Ground Misc\C7:freetext
+Free Text:OMDB Ground Misc\C8:freetext
+Free Text:OMDB Ground Misc\C9:freetext
+Free Text:OMDB Ground Misc\CARGO TERMINAL:freetext
+Free Text:OMDB Ground Misc\D1:freetext
+Free Text:OMDB Ground Misc\D10:freetext
+Free Text:OMDB Ground Misc\D2:freetext
+Free Text:OMDB Ground Misc\D3:freetext
+Free Text:OMDB Ground Misc\D4:freetext
+Free Text:OMDB Ground Misc\D5:freetext
+Free Text:OMDB Ground Misc\D6:freetext
+Free Text:OMDB Ground Misc\D7:freetext
+Free Text:OMDB Ground Misc\D8:freetext
+Free Text:OMDB Ground Misc\D9:freetext
+Free Text:OMDB Ground Misc\E1:freetext
+Free Text:OMDB Ground Misc\E10:freetext
+Free Text:OMDB Ground Misc\E11:freetext
+Free Text:OMDB Ground Misc\E12:freetext
+Free Text:OMDB Ground Misc\E13:freetext
+Free Text:OMDB Ground Misc\E14:freetext
+Free Text:OMDB Ground Misc\E15:freetext
+Free Text:OMDB Ground Misc\E16:freetext
+Free Text:OMDB Ground Misc\E17:freetext
+Free Text:OMDB Ground Misc\E18:freetext
+Free Text:OMDB Ground Misc\E19:freetext
+Free Text:OMDB Ground Misc\E2:freetext
+Free Text:OMDB Ground Misc\E20:freetext
+Free Text:OMDB Ground Misc\E21:freetext
+Free Text:OMDB Ground Misc\E22:freetext
+Free Text:OMDB Ground Misc\E23:freetext
+Free Text:OMDB Ground Misc\E24:freetext
+Free Text:OMDB Ground Misc\E25:freetext
+Free Text:OMDB Ground Misc\E26:freetext
+Free Text:OMDB Ground Misc\E27:freetext
+Free Text:OMDB Ground Misc\E28:freetext
+Free Text:OMDB Ground Misc\E29:freetext
+Free Text:OMDB Ground Misc\E3:freetext
+Free Text:OMDB Ground Misc\E30:freetext
+Free Text:OMDB Ground Misc\E31:freetext
+Free Text:OMDB Ground Misc\E32:freetext
+Free Text:OMDB Ground Misc\E33:freetext
+Free Text:OMDB Ground Misc\E34:freetext
+Free Text:OMDB Ground Misc\E35:freetext
+Free Text:OMDB Ground Misc\E36:freetext
+Free Text:OMDB Ground Misc\E37:freetext
+Free Text:OMDB Ground Misc\E38:freetext
+Free Text:OMDB Ground Misc\E39:freetext
+Free Text:OMDB Ground Misc\E4:freetext
+Free Text:OMDB Ground Misc\E40:freetext
+Free Text:OMDB Ground Misc\E41:freetext
+Free Text:OMDB Ground Misc\E42:freetext
+Free Text:OMDB Ground Misc\E43:freetext
+Free Text:OMDB Ground Misc\E44:freetext
+Free Text:OMDB Ground Misc\E45:freetext
+Free Text:OMDB Ground Misc\E46:freetext
+Free Text:OMDB Ground Misc\E47:freetext
+Free Text:OMDB Ground Misc\E48:freetext
+Free Text:OMDB Ground Misc\E49:freetext
+Free Text:OMDB Ground Misc\E5:freetext
+Free Text:OMDB Ground Misc\E6:freetext
+Free Text:OMDB Ground Misc\E7:freetext
+Free Text:OMDB Ground Misc\E8:freetext
+Free Text:OMDB Ground Misc\E9:freetext
+Free Text:OMDB Ground Misc\F1:freetext
+Free Text:OMDB Ground Misc\F10:freetext
+Free Text:OMDB Ground Misc\F11:freetext
+Free Text:OMDB Ground Misc\F12:freetext
+Free Text:OMDB Ground Misc\F13:freetext
+Free Text:OMDB Ground Misc\F14:freetext
+Free Text:OMDB Ground Misc\F16:freetext
+Free Text:OMDB Ground Misc\F17:freetext
+Free Text:OMDB Ground Misc\F18:freetext
+Free Text:OMDB Ground Misc\F19:freetext
+Free Text:OMDB Ground Misc\F2:freetext
+Free Text:OMDB Ground Misc\F20:freetext
+Free Text:OMDB Ground Misc\F21:freetext
+Free Text:OMDB Ground Misc\F22:freetext
+Free Text:OMDB Ground Misc\F23:freetext
+Free Text:OMDB Ground Misc\F24:freetext
+Free Text:OMDB Ground Misc\F25:freetext
+Free Text:OMDB Ground Misc\F26:freetext
+Free Text:OMDB Ground Misc\F27:freetext
+Free Text:OMDB Ground Misc\F3:freetext
+Free Text:OMDB Ground Misc\F4:freetext
+Free Text:OMDB Ground Misc\F5:freetext
+Free Text:OMDB Ground Misc\F6:freetext
+Free Text:OMDB Ground Misc\F7:freetext
+Free Text:OMDB Ground Misc\F8:freetext
+Free Text:OMDB Ground Misc\F9:freetext
+Free Text:OMDB Ground Misc\G1:freetext
+Free Text:OMDB Ground Misc\G10:freetext
+Free Text:OMDB Ground Misc\G11:freetext
+Free Text:OMDB Ground Misc\G12:freetext
+Free Text:OMDB Ground Misc\G13:freetext
+Free Text:OMDB Ground Misc\G14:freetext
+Free Text:OMDB Ground Misc\G15:freetext
+Free Text:OMDB Ground Misc\G16:freetext
+Free Text:OMDB Ground Misc\G17:freetext
+Free Text:OMDB Ground Misc\G18:freetext
+Free Text:OMDB Ground Misc\G19:freetext
+Free Text:OMDB Ground Misc\G2:freetext
+Free Text:OMDB Ground Misc\G20:freetext
+Free Text:OMDB Ground Misc\G21:freetext
+Free Text:OMDB Ground Misc\G22:freetext
+Free Text:OMDB Ground Misc\G3:freetext
+Free Text:OMDB Ground Misc\G4:freetext
+Free Text:OMDB Ground Misc\G5:freetext
+Free Text:OMDB Ground Misc\G6:freetext
+Free Text:OMDB Ground Misc\G7:freetext
+Free Text:OMDB Ground Misc\G8:freetext
+Free Text:OMDB Ground Misc\G9:freetext
+Free Text:OMDB Ground Misc\H1:freetext
+Free Text:OMDB Ground Misc\H2:freetext
+Free Text:OMDB Ground Misc\J:freetext
+Free Text:OMDB Ground Misc\J:freetext
+Free Text:OMDB Ground Misc\J:freetext
+Free Text:OMDB Ground Misc\J1:freetext
+Free Text:OMDB Ground Misc\J2:freetext
+Free Text:OMDB Ground Misc\J3:freetext
+Free Text:OMDB Ground Misc\J4:freetext
+Free Text:OMDB Ground Misc\J5:freetext
+Free Text:OMDB Ground Misc\K:freetext
+Free Text:OMDB Ground Misc\K:freetext
+Free Text:OMDB Ground Misc\K:freetext
+Free Text:OMDB Ground Misc\K1:freetext
+Free Text:OMDB Ground Misc\K10:freetext
+Free Text:OMDB Ground Misc\K11:freetext
+Free Text:OMDB Ground Misc\K12:freetext
+Free Text:OMDB Ground Misc\K13:freetext
+Free Text:OMDB Ground Misc\K14:freetext
+Free Text:OMDB Ground Misc\K15:freetext
+Free Text:OMDB Ground Misc\K15A:freetext
+Free Text:OMDB Ground Misc\K16:freetext
+Free Text:OMDB Ground Misc\K17:freetext
+Free Text:OMDB Ground Misc\K18:freetext
+Free Text:OMDB Ground Misc\K2:freetext
+Free Text:OMDB Ground Misc\K3:freetext
+Free Text:OMDB Ground Misc\K4:freetext
+Free Text:OMDB Ground Misc\K5:freetext
+Free Text:OMDB Ground Misc\K6:freetext
+Free Text:OMDB Ground Misc\K7:freetext
+Free Text:OMDB Ground Misc\K8:freetext
+Free Text:OMDB Ground Misc\K9:freetext
+Free Text:OMDB Ground Misc\L:freetext
+Free Text:OMDB Ground Misc\L:freetext
+Free Text:OMDB Ground Misc\L1:freetext
+Free Text:OMDB Ground Misc\L2:freetext
+Free Text:OMDB Ground Misc\L2:freetext
+Free Text:OMDB Ground Misc\L3:freetext
+Free Text:OMDB Ground Misc\L4:freetext
+Free Text:OMDB Ground Misc\M:freetext
+Free Text:OMDB Ground Misc\M:freetext
+Free Text:OMDB Ground Misc\M:freetext
+Free Text:OMDB Ground Misc\M:freetext
+Free Text:OMDB Ground Misc\M:freetext
+Free Text:OMDB Ground Misc\M1:freetext
+Free Text:OMDB Ground Misc\M10A:freetext
+Free Text:OMDB Ground Misc\M10B:freetext
+Free Text:OMDB Ground Misc\M11:freetext
+Free Text:OMDB Ground Misc\M12A:freetext
+Free Text:OMDB Ground Misc\M12B:freetext
+Free Text:OMDB Ground Misc\M13:freetext
+Free Text:OMDB Ground Misc\M13A:freetext
+Free Text:OMDB Ground Misc\M13B:freetext
+Free Text:OMDB Ground Misc\M14A:freetext
+Free Text:OMDB Ground Misc\M14B:freetext
+Free Text:OMDB Ground Misc\M15:freetext
+Free Text:OMDB Ground Misc\M15A:freetext
+Free Text:OMDB Ground Misc\M15B:freetext
+Free Text:OMDB Ground Misc\M16:freetext
+Free Text:OMDB Ground Misc\M17:freetext
+Free Text:OMDB Ground Misc\M18:freetext
+Free Text:OMDB Ground Misc\M18A:freetext
+Free Text:OMDB Ground Misc\M19:freetext
+Free Text:OMDB Ground Misc\M1A:freetext
+Free Text:OMDB Ground Misc\M1B:freetext
+Free Text:OMDB Ground Misc\M1C:freetext
+Free Text:OMDB Ground Misc\M2:freetext
+Free Text:OMDB Ground Misc\M20:freetext
+Free Text:OMDB Ground Misc\M21:freetext
+Free Text:OMDB Ground Misc\M3:freetext
+Free Text:OMDB Ground Misc\M3A:freetext
+Free Text:OMDB Ground Misc\M4:freetext
+Free Text:OMDB Ground Misc\M5:freetext
+Free Text:OMDB Ground Misc\M5A:freetext
+Free Text:OMDB Ground Misc\M5B:freetext
+Free Text:OMDB Ground Misc\M6:freetext
+Free Text:OMDB Ground Misc\M7:freetext
+Free Text:OMDB Ground Misc\M7A:freetext
+Free Text:OMDB Ground Misc\M8:freetext
+Free Text:OMDB Ground Misc\M9:freetext
+Free Text:OMDB Ground Misc\N:freetext
+Free Text:OMDB Ground Misc\N:freetext
+Free Text:OMDB Ground Misc\N:freetext
+Free Text:OMDB Ground Misc\N:freetext
+Free Text:OMDB Ground Misc\N1:freetext
+Free Text:OMDB Ground Misc\N10:freetext
+Free Text:OMDB Ground Misc\N11:freetext
+Free Text:OMDB Ground Misc\N12:freetext
+Free Text:OMDB Ground Misc\N1A:freetext
+Free Text:OMDB Ground Misc\N1B:freetext
+Free Text:OMDB Ground Misc\N1C:freetext
+Free Text:OMDB Ground Misc\N2:freetext
+Free Text:OMDB Ground Misc\N3:freetext
+Free Text:OMDB Ground Misc\N3A:freetext
+Free Text:OMDB Ground Misc\N4:freetext
+Free Text:OMDB Ground Misc\N5:freetext
+Free Text:OMDB Ground Misc\N5A:freetext
+Free Text:OMDB Ground Misc\N6:freetext
+Free Text:OMDB Ground Misc\N7:freetext
+Free Text:OMDB Ground Misc\N8:freetext
+Free Text:OMDB Ground Misc\N8A:freetext
+Free Text:OMDB Ground Misc\N9:freetext
+Free Text:OMDB Ground Misc\P:freetext
+Free Text:OMDB Ground Misc\P:freetext
+Free Text:OMDB Ground Misc\P:freetext
+Free Text:OMDB Ground Misc\P1:freetext
+Free Text:OMDB Ground Misc\P2:freetext
+Free Text:OMDB Ground Misc\P3:freetext
+Free Text:OMDB Ground Misc\P4:freetext
+Free Text:OMDB Ground Misc\P5:freetext
+Free Text:OMDB Ground Misc\P6:freetext
+Free Text:OMDB Ground Misc\P7:freetext
+Free Text:OMDB Ground Misc\P8:freetext
+Free Text:OMDB Ground Misc\P9:freetext
+Free Text:OMDB Ground Misc\Q:freetext
+Free Text:OMDB Ground Misc\Q1:freetext
+Free Text:OMDB Ground Misc\Q10:freetext
+Free Text:OMDB Ground Misc\Q11:freetext
+Free Text:OMDB Ground Misc\Q2:freetext
+Free Text:OMDB Ground Misc\Q3:freetext
+Free Text:OMDB Ground Misc\Q4:freetext
+Free Text:OMDB Ground Misc\Q5:freetext
+Free Text:OMDB Ground Misc\Q6:freetext
+Free Text:OMDB Ground Misc\Q7:freetext
+Free Text:OMDB Ground Misc\Q8:freetext
+Free Text:OMDB Ground Misc\Q9:freetext
+Free Text:OMDB Ground Misc\R:freetext
+Free Text:OMDB Ground Misc\R1:freetext
+Free Text:OMDB Ground Misc\RWY EXT:freetext
+Free Text:OMDB Ground Misc\S:freetext
+Free Text:OMDB Ground Misc\S1:freetext
+Free Text:OMDB Ground Misc\S10:freetext
+Free Text:OMDB Ground Misc\S11:freetext
+Free Text:OMDB Ground Misc\S12:freetext
+Free Text:OMDB Ground Misc\S13:freetext
+Free Text:OMDB Ground Misc\S14:freetext
+Free Text:OMDB Ground Misc\S2:freetext
+Free Text:OMDB Ground Misc\S3:freetext
+Free Text:OMDB Ground Misc\S4:freetext
+Free Text:OMDB Ground Misc\S5:freetext
+Free Text:OMDB Ground Misc\S6:freetext
+Free Text:OMDB Ground Misc\S7:freetext
+Free Text:OMDB Ground Misc\S8:freetext
+Free Text:OMDB Ground Misc\S9:freetext
+Free Text:OMDB Ground Misc\T:freetext
+Free Text:OMDB Ground Misc\U:freetext
+Free Text:OMDB Ground Misc\U:freetext
+Free Text:OMDB Ground Misc\U1:freetext
+Free Text:OMDB Ground Misc\U2:freetext
+Free Text:OMDB Ground Misc\U3:freetext
+Free Text:OMDB Ground Misc\U4:freetext
+Free Text:OMDB Ground Misc\U5:freetext
+Free Text:OMDB Ground Misc\W:freetext
+Free Text:OMDB Ground Misc\Y:freetext
+Free Text:OMDB Ground Misc\Y1:freetext
+Free Text:OMDB Ground Misc\Z:freetext
+Free Text:OMDB Ground Misc\Z:freetext
+Free Text:OMDB Ground Misc\Z:freetext
+Free Text:OMDB Ground Misc\Z1:freetext
+Free Text:OMDB Ground Misc\Z2:freetext
+Free Text:OMDB Ground Misc\Z3:freetext
+Free Text:OMDB Ground Misc\Z4:freetext
+Free Text:OMDB Ground Misc\Z5:freetext
+Free Text:OMDB Ground Misc\Z6:freetext
+Geo:OMDB Taxiways:
+Regions:OMDB_SMR:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:800
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:329.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:25.233111:55.330403:25.270641:55.408233
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OMDB
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

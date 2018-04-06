@@ -1,0 +1,323 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
+SECTORTITLE:UAE.sct
+Free Text:OMAA Ground Misc\1:freetext
+Free Text:OMAA Ground Misc\1:freetext
+Free Text:OMAA Ground Misc\10:freetext
+Free Text:OMAA Ground Misc\101:freetext
+Free Text:OMAA Ground Misc\102:freetext
+Free Text:OMAA Ground Misc\103:freetext
+Free Text:OMAA Ground Misc\11:freetext
+Free Text:OMAA Ground Misc\11:freetext
+Free Text:OMAA Ground Misc\111:freetext
+Free Text:OMAA Ground Misc\112:freetext
+Free Text:OMAA Ground Misc\113:freetext
+Free Text:OMAA Ground Misc\12:freetext
+Free Text:OMAA Ground Misc\12:freetext
+Free Text:OMAA Ground Misc\12:freetext
+Free Text:OMAA Ground Misc\121:freetext
+Free Text:OMAA Ground Misc\122:freetext
+Free Text:OMAA Ground Misc\123:freetext
+Free Text:OMAA Ground Misc\13:freetext
+Free Text:OMAA Ground Misc\13:freetext
+Free Text:OMAA Ground Misc\13:freetext
+Free Text:OMAA Ground Misc\131:freetext
+Free Text:OMAA Ground Misc\132:freetext
+Free Text:OMAA Ground Misc\133:freetext
+Free Text:OMAA Ground Misc\134:freetext
+Free Text:OMAA Ground Misc\136:freetext
+Free Text:OMAA Ground Misc\14:freetext
+Free Text:OMAA Ground Misc\14:freetext
+Free Text:OMAA Ground Misc\15:freetext
+Free Text:OMAA Ground Misc\16:freetext
+Free Text:OMAA Ground Misc\17:freetext
+Free Text:OMAA Ground Misc\18:freetext
+Free Text:OMAA Ground Misc\19:freetext
+Free Text:OMAA Ground Misc\2:freetext
+Free Text:OMAA Ground Misc\2:freetext
+Free Text:OMAA Ground Misc\20:freetext
+Free Text:OMAA Ground Misc\201:freetext
+Free Text:OMAA Ground Misc\202:freetext
+Free Text:OMAA Ground Misc\203:freetext
+Free Text:OMAA Ground Misc\204:freetext
+Free Text:OMAA Ground Misc\205:freetext
+Free Text:OMAA Ground Misc\206:freetext
+Free Text:OMAA Ground Misc\207:freetext
+Free Text:OMAA Ground Misc\208:freetext
+Free Text:OMAA Ground Misc\209:freetext
+Free Text:OMAA Ground Misc\21:freetext
+Free Text:OMAA Ground Misc\221:freetext
+Free Text:OMAA Ground Misc\222:freetext
+Free Text:OMAA Ground Misc\25:freetext
+Free Text:OMAA Ground Misc\26:freetext
+Free Text:OMAA Ground Misc\27:freetext
+Free Text:OMAA Ground Misc\3:freetext
+Free Text:OMAA Ground Misc\3:freetext
+Free Text:OMAA Ground Misc\301:freetext
+Free Text:OMAA Ground Misc\302:freetext
+Free Text:OMAA Ground Misc\303:freetext
+Free Text:OMAA Ground Misc\304:freetext
+Free Text:OMAA Ground Misc\305:freetext
+Free Text:OMAA Ground Misc\306:freetext
+Free Text:OMAA Ground Misc\307:freetext
+Free Text:OMAA Ground Misc\308:freetext
+Free Text:OMAA Ground Misc\309:freetext
+Free Text:OMAA Ground Misc\4:freetext
+Free Text:OMAA Ground Misc\4:freetext
+Free Text:OMAA Ground Misc\401:freetext
+Free Text:OMAA Ground Misc\402:freetext
+Free Text:OMAA Ground Misc\403:freetext
+Free Text:OMAA Ground Misc\404:freetext
+Free Text:OMAA Ground Misc\405:freetext
+Free Text:OMAA Ground Misc\406:freetext
+Free Text:OMAA Ground Misc\407:freetext
+Free Text:OMAA Ground Misc\408:freetext
+Free Text:OMAA Ground Misc\409:freetext
+Free Text:OMAA Ground Misc\410:freetext
+Free Text:OMAA Ground Misc\411:freetext
+Free Text:OMAA Ground Misc\412:freetext
+Free Text:OMAA Ground Misc\413:freetext
+Free Text:OMAA Ground Misc\414:freetext
+Free Text:OMAA Ground Misc\415:freetext
+Free Text:OMAA Ground Misc\416:freetext
+Free Text:OMAA Ground Misc\417:freetext
+Free Text:OMAA Ground Misc\418:freetext
+Free Text:OMAA Ground Misc\419:freetext
+Free Text:OMAA Ground Misc\449:freetext
+Free Text:OMAA Ground Misc\450:freetext
+Free Text:OMAA Ground Misc\451:freetext
+Free Text:OMAA Ground Misc\452:freetext
+Free Text:OMAA Ground Misc\453:freetext
+Free Text:OMAA Ground Misc\5:freetext
+Free Text:OMAA Ground Misc\5:freetext
+Free Text:OMAA Ground Misc\508:freetext
+Free Text:OMAA Ground Misc\509:freetext
+Free Text:OMAA Ground Misc\510:freetext
+Free Text:OMAA Ground Misc\511:freetext
+Free Text:OMAA Ground Misc\512:freetext
+Free Text:OMAA Ground Misc\513:freetext
+Free Text:OMAA Ground Misc\514:freetext
+Free Text:OMAA Ground Misc\515:freetext
+Free Text:OMAA Ground Misc\516:freetext
+Free Text:OMAA Ground Misc\6:freetext
+Free Text:OMAA Ground Misc\6:freetext
+Free Text:OMAA Ground Misc\7:freetext
+Free Text:OMAA Ground Misc\704:freetext
+Free Text:OMAA Ground Misc\705:freetext
+Free Text:OMAA Ground Misc\706:freetext
+Free Text:OMAA Ground Misc\707:freetext
+Free Text:OMAA Ground Misc\708:freetext
+Free Text:OMAA Ground Misc\709:freetext
+Free Text:OMAA Ground Misc\710:freetext
+Free Text:OMAA Ground Misc\711:freetext
+Free Text:OMAA Ground Misc\712:freetext
+Free Text:OMAA Ground Misc\713:freetext
+Free Text:OMAA Ground Misc\714:freetext
+Free Text:OMAA Ground Misc\715:freetext
+Free Text:OMAA Ground Misc\8:freetext
+Free Text:OMAA Ground Misc\801:freetext
+Free Text:OMAA Ground Misc\802:freetext
+Free Text:OMAA Ground Misc\803:freetext
+Free Text:OMAA Ground Misc\804:freetext
+Free Text:OMAA Ground Misc\805:freetext
+Free Text:OMAA Ground Misc\9:freetext
+Free Text:OMAA Ground Misc\901:freetext
+Free Text:OMAA Ground Misc\902:freetext
+Free Text:OMAA Ground Misc\903:freetext
+Free Text:OMAA Ground Misc\904:freetext
+Free Text:OMAA Ground Misc\905:freetext
+Free Text:OMAA Ground Misc\906:freetext
+Free Text:OMAA Ground Misc\907:freetext
+Free Text:OMAA Ground Misc\908:freetext
+Free Text:OMAA Ground Misc\909:freetext
+Free Text:OMAA Ground Misc\910:freetext
+Free Text:OMAA Ground Misc\911:freetext
+Free Text:OMAA Ground Misc\912:freetext
+Free Text:OMAA Ground Misc\913:freetext
+Free Text:OMAA Ground Misc\914:freetext
+Free Text:OMAA Ground Misc\915:freetext
+Free Text:OMAA Ground Misc\916:freetext
+Free Text:OMAA Ground Misc\917:freetext
+Free Text:OMAA Ground Misc\918:freetext
+Free Text:OMAA Ground Misc\919:freetext
+Free Text:OMAA Ground Misc\920:freetext
+Free Text:OMAA Ground Misc\921:freetext
+Free Text:OMAA Ground Misc\922:freetext
+Free Text:OMAA Ground Misc\923:freetext
+Free Text:OMAA Ground Misc\924:freetext
+Free Text:OMAA Ground Misc\925:freetext
+Free Text:OMAA Ground Misc\926:freetext
+Free Text:OMAA Ground Misc\927:freetext
+Free Text:OMAA Ground Misc\928:freetext
+Free Text:OMAA Ground Misc\929:freetext
+Free Text:OMAA Ground Misc\930:freetext
+Free Text:OMAA Ground Misc\931:freetext
+Free Text:OMAA Ground Misc\932:freetext
+Free Text:OMAA Ground Misc\933:freetext
+Free Text:OMAA Ground Misc\934:freetext
+Free Text:OMAA Ground Misc\935:freetext
+Free Text:OMAA Ground Misc\936:freetext
+Free Text:OMAA Ground Misc\937:freetext
+Free Text:OMAA Ground Misc\938:freetext
+Free Text:OMAA Ground Misc\939:freetext
+Free Text:OMAA Ground Misc\940:freetext
+Free Text:OMAA Ground Misc\941:freetext
+Free Text:OMAA Ground Misc\942:freetext
+Free Text:OMAA Ground Misc\943:freetext
+Free Text:OMAA Ground Misc\944:freetext
+Free Text:OMAA Ground Misc\945:freetext
+Free Text:OMAA Ground Misc\946:freetext
+Free Text:OMAA Ground Misc\947:freetext
+Free Text:OMAA Ground Misc\948:freetext
+Free Text:OMAA Ground Misc\949:freetext
+Free Text:OMAA Ground Misc\A:freetext
+Free Text:OMAA Ground Misc\A:freetext
+Free Text:OMAA Ground Misc\A:freetext
+Free Text:OMAA Ground Misc\A:freetext
+Free Text:OMAA Ground Misc\A:freetext
+Free Text:OMAA Ground Misc\A1:freetext
+Free Text:OMAA Ground Misc\A10:freetext
+Free Text:OMAA Ground Misc\A11:freetext
+Free Text:OMAA Ground Misc\A13:freetext
+Free Text:OMAA Ground Misc\A14:freetext
+Free Text:OMAA Ground Misc\A16:freetext
+Free Text:OMAA Ground Misc\A17:freetext
+Free Text:OMAA Ground Misc\A18:freetext
+Free Text:OMAA Ground Misc\A2:freetext
+Free Text:OMAA Ground Misc\A3:freetext
+Free Text:OMAA Ground Misc\A5:freetext
+Free Text:OMAA Ground Misc\A6:freetext
+Free Text:OMAA Ground Misc\A8:freetext
+Free Text:OMAA Ground Misc\ADAT APRON:freetext
+Free Text:OMAA Ground Misc\AMIRI FLIGHT APRON:freetext
+Free Text:OMAA Ground Misc\Apron 7:freetext
+Free Text:OMAA Ground Misc\B:freetext
+Free Text:OMAA Ground Misc\B:freetext
+Free Text:OMAA Ground Misc\B:freetext
+Free Text:OMAA Ground Misc\B:freetext
+Free Text:OMAA Ground Misc\B:freetext
+Free Text:OMAA Ground Misc\C:freetext
+Free Text:OMAA Ground Misc\C:freetext
+Free Text:OMAA Ground Misc\C:freetext
+Free Text:OMAA Ground Misc\C:freetext
+Free Text:OMAA Ground Misc\C:freetext
+Free Text:OMAA Ground Misc\C:freetext
+Free Text:OMAA Ground Misc\C2:freetext
+Free Text:OMAA Ground Misc\C3:freetext
+Free Text:OMAA Ground Misc\C4:freetext
+Free Text:OMAA Ground Misc\CARGO:freetext
+Free Text:OMAA Ground Misc\D:freetext
+Free Text:OMAA Ground Misc\D:freetext
+Free Text:OMAA Ground Misc\D:freetext
+Free Text:OMAA Ground Misc\D:freetext
+Free Text:OMAA Ground Misc\D:freetext
+Free Text:OMAA Ground Misc\D:freetext
+Free Text:OMAA Ground Misc\D:freetext
+Free Text:OMAA Ground Misc\D10:freetext
+Free Text:OMAA Ground Misc\D2:freetext
+Free Text:OMAA Ground Misc\D3:freetext
+Free Text:OMAA Ground Misc\D4:freetext
+Free Text:OMAA Ground Misc\D6:freetext
+Free Text:OMAA Ground Misc\D7:freetext
+Free Text:OMAA Ground Misc\D8:freetext
+Free Text:OMAA Ground Misc\D9:freetext
+Free Text:OMAA Ground Misc\E:freetext
+Free Text:OMAA Ground Misc\E:freetext
+Free Text:OMAA Ground Misc\E1:freetext
+Free Text:OMAA Ground Misc\E10:freetext
+Free Text:OMAA Ground Misc\E10:freetext
+Free Text:OMAA Ground Misc\E11:freetext
+Free Text:OMAA Ground Misc\E12:freetext
+Free Text:OMAA Ground Misc\E12:freetext
+Free Text:OMAA Ground Misc\E13:freetext
+Free Text:OMAA Ground Misc\E13:freetext
+Free Text:OMAA Ground Misc\E14:freetext
+Free Text:OMAA Ground Misc\E14:freetext
+Free Text:OMAA Ground Misc\E15:freetext
+Free Text:OMAA Ground Misc\E15:freetext
+Free Text:OMAA Ground Misc\E2:freetext
+Free Text:OMAA Ground Misc\E3:freetext
+Free Text:OMAA Ground Misc\E3:freetext
+Free Text:OMAA Ground Misc\E4:freetext
+Free Text:OMAA Ground Misc\E5:freetext
+Free Text:OMAA Ground Misc\E6:freetext
+Free Text:OMAA Ground Misc\E6:freetext
+Free Text:OMAA Ground Misc\E7:freetext
+Free Text:OMAA Ground Misc\E7:freetext
+Free Text:OMAA Ground Misc\E8:freetext
+Free Text:OMAA Ground Misc\E8:freetext
+Free Text:OMAA Ground Misc\E9:freetext
+Free Text:OMAA Ground Misc\F:freetext
+Free Text:OMAA Ground Misc\F:freetext
+Free Text:OMAA Ground Misc\F:freetext
+Free Text:OMAA Ground Misc\F:freetext
+Free Text:OMAA Ground Misc\F1:freetext
+Free Text:OMAA Ground Misc\F2:freetext
+Free Text:OMAA Ground Misc\F3:freetext
+Free Text:OMAA Ground Misc\F4:freetext
+Free Text:OMAA Ground Misc\F5:freetext
+Free Text:OMAA Ground Misc\F6:freetext
+Free Text:OMAA Ground Misc\G:freetext
+Free Text:OMAA Ground Misc\G:freetext
+Free Text:OMAA Ground Misc\G28:freetext
+Free Text:OMAA Ground Misc\G29:freetext
+Free Text:OMAA Ground Misc\GA:freetext
+Free Text:OMAA Ground Misc\H:freetext
+Free Text:OMAA Ground Misc\H:freetext
+Free Text:OMAA Ground Misc\H:freetext
+Free Text:OMAA Ground Misc\K:freetext
+Free Text:OMAA Ground Misc\L3:freetext
+Free Text:OMAA Ground Misc\L4:freetext
+Free Text:OMAA Ground Misc\M:freetext
+Free Text:OMAA Ground Misc\N:freetext
+Free Text:OMAA Ground Misc\Terminal 1:freetext
+Free Text:OMAA Ground Misc\Terminal 2:freetext
+Free Text:OMAA Ground Misc\Terminal 3:freetext
+Free Text:OMAA Ground Misc\Z:freetext
+Free Text:OMAA Ground Misc\Z1:freetext
+Free Text:OMAA Ground Misc\Z2:freetext
+Free Text:OMAA Ground Misc\Z3:freetext
+Geo:OMAA 0:
+Regions:OMAA_SMR:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:800
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:321.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:24.420091:54.601358:24.466746:54.698111
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OMAA
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

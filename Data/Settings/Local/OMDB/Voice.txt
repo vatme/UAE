@@ -1,0 +1,15 @@
+VOICE
+AG:Dubai Intl. Information:131.700:voice1.vatsim-germany.org:omdb_atis
+AG:Dubai Delivery:120.350:voice1.vatsim-germany.org:OMDB_DEL
+AG:Dubai Ground:118.350:voice1.vatsim-germany.org:OMDB_GND
+AG:Dubai Ground (South):118.350:voice1.vatsim-germany.org:OMDB_S_GND
+AG:Dubai Ground (North):121.650:voice1.vatsim-germany.org:OMDB_N_GND
+AG:Dubai Tower:118.750:voice1.vatsim-germany.org:OMDB_TWR
+AG:Dubai Departures:126.200:voice1.vatsim-germany.org:omdb_dep
+AG:Dubai Departures (South Sector):121.025:voice1.vatsim-germany.org:OMDB_S_DEP
+AG:Dubai Departures (North Sector):126.200:voice1.vatsim-germany.org:OMDB_N_DEP
+AG:Dubai Arrivals:124.450:voice1.vatsim-germany.org:omdb_app
+AG:Dubai Arrivals (North Sector):124.450:voice1.vatsim-germany.org:OMDB_N_APP
+AG:Dubai Arrivals (South Sector):124.900:voice1.vatsim-germany.org:OMDB_S_APP
+AG:Dubai Director:127.900:voice1.vatsim-germany.org:OMDB_F_APP
+END

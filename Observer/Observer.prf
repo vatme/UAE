@@ -1,0 +1,26 @@
+Settings	sector	UAE-Master\Data\Sector\UAE.sct
+Settings	Settingsfile	UAE-Master\Data\Settings\Observer\General.txt
+Settings	SettingsfileSYMBOLOGY	UAE-Master\Data\Settings\Symbology.txt
+Settings	SettingsfileVOICE	UAE-Master\Data\Settings\Local\Observer\Voice.txt
+Settings	SettingsfilePROFILE	UAE-Master\Data\Settings\Local\Observer\Profiles.txt
+Settings	SettingsfileTAGS	UAE-Master\Data\Settings\Tags.txt
+Settings	SettingsfileSIL	UAE-Master\Data\Settings\Observer\SectorInboundList.txt
+Settings	SettingsfileSEL	UAE-Master\Data\Settings\Observer\SectorExitList.txt
+Settings	SettingsfileDEP	UAE-Master\Data\Settings\Observer\DepartureList.txt
+Settings	SettingsfileARR	UAE-Master\Data\Settings\Observer\ArrivalList.txt
+Settings	SettingsfileFP	UAE-Master\Data\Settings\Observer\FlightPlanList.txt
+Settings	SettingsfileCONFLICT	UAE-Master\Data\Settings\Observer\ConflictList.txt
+Settings	SettingsfilePLUGINS	UAE-Master\Data\Settings\Observer\Plugins.txt
+Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Observer\ScreenLayout.txt
+Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
+Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
+RecentFiles	Recent1	UAE-Master\Data\ASR\Observer\Observer.asr
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	alias	UAE-Master\Data\Alias\alias.txt
+Plugins	Plugin0Display0	Standard ES radar screen

@@ -1,0 +1,38 @@
+PROFILE
+PROFILE:OMAA_APP:80:5
+ATIS2:Abu Dhabi Arrivals
+ATIS3:Report callsign, passing level, aircraft type, and STAR designation. Monitor ATIS 119.675.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAA_E_APP:50:5
+ATIS2:Abu Dhabi Arrivals
+ATIS3:Report callsign, passing level, aircraft type, and STAR designation. Monitor ATIS 119.675.
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAA_W_APP:80:5
+ATIS2:Abu Dhabi Arrivals
+ATIS3:Departures report callsign, passing level, and SID designation. Monitor ATIS 119.675.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAA_C_APP:80:5
+ATIS2:Abu Dhabi Radar
+ATIS3:Departures report callsign, passing level, and SID designation. Monitor ATIS 119.675.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAA_N_TWR:40:4
+ATIS2:Abu Dhabi Tower 
+ATIS3:Report callsign with position first contact. Monitor ATIS 119.675.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAA_TWR:40:4
+ATIS2:Abu Dhabi Tower
+ATIS3:Report callsign with position first contact. Monitor ATIS 119.675.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAA_N_GND:20:3
+ATIS2:Abu Dhabi Ground
+ATIS3:Report callsign with position first contact. Monitor ATIS 119.675.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAA_GND:20:3
+ATIS2:Abu Dhabi Ground
+ATIS3:Report callsign with position first contact. Monitor ATIS 119.675.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAA_DEL:20:2
+ATIS2:Abu Dhabi Delivery
+ATIS3:Report callsign with position first contact. Monitor ATIS 119.675.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+END

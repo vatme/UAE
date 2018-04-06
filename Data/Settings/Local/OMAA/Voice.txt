@@ -1,0 +1,12 @@
+VOICE
+AG:Abu Dhabi Intl. Information:119.675:voice1.vatsim-germany.org:omaa_atis
+AG:Abu Dhabi Delivery:125.100:voice1.vatsim-germany.org:OMAA_DEL
+AG:Abu Dhabi Ground:123.970:voice1.vatsim-germany.org:OMAA_GND
+AG:Abu Dhabi Ground (North Sector):121.950:voice1.vatsim-germany.org:OMAA_N_GND
+AG:Abu Dhabi Tower:119.200:voice1.vatsim-germany.org:OMAA_TWR
+AG:Abu Dhabi Tower (North Sector):118.675:voice1.vatsim-germany.org:OMAA_N_TWR
+AG:Abu Dhabi Arrivals:135.350:voice1.vatsim-germany.org:omaa_app
+AG:Abu Dhabi Arrivals (East Sector):132.675:voice1.vatsim-germany.org:omaa_e_app
+AG:Abu Dhabi Arrivals (West Sector):128.100:voice1.vatsim-germany.org:omaa_w_app
+AG:Abu Dhabi Radar:124.400:voice1.vatsim-germany.org:omaa_c_app
+END

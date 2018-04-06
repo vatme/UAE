@@ -1,0 +1,161 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
+SECTORTITLE:UAE.sct
+Free Text:OMDW Ground Misc\S289:freetext
+Free Text:OMDW Ground Misc\S290:freetext
+Free Text:OMDW Ground Misc\S291:freetext
+Free Text:OMDW Ground Misc\S292:freetext
+Free Text:OMDW Ground Misc\S293:freetext
+Free Text:OMDW Ground Misc\S294:freetext
+Free Text:OMDW Ground Misc\S295:freetext
+Free Text:OMDW Ground Misc\S296:freetext
+Free Text:OMDW Ground Misc\S297:freetext
+Free Text:OMDW Ground Misc\S298:freetext
+Free Text:OMDW Ground Misc\S299:freetext
+Free Text:OMDW Ground Misc\S300:freetext
+Free Text:OMDW Ground Misc\S301:freetext
+Free Text:OMDW Ground Misc\S302:freetext
+Free Text:OMDW Ground Misc\S303:freetext
+Free Text:OMDW Ground Misc\S304:freetext
+Free Text:OMDW Ground Misc\S305:freetext
+Free Text:OMDW Ground Misc\S306:freetext
+Free Text:OMDW Ground Misc\S307:freetext
+Free Text:OMDW Ground Misc\S308:freetext
+Free Text:OMDW Ground Misc\S309:freetext
+Free Text:OMDW Ground Misc\S310:freetext
+Free Text:OMDW Ground Misc\S311:freetext
+Free Text:OMDW Ground Misc\S312:freetext
+Free Text:OMDW Ground Misc\S313:freetext
+Free Text:OMDW Ground Misc\S324:freetext
+Free Text:OMDW Ground Misc\S325:freetext
+Free Text:OMDW Ground Misc\S326:freetext
+Free Text:OMDW Ground Misc\S327:freetext
+Free Text:OMDW Ground Misc\S328:freetext
+Free Text:OMDW Ground Misc\S329:freetext
+Free Text:OMDW Ground Misc\S330:freetext
+Free Text:OMDW Ground Misc\S331:freetext
+Free Text:OMDW Ground Misc\S332:freetext
+Free Text:OMDW Ground Misc\S340:freetext
+Free Text:OMDW Ground Misc\S341:freetext
+Free Text:OMDW Ground Misc\S342:freetext
+Free Text:OMDW Ground Misc\S343:freetext
+Free Text:OMDW Ground Misc\S344:freetext
+Free Text:OMDW Ground Misc\S345:freetext
+Free Text:OMDW Ground Misc\S346:freetext
+Free Text:OMDW Ground Misc\S347:freetext
+Free Text:OMDW Ground Misc\S348:freetext
+Free Text:OMDW Ground Misc\S349:freetext
+Free Text:OMDW Ground Misc\S401:freetext
+Free Text:OMDW Ground Misc\S402:freetext
+Free Text:OMDW Ground Misc\S403:freetext
+Free Text:OMDW Ground Misc\S404:freetext
+Free Text:OMDW Ground Misc\S440:freetext
+Free Text:OMDW Ground Misc\S441:freetext
+Free Text:OMDW Ground Misc\S442:freetext
+Free Text:OMDW Ground Misc\S443:freetext
+Free Text:OMDW Ground Misc\S444:freetext
+Free Text:OMDW Ground Misc\S445:freetext
+Free Text:OMDW Ground Misc\S446:freetext
+Free Text:OMDW Ground Misc\S447:freetext
+Free Text:OMDW Ground Misc\S448:freetext
+Free Text:OMDW Ground Misc\S801:freetext
+Free Text:OMDW Ground Misc\S802:freetext
+Free Text:OMDW Ground Misc\S803:freetext
+Free Text:OMDW Ground Misc\S804:freetext
+Free Text:OMDW Ground Misc\S805:freetext
+Free Text:OMDW Ground Misc\S806:freetext
+Free Text:OMDW Ground Misc\S807:freetext
+Free Text:OMDW Ground Misc\S808:freetext
+Free Text:OMDW Ground Misc\S809:freetext
+Free Text:OMDW Ground Misc\S810:freetext
+Free Text:OMDW Ground Misc\S811:freetext
+Free Text:OMDW Ground Misc\S812:freetext
+Free Text:OMDW Ground Misc\U:freetext
+Free Text:OMDW Ground Misc\U4:freetext
+Free Text:OMDW Ground Misc\V:freetext
+Free Text:OMDW Ground Misc\V1:freetext
+Free Text:OMDW Ground Misc\V10:freetext
+Free Text:OMDW Ground Misc\V11:freetext
+Free Text:OMDW Ground Misc\V12:freetext
+Free Text:OMDW Ground Misc\V13:freetext
+Free Text:OMDW Ground Misc\V16:freetext
+Free Text:OMDW Ground Misc\V17:freetext
+Free Text:OMDW Ground Misc\V18:freetext
+Free Text:OMDW Ground Misc\V19:freetext
+Free Text:OMDW Ground Misc\V2:freetext
+Free Text:OMDW Ground Misc\V20:freetext
+Free Text:OMDW Ground Misc\V21:freetext
+Free Text:OMDW Ground Misc\V3:freetext
+Free Text:OMDW Ground Misc\V4:freetext
+Free Text:OMDW Ground Misc\V6:freetext
+Free Text:OMDW Ground Misc\V7:freetext
+Free Text:OMDW Ground Misc\V8:freetext
+Free Text:OMDW Ground Misc\V9:freetext
+Free Text:OMDW Ground Misc\W:freetext
+Free Text:OMDW Ground Misc\W1:freetext
+Free Text:OMDW Ground Misc\W10:freetext
+Free Text:OMDW Ground Misc\W11:freetext
+Free Text:OMDW Ground Misc\W12:freetext
+Free Text:OMDW Ground Misc\W13:freetext
+Free Text:OMDW Ground Misc\W14:freetext
+Free Text:OMDW Ground Misc\W15:freetext
+Free Text:OMDW Ground Misc\W16:freetext
+Free Text:OMDW Ground Misc\W17:freetext
+Free Text:OMDW Ground Misc\W18:freetext
+Free Text:OMDW Ground Misc\W19:freetext
+Free Text:OMDW Ground Misc\W2:freetext
+Free Text:OMDW Ground Misc\W20:freetext
+Free Text:OMDW Ground Misc\W21:freetext
+Free Text:OMDW Ground Misc\W3:freetext
+Free Text:OMDW Ground Misc\W4:freetext
+Free Text:OMDW Ground Misc\W7:freetext
+Free Text:OMDW Ground Misc\W8:freetext
+Free Text:OMDW Ground Misc\W9:freetext
+Free Text:OMDW Ground Misc\Z:freetext
+Free Text:OMDW Ground Misc\Z6:freetext
+Free Text:OMDW Ground Misc\Z7:freetext
+Free Text:OMDW Ground Misc\Z8:freetext
+Geo:OMDW Taxiways:
+Regions:OMDW_SMR:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:800
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:329.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:24.870950:55.118951:24.908480:55.196781
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OMDW
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,0 +1,121 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
+SECTORTITLE:UAE.sct
+Free Text:OMSJ Ground Misc\10:freetext
+Free Text:OMSJ Ground Misc\11:freetext
+Free Text:OMSJ Ground Misc\13:freetext
+Free Text:OMSJ Ground Misc\14:freetext
+Free Text:OMSJ Ground Misc\15:freetext
+Free Text:OMSJ Ground Misc\16:freetext
+Free Text:OMSJ Ground Misc\17:freetext
+Free Text:OMSJ Ground Misc\18:freetext
+Free Text:OMSJ Ground Misc\2:freetext
+Free Text:OMSJ Ground Misc\21:freetext
+Free Text:OMSJ Ground Misc\22:freetext
+Free Text:OMSJ Ground Misc\23:freetext
+Free Text:OMSJ Ground Misc\24:freetext
+Free Text:OMSJ Ground Misc\25:freetext
+Free Text:OMSJ Ground Misc\26:freetext
+Free Text:OMSJ Ground Misc\3:freetext
+Free Text:OMSJ Ground Misc\4:freetext
+Free Text:OMSJ Ground Misc\5:freetext
+Free Text:OMSJ Ground Misc\50:freetext
+Free Text:OMSJ Ground Misc\51:freetext
+Free Text:OMSJ Ground Misc\52:freetext
+Free Text:OMSJ Ground Misc\53:freetext
+Free Text:OMSJ Ground Misc\54:freetext
+Free Text:OMSJ Ground Misc\55:freetext
+Free Text:OMSJ Ground Misc\56:freetext
+Free Text:OMSJ Ground Misc\57:freetext
+Free Text:OMSJ Ground Misc\58:freetext
+Free Text:OMSJ Ground Misc\59:freetext
+Free Text:OMSJ Ground Misc\6:freetext
+Free Text:OMSJ Ground Misc\60:freetext
+Free Text:OMSJ Ground Misc\61:freetext
+Free Text:OMSJ Ground Misc\62:freetext
+Free Text:OMSJ Ground Misc\63:freetext
+Free Text:OMSJ Ground Misc\7:freetext
+Free Text:OMSJ Ground Misc\8:freetext
+Free Text:OMSJ Ground Misc\80:freetext
+Free Text:OMSJ Ground Misc\81:freetext
+Free Text:OMSJ Ground Misc\82:freetext
+Free Text:OMSJ Ground Misc\83:freetext
+Free Text:OMSJ Ground Misc\84:freetext
+Free Text:OMSJ Ground Misc\9:freetext
+Free Text:OMSJ Ground Misc\A:freetext
+Free Text:OMSJ Ground Misc\A:freetext
+Free Text:OMSJ Ground Misc\A:freetext
+Free Text:OMSJ Ground Misc\A1:freetext
+Free Text:OMSJ Ground Misc\A12:freetext
+Free Text:OMSJ Ground Misc\A14:freetext
+Free Text:OMSJ Ground Misc\A18:freetext
+Free Text:OMSJ Ground Misc\A2:freetext
+Free Text:OMSJ Ground Misc\A20:freetext
+Free Text:OMSJ Ground Misc\A6:freetext
+Free Text:OMSJ Ground Misc\A8:freetext
+Free Text:OMSJ Ground Misc\B:freetext
+Free Text:OMSJ Ground Misc\B1:freetext
+Free Text:OMSJ Ground Misc\B11:freetext
+Free Text:OMSJ Ground Misc\B14:freetext
+Free Text:OMSJ Ground Misc\B19:freetext
+Free Text:OMSJ Ground Misc\B2:freetext
+Free Text:OMSJ Ground Misc\B20:freetext
+Free Text:OMSJ Ground Misc\B3:freetext
+Free Text:OMSJ Ground Misc\B6:freetext
+Free Text:OMSJ Ground Misc\B7:freetext
+Free Text:OMSJ Ground Misc\C1:freetext
+Free Text:OMSJ Ground Misc\F1:freetext
+Free Text:OMSJ Ground Misc\F2:freetext
+Free Text:OMSJ Ground Misc\Z:freetext
+Free Text:OMSJ Ground Misc\Z10:freetext
+Free Text:OMSJ Ground Misc\Z11:freetext
+Free Text:OMSJ Ground Misc\Z14:freetext
+Free Text:OMSJ Ground Misc\Z15:freetext
+Free Text:OMSJ Ground Misc\Z2:freetext
+Free Text:OMSJ Ground Misc\Z3:freetext
+Free Text:OMSJ Ground Misc\Z4:freetext
+Free Text:OMSJ Ground Misc\Z8:freetext
+Free Text:OMSJ Ground Misc\Z9:freetext
+Regions:OMSJ_SMR:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:800
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:328.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:25.314611:55.481574:25.344635:55.543838
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OMSJ
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

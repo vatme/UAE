@@ -1,0 +1,3 @@
+VCCS
+Ts3Server:localhost
+Ts3Port:9988

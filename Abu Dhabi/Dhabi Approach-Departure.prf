@@ -1,0 +1,47 @@
+Settings	sector	UAE-Master\Data\Sector\UAE.sct
+Settings	Settingsfile	UAE-Master\Data\Settings\Tower_Approach\General.txt
+Settings	SettingsfileSYMBOLOGY	UAE-Master\Data\Settings\Symbology.txt
+Settings	SettingsfileVOICE	UAE-Master\Data\Settings\Local\OMAA\Voice.txt
+Settings	SettingsfilePROFILE	UAE-Master\Data\Settings\Local\OMAA\Profiles.txt
+Settings	SettingsfileTAGS	UAE-Master\Data\Settings\Tags.txt
+Settings	SettingsfileSIL	UAE-Master\Data\Settings\Tower_Approach\SectorInboundList.txt
+Settings	SettingsfileSEL	UAE-Master\Data\Settings\Tower_Approach\SectorExitList.txt
+Settings	SettingsfileDEP	UAE-Master\Data\Settings\Tower_Approach\DepartureList.txt
+Settings	SettingsfileARR	UAE-Master\Data\Settings\Tower_Approach\Arrival List.txt
+Settings	SettingsfileFP	UAE-Master\Data\Settings\Tower_Approach\FlightPlanList.txt
+Settings	SettingsfileCONFLICT	UAE-Master\Data\Settings\Tower_Approach\ConflictList.txt
+Settings	SettingsfilePLUGINS	UAE-Master\Data\Settings\PlugIns.txt
+Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Tower_Approach\ScreenLayout.txt
+Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
+Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
+RecentFiles	Recent1	UAE-Master\Data\ASR\OMAA\Dhabi_Radar1.asr
+Settings	SettingsfileVCCS	UAE-Master\Data\Settings\VCCS.txt
+RecentFiles	Recent2	UAE-Master\Data\ASR\OMAA\Dhabi_SMR.asr
+RecentFiles	Recent3	UAE-Master\Data\ASR\OMAA\Dhabi_Radar5.asr
+RecentFiles	Recent4	UAE-Master\Data\ASR\OMAA\Dhabi_Radar4.asr
+RecentFiles	Recent5	UAE-Master\Data\ASR\OMAA\Dhabi_Radar3.asr
+RecentFiles	Recent6	UAE-Master\Data\ASR\OMAA\Dhabi_Radar2.asr
+RecentFiles	Recent7	UAE-Master\Data\ASR\OMAA\Dhabi_Radar6.asr
+ASRFastKeys	1	UAE-Master\Data\ASR\OMAA\Dhabi_Radar1.asr
+ASRFastKeys	2	UAE-Master\Data\ASR\OMAA\Dhabi_Radar2.asr
+ASRFastKeys	3	UAE-Master\Data\ASR\OMAA\Dhabi_Radar3.asr
+ASRFastKeys	4	UAE-Master\Data\ASR\OMAA\Dhabi_Radar4.asr
+ASRFastKeys	5	UAE-Master\Data\ASR\OMAA\Dhabi_Radar5.asr
+ASRFastKeys	6	UAE-Master\Data\ASR\OMAA\Dhabi_SMR.asr
+RecentFiles	Recent8	UAE-Master\Data\ASR\OMAA\Dhabi_Radar5.asr
+RecentFiles	Recent9	UAE-Master\Data\ASR\OMAA\Dhabi_Radar5.asr
+RecentFiles	Recent10	UAE-Master\Data\ASR\OMAA\Dhabi_Radar5.asr
+RecentFiles	Recent11	UAE-Master\Data\ASR\OMAA\Dhabi_Radar4.asr
+Plugins	Plugin1	UAE-Master\Data\Plugins\HoldingList\HoldingListPlugin.dll
+Plugins	Plugin2	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
+Plugins	Plugin2Display0	SMR radar display
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Settings	alias	UAE-Master\Data\Alias\alias.txt

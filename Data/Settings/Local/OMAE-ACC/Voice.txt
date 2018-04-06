@@ -1,0 +1,21 @@
+VOICE
+AG:UAE Radar (DESDI Holding Stack):120.250:voice1.vatsim-germany.org:ae_des_ctr
+AG:UAE Radar (BUBIN Holding Stack):126.025:voice1.vatsim-germany.org:ae_bub_ctr
+AG:UAE Radar (XAKUM Holding Stack):118.925:voice1.vatsim-germany.org:ae_xak_ctr
+AG:UAE Radar (KIXID Holding Stack):124.625:voice1.vatsim-germany.org:ae_kix_ctr
+AG:UAE Radar (ITLAP Holding Stack):135.350:voice1.vatsim-germany.org:ae_itl_ctr
+AG:UAE Radar (Bandbox):119.300:voice1.vatsim-germany.org:omae_ctr
+AG:UAE Radar (A Sector):128.250:voice1.vatsim-germany.org:omae_a_ctr
+AG:UAE Radar (B Sector):120.900:voice1.vatsim-germany.org:omae_b_ctr
+AG:UAE Radar (D Sector):132.150:voice1.vatsim-germany.org:omae_d_ctr
+AG:UAE Radar (E Sector):125.325:voice1.vatsim-germany.org:omae_e_ctr
+AG:UAE Radar (I Sector):124.850:voice1.vatsim-germany.org:omae_i_ctr
+AG:UAE Radar (S Sector):124.375:voice1.vatsim-germany.org:omae_s_ctr
+AG:UAE Radar (W Sector):125.725:voice1.vatsim-germany.org:omae_w_ctr
+AG:Dubai Intl. Information:131.700:voice1.vatsim-germany.org:omdb_atis
+AG:Abu Dhabi Intl. Information:119.675:voice1.vatsim-germany.org:omaa_atis
+AG:Sharjah Intl. Information:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
+AG:Ras Al Khaimah Information:126.075:voice1.vatsim-germany.org:OMRK_ATIS
+AG:Fujairah Information:118.000:voice1.vatsim-germany.org:OMFJ_ATIS
+AG:UAE Radar (Bandbox):119.300:voice2.vatsim-germany.org:omae_ctr
+END

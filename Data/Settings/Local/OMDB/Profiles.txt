@@ -1,0 +1,42 @@
+PROFILE
+PROFILE:OMDB_APP:80:5
+ATIS2:Dubai Arrivals
+ATIS3:Arrivals report callsign, passing level, and aircraft type. Monitor OMDB ATIS 131.700.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDB_DEP:80:5
+ATIS2:Dubai Departure
+ATIS3:Departures report callsign and passing level. Monitor OMDB ATIS 131.700.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDB_S_DEP:60:5
+ATIS2:Dubai Departure
+ATIS3:Departures report callsign and passing level. Monitor OMDW ATIS 126.475.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDB_N_DEP:60:5
+ATIS2:Dubai Departure
+ATIS3:Departures report callsign and passing level. Monitor OMDB ATIS 131.700.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDB_TWR:40:4
+ATIS2:Dubai Tower
+ATIS3:Report callsign with position first contact. Monitor ATIS 131.700.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDB_GND:20:3
+ATIS2:Dubai Ground
+ATIS3:Report callsign with position first contact. Monitor ATIS 131.700.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDB_S_GND:20:3
+ATIS2:Dubai Ground
+ATIS3:Report callsign with position first contact. Monitor ATIS 131.700.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDB_N_GND:20:3
+ATIS2:Dubai Ground
+ATIS3:Report callsign with position first contact. Monitor ATIS 131.700.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDB_DEL:20:2
+ATIS2:Dubai Delivery
+ATIS3:Report callsign with position first contact. Monitor ATIS 131.700.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDB_F_APP:50:5
+ATIS2:Dubai Director
+ATIS3:Arriving aircraft report callsign, passing level, and aircraft type
+ATIS4:Monitor ATIS 131.700. For charts and procedures visit www.vatame.org/vacc/OMAE
+END

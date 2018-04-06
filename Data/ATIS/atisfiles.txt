@@ -1,0 +1,265 @@
+RECORD:-:minus.wav
+RECORD:0:zero.wav
+RECORD:000:thousand.wav
+RECORD:1:one.wav
+RECORD:10:ten.wav
+RECORD:2:two.wav
+RECORD:3:three.wav
+RECORD:4:four.wav
+RECORD:5:five.wav
+RECORD:6:six.wav
+RECORD:7:seven.wav
+RECORD:8:eight.wav
+RECORD:9:niner.wav
+RECORD:a:a.wav
+RECORD:AbuDhabi international airport:omaa.wav
+RECORD:AC:ac.wav
+RECORD:advice ATC  that you copied information:oninitial.wav
+RECORD:after:after.wav
+RECORD:Al-Ain international airport:omal.wav
+RECORD:all runways:allrwy.wav
+RECORD:Al-Maktoum International airpor:omdw.wav
+RECORD:Al-Maktoum international airport:omdw.wav
+RECORD:altitude:altitude.wav
+RECORD:and:and.wav
+RECORD:arrival:arrival.wav
+RECORD:arrival runway:arrrwy.wav
+RECORD:at:at.wav
+RECORD:at time:attime.wav
+RECORD:automatic weather report:auto.wav
+RECORD:b:b.wav
+RECORD:becoming:becmg.wav
+RECORD:blowing dust:BLDU.wav
+RECORD:blowing sand:blsa.wav
+RECORD:blowing snow:blsn.wav
+RECORD:braking action:brakingaction.wav
+RECORD:braking coefficient:braking.wav
+RECORD:broken:bkn.wav
+RECORD:by:by.wav
+RECORD:c:c.wav
+RECORD:CAVOK:cavok.wav
+RECORD:CB:cb.wav
+RECORD:center:center.wav
+RECORD:CI:ci.wav
+RECORD:clear:clr.wav
+RECORD:clear and dry:cleardry.wav
+RECORD:cleared of deposits:clrd.wav
+RECORD:closed due clearance in progress:depth99.wav
+RECORD:cm:cm.wav
+RECORD:cm or more:cmmore.wav
+RECORD:d:d.wav
+RECORD:damp:damp.wav
+RECORD:degrees:degrees.wav
+RECORD:departure:departure.wav
+RECORD:departure runway:deprwy.wav
+RECORD:deposits below 10 percent:below10pct.wav
+RECORD:deposits more than 50 percent:more50pct.wav
+RECORD:deposits one zero to two five percent:10to25pct.wav
+RECORD:deposits two five to five zero percent:25to50pct.wav
+RECORD:dew point:dew.wav
+RECORD:downgrading:downgrading.wav
+RECORD:drizzle:dz.wav
+RECORD:Dubai International airport:omdb.wav
+RECORD:dust whirls:po.wav
+RECORD:duststorm:ds.wav
+RECORD:e:e.wav
+RECORD:east:east.wav
+RECORD:expect GPS approach:expectgps.wav
+RECORD:expect ILS approach:expectils.wav
+RECORD:expect NDB approach:expectndb.wav
+RECORD:expect RNAV approach:expectrnav.wav
+RECORD:expect visual approach:expectvisual.wav
+RECORD:expect VORDME approach:expectvordme.wav
+RECORD:f:f.wav
+RECORD:feet:feet.wav
+RECORD:few:few.wav
+RECORD:fog obscured:fg.wav
+RECORD:freezing:fz.wav
+RECORD:freezing drizzle:fzdz.wav
+RECORD:freezing fog:fzfg.wav
+RECORD:freezing precipitation:fzup.wav
+RECORD:freezing rain:fzra.wav
+RECORD:friction coefficient:friction.wav
+RECORD:Fujairah international airport:omfj.wav
+RECORD:funnel cloud:fc.wav
+RECORD:g:g.wav
+RECORD:good:good.wav
+RECORD:gust:gust.wav
+RECORD:h:h.wav
+RECORD:haze:hz.wav
+RECORD:heavy:heavy.wav
+RECORD:heavy:heavy.wav
+RECORD:helsinki delivery closed:delclsd.wav
+RECORD:Helsinki-Vantaa:efhk.wav
+RECORD:hundred:hundred.wav
+RECORD:i:i.wav
+RECORD:ice crystals:ic.wav
+RECORD:ice pellets:pl.wav
+RECORD:in depth:indepth.wav
+RECORD:in use:inuse.wav
+RECORD:information:information.wav
+RECORD:j:j.wav
+RECORD:Jyvaskyla:efjy.wav
+RECORD:k:k.wav
+RECORD:kilometers:kilometers.wav
+RECORD:knots:knots.wav
+RECORD:Kuopio:efku.wav
+RECORD:l:l.wav
+RECORD:left:left.wav
+RECORD:less than:lessthan.wav
+RECORD:light:light.wav
+RECORD:light:light.wav
+RECORD:low drifting dust:drdu.wav
+RECORD:low drifting sand:drsa.wav
+RECORD:low drifting snow:drsn.wav
+RECORD:m:m.wav
+RECORD:medium:medium.wav
+RECORD:medium to good:mediumgood.wav
+RECORD:medium to poor:medimpoor.wav
+RECORD:meters:meters.wav
+RECORD:mist:br.wav
+RECORD:mm:mm.wav
+RECORD:moderate:moderate.wav
+RECORD:moderate:moderate.wav
+RECORD:more than:morethan.wav
+RECORD:n:n.wav
+RECORD:neutral:neutral.wav
+RECORD:no cloud detected:ncd.wav
+RECORD:no significant clouds:nsc.wav
+RECORD:no significant weather:nsw.wav
+RECORD:north:north.wav
+RECORD:northeast:northeast.wav
+RECORD:northwest:northwest.wav
+RECORD:NOSIG:nosig.wav
+RECORD:o:o.wav
+RECORD:OMAA:omaa.wav
+RECORD:OMAL:omal.wav
+RECORD:OMFJ:omfj.wav
+RECORD:OMRK:omrk.wav
+RECORD:OMSJ:omsj.wav
+RECORD:or:or.wav
+RECORD:Oulu:efou.wav
+RECORD:overcast:ovc.wav
+RECORD:p:p.wav
+RECORD:partial fog:prfg.wav
+RECORD:patches of fog:BCFG.wav
+RECORD:poor:poor.wav
+RECORD:previous surface condition:oldrep.wav
+RECORD:q:q.wav
+RECORD:QFE:qfe.wav
+RECORD:QNH:qnh.wav
+RECORD:r:r.wav
+RECORD:rain:ra.wav
+RECORD:Ras al-Khaimah international airport:omrk.wav
+RECORD:Real World Notam ,PAPAR departures are suspended until further notice .Pilots are required to use DARAX departures instead .Contact the local ATC for an alternative routing:paparanddarax.wav
+RECORD:recent:RE.wav
+RECORD:right:right.wav
+RECORD:Rovaniemi:efro.wav
+RECORD:runway:runway.wav
+RECORD:runway visual range:rwyvisual.wav
+RECORD:RVR values available on air traffic control frequency:rvrvalues.wav
+RECORD:s:s.wav
+RECORD:sand:sa.wav
+RECORD:sandstorm:ss.wav
+RECORD:SC:sc.wav
+RECORD:scattered:sct.wav
+RECORD:sea state:seastate.wav
+RECORD:sea surface temperature:seatemp.wav
+RECORD:shallow fog:mifg.wav
+RECORD:Sharjah international airport:omsj.wav
+RECORD:showers:showers.wav
+RECORD:showers of hail:SHGR.wav
+RECORD:showers of rain:shra.wav
+RECORD:showers of small hail:shgs.wav
+RECORD:showers of snow:shsn.wav
+RECORD:sky conditions clear:skc.wav
+RECORD:smoke:fu.wav
+RECORD:snow:sn.wav
+RECORD:snow grains:sg.wav
+RECORD:south:south.wav
+RECORD:southeast:southeast.wav
+RECORD:southwest:southwest.wav
+RECORD:squalls:sq.wav
+RECORD:ST:stratus.wav
+RECORD:surface:surface.wav
+RECORD:surface condition:sfccond.wav
+RECORD:surface on compacted or rolled snow:sfccorosnow.wav
+RECORD:surface on dry snow:sfcdrysnow.wav
+RECORD:surface on frozen ruts or ridges:sfcfzruts.wav
+RECORD:surface on ice:sfcice.wav
+RECORD:surface on rime or frost:sfcrimefrost.wav
+RECORD:surface on slush:sfcslush.wav
+RECORD:surface on wet snow:sfcwetsnow.wav
+RECORD:t:t.wav
+RECORD:Tampere-Pirkkala:eftp.wav
+RECORD:TCU:tcu.wav
+RECORD:temperature:temperature.wav
+RECORD:temporary:tempo.wav
+RECORD:the aerodrome is closed due to contamination of the runways:snoclo.wav
+RECORD:this is:thisis.wav
+RECORD:thousand:thousand.wav
+RECORD:thunderstorm:ts.wav
+RECORD:thunderstorm with hail:TSGR.wav
+RECORD:thunderstorm with ice pellets:tspl.wav
+RECORD:thunderstorm with rain:tsra.wav
+RECORD:thunderstorm with small hail:tsgs.wav
+RECORD:thunderstorm with snow:tssn.wav
+RECORD:to less than:tolessthan.wav
+RECORD:to more than:tomorethan.wav
+RECORD:transition level:trl.wav
+RECORD:Turku:eftu.wav
+RECORD:u:u.wav
+RECORD:unknown precipitation:up.wav
+RECORD:unmeasurable:unmeasurable.wav
+RECORD:upgrading:upgrading.wav
+RECORD:v:v.wav
+RECORD:Vaasa:efva.wav
+RECORD:variable:variable.wav
+RECORD:variable between:variablebetween.wav
+RECORD:vertical visibility:vv.wav
+RECORD:vicinity:vicinity.wav
+RECORD:visibility:visibility.wav
+RECORD:visibility more than 10 kilometers:9999.wav
+RECORD:volcanic ash:va.wav
+RECORD:w:w.wav
+RECORD:west:west.wav
+RECORD:wet:wet.wav
+RECORD:widespread dust:du.wav
+RECORD:wind:wind.wav
+RECORD:wind calm:windcalm.wav
+RECORD:windshear:WS.wav
+RECORD:windshear all runways:WSall.wav
+RECORD:x:x.wav
+RECORD:y:y.wav
+RECORD:z:z.wav
+ITEM:This is:XXX
+ITEM:Dubai international airport:XXX
+ITEM:information:XXX
+ITEM:F:
+ITEM:at time:XXX
+ITEM:1100:
+ITEM:expect ILS approach:XXX
+ITEM:arrival runway:XXX
+ITEM:30L:
+ITEM:departure runway:XXX
+ITEM:30R:
+ITEM:wind:XXX
+ITEM:310:
+ITEM:degrees:XXX
+ITEM:10:
+ITEM:knots:XXX
+ITEM:variable between:XXX
+ITEM:270:
+ITEM:and:XXX
+ITEM:350:
+ITEM:degrees:XXX
+ITEM:CAVOK:XXX
+ITEM:temperature:XXX
+ITEM:32:
+ITEM:dew point:XXX
+ITEM:13:
+ITEM:QNH:XXX
+ITEM:1006:
+ITEM:NOSIG:XXX
+ITEM:advice ATC  that you copied information:XXX
+ITEM:F:

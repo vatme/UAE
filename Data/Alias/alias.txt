@@ -1,0 +1,214 @@
+********************************************************
+Alias:    	U.A.E Controller Pack
+Created:     	2018-03-15
+Last Updated:	2018-03-29
+********************************************************
+
+********General********
+***********************
+
+.v Can you recieve voice?
+
+.rclat Report your cleared level and Aircraft type
+.ratsm Report your Aircraft Type and Stand Number
+
+.fs $radioname Hello, Squawk $squawk 
+.sqwk Confirm Squawk $squawk
+.smc Squawk Mode Charlie
+.si Squawk Ident
+.sirpa Squawk Ident, report your passing altitude
+.sira Squawk Ident, report your passing altitude
+.rpa Report your passing altitude
+
+.qnh QNH $altim($1)
+
+.on /$radioname is now online. Salam Alaikum
+.off /$radioname is now closed. Ma salama
+.boff /$radioname is closing in $1 minutes.
+
+********HandOff********
+***********************
+
+.ho Contact $radioname($1) ($atccallsign($1)) $freq($1)
+.ct Contact $radioname($1) $freq($1) ($atccallsign($1))
+.cso Contact $radioname($1) $freq($1) ($atccallsign($1)) callsign only
+.rh Report your heading to $radioname($1) ($atccallsign($1)) $freq($1)
+.rs Report your speed to $radioname($1) ($atccallsign($1)) $freq($1)
+.mon Monitor $radioname($1) ($atccallsign($1)) $freq($1)
+
+.oma You are currently outside my airspace. Monitor Unicom 122.800
+.uni You are leaving my airspace no further ATC available. Monitor UNICOM 122.8. Safe flight to $arr Bye Bye!
+
+********Lateral********
+***********************
+
+.tl Turn left heading $1 degrees
+.tr Turn right heading $1 degrees
+.fh Fly heading $1 degrees
+.cph Continue on present heading
+
+.pd Proceed direct $1
+.ron Resume own navigation.
+
+
+********Vertical********
+************************
+
+.depi Identified. Climb FL$1
+.desi Squawk Ident. Report your passing altitude.
+
+.ctfl Climb to FL$1
+.cta Climb to $1ft
+.cfl Climb $1ft
+
+.dtaq Descend to $1ft QNH$altim($arr)
+.dta Descend FL$1
+.wrdfl When ready, descend FL$1
+.dfllb Descend FL$1 Level by $2
+.wrdfllb When Ready, Descend FL$1 level by $2
+
+.ed Expedite descent
+.ec Expedite Climb
+
+********Speed***********
+************************
+
+.s Speed $1 knots
+.m Mach $1
+.rias Report your indicated airspeed
+
+.s160 Speed 160 knots, maintain until 6DME
+.sdme Speed $1 knots, maintain until $2DME
+.sm Speed $1 knots, maintain until $2 miles
+
+********Departure***********
+****************************
+
+.pdc .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $com
+.pdc2 .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $1
+.pdcaa .msg $aircraft OMAA PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. WHEN READY FOR PUSH, MONITOR $com
+.pdcaa2 .msg $aircraft OMAA PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. WHEN READY FOR PUSH, MONITOR $1
+
+.ready Please contact me on $freq when ready for clearance
+.clear Cleared to $arr via $sid departure. Maintain altitude $1 feet. Squawk $asquawk
+.clearrwy Cleared to $arr. After departure, fly runway heading, climb to altitude $1 feet. $deprwy for departure, squawk $asquawk
+
+.rc Readback correct
+.rcq Readback correct, QNH $altim($dep)
+.ready Readback correct, report ready
+.readyq Readback correct, QNH $altim($dep), report ready
+
+********Ground***********
+*************************
+
+.push Push and Start approved
+.ps Push and Start approved, face South
+.pn Push and Start approved, face North
+.pe Push and Start approved, face East
+.pw Push and Start approved, face West
+
+.vr Vacate right, hold at $1
+.vl Vacate left, hold at $1
+.vrt Vacate right, taxi $1
+.vlt Vacate left, taxi $1
+
+.taxirw Taxi to holding point rwy $deprwy at $1 via $2.
+.taxirw2 Taxi to holding point rwy $deprwy via $2.
+.taxirwhs Taxi to holding point rwy $deprwy at $1 via $2 hold short rwy $3.
+.taxirwhs2 Taxi to holding point rwy $deprwy via taxiwa $2 hold short rwy $3.
+.gate Taxi to gate $1 via $2
+.stand Taxi to stand $1 via $2
+.sb Set your squawk to standby mode.
+.sc Set your squawk to C mode.
+
+********Runway***********
+*************************
+
+.cr Via $1, cross runway $2
+.bcr Behind the $1, cross runway $2
+.llcr At $1, cross runway $2
+.llbcr Behind the $1, at $2 cross runway $3 behind
+
+.lu Via $1, line up runway $deprwy($dep)
+.blu Behind the $1, line up runway $deprwy($dep) behind
+.bluv Behind the $1, via $2 line up runway $deprwy($dep) behind
+
+.lllu Line up runway $deprwy($dep) via $1
+.bt Via $1, enter backtrack, line up runway $deprwy($dep)
+.rrfd Report ready for departure
+
+.to Runway $deprwy($dep), cleared for takeoff, surface wind $wind($dep)
+.tof From $1, Runway $deprwy($dep), cleared for takeoff, surface wind $wind($dep)
+
+.ca Continue approach runway $arrrwy($arr), Number $1
+.land surface wind $wind($arr), runway $arrrwy($arr) cleared to land.
+.tg Cleared touch and go runway $arrrwy($arr), surface wind $wind($arr)
+.wind Surface Wind $wind($1)
+
+.ga Go around, acknowledge
+
+.noto Stop immediately, I say again $callsign stop immediately. $1
+.to3 Fly heading $1, wind $wind rwy $deprwy, cleared for takeoff.
+.tocalm Wind calm, rwy $deprwy cleared for takeoff
+.tocalm2 Wind calm, rwy $deprwy at $1 cleared for takeoff
+.vac Continue approach, expect to vacate at $1
+
+********Arrivals***********
+***************************
+
+.star $star arrival, Descend $1ft
+.stararr $star arrival, $arr
+.stararrrw $star arrival, $arr landing runway $arrrwy($arr)
+.starrw $star arrival, landing runway $arrrwy($arr)
+.hold Hold at $1, delay $2 minutes
+.holdd Hold at $1, delay $2 minutes. The inbound course is $3, $4 hand, $5 minute legs, speed $6 knots
+.holdp Hold at $1 as published. Expect further info at $1z
+
+.ev Expect vectors for the $1 approach runway $arrrwy($arr)
+.lr Landing runway $arrrwy($arr)
+
+.ils Turn right heading $1, cleared ILS$2, Report fully established
+.ilss Turn left heading $1, cleared ILS$2, Report fully established
+.cva Cleared visual approach runway $1. Report Runway in sight
+
+********VFR****************
+***************************
+
+.bs Basic service
+.ts Traffic service
+.dc Deconfliction service
+.cteca Cleared to enter controlled airspace, $1
+.ctlcabd Cleared to leave controlled airspace by descent
+
+********Auto-Alias****************
+**********************************
+
+.autoproceed Resume own navigation direct $1
+.autoclearedvisual Cleared visual approach runway $1
+.autoclimblevel Climb FL$1
+.autoclimbaltitude Climb to altitude $1 ft
+.autodescendlevel Descend FL$1
+.autodescendaltitude Descend to altitude $1 ft, QNH $altim($arr) hPa
+.autospeed Speed $1 kts
+.automach Fly mach $1
+.autonospeed No ATC speed restriction
+.autoturnleft Turn left heading $1 degrees
+.autoturnright Turn right heading $1 degrees
+.autocontact Contact $1 on $2
+
+********Holding*****************
+********************************
+
+Holding
+.hold Hold at $1 $2
+.hold2 Hold at $1 $2, expect further clearance at $3
+.leave Exit hold, continue on $star arrival
+.leave2 Exit hold, continue on $star arrival, descend $1 feet
+
+********Emergency*****************
+**********************************
+
+.emerg You emergency has been acknowledged. How much fuel and how many passengers do you have on board.
+.problem Could you please confirm the problem?
+.priority You will get priority landing for the best available runway.
+.tell We have an emergency aircraft, you may expect some delay and holding.

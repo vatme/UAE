@@ -1,0 +1,6 @@
+VOICE
+AG:Ras Al Khaimah Ground:121.600:voice1.vatsim-germany.org:OMRK_GND
+AG:Ras Al Khaimah Tower:118.250:voice1.vatsim-germany.org:OMRK_TWR
+AG:Ras Al Khaimah Approach:124.000:voice1.vatsim-germany.org:OMRK_APP
+AG:Ras Al Khaimah Information:126.075:voice1.vatsim-germany.org:OMRK_ATIS
+END
