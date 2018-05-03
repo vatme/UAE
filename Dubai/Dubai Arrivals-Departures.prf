@@ -14,7 +14,9 @@ Settings	SettingsfilePLUGINS	UAE-Master\Data\Settings\PlugIns.txt
 Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Tower_Approach\ScreenLayout.txt
 Settings	SettingsfileVCCS	UAE-Master\Data\Settings\VCCS.txt
 Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
+Settings	alias	UAE-Master\Data\Alias\alias.txt
 Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin2	UAE-Master\Data\Plugins\HoldingList\HoldingListPlugin.dll
@@ -28,18 +30,12 @@ ASRFastKeys	6	UAE-Master\Data\ASR\OMDB\Dubai_Radar6.asr
 ASRFastKeys	7	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
 ASRFastKeys	8	UAE-Master\Data\ASR\OMSJ\Sharjah_SMR.asr
 ASRFastKeys	9	UAE-Master\Data\ASR\OMDW\Maktoum_SMR.asr
-RecentFiles	Recent1	UAE-Master\Data\ASR\OMDB\Dubai_Radar6.asr
-RecentFiles	Recent2	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
+RecentFiles	Recent1	UAE-Master\Data\ASR\OMDB\Dubai_Radar1.asr
+RecentFiles	Recent2	UAE-Master\Data\ASR\OMDW\Maktoum_SMR.asr
 RecentFiles	Recent3	UAE-Master\Data\ASR\OMSJ\Sharjah_SMR.asr
-RecentFiles	Recent4	UAE-Master\Data\ASR\OMDB\Dubai_Radar1.asr
-RecentFiles	Recent5	UAE-Master\Data\ASR\OMDB\Dubai_Radar2.asr
-RecentFiles	Recent6	UAE-Master\Data\ASR\OMDB\Dubai_Radar3.asr
+RecentFiles	Recent4	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
+RecentFiles	Recent5	UAE-Master\Data\ASR\OMDB\Dubai_Radar6.asr
+RecentFiles	Recent6	UAE-Master\Data\ASR\OMDB\Dubai_Radar5.asr
 RecentFiles	Recent7	UAE-Master\Data\ASR\OMDB\Dubai_Radar4.asr
-RecentFiles	Recent8	UAE-Master\Data\ASR\OMDB\Dubai_Radar5.asr
-RecentFiles	Recent9	UAE-Master\Data\ASR\OMDW\Maktoum_SMR.asr
-Settings	alias	UAE-Master\Data\Alias\alias.txt
-LastSession	atis_airport	OMDB
-LastSession	atis_letter	69
-Plugins	Plugin0Display0	Standard ES radar screen
-Settings	AselKey	5111808
-Settings	FreqKey	3604480
+RecentFiles	Recent8	UAE-Master\Data\ASR\OMDB\Dubai_Radar3.asr
+RecentFiles	Recent9	UAE-Master\Data\ASR\OMDB\Dubai_Radar2.asr

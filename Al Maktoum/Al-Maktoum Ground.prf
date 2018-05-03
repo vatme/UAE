@@ -1,0 +1,22 @@
+Settings	sector	UAE-Master\Data\Sector\UAE.sct
+Settings	Settingsfile	UAE-Master\Data\Settings\Delivery_Ground\General.txt
+Settings	SettingsfileSYMBOLOGY	UAE-Master\Data\Settings\Symbology.txt
+Settings	SettingsfileVOICE	UAE-Master\Data\Settings\Local\OMDW\Voice.txt
+Settings	SettingsfilePROFILE	UAE-Master\Data\Settings\Local\OMDW\Profiles.txt
+Settings	SettingsfileTAGS	UAE-Master\Data\Settings\Tags.txt
+Settings	SettingsfileSIL	UAE-Master\Data\Settings\Delivery_Ground\SectorInboundList.txt
+Settings	SettingsfileSEL	UAE-Master\Data\Settings\Delivery_Ground\SectorExitList.txt
+Settings	SettingsfileDEP	UAE-Master\Data\Settings\Delivery_Ground\DepartureList.txt
+Settings	SettingsfileARR	UAE-Master\Data\Settings\Delivery_Ground\ArrivalList.txt
+Settings	SettingsfileFP	UAE-Master\Data\Settings\Delivery_Ground\FlightPlanList.txt
+Settings	SettingsfileCONFLICT	UAE-Master\Data\Settings\Delivery_Ground\ConflictList.txt
+Settings	SettingsfilePLUGINS	UAE-Master\Data\Settings\Plugins.txt
+Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Delivery_Ground\ScreenLayout.txt
+Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
+Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
+RecentFiles	Recent1	UAE-master\Data\ASR\OMDW\Maktoum_SMR.asr
+Settings	alias	UAE-Master\Data\Alias\alias.txt

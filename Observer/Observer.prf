@@ -13,6 +13,7 @@ Settings	SettingsfileCONFLICT	UAE-Master\Data\Settings\Observer\ConflictList.txt
 Settings	SettingsfilePLUGINS	UAE-Master\Data\Settings\Observer\Plugins.txt
 Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Observer\ScreenLayout.txt
 Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
+Settings	alias	UAE-Master\Data\Alias\alias.txt
 Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
 RecentFiles	Recent1	UAE-Master\Data\ASR\Observer\Observer.asr
 LastSession	connecttype	0
@@ -22,5 +23,6 @@ LastSession	tovatsim	1
 LastSession	range	100
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
-Settings	alias	UAE-Master\Data\Alias\alias.txt
 Plugins	Plugin0Display0	Standard ES radar screen
+LastSession	callsign	<Initials>_OBS
+LastSession	atis2	UAE ATC OBSERVER

@@ -1,6 +1,6 @@
 DEP
 m_Visible:1
-m_X:528
+m_X:504
 m_Y:46
 m_LineNumber:10
 m_Resizable:1

@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:OMDW_APP:80:5
+ATIS2:"Al-Maktoum Radar"
+ATIS3:Arrivals report callsign, passing level, and aircraft type. Monitor OMDW ATIS 126.475.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDW_TWR:40:4
+ATIS2:"Al-Maktoum Tower"
+ATIS3:Report callsign with position first contact. MMonitor OMDW ATIS 126.475.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMDW_GND:20:3
+ATIS2:"Al-Maktoum Ground"
+ATIS3:Report callsign with position first contact. Monitor OMDW ATIS 126.475.
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+END

@@ -15,18 +15,13 @@ Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Tower_Approach\ScreenLayout
 Settings	SettingsfileVCCS	UAE-Master\Data\Settings\VCCS.txt
 Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
 Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
-RecentFiles	Recent1	UAE-Master\Data\ASR\OMDB\Dubai_Tower.asr
+Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
 ASRFastKeys	1	UAE-Master\Data\ASR\OMDB\Dubai_Tower.asr
 ASRFastKeys	2	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
 Settings	alias	UAE-Master\Data\Alias\alias.txt
+RecentFiles	Recent1	UAE-Master\Data\ASR\OMDB\Dubai_Tower.asr
 RecentFiles	Recent2	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
-Plugins	Plugin0Display0	Standard ES radar screen
-LastSession	connecttype	0
-LastSession	facility	0
-LastSession	rating	0
-LastSession	tovatsim	1
-LastSession	range	100
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
+
+

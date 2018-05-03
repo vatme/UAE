@@ -13,9 +13,11 @@ Settings	SettingsfileCONFLICT	UAE-Master\Data\Settings\Delivery_Ground\ConflictL
 Settings	SettingsfilePLUGINS	UAE-Master\Data\Settings\Plugins.txt
 Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Delivery_Ground\ScreenLayout.txt
 Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
+Settings	alias	UAE-Master\Data\Alias\alias.txt
 Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
 RecentFiles	Recent1	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
-Plugins	Plugin1	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
-Settings	alias	UAE-Master\Data\Alias\alias.txt
-Plugins	Plugin0Display0	Standard ES radar screen
+
+

@@ -36,12 +36,16 @@ Plugins	Plugin1	UAE-Master\Data\Plugins\HoldingList\HoldingListPlugin.dll
 Plugins	Plugin2	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
 Plugins	Plugin2Display0	SMR radar display
 LastSession	connecttype	0
-LastSession	facility	0
+LastSession	facility	5
 LastSession	rating	0
 LastSession	tovatsim	1
-LastSession	range	100
+LastSession	range	80
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1Display0	Standard ES radar screen
 Settings	alias	UAE-Master\Data\Alias\alias.txt
+LastSession	callsign	OMAA_APP
+LastSession	atis2	Abu Dhabi Arrivals
+LastSession	atis3	Report callsign, passing level, aircraft type, and STAR designation. Monitor ATIS 119.675.
+LastSession	atis4	DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE

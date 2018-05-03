@@ -4,52 +4,108 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:UAE-Master\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
 ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Jeddah ACC:
 ARTCC boundary:Muscat ACC:
 ARTCC boundary:Tehran ACC:
 ARTCC boundary:United Arab Emirates ACC:
-ARTCC low boundary:OMAA_APP_AREA_I:
-ARTCC low boundary:OMAA_APP_AREA_II:
-ARTCC low boundary:OMAA_APP_AREA_III:
-ARTCC low boundary:OMAA_APP_AREA_IV:
-ARTCC low boundary:OMDB_APP_AREA_I:
-ARTCC low boundary:OMDB_APP_AREA_II:
-ARTCC low boundary:OMDB_APP_AREA_III:
-ARTCC low boundary:OMDB_APP_AREA_IV:
-ARTCC low boundary:OMDB_APP_AREA_IX:
-ARTCC low boundary:OMDB_APP_AREA_V:
-ARTCC low boundary:OMDB_APP_AREA_VI:
-ARTCC low boundary:OMDB_APP_AREA_VII:
-ARTCC low boundary:OMDB_APP_AREA_VIII:
-ARTCC low boundary:OMDB_APP_AREA_X:
-ARTCC low boundary:OMDB_APP_AREA_XI:
-ARTCC low boundary:OMDB_CTZ:
-ARTCC low boundary:OMFJ_APP_AREA_I:
-ARTCC low boundary:OMFJ_APP_AREA_II:
-ARTCC low boundary:OMP101:
-ARTCC low boundary:OMP102:
-ARTCC low boundary:OMP103:
-ARTCC low boundary:OMP104:
-ARTCC low boundary:OMP105:
-ARTCC low boundary:OMP106:
-ARTCC low boundary:OMP107:
-ARTCC low boundary:OMP108:
-ARTCC low boundary:OMP109:
-ARTCC low boundary:OMP41:
-ARTCC low boundary:OMP42:
-ARTCC low boundary:OMP43:
-ARTCC low boundary:OMP44:
-ARTCC low boundary:OMP45:
-ARTCC low boundary:OMP46:
-ARTCC low boundary:OMP49:
-ARTCC low boundary:OMR62:
-ARTCC low boundary:OMR63:
-ARTCC low boundary:OMR68:
-ARTCC low boundary:OMR71:
-ARTCC low boundary:OMR72:
-ARTCC low boundary:OMRK_APP_AREA:
-ARTCC low boundary:OMSJ_CTZ:
+ARTCC high boundary:UAE ACC Central:
+ARTCC high boundary:UAE ACC Mike:
+ARTCC high boundary:UAE ACC North:
+ARTCC high boundary:UAE ACC South:
+ARTCC low boundary:Abu Dhabi CTA Central:
+ARTCC low boundary:Abu Dhabi CTA East:
+ARTCC low boundary:Abu Dhabi CTA North:
+ARTCC low boundary:Abu Dhabi CTA West:
+ARTCC low boundary:Dubai CTA Part 1:
+ARTCC low boundary:Dubai CTA Part 10:
+ARTCC low boundary:Dubai CTA Part 11:
+ARTCC low boundary:Dubai CTA Part 12:
+ARTCC low boundary:Dubai CTA Part 2:
+ARTCC low boundary:Dubai CTA Part 3:
+ARTCC low boundary:Dubai CTA Part 4:
+ARTCC low boundary:Dubai CTA Part 5:
+ARTCC low boundary:Dubai CTA Part 6:
+ARTCC low boundary:Dubai CTA Part 7:
+ARTCC low boundary:Dubai CTA Part 8:
+ARTCC low boundary:Dubai CTA Part 9:
+ARTCC low boundary:Fujairah CTA 1:
+ARTCC low boundary:Fujairah CTA 2:
+ARTCC low boundary:Ras Al-Khaimah CTA:
+ARTCC low boundary:Sharjah CTA:
 Geo:Coastline:
 Geo:OMFJ Taxiways:
+High airways:A791:line
+High airways:B415:line
+High airways:B540:line
+High airways:G462:line
+High airways:G666:line
+High airways:G783:line
+High airways:L223:line
+High airways:L305:line
+High airways:L313:line
+High airways:L519:line
+High airways:L552:line
+High airways:L562:line
+High airways:L565:line
+High airways:L568:line
+High airways:M302:line
+High airways:M317:line
+High airways:M318:line
+High airways:M322:line
+High airways:M428:line
+High airways:M430:line
+High airways:M552:line
+High airways:M557:line
+High airways:M558:line
+High airways:M560:line
+High airways:M564:line
+High airways:M569:line
+High airways:M572:line
+High airways:M628:line
+High airways:M677:line
+High airways:M762:line
+High airways:N300:line
+High airways:N313:line
+High airways:N317:line
+High airways:N318:line
+High airways:N440:line
+High airways:N563:line
+High airways:N566:line
+High airways:N571:line
+High airways:N685:line
+High airways:P307:line
+High airways:P308:line
+High airways:P311:line
+High airways:P317:line
+High airways:P321:line
+High airways:P440:line
+High airways:P553:line
+High airways:P555:line
+High airways:P559:line
+High airways:P574:line
+High airways:P699:line
+High airways:P899:line
+High airways:Q215:line
+High airways:Q332:line
+High airways:Q415:line
+High airways:Q666:line
+High airways:R401:line
+High airways:R784:line
+High airways:T509:line
+High airways:T665:line
+High airways:T891:line
+High airways:UG783:line
+High airways:UL305:line
+High airways:UM318:line
+High airways:UM430:line
+High airways:UM440:line
+High airways:UM550:line
+High airways:UM628:line
+High airways:UN300:line
+High airways:UN318:line
+High airways:UN440:line
+High airways:UQ215:line
+High airways:UT975:line
 NDBs:ABM:frequency
 NDBs:ABM:name
 NDBs:ABM:symbol
@@ -68,95 +124,6 @@ NDBs:SIR:symbol
 NDBs:SYH:frequency
 NDBs:SYH:name
 NDBs:SYH:symbol
-Runways:OMAA Abu Dhabi International 13L-31R:centerline
-Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1
-Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1 left ticks
-Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1 right ticks
-Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 2
-Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 2 left ticks
-Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 2 right ticks
-Runways:OMAA Abu Dhabi International 13R-31L:centerline
-Runways:OMAA Abu Dhabi International 13R-31L:extended centerline 1
-Runways:OMAA Abu Dhabi International 13R-31L:extended centerline 1 left ticks
-Runways:OMAA Abu Dhabi International 13R-31L:extended centerline 1 right ticks
-Runways:OMAA Abu Dhabi International 13R-31L:extended centerline 2
-Runways:OMAA Abu Dhabi International 13R-31L:extended centerline 2 left ticks
-Runways:OMAA Abu Dhabi International 13R-31L:extended centerline 2 right ticks
-Runways:OMAD Al Bateen Executive 13-31:centerline
-Runways:OMAD Al Bateen Executive 13-31:extended centerline 1
-Runways:OMAD Al Bateen Executive 13-31:extended centerline 1 left ticks
-Runways:OMAD Al Bateen Executive 13-31:extended centerline 1 right ticks
-Runways:OMAD Al Bateen Executive 13-31:extended centerline 2
-Runways:OMAD Al Bateen Executive 13-31:extended centerline 2 left ticks
-Runways:OMAD Al Bateen Executive 13-31:extended centerline 2 right ticks
-Runways:OMDB Dubai International 12L-30R:centerline
-Runways:OMDB Dubai International 12L-30R:extended centerline 1
-Runways:OMDB Dubai International 12L-30R:extended centerline 1 left ticks
-Runways:OMDB Dubai International 12L-30R:extended centerline 1 right ticks
-Runways:OMDB Dubai International 12L-30R:extended centerline 2
-Runways:OMDB Dubai International 12L-30R:extended centerline 2 left ticks
-Runways:OMDB Dubai International 12L-30R:extended centerline 2 right ticks
-Runways:OMDB Dubai International 12R-30L:centerline
-Runways:OMDB Dubai International 12R-30L:extended centerline 1
-Runways:OMDB Dubai International 12R-30L:extended centerline 1 left ticks
-Runways:OMDB Dubai International 12R-30L:extended centerline 1 right ticks
-Runways:OMDB Dubai International 12R-30L:extended centerline 2
-Runways:OMDB Dubai International 12R-30L:extended centerline 2 left ticks
-Runways:OMDB Dubai International 12R-30L:extended centerline 2 right ticks
-Runways:OMDM Minhad AB 09-27:centerline
-Runways:OMDM Minhad AB 09-27:extended centerline 1
-Runways:OMDM Minhad AB 09-27:extended centerline 1 left ticks
-Runways:OMDM Minhad AB 09-27:extended centerline 1 right ticks
-Runways:OMDM Minhad AB 09-27:extended centerline 2
-Runways:OMDM Minhad AB 09-27:extended centerline 2 left ticks
-Runways:OMDM Minhad AB 09-27:extended centerline 2 right ticks
-Runways:OMDW Al Maktoum International 12-30:centerline
-Runways:OMDW Al Maktoum International 12-30:extended centerline 1
-Runways:OMDW Al Maktoum International 12-30:extended centerline 1 left ticks
-Runways:OMDW Al Maktoum International 12-30:extended centerline 1 right ticks
-Runways:OMDW Al Maktoum International 12-30:extended centerline 2
-Runways:OMDW Al Maktoum International 12-30:extended centerline 2 left ticks
-Runways:OMDW Al Maktoum International 12-30:extended centerline 2 right ticks
-Runways:OMFJ Fujairah International 11-29:centerline
-Runways:OMFJ Fujairah International 11-29:extended centerline 1
-Runways:OMFJ Fujairah International 11-29:extended centerline 1 left ticks
-Runways:OMFJ Fujairah International 11-29:extended centerline 1 right ticks
-Runways:OMFJ Fujairah International 11-29:extended centerline 2
-Runways:OMFJ Fujairah International 11-29:extended centerline 2 left ticks
-Runways:OMFJ Fujairah International 11-29:extended centerline 2 right ticks
-Runways:OMRK Ras Al Khaimah International 16-34:centerline
-Runways:OMRK Ras Al Khaimah International 16-34:extended centerline 1
-Runways:OMRK Ras Al Khaimah International 16-34:extended centerline 1 left ticks
-Runways:OMRK Ras Al Khaimah International 16-34:extended centerline 1 right ticks
-Runways:OMRK Ras Al Khaimah International 16-34:extended centerline 2
-Runways:OMRK Ras Al Khaimah International 16-34:extended centerline 2 left ticks
-Runways:OMRK Ras Al Khaimah International 16-34:extended centerline 2 right ticks
-Runways:OMSJ Sharjah Intl 30-12:centerline
-Runways:OMSJ Sharjah Intl 30-12:extended centerline 1
-Runways:OMSJ Sharjah Intl 30-12:extended centerline 1 left ticks
-Runways:OMSJ Sharjah Intl 30-12:extended centerline 1 right ticks
-Runways:OMSJ Sharjah Intl 30-12:extended centerline 2
-Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 left ticks
-Runways:OMSJ Sharjah Intl 30-12:extended centerline 2 right ticks
-Stars:HOLDING OMAA ASKIN L 123.0 7000:
-Stars:HOLDING OMAA NAMKU L 111.0 3000 6000:
-Stars:HOLDING OMAA OBTOL L 126.0 3000 6000:
-Stars:HOLDING OMAE ALNEV R 117.0 10000 220:
-Stars:HOLDING OMAE BUBIN R 303.0 10000 13000:
-Stars:HOLDING OMAE BUBIN R 303.0 150 250:
-Stars:HOLDING OMAE DESDI L 109.0 10000 13000:
-Stars:HOLDING OMAE DESDI L 109.0 150 250:
-Stars:HOLDING OMAE IMPED R 298.0 10000 250:
-Stars:HOLDING OMAE ITLAP L 204.0 10000 180:
-Stars:HOLDING OMAE KIVUS L 109.0 180 280:
-Stars:HOLDING OMAE KIXID R 270.0 10000 13000:
-Stars:HOLDING OMAE KIXID R 270.0 150 250:
-Stars:HOLDING OMAE PARED R 300.0 6000:
-Stars:HOLDING OMAE ROVOS R 280.0 10000 150:
-Stars:HOLDING OMAE SUTVA R 300.0 6000:
-Stars:HOLDING OMAE VEGIT L 306.0 7000 9000:
-Stars:HOLDING OMAE VUTEB R 107.0 10000 250:
-Stars:HOLDING OMAE XAKUM R 117.0 5000 260:
 VORs:ADV:frequency
 VORs:ADV:name
 VORs:ADV:symbol
@@ -194,7 +161,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:UAE
-WINDOWAREA:22.186013:49.624539:26.885777:59.370972
+WINDOWAREA:22.285772:49.421660:27.151802:59.512897
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:0
 PLUGIN:Virtual Controller Assistant:CDXPOS:100

@@ -13,11 +13,14 @@ Settings	SettingsfileCONFLICT	UAE-Master\Data\Settings\Delivery_Ground\ConflictL
 Settings	SettingsfilePLUGINS	UAE-Master\Data\Settings\PlugIns.txt
 Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Delivery_Ground\ScreenLayout.txt
 Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
-Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
 Settings	SettingsfileVCCS	UAE-Master\Data\Settings\VCCS.txt
-ASRFastKeys	1	UAE-Master\Data\ASR\OMSJ\Sharjah_SMR.asr
-RecentFiles	Recent1	UAE-Master\Data\ASR\OMSJ\Sharjah_SMR.asr
+Settings	alias	UAE-Master\Data\Alias\alias.txt
+Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin1	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
-Settings	alias	UAE-Master\Data\Alias\alias.txt
-Plugins	Plugin0Display0	Standard ES radar screen
+ASRFastKeys	1	UAE-Master\Data\ASR\OMSJ\Sharjah_SMR.asr
+RecentFiles	Recent1	UAE-Master\Data\ASR\OMSJ\Sharjah_SMR.asr
+
+
+

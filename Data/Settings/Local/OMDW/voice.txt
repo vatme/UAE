@@ -1,0 +1,6 @@
+VOICE
+AG:Al-Maktoum Radar:124.025:voice1.vatsim-germany.org:OMDW_APP
+AG:Al-Maktoum Tower:118.625:voice1.vatsim-germany.org:OMDW_TWR
+AG:Al-Maktoum Ground:118.375:voice1.vatsim-germany.org:OMDW_GND
+AG:Al-Maktoum Automatic Terminal Information Service:126.475:voice1.vatsim-germany.org:OMDW_ATIS
+END

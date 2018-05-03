@@ -1,0 +1,34 @@
+Settings	sector	UAE-Master\Data\Sector\UAE.sct
+Settings	Settingsfile	UAE-Master\Data\Settings\Tower_Approach\General.txt
+Settings	SettingsfileSYMBOLOGY	UAE-Master\Data\Settings\Symbology.txt
+Settings	SettingsfileVOICE	UAE-Master\Data\Settings\Local\OMDM\Voice.txt
+Settings	SettingsfilePROFILE	UAE-Master\Data\Settings\Local\OMDM\Profiles.txt
+Settings	SettingsfileTAGS	UAE-Master\Data\Settings\Tags.txt
+Settings	SettingsfileSIL	UAE-Master\Data\Settings\Tower_Approach\SectorInboundList.txt
+Settings	SettingsfileSEL	UAE-Master\Data\Settings\Tower_Approach\SectorExitList.txt
+Settings	SettingsfileDEP	UAE-Master\Data\Settings\Tower_Approach\DepartureList.txt
+Settings	SettingsfileARR	UAE-Master\Data\Settings\Tower_Approach\ArrivalList.txt
+Settings	SettingsfileFP	UAE-Master\Data\Settings\Tower_Approach\FlightPlanList.txt
+Settings	SettingsfileCONFLICT	UAE-Master\Data\Settings\Observer\ConflictList.txt
+Settings	SettingsfilePLUGINS	UAE-Master\Data\Settings\Tower_Approach\Plugins.txt
+Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Tower_Approach\ScreenLayout.txt
+Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
+Settings	alias	UAE-Master\Data\Alias\alias.txt
+Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+ASRFastKeys	1	UAE-master\Data\ASR\OMDM\Minhad_Military.asr
+ASRFastKeys	2	UAE-master\Data\ASR\OMDM\Minhad_SMR.asr
+Plugins	Plugin1	UAE-master\Data\Plugins\vSMR_1.3.3\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+RecentFiles	Recent3	UAE-Master\Data\ASR\Observer\Observer.asr
+RecentFiles	Recent1	UAE-master\Data\ASR\OMDM\Minhad_Military.asr
+RecentFiles	Recent2	UAE-master\Data\ASR\OMDM\Minhad_SMR.asr
+RecentFiles	Recent4	UAE-Master\Data\ASR\Observer\Observer.asr
+LastSession	connecttype	0
+LastSession	facility	5
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	150
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

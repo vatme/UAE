@@ -26,3 +26,14 @@ Plugins	Plugin0Display0	Standard ES radar screen
 RecentFiles	Recent3	UAE-Master\Data\ASR\Observer\Observer.asr
 Plugins	Plugin1	UAE-master\Data\Plugins\vSMR_1.3.3\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
+LastSession	connecttype	0
+LastSession	callsign	OMAA_TWR
+LastSession	facility	4
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Abu Dhabi Tower
+LastSession	atis3	Report callsign with position first contact. Monitor ATIS 119.675.
+LastSession	atis4	DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+LastSession	range	40
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

@@ -1,14 +1,14 @@
 PROFILE
 PROFILE:OMAL_GND:20:3
-ATIS2:Al Ain Ground
+ATIS2:"Al Ain Ground"
 ATIS3:Report callsign with position first contact. Monitor ATIS 126.075.
 ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
 PROFILE:OMAL_TWR:40:4
-ATIS2:Al Ain Tower
+ATIS2:"Al Ain Tower"
 ATIS3:Report callsign with position on first contact. Monitor ATIS 126.075.
 ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
 PROFILE:OMAL_APP:50:5
-ATIS2:Al Ain Radar
+ATIS2:"Al Ain Radar"
 ATIS3:Report callsign with position on first contact. Monitor ATIS 126.075.
 ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
 END

@@ -1,10 +1,10 @@
 PROFILE
 PROFILE:OMSJ_GND:20:3
-ATIS2:Sharjah Ground
+ATIS2:"Sharjah Ground"
 ATIS3:Report callsign with position first contact. Monitor ATIS 122.400.
 ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
 PROFILE:OMSJ_TWR:50:4
-ATIS2:Sharjah Tower
+ATIS2:"Sharjah Tower"
 ATIS3:Report callsign with position first contact. Monitor ATIS 122.400.
 ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
 END
