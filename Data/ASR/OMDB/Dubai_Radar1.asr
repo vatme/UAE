@@ -221,6 +221,12 @@ Runways:OMSJ - Sharjah Intl 30-12:extended centerline 1 right ticks
 Runways:OMSJ - Sharjah Intl 30-12:extended centerline 2
 Runways:OMSJ - Sharjah Intl 30-12:extended centerline 2 left ticks
 Runways:OMSJ - Sharjah Intl 30-12:extended centerline 2 right ticks
+Stars:Holding ALNEV:
+Stars:Holding IMPED:
+Stars:Holding ITLAP:
+Stars:Holding KIVUS:
+Stars:Holding ROVOS:
+Stars:Holding VUTEB:
 VORs:ADV:symbol
 VORs:ALB:symbol
 VORs:ALN:symbol
