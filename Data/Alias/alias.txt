@@ -86,8 +86,10 @@ Last Updated:	2018-03-29
 
 .pdc .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $com
 .pdc2 .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $1
+.pdcrh .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA RUNWAY HEADING ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $com
 .pdcaa .msg $aircraft OMAA PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. WHEN READY FOR PUSH, MONITOR $com
 .pdcaa2 .msg $aircraft OMAA PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. WHEN READY FOR PUSH, MONITOR $1
+.pdcaarh .msg $aircraft OMAA PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA RUNWAY HEADING ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $atiscode ... SID ALTITUDE IS $temp. WHEN READY FOR PUSH, MONITOR $com
 
 .ready Please contact me on $freq when ready for clearance
 .clear Cleared to $arr via $sid departure. Maintain altitude $1 feet. Squawk $asquawk
