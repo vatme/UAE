@@ -111,20 +111,6 @@ Free Text:Altitude Limits\FJ 20-95:freetext
 Free Text:Altitude Limits\OMAE 45+:freetext
 Free Text:Altitude Limits\RK 15-65:freetext
 Free Text:Altitude Limits\RK 15-65:freetext
-Free Text:Default group\OMAB Ground Misc:freetext
-Free Text:Default group\OMAC Ground Misc:freetext
-Free Text:Default group\OMAF Ground Misc:freetext
-Free Text:Default group\OMAH Ground Misc:freetext
-Free Text:Default group\OMAJ Ground Misc:freetext
-Free Text:Default group\OMAM Ground Misc:freetext
-Free Text:Default group\OMAQ Ground Misc:freetext
-Free Text:Default group\OMAR Ground Misc:freetext
-Free Text:Default group\OMAS Ground Misc:freetext
-Free Text:Default group\OMAZ Ground Misc:freetext
-Free Text:Default group\OMDB Ground Misc:freetext
-Free Text:Default group\OMDM Ground Misc:freetext
-Free Text:Default group\OMRS Ground Misc:freetext
-Free Text:Default group\OMSJ Ground Misc:freetext
 Free Text:OMAA Ground Misc\1:freetext
 Free Text:OMAA Ground Misc\1:freetext
 Free Text:OMAA Ground Misc\10:freetext
@@ -401,10 +387,12 @@ Free Text:OMAA Ground Misc\Z:freetext
 Free Text:OMAA Ground Misc\Z1:freetext
 Free Text:OMAA Ground Misc\Z2:freetext
 Free Text:OMAA Ground Misc\Z3:freetext
+Free Text:OMAB Ground Misc:freetext
 Free Text:OMAB Ground Misc\1:freetext
 Free Text:OMAB Ground Misc\2:freetext
 Free Text:OMAB Ground Misc\3:freetext
 Free Text:OMAB Ground Misc\4:freetext
+Free Text:OMAC Ground Misc:freetext
 Free Text:OMAC Ground Misc\1:freetext
 Free Text:OMAC Ground Misc\2:freetext
 Free Text:OMAC Ground Misc\3:freetext
@@ -418,14 +406,17 @@ Free Text:OMAD Ground Misc\2:freetext
 Free Text:OMAD Ground Misc\3:freetext
 Free Text:OMAD Ground Misc\G1:freetext
 Free Text:OMAD Ground Misc\G2:freetext
+Free Text:OMAF Ground Misc:freetext
 Free Text:OMAF Ground Misc\1:freetext
 Free Text:OMAF Ground Misc\2:freetext
 Free Text:OMAF Ground Misc\3:freetext
+Free Text:OMAH Ground Misc:freetext
 Free Text:OMAH Ground Misc\1:freetext
 Free Text:OMAH Ground Misc\2:freetext
 Free Text:OMAH Ground Misc\3:freetext
 Free Text:OMAH Ground Misc\4:freetext
 Free Text:OMAH Ground Misc\5:freetext
+Free Text:OMAJ Ground Misc:freetext
 Free Text:OMAJ Ground Misc\1:freetext
 Free Text:OMAJ Ground Misc\2:freetext
 Free Text:OMAJ Ground Misc\3:freetext
@@ -452,6 +443,7 @@ Free Text:OMAL Ground Misc\L:freetext
 Free Text:OMAL Ground Misc\M:freetext
 Free Text:OMAL Ground Misc\O:freetext
 Free Text:OMAL Ground Misc\Q:freetext
+Free Text:OMAM Ground Misc:freetext
 Free Text:OMAM Ground Misc\1:freetext
 Free Text:OMAM Ground Misc\10:freetext
 Free Text:OMAM Ground Misc\11:freetext
@@ -466,15 +458,18 @@ Free Text:OMAM Ground Misc\6:freetext
 Free Text:OMAM Ground Misc\7:freetext
 Free Text:OMAM Ground Misc\8:freetext
 Free Text:OMAM Ground Misc\9:freetext
+Free Text:OMAQ Ground Misc:freetext
 Free Text:OMAQ Ground Misc\1:freetext
 Free Text:OMAQ Ground Misc\2:freetext
 Free Text:OMAQ Ground Misc\3:freetext
 Free Text:OMAQ Ground Misc\4:freetext
+Free Text:OMAR Ground Misc:freetext
 Free Text:OMAR Ground Misc\1:freetext
 Free Text:OMAR Ground Misc\2:freetext
 Free Text:OMAR Ground Misc\3:freetext
 Free Text:OMAR Ground Misc\4:freetext
 Free Text:OMAR Ground Misc\5:freetext
+Free Text:OMAS Ground Misc:freetext
 Free Text:OMAS Ground Misc\1:freetext
 Free Text:OMAS Ground Misc\2:freetext
 Free Text:OMAS Ground Misc\3:freetext
@@ -482,11 +477,13 @@ Free Text:OMAS Ground Misc\4:freetext
 Free Text:OMAS Ground Misc\5:freetext
 Free Text:OMAS Ground Misc\6:freetext
 Free Text:OMAS Ground Misc\7:freetext
+Free Text:OMAZ Ground Misc:freetext
 Free Text:OMAZ Ground Misc\1:freetext
 Free Text:OMAZ Ground Misc\2:freetext
 Free Text:OMAZ Ground Misc\3:freetext
 Free Text:OMAZ Ground Misc\4:freetext
 Free Text:OMAZ Ground Misc\5:freetext
+Free Text:OMDB Ground Misc:freetext
 Free Text:OMDB Ground Misc\A1:freetext
 Free Text:OMDB Ground Misc\A10:freetext
 Free Text:OMDB Ground Misc\A2:freetext
@@ -856,6 +853,7 @@ Free Text:OMDB Ground Misc\Z3:freetext
 Free Text:OMDB Ground Misc\Z4:freetext
 Free Text:OMDB Ground Misc\Z5:freetext
 Free Text:OMDB Ground Misc\Z6:freetext
+Free Text:OMDM Ground Misc:freetext
 Free Text:OMDM Ground Misc\1:freetext
 Free Text:OMDM Ground Misc\10:freetext
 Free Text:OMDM Ground Misc\11:freetext
@@ -1005,6 +1003,7 @@ Free Text:OMRK Ground Misc\11:freetext
 Free Text:OMRK Ground Misc\2:freetext
 Free Text:OMRK Ground Misc\7:freetext
 Free Text:OMRK Ground Misc\9:freetext
+Free Text:OMRS Ground Misc:freetext
 Free Text:OMRS Ground Misc\1:freetext
 Free Text:OMRS Ground Misc\2:freetext
 Free Text:OMRS Ground Misc\3:freetext
@@ -1012,6 +1011,7 @@ Free Text:OMRS Ground Misc\4:freetext
 Free Text:OMRS Ground Misc\5:freetext
 Free Text:OMRS Ground Misc\6:freetext
 Free Text:OMRS Ground Misc\7:freetext
+Free Text:OMSJ Ground Misc:freetext
 Free Text:OMSJ Ground Misc\10:freetext
 Free Text:OMSJ Ground Misc\11:freetext
 Free Text:OMSJ Ground Misc\13:freetext
