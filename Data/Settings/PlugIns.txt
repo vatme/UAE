@@ -132,8 +132,8 @@ Virtual Controller Assistant:ALT116:OMFJ:IMPE1N:7000:1
 Virtual Controller Assistant:ALT117:OMFJ:IMPE1P:7000:1
 Virtual Controller Assistant:ALT118:OMFJ:NOLS1F:7000:1
 Virtual Controller Assistant:ALT119:OMFJ:NOLS1N:7000:1
-Virtual Controller Assistant:ALT120:OMFJ:RAK2N::7000:1
-Virtual Controller Assistant:ALT121:OMFJ:RAK4F::7000:1
+Virtual Controller Assistant:ALT120:OMFJ:RAK2N:7000:1
+Virtual Controller Assistant:ALT121:OMFJ:RAK4F:7000:1
 Virtual Controller Assistant:ALT122:OMFJ:SERS2F:7000:1
 Virtual Controller Assistant:ALT123:OMFJ:SERS2N:7000:1
 Virtual Controller Assistant:ALT124:OMFJ:TONV3F:7000:1
